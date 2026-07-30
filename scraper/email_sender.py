@@ -51,7 +51,7 @@ def build_email_html(items_by_site: dict) -> str:
 def send_email(subject: str, html_body: str, to_addr: str = None) -> None:
     from_addr = os.environ["EMAIL_ADDRESS"]
     app_password = os.environ["EMAIL_APP_PASSWORD"]
-    to_addr = to_addr or os.environ.get("ALERT_TO_EMAIL", from_addr)
+    to_addr = to_addr or os.environ.get("ALERT_TO_EMAIL") or from_addr
 
     msg = MIMEMultipart("alternative")
     msg["Subject"] = subject
