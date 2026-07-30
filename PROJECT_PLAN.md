@@ -2,7 +2,10 @@
 
 마지막 업데이트: 2026-07-31
 
-## 현재 상태: 구현 완료, 운영 중
+## 현재 상태: 구현 완료, 운영 중 (2026-07-31 이메일 발송/대시보드 실제 테스트 완료)
+- 대시보드 URL: https://viewvision.github.io/art-grants-alert/
+- 매일 07:00 KST GitHub Actions 자동 실행, 새 글 있을 때만 mojok2200@gmail.com으로 이메일 발송
+
 11개 사이트 스크래퍼 + 필터링 + 이메일 + 대시보드 + GitHub Actions 자동화까지 전부 구현되어 저장소에 커밋/푸시됨.
 그 중 7개 사이트는 GitHub Actions(해외 서버)에서 정상 작동 확인, 4개는 해외 IP 차단으로 실패 중 (아래 "알려진 제약사항" 참고).
 코드 구조: `main.py`(오케스트레이션) → `scraper/sites/*.py`(사이트별 수집) → `scraper/filters.py`(키워드+지역 필터) →
