@@ -8,6 +8,7 @@ from scraper.dashboard import (
     merge_matched_items,
     save_matched_items,
     write_dashboard,
+    dedupe_by_title,
 )
 from scraper.email_sender import build_email_html, group_by_site, send_email
 
@@ -33,10 +34,16 @@ def main():
     print(f"[INFO] 신규 글: {len(new_items)}건 (전체 수집: {len(all_items)}건)")
 
     new_matched = filter_items(new_items, config)
-    print(f"[INFO] 필터 통과 신규 글: {len(new_matched)}건")
+    new_matched = dedupe_by_title(new_matched)
+
+    matched_existing = load_matched_items()
+    already_shown_titles = {"".join(i.get("title", "").split()) for i in matched_existing}
+    new_matched = [
+        i for i in new_matched if "".join(i.get("title", "").split()) not in already_shown_titles
+    ]
+    print(f"[INFO] 필터 통과 신규 글: {len(new_matched)}건 (사이트 간 중복 제거 후)")
 
     if new_matched:
-        matched_existing = load_matched_items()
         matched_merged = merge_matched_items(matched_existing, new_matched)
         save_matched_items(matched_merged)
         write_dashboard(matched_merged)

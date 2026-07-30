@@ -22,12 +22,31 @@ def save_matched_items(items: list, path: Path = MATCHED_ITEMS_PATH) -> None:
         json.dump(items, f, ensure_ascii=False, indent=2)
 
 
+def _normalize_title(title: str) -> str:
+    return "".join((title or "").split())
+
+
+def dedupe_by_title(items: list) -> list:
+    """서로 다른 사이트가 같은 공고를 각자 긁어온 경우(예: 아르코 통합플랫폼이
+    아트누리 글을 재게재) 제목이 같으면 하나만 남긴다."""
+    seen_titles = set()
+    deduped = []
+    for item in items:
+        key = _normalize_title(item.get("title", ""))
+        if key in seen_titles:
+            continue
+        seen_titles.add(key)
+        deduped.append(item)
+    return deduped
+
+
 def merge_matched_items(existing: list, new_items: list) -> list:
     by_key = {(i["site"], i["id"]): i for i in existing}
     for item in new_items:
         by_key[(item["site"], item["id"])] = item
     merged = list(by_key.values())
     merged.sort(key=lambda i: i.get("date") or "", reverse=True)
+    merged = dedupe_by_title(merged)
     return merged[:MAX_ITEMS]
 
 
