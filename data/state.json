@@ -1094,5 +1094,221 @@
       "date": "2026.07.30 ~ 2026.08.18",
       "first_seen": "2026-07-30"
     }
+  },
+  "gokams": {
+    "4524": {
+      "title": "2026 공연예술 관람료 지원 사업 현장할인 참여 문예회관 모집(2차)",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4524&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-07-30",
+      "first_seen": "2026-07-31"
+    },
+    "4523": {
+      "title": "2026 예술산업보증 8월(5차) 공모 안내(8.1.(토)~8.10.(월), 16:00)",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4523&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-07-30",
+      "first_seen": "2026-07-31"
+    },
+    "4522": {
+      "title": "2026 예술산업 금융지원 시범사업(융자) 4차 공모(~8.21.(금) 16:00)",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4522&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-07-29",
+      "first_seen": "2026-07-31"
+    },
+    "4521": {
+      "title": "2026 국내 화랑 해외 특별전시 및 연계 프로모션 참여 신생화랑 국내 선정회의 결과발표",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4521&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-07-29",
+      "first_seen": "2026-07-31"
+    },
+    "4520": {
+      "title": "2026 국내 화랑 해외 아트페어 참가 하반기 공모 1차 서류심의 결과발표",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4520&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-07-28",
+      "first_seen": "2026-07-31"
+    },
+    "4519": {
+      "title": "2026 예술분야 예비창업 프로그램 참여자 모집(~8.10.(월) 18:00)",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4519&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-07-27",
+      "first_seen": "2026-07-31"
+    },
+    "4518": {
+      "title": "2026 예술산업아카데미 예술창업 모닝 살롱 Vol.3 수강생 모집",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4518&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-07-24",
+      "first_seen": "2026-07-31"
+    },
+    "4517": {
+      "title": "2026 글로벌 미술 전문인력 역량강화 교육 수강생 모집(~8.3.(월) 10:00)",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4517&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-07-22",
+      "first_seen": "2026-07-31"
+    },
+    "4516": {
+      "title": "2026 K-뮤지컬 영미권 뮤지컬 신작 발표행사 발표지원 프로그램(미국) 심의 결과 안내",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4516&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-07-22",
+      "first_seen": "2026-07-31"
+    },
+    "4514": {
+      "title": "2026 서울아트마켓 팸스피칭(PAMS Pitching) 공모 선정 결과 안내",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4514&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-07-16",
+      "first_seen": "2026-07-31"
+    }
+  },
+  "metaverse_campus_lecture": {
+    "273": {
+      "title": "Aximmetry 기반 버추얼 프로덕션 콘텐츠 제작 과정",
+      "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=273",
+      "date": "2026.07.08 ~ 2026.07.10",
+      "first_seen": "2026-07-31"
+    },
+    "271": {
+      "title": "AI X UE5: 차세대 리얼타임 콘텐츠 제작 실무 마스터 클래스 과정",
+      "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=271",
+      "date": "2026.06.16 ~ 2026.06.18",
+      "first_seen": "2026-07-31"
+    },
+    "268": {
+      "title": "생성형 AI와 Unity를 활용한 지능형 콘텐츠 제작 과정",
+      "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=268",
+      "date": "2026.05.20 ~ 2026.05.22",
+      "first_seen": "2026-07-31"
+    },
+    "266": {
+      "title": "라이노 MCP & 생성형 AI 실무 자동화 및 웹 인터랙티브 디자인 과정",
+      "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=266",
+      "date": "2026.05.12 ~ 2026.05.14",
+      "first_seen": "2026-07-31"
+    },
+    "265": {
+      "title": "터치디자이너를 활용한 가우시안 스플래팅 콘텐츠 제작 과정",
+      "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=265",
+      "date": "2026.05.06 ~ 2026.05.08",
+      "first_seen": "2026-07-31"
+    },
+    "264": {
+      "title": "생성형 AI 기반 지능형 디지털트윈 구축 과정",
+      "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=264",
+      "date": "2026.04.28 ~ 2026.04.30",
+      "first_seen": "2026-07-31"
+    },
+    "263": {
+      "title": "AI x Blender 3D : Next-Gen MV CG 방법과 VFX 실무 파이프라인 과정",
+      "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=263",
+      "date": "2026.04.21 ~ 2026.04.23",
+      "first_seen": "2026-07-31"
+    },
+    "262": {
+      "title": "바이브 코딩(노코드)을 활용한 AI 업무 서비스 개발 과정",
+      "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=262",
+      "date": "2026.04.15 ~ 2026.04.17",
+      "first_seen": "2026-07-31"
+    },
+    "260": {
+      "title": "AI를 활용한 Unreal Engine 리얼타임 콘텐츠 제작 과정",
+      "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=260",
+      "date": "2025.11.25 ~ 2025.11.27",
+      "first_seen": "2026-07-31"
+    },
+    "258": {
+      "title": "Unity AI (Muse  Sentis)를 활용한 메타버스 콘텐츠 개발 과정",
+      "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=258",
+      "date": "2025.11.17 ~ 2025.11.21",
+      "first_seen": "2026-07-31"
+    }
+  },
+  "wevity_video": {
+    "109144": {
+      "title": "제2회 매일유업 대학생 AI 영상 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=109144",
+      "date": "D-18 접수중",
+      "first_seen": "2026-07-31"
+    },
+    "109142": {
+      "title": "2026 대전 AI 영상 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=109142",
+      "date": "D-19 접수중",
+      "first_seen": "2026-07-31"
+    },
+    "108662": {
+      "title": "코웨이 비렉스 AI 영상 광고 · 숏폼 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=108662",
+      "date": "D+0 마감",
+      "first_seen": "2026-07-31"
+    },
+    "108549": {
+      "title": "2026 장애 공감 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=108549",
+      "date": "D-12 접수중",
+      "first_seen": "2026-07-31"
+    },
+    "108509": {
+      "title": "제 5회 그린이니셔티브 60초 영화제 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=108509",
+      "date": "D-15 접수중",
+      "first_seen": "2026-07-31"
+    },
+    "108417": {
+      "title": "2026 CHAI 대학생 AI 광고 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=108417",
+      "date": "D+0 마감",
+      "first_seen": "2026-07-31"
+    },
+    "108289": {
+      "title": "2026 성평등 영상 콘텐츠 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=108289",
+      "date": "D+0 마감",
+      "first_seen": "2026-07-31"
+    },
+    "107781": {
+      "title": "2026 HiKR MEDIA ART(하이커 미디어 아트) 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=107781",
+      "date": "D-1 마감임박",
+      "first_seen": "2026-07-31"
+    },
+    "107427": {
+      "title": "[국립아시아문화전당] 2026 ACC 민주·인권·평화 영상(+AI) 콘텐츠 공모전IDEA",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=107427",
+      "date": "D-1 마감임박",
+      "first_seen": "2026-07-31"
+    },
+    "107425": {
+      "title": "2026 한국수력원자력 유튜브 짧은영상 공모전IDEA",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=107425",
+      "date": "D+0 마감",
+      "first_seen": "2026-07-31"
+    },
+    "109666": {
+      "title": "제6회 광진구 영상 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=109666",
+      "date": "D-45 접수예정",
+      "first_seen": "2026-07-31"
+    },
+    "109628": {
+      "title": "2026 대학생·청년 진주 도보여행 콘텐츠 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=109628",
+      "date": "D-31 접수중",
+      "first_seen": "2026-07-31"
+    },
+    "109624": {
+      "title": "2026년 숏폼·영상 공모전 [함께 성장하는 AI(아이) 공모전]",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=109624",
+      "date": "D-62 접수예정",
+      "first_seen": "2026-07-31"
+    },
+    "109604": {
+      "title": "2026 에이즈 및 성매개감염병 숏폼 영상 콘텐츠 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=109604",
+      "date": "D-31 접수중",
+      "first_seen": "2026-07-31"
+    },
+    "109597": {
+      "title": "2026년 하천계곡이 청정하(천)계(곡)바뀌었어요 - 숏폼 영상공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=109597",
+      "date": "D-32 접수중",
+      "first_seen": "2026-07-31"
+    }
   }
 }

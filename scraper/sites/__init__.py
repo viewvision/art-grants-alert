@@ -10,6 +10,9 @@ from . import artmore
 from . import wevity
 from . import artspoon
 from . import bojo
+from . import gokams
+from . import metaverse_campus_lecture
+from . import wevity_video
 
 SITE_MODULES = [
     artskorealab,
@@ -23,4 +26,7 @@ SITE_MODULES = [
     wevity,
     artspoon,
     bojo,
+    gokams,
+    metaverse_campus_lecture,
+    wevity_video,
 ]

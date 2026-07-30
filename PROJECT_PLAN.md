@@ -35,6 +35,9 @@
 9. 아트모아 — https://www.artmore.kr/main/main.do
 10. 아트센터 나비미술관 — https://www.nabi.or.kr/page/academy/academy.php
 11. 위비티(Wevity) — https://www.wevity.com/
+12. 예술경영지원센터 — https://www.gokams.or.kr/01_news/notice_list.aspx (2026-07-31 추가)
+13. 가상융합기술 Campus (제작역량강화 교육과정) — https://www.metaverse-campus.kr/lecture/listAll.do?menu_idx=50&lecIdx=17 (2026-07-31 추가, 같은 사이트의 다른 메뉴 3개: 기업수요 프로젝트/해외선진기술/생성형AI 교육도 있으나 미추가)
+14. 위비티 (영상/UCC/사진 카테고리) — https://www.wevity.com/?c=find&s=1&gub=1&cidx=10 (2026-07-31 추가)
 
 ### 보류(URL 미제공, 이번 범위에서 제외 — 나중에 URL 주시면 추가 가능)
 - 예술인경력정보시스템
