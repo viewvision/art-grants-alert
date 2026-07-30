@@ -1,6 +1,20 @@
 # 공모/지원사업 알림 시스템 — 기획 메모
 
-마지막 업데이트: 2026-07-30
+마지막 업데이트: 2026-07-31
+
+## 현재 상태: 구현 완료, 운영 중
+11개 사이트 스크래퍼 + 필터링 + 이메일 + 대시보드 + GitHub Actions 자동화까지 전부 구현되어 저장소에 커밋/푸시됨.
+그 중 7개 사이트는 GitHub Actions(해외 서버)에서 정상 작동 확인, 4개는 해외 IP 차단으로 실패 중 (아래 "알려진 제약사항" 참고).
+코드 구조: `main.py`(오케스트레이션) → `scraper/sites/*.py`(사이트별 수집) → `scraper/filters.py`(키워드+지역 필터) →
+`scraper/state.py`(신규글 diff) → `scraper/email_sender.py` / `scraper/dashboard.py`.
+
+## 알려진 제약사항
+- **해외 IP 차단**: GitHub Actions(미국 등 해외 리전)에서 실행 시 아래 사이트들이 실패함 (로컬 한국 IP에서는 정상 동작 확인됨)
+  - 아트누리, 국가문화예술지원시스템: Connection refused (해외 IP 차단 추정)
+  - 가상융합기술 Campus: SSL 인증서 검증 오류 (원인 미확인, IP 차단이 아닐 수도 있음 — 추후 조사 가능)
+  - 위비티: 403 Forbidden (봇 차단 추정)
+  - 2026-07-31 사용자 결정: 일단 나머지 7개 사이트만 자동화하고 이 4개는 보류. 각 사이트 실패해도 나머지는 정상 진행됨(try/except 처리됨).
+- 매일 실행 시 새 글이 없으면 이메일 발송 안 함(스팸 방지 의도적 설계)
 
 ## 목표
 아래 사이트(공모/지원사업/예술 관련 플랫폼)를 매일 일일이 방문하지 않고,
@@ -28,9 +42,12 @@
 - 2026년 혁신 소상공인 AI 활용 지원사업 모집공고
 - 소상공인24 메인
 
-### 사이트별 기술 조사 메모
-- **아트스푼(artspoon.io/ko/contest)**: Next.js 기반 SPA(JS 동적 렌더링). 현재 등록된 공모전 0건이라 실제 목록 마크업 미확인. Playwright 필요할 가능성 높음.
-- **아트코리아랩(artskorealab.kr)**: 정적 HTML. `ul.notice-list li a.box` 안에 `strong.ti.txt-over2`(제목), `span.date`(날짜). 상세 링크는 `onclick="goView('키')"` JS 호출 방식이라 상세 URL 패턴 추가 확인 필요.
+### 사이트별 기술 조사 메모 (구현 완료, `scraper/sites/*.py` 참고)
+- 대부분 정적 HTML을 requests+BeautifulSoup으로 파싱
+- **아트스푼**: Next.js SPA지만 리스트가 백엔드 API(`api-rakama.artra.gallery:8882/contest/public`)를 직접 호출해서 가져옴 — Playwright 불필요
+- **e나라도움(bojo.go.kr)**: 홈페이지 위젯 데이터 API(`/aa/getAA001000DataSet.do`)를 POST로 직접 호출 — Playwright 불필요
+- **나비미술관**: `/proc/board_list.php` JSON API 사용
+- 최종적으로 11개 사이트 전부 Playwright 없이(requests만으로) 구현됨
 
 ## 확정된 설계 결정
 
