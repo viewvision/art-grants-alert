@@ -397,6 +397,12 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyDx0ltzm8BGqLSZ2e%2Ftn%2Bh9gPBZm1EJpnMlsBwvsh76BM",
       "date": "2026.09.04 15:00 (D-35)",
       "first_seen": "2026-07-31"
+    },
+    "https://www.gjcf.or.kr/cf/Board/87248/detailView.do": {
+      "title": "2026 광주지역 대표 공연 콘텐츠 유통 활성화 지원사업",
+      "url": "https://www.gjcf.or.kr/cf/Board/87248/detailView.do",
+      "date": "2026.08.20 14:59 (D-20)",
+      "first_seen": "2026-07-31"
     }
   },
   "nabi": {
@@ -618,6 +624,66 @@
       "title": "[(재)세종문화회관] 세종문화회관 '공연장 안내원 50기' 모집 공고 (서울 종로구 세종대로 175 (세종로))",
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94321",
       "date": "2026-07-30",
+      "first_seen": "2026-07-31"
+    },
+    "94351": {
+      "title": "[(재)광진문화재단] (재)광진문화재단 2026 꿈의 오케스트라 ‘광진’ 음악감독 모집공고 (서울 광진구 능동로 76 (자양동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94351",
+      "date": "2026-07-31",
+      "first_seen": "2026-07-31"
+    },
+    "94349": {
+      "title": "[(주)오픈갤러리] [오픈갤러리] 디자인팀 콘텐츠 디자이너 모집 (서울 성동구 왕십리로 115 (성수동1가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94349",
+      "date": "2026-07-31",
+      "first_seen": "2026-07-31"
+    },
+    "94348": {
+      "title": "[(주)오픈갤러리] [오픈갤러리] 마케팅팀 마케터 모집 (서울 성동구 왕십리로 115 (성수동1가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94348",
+      "date": "2026-07-31",
+      "first_seen": "2026-07-31"
+    },
+    "94347": {
+      "title": "[(주)오픈갤러리] [오픈갤러리] 미술 플랫폼 고객관리팀 채용 (서울 성동구 왕십리로 115 (성수동1가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94347",
+      "date": "2026-07-31",
+      "first_seen": "2026-07-31"
+    },
+    "94346": {
+      "title": "[(주)오픈갤러리] [오픈갤러리] 미술 플랫폼 학예팀 채용 (서울 성동구 왕십리로 115 (성수동1가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94346",
+      "date": "2026-07-31",
+      "first_seen": "2026-07-31"
+    },
+    "94343": {
+      "title": "[국립국악원] (복사) 2026 하반기 국립국악원 공연장 안내원 채용 공고 (서울 서초구 남부순환로 2364 (서초동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94343",
+      "date": "2026-07-31",
+      "first_seen": "2026-07-31"
+    },
+    "94342": {
+      "title": "[아트포럼리] [아트포럼리]하반기 전시 및 예술프로젝트 어시스턴트 모집(~08/09 24시) (경기 부천시 원미구 조마루로105번길 8-73 (상동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94342",
+      "date": "2026-07-31",
+      "first_seen": "2026-07-31"
+    },
+    "94341": {
+      "title": "[보성교우회] 보성 개교120주년 기념음악회 하우스 어텐던트 모집 (서울 영등포구 여의공원로 13 (여의도동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94341",
+      "date": "2026-07-31",
+      "first_seen": "2026-07-31"
+    },
+    "94340": {
+      "title": "[천안시청] 천안시립교향악단 예술감독(상임지휘자) 모집공고 (충남 천안시 서북구 번영로 208 (백석동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94340",
+      "date": "2026-07-31",
+      "first_seen": "2026-07-31"
+    },
+    "94339": {
+      "title": "[예술의전당] 예술의전당 음악당 하우스 어텐던트 2026년 하반기 8월 모집 (~8/4) (서울 서초구 남부순환로 2406 (서초동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94339",
+      "date": "2026-07-31",
       "first_seen": "2026-07-31"
     }
   },
@@ -1154,6 +1220,12 @@
       "title": "2026 서울아트마켓 팸스피칭(PAMS Pitching) 공모 선정 결과 안내",
       "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4514&page=1&txtKeyword=&ddlKeyfield=T",
       "date": "2026-07-16",
+      "first_seen": "2026-07-31"
+    },
+    "4525": {
+      "title": "2026 예술산업아카데미 <예술산업 HR 커뮤니티 Connect - 3회차> 수강생 모집",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4525&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-07-31",
       "first_seen": "2026-07-31"
     }
   },
