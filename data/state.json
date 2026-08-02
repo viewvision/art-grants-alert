@@ -205,6 +205,66 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63838",
       "date": "2026.07.28 - 2026.08.23",
       "first_seen": "2026-07-31"
+    },
+    "NAMDONG_BOARD_20260801044441001": {
+      "title": "2026년 NPAF : 남동공연예술페스타 공연팀 모집 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=NAMDONG_BOARD_20260801044441001",
+      "date": "2026.07.31 - 2026.08.14",
+      "first_seen": "2026-08-02"
+    },
+    "S63912": {
+      "title": "「금천 예술인 단계별 지원사업」 크라우드 펀딩 연계 프로젝트 오픈 안내",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63912",
+      "date": "2026.07.20 - 2026.08.23",
+      "first_seen": "2026-08-02"
+    },
+    "S63909": {
+      "title": "2026년 예술산업아카데미 <예술산업 HR 커뮤니티 Connect - 3회차> 수강생 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63909",
+      "date": "2026.08.01 - 2026.08.20",
+      "first_seen": "2026-08-02"
+    },
+    "JBCT_BIZ_NOTICE_20260731044640001": {
+      "title": "2026년 전북예술인복지증진센터운영사업<예술인특례보증지원> 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=JBCT_BIZ_NOTICE_20260731044640001",
+      "date": "2026.07.30 - 2026.12.31",
+      "first_seen": "2026-08-02"
+    },
+    "GOKAMS_APPLY_20260731044456001": {
+      "title": "2026년 예술산업보증 8월(5차) 공모",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_APPLY_20260731044456001",
+      "date": "2026.08.01 - 2026.08.10",
+      "first_seen": "2026-08-02"
+    },
+    "S63895": {
+      "title": "생성형 AI 퓨전국악 뮤직비디오 공모전 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63895",
+      "date": "2026.07.30 - 2026.08.27",
+      "first_seen": "2026-08-02"
+    },
+    "S63892": {
+      "title": "2026년 아르떼 아카데미 「Undo LAB(언두랩)」  참여자 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63892",
+      "date": "2026.08.01 - 2026.08.19",
+      "first_seen": "2026-08-02"
+    },
+    "S63890": {
+      "title": "「2026년 문화예술교육사 활동 수기 공모전」 안내",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63890",
+      "date": "2026.08.01 - 2026.08.17",
+      "first_seen": "2026-08-02"
+    },
+    "S63884": {
+      "title": "2026년 세종일상예술교육가(STAR) 3기 양성과정 참여자 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63884",
+      "date": "2026.07.30 - 2026.08.10",
+      "first_seen": "2026-08-02"
+    },
+    "PHCF_NOTICE_20260731020803001": {
+      "title": "찾아가는 무대 안전 기술 교육지원 프로그램 참여 기관 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=PHCF_NOTICE_20260731020803001",
+      "date": "2026.07.29 - 2026.12.30",
+      "first_seen": "2026-08-02"
     }
   },
   "arko_education": {
@@ -727,6 +787,30 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94352",
       "date": "2026-07-31",
       "first_seen": "2026-08-01"
+    },
+    "94369": {
+      "title": "[(재)세종문화회관] 세종문화회관 '공연장 안내원 50기' 모집 공고 (서울 종로구 세종대로 175 (세종로))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94369",
+      "date": "2026-08-02",
+      "first_seen": "2026-08-02"
+    },
+    "94368": {
+      "title": "[재단법인중구문화재단] 충무아트센터 하우스어셔 모집(~8/10) (서울 중구 퇴계로 387 (흥인동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94368",
+      "date": "2026-08-02",
+      "first_seen": "2026-08-02"
+    },
+    "94367": {
+      "title": "[예술의전당] 예술의전당 음악당 하우스 어텐던트 2026년 하반기 8월 모집 (~8/4) (서울 서초구 남부순환로 2406 (서초동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94367",
+      "date": "2026-08-02",
+      "first_seen": "2026-08-02"
+    },
+    "94366": {
+      "title": "[재단법인중구문화재단] 충무아트센터 하우스어셔 모집(~8/10) (서울 중구 퇴계로 387 (흥인동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94366",
+      "date": "2026-08-01",
+      "first_seen": "2026-08-02"
     }
   },
   "wevity": {
