@@ -224,6 +224,15 @@
   {
     "site": "arko_thearts",
     "site_label": "아르코 통합플랫폼",
+    "id": "S63947",
+    "title": "2026년 예술산업아카데미 <예술산업 일잘러 성장 워크숍> 수강생 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63947",
+    "date": "2026.08.03 - 2026.08.24",
+    "image": null
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
     "id": "S63909",
     "title": "2026년 예술산업아카데미 <예술산업 HR 커뮤니티 Connect - 3회차> 수강생 모집",
     "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63909",
@@ -251,10 +260,46 @@
   {
     "site": "arko_thearts",
     "site_label": "아르코 통합플랫폼",
+    "id": "SFAC_NOTICE_20260801044207001",
+    "title": "2026년 서울예술인지원센터 하반기 수시대관 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20260801044207001",
+    "date": "2026.08.01 - 2026.08.07",
+    "image": null
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "JBCT_NOTICE_20260801044235001",
+    "title": "2026년 HERE, HEART 뮤직 크리에이티브 공모전 안내",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=JBCT_NOTICE_20260801044235001",
+    "date": "2026.07.31 - 2026.08.31",
+    "image": null
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "PHCF_NOTICE_20260803021749001",
+    "title": "포항국제음악제와 함께하는 2026 예술기업매칭펀드지원사업 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=PHCF_NOTICE_20260803021749001",
+    "date": "2026.07.31 - 2026.08.28",
+    "image": null
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
     "id": "NAMDONG_BOARD_20260801044441001",
     "title": "2026년 NPAF : 남동공연예술페스타 공연팀 모집 공고",
     "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=NAMDONG_BOARD_20260801044441001",
     "date": "2026.07.31 - 2026.08.14",
+    "image": null
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "UCTF_NOTICE_20260801044222002",
+    "title": "2026년 유에코(UECO) 개최 전시회 지원사업 추가공모 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=UCTF_NOTICE_20260801044222002",
+    "date": "2026.07.31 - 2026.08.10",
     "image": null
   },
   {
