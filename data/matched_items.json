@@ -27,6 +27,38 @@
     "image": null
   },
   {
+    "site": "wevity_video",
+    "id": "109666",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "title": "제6회 광진구 영상 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=109666",
+    "date": "D-45 접수예정"
+  },
+  {
+    "site": "wevity_video",
+    "id": "109597",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "title": "2026년 하천계곡이 청정하(천)계(곡)바뀌었어요 - 숏폼 영상공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=109597",
+    "date": "D-32 접수중"
+  },
+  {
+    "site": "wevity_video",
+    "id": "109628",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "title": "2026 대학생·청년 진주 도보여행 콘텐츠 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=109628",
+    "date": "D-31 접수중"
+  },
+  {
+    "site": "wevity_video",
+    "id": "109604",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "title": "2026 에이즈 및 성매개감염병 숏폼 영상 콘텐츠 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=109604",
+    "date": "D-31 접수중"
+  },
+  {
     "site": "wevity",
     "site_label": "위비티",
     "id": "109144",
@@ -37,12 +69,44 @@
   },
   {
     "site": "wevity",
+    "id": "108509",
+    "site_label": "위비티",
+    "title": "제 5회 그린이니셔티브 60초 영화제 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108509",
+    "date": "D-15 접수중"
+  },
+  {
+    "site": "wevity",
+    "id": "108549",
+    "site_label": "위비티",
+    "title": "2026 장애 공감 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108549",
+    "date": "D-12 접수중"
+  },
+  {
+    "site": "wevity",
     "site_label": "위비티",
     "id": "107427",
     "title": "[국립아시아문화전당] 2026 ACC 민주·인권·평화 영상(+AI) 콘텐츠 공모전IDEA",
     "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107427",
     "date": "D-1 마감임박",
     "image": null
+  },
+  {
+    "site": "wevity",
+    "id": "107781",
+    "site_label": "위비티",
+    "title": "2026 HiKR MEDIA ART(하이커 미디어 아트) 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107781",
+    "date": "D-1 마감임박"
+  },
+  {
+    "site": "wevity",
+    "id": "106999",
+    "site_label": "위비티",
+    "title": "2026 제15회 협성독서왕 독후감 공모전IDEA",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106999",
+    "date": "D-1 마감임박"
   },
   {
     "site": "wevity",
@@ -61,6 +125,30 @@
     "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108417",
     "date": "D+0 마감",
     "image": null
+  },
+  {
+    "site": "wevity",
+    "id": "108289",
+    "site_label": "위비티",
+    "title": "2026 성평등 영상 콘텐츠 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108289",
+    "date": "D+0 마감"
+  },
+  {
+    "site": "wevity",
+    "id": "107426",
+    "site_label": "위비티",
+    "title": "2026 한국수력원자력 기업이미지 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107426",
+    "date": "D+0 마감"
+  },
+  {
+    "site": "wevity",
+    "id": "107425",
+    "site_label": "위비티",
+    "title": "2026 한국수력원자력 유튜브 짧은영상 공모전IDEA",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107425",
+    "date": "D+0 마감"
   },
   {
     "site": "ncas",
@@ -126,6 +214,23 @@
     "image": null
   },
   {
+    "site": "bojo",
+    "id": "20260400831",
+    "site_label": "e나라도움(보조금통합포털)",
+    "title": "2026년 침수방지시설 설치지원 보조금지원사업 공고",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260400831",
+    "date": "2026.08.03. ~ 2026.08.28."
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S63947",
+    "title": "2026년 예술산업아카데미 <예술산업 일잘러 성장 워크숍> 수강생 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63947",
+    "date": "2026.08.03 - 2026.08.24",
+    "image": null
+  },
+  {
     "site": "arko_thearts",
     "site_label": "아르코 통합플랫폼",
     "id": "S63909",
@@ -155,11 +260,55 @@
   {
     "site": "arko_thearts",
     "site_label": "아르코 통합플랫폼",
+    "id": "SFAC_NOTICE_20260801044207001",
+    "title": "2026년 서울예술인지원센터 하반기 수시대관 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20260801044207001",
+    "date": "2026.08.01 - 2026.08.07",
+    "image": null
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "JBCT_NOTICE_20260801044235001",
+    "title": "2026년 HERE, HEART 뮤직 크리에이티브 공모전 안내",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=JBCT_NOTICE_20260801044235001",
+    "date": "2026.07.31 - 2026.08.31",
+    "image": null
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "PHCF_NOTICE_20260803021749001",
+    "title": "포항국제음악제와 함께하는 2026 예술기업매칭펀드지원사업 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=PHCF_NOTICE_20260803021749001",
+    "date": "2026.07.31 - 2026.08.28",
+    "image": null
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
     "id": "NAMDONG_BOARD_20260801044441001",
     "title": "2026년 NPAF : 남동공연예술페스타 공연팀 모집 공고",
     "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=NAMDONG_BOARD_20260801044441001",
     "date": "2026.07.31 - 2026.08.14",
     "image": null
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "UCTF_NOTICE_20260801044222002",
+    "title": "2026년 유에코(UECO) 개최 전시회 지원사업 추가공모 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=UCTF_NOTICE_20260801044222002",
+    "date": "2026.07.31 - 2026.08.10",
+    "image": null
+  },
+  {
+    "site": "bojo",
+    "id": "202633000000006500010A",
+    "site_label": "e나라도움(보조금통합포털)",
+    "title": "2026년 순환경제 성과관리 이행지원사업 추가 공고",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202633000000006500010A",
+    "date": "2026.07.30 ~ 2026.08.13"
   },
   {
     "site": "arko_thearts",
@@ -171,6 +320,14 @@
     "image": null
   },
   {
+    "site": "arko_thearts",
+    "id": "S63871",
+    "site_label": "아르코 통합플랫폼",
+    "title": "2026년 수성 건축·조경 시각작품 국제 공모전 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63871",
+    "date": "2026.07.29 - 2026.09.11"
+  },
+  {
     "site": "nabi",
     "site_label": "아트센터 나비미술관",
     "id": "1438",
@@ -178,6 +335,14 @@
     "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1438&brd_id=academy",
     "date": "2026.07.28 ~ 2026.08.25",
     "image": "https://www.nabi.or.kr/upload_file/board/1784882996_fJzdKS.jpg"
+  },
+  {
+    "site": "arko_thearts",
+    "id": "S63838",
+    "site_label": "아르코 통합플랫폼",
+    "title": "2026년 구로 아마추어 동아리 활동 지원사업",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63838",
+    "date": "2026.07.28 - 2026.08.23"
   },
   {
     "site": "arko_thearts",
@@ -442,6 +607,22 @@
   },
   {
     "site": "artskorealab",
+    "id": "2607140003",
+    "site_label": "아트코리아랩",
+    "title": "2026 아트코리아랩 오픈 프롬프트 커뮤니티 콜로키엄 2차 참여자 모집(~8.2(일)까지)",
+    "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2607140003",
+    "date": "2026-07-14"
+  },
+  {
+    "site": "artskorealab",
+    "id": "2607140002",
+    "site_label": "아트코리아랩",
+    "title": "2026 아트코리아랩 오픈프롬프트 커뮤니티 포스트모템 7월 참여자 모집(~7.26(일)까지)",
+    "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2607140002",
+    "date": "2026-07-14"
+  },
+  {
+    "site": "artskorealab",
     "site_label": "아트코리아랩",
     "id": "2607100002",
     "title": "[7월 아트코리아랩 아트부스트] \"예술콘텐츠를 위한 실감기술 선택가이드 : AR vs VR\"[특강+1:1컨...",
@@ -460,12 +641,60 @@
   },
   {
     "site": "artspoon",
+    "id": "62",
+    "site_label": "아트스푼",
+    "title": "농카데미아 아트페어 참여작가 공모 <농카데미아 아트페어 작가 공모전>",
+    "url": "https://artspoon.io/ko/contest/non-cademia-artfair",
+    "date": "2026-07-02 ~ 2026-07-23"
+  },
+  {
+    "site": "artspoon",
     "site_label": "아트스푼",
     "id": "60",
     "title": "검은집예술문화공간 단체전 공모 <NIJU(日州) 2026 - 두 개의 섬, 스무 개의 결>",
     "url": "https://artspoon.io/ko/contest/niju-2026-jeju",
     "date": "2026-06-22 ~ 2026-08-20",
     "image": null
+  },
+  {
+    "site": "artskorealab",
+    "id": "2606160002",
+    "site_label": "아트코리아랩",
+    "title": "2026 아트코리아랩 오픈 프롬프트 커뮤니티 콜로키엄 1차 참여자 모집(~6.28.(일)까지)",
+    "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2606160002",
+    "date": "2026-06-16"
+  },
+  {
+    "site": "artskorealab",
+    "id": "2606160001",
+    "site_label": "아트코리아랩",
+    "title": "2026 아트코리아랩 오픈프롬프트 커뮤니티 포스트모템 6월 참여자 모집(~6.21.(일)까지)",
+    "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2606160001",
+    "date": "2026-06-16"
+  },
+  {
+    "site": "artspoon",
+    "id": "54",
+    "site_label": "아트스푼",
+    "title": "MOMA K GALLERY 신진작가 공모전",
+    "url": "https://artspoon.io/ko/contest/moma-k-gallery-emerging-artist-2026",
+    "date": "2026-06-01 ~ 2026-06-30"
+  },
+  {
+    "site": "artspoon",
+    "id": "50",
+    "site_label": "아트스푼",
+    "title": "2026 갤러리 비브 팝 아티스트 공모전",
+    "url": "https://artspoon.io/ko/contest/gallery-viv-pop-artist-open-call-2026",
+    "date": "2026-04-17 ~ 2026-05-25"
+  },
+  {
+    "site": "artspoon",
+    "id": "43",
+    "site_label": "아트스푼",
+    "title": "[PLAS] 조형아트페어 메리아트 공모전, 총상금 7,000 만원",
+    "url": "https://artspoon.io/ko/contest/meri-art-2nd-2026",
+    "date": "2026-03-27 ~ 2026-04-30"
   },
   {
     "site": "artspoon",
@@ -475,6 +704,14 @@
     "url": "https://artspoon.io/ko/contest/loop-plus-2026-global-media-art-experience",
     "date": "2026-03-23 ~ 2026-04-11",
     "image": null
+  },
+  {
+    "site": "artspoon",
+    "id": "40",
+    "site_label": "아트스푼",
+    "title": "UiAF2026 신진작가 공모전",
+    "url": "https://artspoon.io/ko/contest/uiaf2026-emerging-artist-contest",
+    "date": "2026-03-05 ~ 2026-03-29"
   },
   {
     "site": "metaverse_campus_lecture",
@@ -556,6 +793,22 @@
     "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1354&brd_id=academy",
     "date": "2025.02.12 ~ 2025.03.05",
     "image": "https://www.nabi.or.kr/upload_file/board/1736474482_07TI38.png"
+  },
+  {
+    "site": "artspoon",
+    "id": "19",
+    "site_label": "아트스푼",
+    "title": "예림문화사 × 아트앤갤러리 2027년 달력 작가 공모전 (저작권료 지급)",
+    "url": "https://artspoon.io/ko/contest/contest-19",
+    "date": "2025-10-21 ~ 2026-03-09"
+  },
+  {
+    "site": "artspoon",
+    "id": "3",
+    "site_label": "아트스푼",
+    "title": "제 1회 Art Spoon 글로벌 신진작가 공모전",
+    "url": "https://artspoon.io/ko/contest/contest-3",
+    "date": "2025-05-02 ~ 2025-07-02"
   },
   {
     "site": "nabi",
