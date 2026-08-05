@@ -187,6 +187,15 @@
     "image": "https://arko.or.kr/infra/cwsattach/image/94/717494_202607071707076530.gif"
   },
   {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "202632000000009900020B",
+    "title": "2026년 조사료생산용 경영체 기계장비 지원사업",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000009900020B",
+    "date": "2026.08.17 ~ 2026.09.07",
+    "image": null
+  },
+  {
     "site": "ncas",
     "site_label": "국가문화예술지원시스템",
     "id": "https://www.jbct.or.kr/bizNotice_infoView.php?id=2350",
@@ -215,11 +224,38 @@
   },
   {
     "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "20260426985",
+    "title": "2026년 전문 평생교육 지원사업(3차)",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260426985",
+    "date": "2026.08.05. ~ 2026.08.05.",
+    "image": null
+  },
+  {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "202632000000022700064B",
+    "title": "양주열병합발전소 주변지역 지원사업",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000022700064B",
+    "date": "2026.08.05 ~ 2026.08.10",
+    "image": null
+  },
+  {
+    "site": "bojo",
     "id": "20260400831",
     "site_label": "e나라도움(보조금통합포털)",
     "title": "2026년 침수방지시설 설치지원 보조금지원사업 공고",
     "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260400831",
     "date": "2026.08.03. ~ 2026.08.28."
+  },
+  {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "20260427427",
+    "title": "2026년도 예천군 공동주택관리비용 지원사업 ",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260427427",
+    "date": "2026.08.03. ~ 2026.08.28.",
+    "image": null
   },
   {
     "site": "arko_thearts",
@@ -514,6 +550,15 @@
     "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1408&brd_id=academy",
     "date": "2026.02.24 ~ 2026.02.25",
     "image": "https://www.nabi.or.kr/upload_file/board/1770269356_lPHHkf.png"
+  },
+  {
+    "site": "artmore",
+    "site_label": "아트모아",
+    "id": "94411",
+    "title": "[여민] [재공고] 2026 예술기반 청년일자리(연수단원) 채용 공고 (여민) (서울 중구 청계천로 160 (산림동))",
+    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94411",
+    "date": "2026-08-05",
+    "image": null
   },
   {
     "site": "gokams",

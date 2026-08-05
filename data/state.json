@@ -319,6 +319,12 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=KCDF_MENU_20260801044119001",
       "date": "2026.07.31 - 2026.08.12",
       "first_seen": "2026-08-04"
+    },
+    "KCDF_MENU_20260801044122001": {
+      "title": "2026년 공예 해외진출 컨설팅 참가사 추가 모집공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=KCDF_MENU_20260801044122001",
+      "date": "2026.08.04 - 2026.08.25",
+      "first_seen": "2026-08-05"
     }
   },
   "arko_education": {
@@ -967,6 +973,66 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94383",
       "date": "2026-08-03",
       "first_seen": "2026-08-04"
+    },
+    "94412": {
+      "title": "[더하우스콘서트] 더하우스콘서트 서포터즈 '하코너' 제18기 모집 (8/16 마감) (서울 종로구 동숭길 3 (동숭동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94412",
+      "date": "2026-08-05",
+      "first_seen": "2026-08-05"
+    },
+    "94411": {
+      "title": "[여민] [재공고] 2026 예술기반 청년일자리(연수단원) 채용 공고 (여민) (서울 중구 청계천로 160 (산림동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94411",
+      "date": "2026-08-05",
+      "first_seen": "2026-08-05"
+    },
+    "94410": {
+      "title": "[재단법인중구문화재단] 충무아트센터 하우스어셔 모집(~8/10) (서울 중구 퇴계로 387 (흥인동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94410",
+      "date": "2026-08-05",
+      "first_seen": "2026-08-05"
+    },
+    "94409": {
+      "title": "[(재)한국방문의해위원회] (재)한국방문의해위원회 경영지원팀 대리급 모집 (서울 종로구 인사동5길 29 (인사동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94409",
+      "date": "2026-08-05",
+      "first_seen": "2026-08-05"
+    },
+    "94408": {
+      "title": "[(주)문화와사람들] [리움미술관] 전시장 가이드 모집 (서울 용산구 이태원로55길 60-16 (한남동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94408",
+      "date": "2026-08-05",
+      "first_seen": "2026-08-05"
+    },
+    "94407": {
+      "title": "[재단법인 포항문화재단] 2026년 시설운영팀 기간제근로자(하우스매니저)채용 재공고 (경북 포항시 남구 희망대로 850 (대도동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94407",
+      "date": "2026-08-05",
+      "first_seen": "2026-08-05"
+    },
+    "94406": {
+      "title": "[(재)예천문화관광재단] [예천문화관광재단] 2026년도 꿈의 무용단 '예천' 예비거점 무용감독 채용공고 (경북 예천군 예천읍 충효로 209-15)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94406",
+      "date": "2026-08-05",
+      "first_seen": "2026-08-05"
+    },
+    "94405": {
+      "title": "[파주문화재단] 2026 파주문화재단 하우스어셔(공연장 안내원) 모집 (~8/17) (경기 파주시 시민회관길 33 (금촌동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94405",
+      "date": "2026-08-05",
+      "first_seen": "2026-08-05"
+    },
+    "94404": {
+      "title": "[(재)구리문화재단] 구리문화재단 임원 공개모집 공고(대표이사, 비상근 이사) (경기 구리시 아차산로 453 (교문동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94404",
+      "date": "2026-08-05",
+      "first_seen": "2026-08-05"
+    },
+    "94403": {
+      "title": "[국립국악원] (복사) 2026 하반기 국립국악원 공연장 안내원 채용 공고 (~8/11) (서울 서초구 남부순환로 2364 (서초동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94403",
+      "date": "2026-08-05",
+      "first_seen": "2026-08-05"
     }
   },
   "wevity": {
@@ -1441,6 +1507,60 @@
       "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202641000000017500008A",
       "date": "2026.07.30 ~ 2026.08.18",
       "first_seen": "2026-07-30"
+    },
+    "202632000000009900020B": {
+      "title": "2026년 조사료생산용 경영체 기계장비 지원사업",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000009900020B",
+      "date": "2026.08.17 ~ 2026.09.07",
+      "first_seen": "2026-08-05"
+    },
+    "20260426985": {
+      "title": "2026년 전문 평생교육 지원사업(3차)",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260426985",
+      "date": "2026.08.05. ~ 2026.08.05.",
+      "first_seen": "2026-08-05"
+    },
+    "202632000000022700064B": {
+      "title": "양주열병합발전소 주변지역 지원사업",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000022700064B",
+      "date": "2026.08.05 ~ 2026.08.10",
+      "first_seen": "2026-08-05"
+    },
+    "20260425804": {
+      "title": "노동자 한마음 대회",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260425804",
+      "date": "2026.08.04. ~ 2026.08.18.",
+      "first_seen": "2026-08-05"
+    },
+    "20260425806": {
+      "title": "노동단체 화합 체육대회",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260425806",
+      "date": "2026.08.04. ~ 2026.08.18.",
+      "first_seen": "2026-08-05"
+    },
+    "202641000000258300019A": {
+      "title": "2026년 U-Discover 콘텐츠 기록단 추가공모",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202641000000258300019A",
+      "date": "2026.08.04 ~ 2026.08.19",
+      "first_seen": "2026-08-05"
+    },
+    "20260423831": {
+      "title": "2026년 구리시 침수방지시설 설치 보조금 지원 사업(3차)",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260423831",
+      "date": "2026.08.03. ~ 2026.09.18.",
+      "first_seen": "2026-08-05"
+    },
+    "20260427427": {
+      "title": "2026년도 예천군 공동주택관리비용 지원사업 ",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260427427",
+      "date": "2026.08.03. ~ 2026.08.28.",
+      "first_seen": "2026-08-05"
+    },
+    "20260427416": {
+      "title": "2026년 야간보건의료기관 운영 지원 사업(약국)",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260427416",
+      "date": "2026.08.03. ~ 2026.08.18.",
+      "first_seen": "2026-08-05"
     }
   },
   "gokams": {
