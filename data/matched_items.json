@@ -232,6 +232,33 @@
     "image": null
   },
   {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S64060",
+    "title": "2026년 예술 일자리 박람회 참여 기업·기관 부스 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64060",
+    "date": "2026.08.07 - 2026.08.31",
+    "image": null
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "GOKAMS_NEWS_20260807044107001",
+    "title": "2026년 예술기업 상생혁신(오픈이노베이션) 지원사업 공모",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_NEWS_20260807044107001",
+    "date": "2026.08.06 - 2026.08.20",
+    "image": null
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S64052",
+    "title": "2026년 꿈의 스튜디오 ‘사천’ 예비사업 예술가 모집 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64052",
+    "date": "2026.08.06 - 2026.08.14",
+    "image": null
+  },
+  {
     "site": "bojo",
     "site_label": "e나라도움(보조금통합포털)",
     "id": "20260426985",
@@ -436,6 +463,24 @@
     "date": "2026.07.29 - 2026.09.11"
   },
   {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S64049",
+    "title": "2026년 (재)은평문화재단 신진 청년작가 지원사업 「사이」 참여작가 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64049",
+    "date": "2026.07.29 - 2026.08.17",
+    "image": null
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S64053",
+    "title": "2026년 대한민국 문화도시 충주 국악과 창의적 나이듦 <A.I 창의 융복합 예술 교육> 참여자 모집 연장 공고 (심사계획 변경)",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64053",
+    "date": "2026.07.29 - 2026.08.13",
+    "image": null
+  },
+  {
     "site": "nabi",
     "site_label": "아트센터 나비미술관",
     "id": "1438",
@@ -468,6 +513,15 @@
     "title": "2026년 전주공연예술연습공간 제3차 정기대관 공모",
     "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63811",
     "date": "2026.07.27 - 2026.08.14",
+    "image": null
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S64062",
+    "title": "2026년 만천명월예술인家 하반기 예술인 네트워크 활성화 사업 참여자 모집 연장 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64062",
+    "date": "2026.07.27 - 2026.08.12",
     "image": null
   },
   {
@@ -622,6 +676,15 @@
     "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1408&brd_id=academy",
     "date": "2026.02.24 ~ 2026.02.25",
     "image": "https://www.nabi.or.kr/upload_file/board/1770269356_lPHHkf.png"
+  },
+  {
+    "site": "gokams",
+    "site_label": "예술경영지원센터",
+    "id": "4535",
+    "title": "<2026 예술 일자리 박람회> 참여 기업·기관 부스 모집 안내",
+    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4535&page=1&txtKeyword=&ddlKeyfield=T",
+    "date": "2026-08-07",
+    "image": null
   },
   {
     "site": "gokams",
