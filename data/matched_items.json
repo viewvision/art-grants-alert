@@ -270,6 +270,15 @@
   {
     "site": "arko_thearts",
     "site_label": "아르코 통합플랫폼",
+    "id": "SFAC_NOTICE_20260806044601001",
+    "title": "2026년 청년예술인 역량강화 프로그램 STEP-UP <자기작업 확장 워크숍>",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20260806044601001",
+    "date": "2026.08.06 - 2026.08.23",
+    "image": null
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
     "id": "GOKAMS_NEWS_20260807044107001",
     "title": "2026년 예술기업 상생혁신(오픈이노베이션) 지원사업 공모",
     "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_NEWS_20260807044107001",
@@ -703,6 +712,33 @@
     "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1408&brd_id=academy",
     "date": "2026.02.24 ~ 2026.02.25",
     "image": "https://www.nabi.or.kr/upload_file/board/1770269356_lPHHkf.png"
+  },
+  {
+    "site": "artskorealab",
+    "site_label": "아트코리아랩",
+    "id": "2608100003",
+    "title": "2026 아트코리아랩 AI+기술융합 오픈이노베이션(2차) 지원사업 공모(~8.24.(월) 17:00까지)",
+    "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2608100003",
+    "date": "2026-08-10",
+    "image": null
+  },
+  {
+    "site": "artskorealab",
+    "site_label": "아트코리아랩",
+    "id": "2608100002",
+    "title": "2026 아트코리아랩 오픈 프롬프트 커뮤니티 콜로키엄 3차 참여자 모집(~8.23(일)까지)",
+    "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2608100002",
+    "date": "2026-08-10",
+    "image": null
+  },
+  {
+    "site": "artskorealab",
+    "site_label": "아트코리아랩",
+    "id": "2608100001",
+    "title": "2026 아트코리아랩 오픈 프롬프트 커뮤니티 포스트모템 8월 참여자 모집(~8.23(일)까지)",
+    "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2608100001",
+    "date": "2026-08-10",
+    "image": null
   },
   {
     "site": "artmore",

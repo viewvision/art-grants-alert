@@ -71,6 +71,24 @@
       "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2510020001",
       "date": "2025-10-02",
       "first_seen": "2026-07-31"
+    },
+    "2608100003": {
+      "title": "2026 아트코리아랩 AI+기술융합 오픈이노베이션(2차) 지원사업 공모(~8.24.(월) 17:00까지)",
+      "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2608100003",
+      "date": "2026-08-10",
+      "first_seen": "2026-08-10"
+    },
+    "2608100002": {
+      "title": "2026 아트코리아랩 오픈 프롬프트 커뮤니티 콜로키엄 3차 참여자 모집(~8.23(일)까지)",
+      "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2608100002",
+      "date": "2026-08-10",
+      "first_seen": "2026-08-10"
+    },
+    "2608100001": {
+      "title": "2026 아트코리아랩 오픈 프롬프트 커뮤니티 포스트모템 8월 참여자 모집(~8.23(일)까지)",
+      "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2608100001",
+      "date": "2026-08-10",
+      "first_seen": "2026-08-10"
     }
   },
   "arko_thearts": {
@@ -451,6 +469,12 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=NSART_NOTICE_20260806082004001",
       "date": "2026.08.05 - 2026.08.21",
       "first_seen": "2026-08-07"
+    },
+    "SFAC_NOTICE_20260806044601001": {
+      "title": "2026년 청년예술인 역량강화 프로그램 STEP-UP <자기작업 확장 워크숍>",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20260806044601001",
+      "date": "2026.08.06 - 2026.08.23",
+      "first_seen": "2026-08-10"
     }
   },
   "arko_education": {
@@ -1375,6 +1399,66 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94463",
       "date": "2026-08-09",
       "first_seen": "2026-08-09"
+    },
+    "94477": {
+      "title": "[(재)제물포문화재단] 2026년 제물포구 구립 소년소합창단 성악지도자·반주자·단무장 모집 (인천 제물포구 금곡로 67 (송림동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94477",
+      "date": "2026-08-11",
+      "first_seen": "2026-08-10"
+    },
+    "94476": {
+      "title": "[(재)제물포문화재단] 2026년 제물포구 구립 여성합창단 성악지도자 및 반주자 모집 (인천 제물포구 축항대로296번길 81 (신흥동3가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94476",
+      "date": "2026-08-11",
+      "first_seen": "2026-08-10"
+    },
+    "94471": {
+      "title": "[재단법인 하남문화재단] 하남문화재단 2026 하반기 공연장안내원 모집 (경기 하남시 신평로 125 (덕풍동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94471",
+      "date": "2026-08-10",
+      "first_seen": "2026-08-10"
+    },
+    "94470": {
+      "title": "[관악문화재단] 재단법인 관악문화재단 2026년 제3차 직원 채용공고 (서울 관악구 신림로3길 35 (신림동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94470",
+      "date": "2026-08-10",
+      "first_seen": "2026-08-10"
+    },
+    "94469": {
+      "title": "[TIMF앙상블] TIMF앙상블 공연 기획 프로젝트 매니저(PM) 채용 (06720)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94469",
+      "date": "2026-08-10",
+      "first_seen": "2026-08-10"
+    },
+    "94468": {
+      "title": "[클래식부산] 2026년도 제9회 부산광역시 임기제공무원 임용시험 공고(클래식부산 공연기획/무대감독/무대기술(음향)) (부산 부산진구 동평로 250 (연지동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94468",
+      "date": "2026-08-10",
+      "first_seen": "2026-08-10"
+    },
+    "94467": {
+      "title": "[(재)제물포문화재단] 2026년 제물포구 구립 여성합창단 지휘자 모집 (인천 제물포구 축항대로296번길 81 (신흥동3가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94467",
+      "date": "2026-08-10",
+      "first_seen": "2026-08-10"
+    },
+    "94466": {
+      "title": "[(재)제물포문화재단] 2026년 제물포구 구립 소년소녀합창단 지휘자 모집 (인천 제물포구 금곡로 67 (송림동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94466",
+      "date": "2026-08-10",
+      "first_seen": "2026-08-10"
+    },
+    "94475": {
+      "title": "[국립중앙도서관] 국립중앙도서관 온라인자료과 기간제근로자(휴직대체,... (서울특별시 서초구 반포대로 201)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94475",
+      "date": "2026-08-10",
+      "first_seen": "2026-08-10"
+    },
+    "94473": {
+      "title": "[(주)남이섬] 나미나라공화국 남이섬, 경관디자인실 신입 및 경력... (강원특별자치도 춘천시 남산면 남이섬길 1)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94473",
+      "date": "2026-08-10",
+      "first_seen": "2026-08-10"
     }
   },
   "wevity": {
@@ -1957,6 +2041,24 @@
       "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260426528",
       "date": "2026.08.06. ~ 2026.08.20.",
       "first_seen": "2026-08-09"
+    },
+    "20260428425": {
+      "title": "제주 사회연대경제 생태계 활성화를 위한 원탁회의",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260428425",
+      "date": "2026.08.11. ~ 2026.08.25.",
+      "first_seen": "2026-08-10"
+    },
+    "20260428844": {
+      "title": " 2026 장애인과 비장애인이  함께하는 걷기대회 사업 보조사업자 공모 ",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260428844",
+      "date": "2026.08.10. ~ 2026.08.12.",
+      "first_seen": "2026-08-10"
+    },
+    "202641000000086500001A": {
+      "title": "2026년 지역서점 스마트 기기 지원 참여 서점 모집",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202641000000086500001A",
+      "date": "2026.08.10 ~ 2026.08.26",
+      "first_seen": "2026-08-10"
     }
   },
   "gokams": {
@@ -2049,6 +2151,30 @@
       "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4535&page=1&txtKeyword=&ddlKeyfield=T",
       "date": "2026-08-07",
       "first_seen": "2026-08-07"
+    },
+    "4540": {
+      "title": "2026 아트코리아랩 AI+기술융합 오픈이노베이션(2차) 지원사업 공모(~8.24.(월)17:00까지)",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4540&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-08-10",
+      "first_seen": "2026-08-10"
+    },
+    "4538": {
+      "title": "2026 아트코리아랩 오픈 프롬프트 커뮤니티 콜로키엄 3차 참여자 모집(~8.23(일)까지)",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4538&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-08-10",
+      "first_seen": "2026-08-10"
+    },
+    "4537": {
+      "title": "2026 아트코리아랩 오픈 프롬프트 커뮤니티 포스트모템 8월 참여자 모집(~8.23(일)까지)",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4537&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-08-10",
+      "first_seen": "2026-08-10"
+    },
+    "4536": {
+      "title": "2026 국내 화랑 해외 특별전시 및 연계 프로모션 참여 신생화랑 해외 선정회의 결과발표",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4536&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-08-10",
+      "first_seen": "2026-08-10"
     }
   },
   "metaverse_campus_lecture": {
