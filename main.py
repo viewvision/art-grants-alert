@@ -35,6 +35,8 @@ def main():
 
     new_matched = filter_items(new_items, config)
     new_matched = dedupe_by_title(new_matched)
+    for item in new_matched:
+        item["first_seen"] = today
 
     matched_existing = load_matched_items()
     already_shown_titles = {"".join(i.get("title", "").split()) for i in matched_existing}
