@@ -38,6 +38,7 @@
 12. 예술경영지원센터 — https://www.gokams.or.kr/01_news/notice_list.aspx (2026-07-31 추가)
 13. 가상융합기술 Campus (제작역량강화 교육과정) — https://www.metaverse-campus.kr/lecture/listAll.do?menu_idx=50&lecIdx=17 (2026-07-31 추가, 같은 사이트의 다른 메뉴 3개: 기업수요 프로젝트/해외선진기술/생성형AI 교육도 있으나 미추가)
 14. 위비티 (영상/UCC/사진 카테고리) — https://www.wevity.com/?c=find&s=1&gub=1&cidx=10 (2026-07-31 추가)
+15. 국립아시아문화전당재단(ACCF) — 공연 및 행사 > 기획 행사 — https://www.accf.or.kr/main/event/other (2026-08-11 추가, 백엔드 API `main/api/v1/product/list?category=16&status=진행중` 직접 호출)
 
 ### 보류(URL 미제공, 이번 범위에서 제외 — 나중에 URL 주시면 추가 가능)
 - 예술인경력정보시스템
@@ -53,7 +54,8 @@
 - **아트스푼**: Next.js SPA지만 리스트가 백엔드 API(`api-rakama.artra.gallery:8882/contest/public`)를 직접 호출해서 가져옴 — Playwright 불필요
 - **e나라도움(bojo.go.kr)**: 홈페이지 위젯 데이터 API(`/aa/getAA001000DataSet.do`)를 POST로 직접 호출 — Playwright 불필요
 - **나비미술관**: `/proc/board_list.php` JSON API 사용
-- 최종적으로 11개 사이트 전부 Playwright 없이(requests만으로) 구현됨
+- **국립아시아문화전당재단(ACCF)**: Vue/JS로 목록을 렌더링하지만 `/main/api/v1/product/list` JSON API를 직접 호출해서 가져옴 — Playwright 불필요. 이 환경에서는 accf.or.kr 도메인이 네트워크 정책상 차단돼 있어 직접 테스트는 못 했고, 사용자가 브라우저 개발자도구로 캡처해준 API 응답으로 파싱 로직만 검증함(GitHub Actions 실행 시 실제 동작 확인 필요)
+- 최종적으로 15개 사이트 전부 Playwright 없이(requests만으로) 구현됨
 
 ## 확정된 설계 결정
 
