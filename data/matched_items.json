@@ -1,717 +1,13 @@
 [
   {
-    "site": "artnuri",
-    "site_label": "아트누리",
-    "id": "S63821",
-    "title": "2026년 대한민국 예술과 기업 동반성장 대상 참여 예술인(단체) 모집 공고",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=S63821&source=대전문화재단&seNo=001",
-    "date": "~ 2026-08-31",
-    "image": null
-  },
-  {
-    "site": "artnuri",
-    "site_label": "아트누리",
-    "id": "S63874",
-    "title": "2026년 대한민국 문화도시 충주 국악과 창의적 나이듦 <A.I 창의 융복합 예술 교육> 참여자 모집 연장",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=S63874&source=충주문화관광재단&seNo=001",
-    "date": "~ 2026-08-12",
-    "image": null
-  },
-  {
-    "site": "wevity_video",
-    "site_label": "위비티 (영상/UCC/사진)",
-    "id": "109624",
-    "title": "2026년 숏폼·영상 공모전 [함께 성장하는 AI(아이) 공모전]",
-    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=109624",
-    "date": "D-62 접수예정",
-    "image": null
-  },
-  {
-    "site": "wevity_video",
-    "id": "109666",
-    "site_label": "위비티 (영상/UCC/사진)",
-    "title": "제6회 광진구 영상 공모전",
-    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=109666",
-    "date": "D-45 접수예정"
-  },
-  {
-    "site": "wevity_video",
-    "id": "109597",
-    "site_label": "위비티 (영상/UCC/사진)",
-    "title": "2026년 하천계곡이 청정하(천)계(곡)바뀌었어요 - 숏폼 영상공모전",
-    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=109597",
-    "date": "D-32 접수중"
-  },
-  {
-    "site": "wevity_video",
-    "id": "109628",
-    "site_label": "위비티 (영상/UCC/사진)",
-    "title": "2026 대학생·청년 진주 도보여행 콘텐츠 공모전",
-    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=109628",
-    "date": "D-31 접수중"
-  },
-  {
-    "site": "wevity_video",
-    "id": "109604",
-    "site_label": "위비티 (영상/UCC/사진)",
-    "title": "2026 에이즈 및 성매개감염병 숏폼 영상 콘텐츠 공모전",
-    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=109604",
-    "date": "D-31 접수중"
-  },
-  {
-    "site": "wevity",
-    "site_label": "위비티",
-    "id": "109144",
-    "title": "제2회 매일유업 대학생 AI 영상 공모전",
-    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109144",
-    "date": "D-18 접수중",
-    "image": null
-  },
-  {
-    "site": "wevity",
-    "id": "108509",
-    "site_label": "위비티",
-    "title": "제 5회 그린이니셔티브 60초 영화제 공모전",
-    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108509",
-    "date": "D-15 접수중"
-  },
-  {
-    "site": "wevity",
-    "id": "108549",
-    "site_label": "위비티",
-    "title": "2026 장애 공감 공모전",
-    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108549",
-    "date": "D-12 접수중"
-  },
-  {
-    "site": "wevity",
-    "site_label": "위비티",
-    "id": "107427",
-    "title": "[국립아시아문화전당] 2026 ACC 민주·인권·평화 영상(+AI) 콘텐츠 공모전IDEA",
-    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107427",
-    "date": "D-1 마감임박",
-    "image": null
-  },
-  {
-    "site": "wevity",
-    "id": "107781",
-    "site_label": "위비티",
-    "title": "2026 HiKR MEDIA ART(하이커 미디어 아트) 공모전",
-    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107781",
-    "date": "D-1 마감임박"
-  },
-  {
-    "site": "wevity",
-    "id": "106999",
-    "site_label": "위비티",
-    "title": "2026 제15회 협성독서왕 독후감 공모전IDEA",
-    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106999",
-    "date": "D-1 마감임박"
-  },
-  {
-    "site": "wevity",
-    "site_label": "위비티",
-    "id": "108662",
-    "title": "코웨이 비렉스 AI 영상 광고 · 숏폼 공모전",
-    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108662",
-    "date": "D+0 마감",
-    "image": null
-  },
-  {
-    "site": "wevity",
-    "site_label": "위비티",
-    "id": "108417",
-    "title": "2026 CHAI 대학생 AI 광고 공모전",
-    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108417",
-    "date": "D+0 마감",
-    "image": null
-  },
-  {
-    "site": "wevity",
-    "id": "108289",
-    "site_label": "위비티",
-    "title": "2026 성평등 영상 콘텐츠 공모전",
-    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108289",
-    "date": "D+0 마감"
-  },
-  {
-    "site": "wevity",
-    "id": "107426",
-    "site_label": "위비티",
-    "title": "2026 한국수력원자력 기업이미지 공모전",
-    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107426",
-    "date": "D+0 마감"
-  },
-  {
-    "site": "wevity",
-    "id": "107425",
-    "site_label": "위비티",
-    "title": "2026 한국수력원자력 유튜브 짧은영상 공모전IDEA",
-    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107425",
-    "date": "D+0 마감"
-  },
-  {
-    "site": "ncas",
-    "site_label": "국가문화예술지원시스템",
-    "id": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyDx0ltzm8BGqLSZ2e%2Ftn%2Bh9gPBZm1EJpnMlsBwvsh76BM",
-    "title": "대한민국 예술과 기업 동반성장 대상",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyDx0ltzm8BGqLSZ2e%2Ftn%2Bh9gPBZm1EJpnMlsBwvsh76BM",
-    "date": "2026.09.04 15:00 (D-35)",
-    "image": null
-  },
-  {
-    "site": "arko_education",
-    "site_label": "한국문화예술위원회(교육)",
-    "id": "/develop/board/view/594?bid=392&cid=717495&category=education",
-    "title": "2026 아르코무대예술아카데미 무대 특수효과 장치 제작 워크숍(AI x Arduino x DMX)",
-    "url": "https://arko.or.kr/develop/board/view/594?bid=392&cid=717495&category=education",
-    "date": "2026.08.25 ~ 2026.08.27",
-    "image": "https://arko.or.kr/infra/cwsattach/image/95/717495_202607071722516100.gif"
-  },
-  {
-    "site": "ncas",
-    "site_label": "국가문화예술지원시스템",
-    "id": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4522&page=1&txtKeyword=&ddlKeyfield=T",
-    "title": "2026 예술산업 금융지원 시범사업(융자) 4차 공모",
-    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4522&page=1&txtKeyword=&ddlKeyfield=T",
-    "date": "2026.08.21 16:00 (D-21)",
-    "image": null
-  },
-  {
-    "site": "arko_education",
-    "site_label": "한국문화예술위원회(교육)",
-    "id": "/develop/board/view/594?bid=392&cid=717494&category=education",
-    "title": "2026 아르코무대예술아카데미 생성형 AI와 프롬프트 디자인으로 구축하는 무대영상 제작",
-    "url": "https://arko.or.kr/develop/board/view/594?bid=392&cid=717494&category=education",
-    "date": "2026.08.18 ~ 2026.08.19",
-    "image": "https://arko.or.kr/infra/cwsattach/image/94/717494_202607071707076530.gif"
-  },
-  {
-    "site": "bojo",
-    "site_label": "e나라도움(보조금통합포털)",
-    "id": "202632000000009900020B",
-    "title": "2026년 조사료생산용 경영체 기계장비 지원사업",
-    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000009900020B",
-    "date": "2026.08.17 ~ 2026.09.07",
-    "image": null
-  },
-  {
-    "site": "bojo",
-    "site_label": "e나라도움(보조금통합포털)",
-    "id": "20260427107",
-    "title": "거제시 「2026년 노동자 휴게시설 지원사업」재공고(3차)",
-    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260427107",
-    "date": "2026.08.10. ~ 2026.08.28.",
-    "image": null
-  },
-  {
-    "site": "ncas",
-    "site_label": "국가문화예술지원시스템",
-    "id": "https://www.jbct.or.kr/bizNotice_infoView.php?id=2350",
-    "title": "2026 치유 문화예술교육 지원사업",
-    "url": "https://www.jbct.or.kr/bizNotice_infoView.php?id=2350",
-    "date": "2026.08.10 17:59 (D-10)",
-    "image": null
-  },
-  {
-    "site": "ncas",
-    "site_label": "국가문화예술지원시스템",
-    "id": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4523&page=1&txtKeyword=&ddlKeyfield=T",
-    "title": "예술산업보증 8월(5차) 공모",
-    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4523&page=1&txtKeyword=&ddlKeyfield=T",
-    "date": "2026.08.10 16:00 (D-10)",
-    "image": null
-  },
-  {
-    "site": "bojo",
-    "site_label": "e나라도움(보조금통합포털)",
-    "id": "20260428631",
-    "title": "2026년 오산시 청년동아리 지원사업",
-    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260428631",
-    "date": "2026.08.07. ~ 2026.08.23.",
-    "image": null
-  },
-  {
-    "site": "arko_education",
-    "site_label": "한국문화예술위원회(교육)",
-    "id": "/artcenter/board/view/521?bid=327&cid=717615&category=education",
-    "title": "2026년 아르코미술관 주제기획전 《예술 학교 : 우리가 서로의 학교가 될 때,》 전시연계 프로그램 <내가 만들고 싶은 학교>",
-    "url": "https://arko.or.kr/artcenter/board/view/521?bid=327&cid=717615&category=education",
-    "date": "2026.08.07 ~ 2026.09.27",
-    "image": "https://arko.or.kr/infra/cwsattach/image/15/717615_202608051658447370.gif"
-  },
-  {
-    "site": "ncas",
-    "site_label": "국가문화예술지원시스템",
-    "id": "https://uctf.or.kr/board/bid/view/202411167581",
-    "title": "2026년 예술인 창작준비금 지원사업 공모",
-    "url": "https://uctf.or.kr/board/bid/view/202411167581",
-    "date": "2026.08.07 18:00 (D-07)",
-    "image": null
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "S64060",
-    "title": "2026년 예술 일자리 박람회 참여 기업·기관 부스 모집",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64060",
-    "date": "2026.08.07 - 2026.08.31",
-    "image": null
-  },
-  {
-    "site": "bojo",
-    "site_label": "e나라도움(보조금통합포털)",
-    "id": "20260426528",
-    "title": "「2026년 제2차 양주시 문화예술단체 활동지원 사업」 보조사업자 모집 공고",
-    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260426528",
-    "date": "2026.08.06. ~ 2026.08.20.",
-    "image": null
-  },
-  {
     "site": "arko_thearts",
     "site_label": "아르코 통합플랫폼",
     "id": "SFAC_NOTICE_20260806044601001",
     "title": "2026년 청년예술인 역량강화 프로그램 STEP-UP <자기작업 확장 워크숍>",
     "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20260806044601001",
     "date": "2026.08.06 - 2026.08.23",
-    "image": null
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "GOKAMS_NEWS_20260807044107001",
-    "title": "2026년 예술기업 상생혁신(오픈이노베이션) 지원사업 공모",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_NEWS_20260807044107001",
-    "date": "2026.08.06 - 2026.08.20",
-    "image": null
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "S64052",
-    "title": "2026년 꿈의 스튜디오 ‘사천’ 예비사업 예술가 모집 공고",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64052",
-    "date": "2026.08.06 - 2026.08.14",
-    "image": null
-  },
-  {
-    "site": "bojo",
-    "site_label": "e나라도움(보조금통합포털)",
-    "id": "20260426985",
-    "title": "2026년 전문 평생교육 지원사업(3차)",
-    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260426985",
-    "date": "2026.08.05. ~ 2026.08.05.",
-    "image": null
-  },
-  {
-    "site": "bojo",
-    "site_label": "e나라도움(보조금통합포털)",
-    "id": "202632000000022700064B",
-    "title": "양주열병합발전소 주변지역 지원사업",
-    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000022700064B",
-    "date": "2026.08.05 ~ 2026.08.10",
-    "image": null
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "CRL3572",
-    "title": "한국문화예술위원회 심의위원 후보단 신규 모집 공고",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CRL3572",
-    "date": "2026.08.05 - 2026.08.26",
-    "image": null
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "GCFAC_NOTICE_20260805011418001",
-    "title": "2026년 4분기 만천명월예술인家 정기대관 공고",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GCFAC_NOTICE_20260805011418001",
-    "date": "2026.08.05 - 2026.08.19",
-    "image": null
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "S64009",
-    "title": "2026년 금정문화예술포럼 <금정문화정담> 좌담회 개최 안내",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64009",
-    "date": "2026.08.05 - 2026.08.11",
-    "image": null
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "S63996",
-    "title": "2026 김포 지역예술인 발굴 프로젝트 '무대로 잇다' 뮤지컬 <애기봉> 배우 오디션 지원 공고",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63996",
-    "date": "2026.08.04 - 2026.08.21",
-    "image": null
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "S64007",
-    "title": "2026년 관악늘봄 메세나 지원사업 예술단체 모집",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64007",
-    "date": "2026.08.04 - 2026.08.18",
-    "image": null
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "S63998",
-    "title": "2026년 꿈의 스튜디오 ‘속초’ 예비사업 예술가 모집",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63998",
-    "date": "2026.08.04 - 2026.08.12",
-    "image": null
-  },
-  {
-    "site": "bojo",
-    "id": "20260400831",
-    "site_label": "e나라도움(보조금통합포털)",
-    "title": "2026년 침수방지시설 설치지원 보조금지원사업 공고",
-    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260400831",
-    "date": "2026.08.03. ~ 2026.08.28."
-  },
-  {
-    "site": "bojo",
-    "site_label": "e나라도움(보조금통합포털)",
-    "id": "20260427427",
-    "title": "2026년도 예천군 공동주택관리비용 지원사업 ",
-    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260427427",
-    "date": "2026.08.03. ~ 2026.08.28.",
-    "image": null
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "S63947",
-    "title": "2026년 예술산업아카데미 <예술산업 일잘러 성장 워크숍> 수강생 모집",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63947",
-    "date": "2026.08.03 - 2026.08.24",
-    "image": null
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "S63978",
-    "title": "2026년 송파 생활예술 동호회 지원사업 참여자 모집공고",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63978",
-    "date": "2026.08.03 - 2026.08.16",
-    "image": null
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "S63909",
-    "title": "2026년 예술산업아카데미 <예술산업 HR 커뮤니티 Connect - 3회차> 수강생 모집",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63909",
-    "date": "2026.08.01 - 2026.08.20",
-    "image": null
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "S63890",
-    "title": "「2026년 문화예술교육사 활동 수기 공모전」 안내",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63890",
-    "date": "2026.08.01 - 2026.08.17",
-    "image": null
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "GOKAMS_APPLY_20260731044456001",
-    "title": "2026년 예술산업보증 8월(5차) 공모",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_APPLY_20260731044456001",
-    "date": "2026.08.01 - 2026.08.10",
-    "image": null
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "SFAC_NOTICE_20260801044207001",
-    "title": "2026년 서울예술인지원센터 하반기 수시대관 공고",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20260801044207001",
-    "date": "2026.08.01 - 2026.08.07",
-    "image": null
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "JBCT_NOTICE_20260801044235001",
-    "title": "2026년 HERE, HEART 뮤직 크리에이티브 공모전 안내",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=JBCT_NOTICE_20260801044235001",
-    "date": "2026.07.31 - 2026.08.31",
-    "image": null
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "PHCF_NOTICE_20260803021749001",
-    "title": "포항국제음악제와 함께하는 2026 예술기업매칭펀드지원사업 공고",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=PHCF_NOTICE_20260803021749001",
-    "date": "2026.07.31 - 2026.08.28",
-    "image": null
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "NAMDONG_BOARD_20260801044441001",
-    "title": "2026년 NPAF : 남동공연예술페스타 공연팀 모집 공고",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=NAMDONG_BOARD_20260801044441001",
-    "date": "2026.07.31 - 2026.08.14",
-    "image": null
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "UCTF_NOTICE_20260801044222002",
-    "title": "2026년 유에코(UECO) 개최 전시회 지원사업 추가공모 공고",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=UCTF_NOTICE_20260801044222002",
-    "date": "2026.07.31 - 2026.08.10",
-    "image": null
-  },
-  {
-    "site": "bojo",
-    "id": "202633000000006500010A",
-    "site_label": "e나라도움(보조금통합포털)",
-    "title": "2026년 순환경제 성과관리 이행지원사업 추가 공고",
-    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202633000000006500010A",
-    "date": "2026.07.30 ~ 2026.08.13"
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "S63895",
-    "title": "생성형 AI 퓨전국악 뮤직비디오 공모전 공고",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63895",
-    "date": "2026.07.30 - 2026.08.27",
-    "image": null
-  },
-  {
-    "site": "arko_thearts",
-    "id": "S63871",
-    "site_label": "아르코 통합플랫폼",
-    "title": "2026년 수성 건축·조경 시각작품 국제 공모전 공고",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63871",
-    "date": "2026.07.29 - 2026.09.11"
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "S64049",
-    "title": "2026년 (재)은평문화재단 신진 청년작가 지원사업 「사이」 참여작가 모집",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64049",
-    "date": "2026.07.29 - 2026.08.17",
-    "image": null
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "S64053",
-    "title": "2026년 대한민국 문화도시 충주 국악과 창의적 나이듦 <A.I 창의 융복합 예술 교육> 참여자 모집 연장 공고 (심사계획 변경)",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64053",
-    "date": "2026.07.29 - 2026.08.13",
-    "image": null
-  },
-  {
-    "site": "nabi",
-    "site_label": "아트센터 나비미술관",
-    "id": "1438",
-    "title": "Creative AI : 슬기로운 AI 생활 I",
-    "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1438&brd_id=academy",
-    "date": "2026.07.28 ~ 2026.08.25",
-    "image": "https://www.nabi.or.kr/upload_file/board/1784882996_fJzdKS.jpg"
-  },
-  {
-    "site": "arko_thearts",
-    "id": "S63838",
-    "site_label": "아르코 통합플랫폼",
-    "title": "2026년 구로 아마추어 동아리 활동 지원사업",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63838",
-    "date": "2026.07.28 - 2026.08.23"
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "JBCT_BIZ_NOTICE_20260728044837001",
-    "title": "2026년 예술인역량강화재교육지원사업(예술대로 길나래) 모집 공고",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=JBCT_BIZ_NOTICE_20260728044837001",
-    "date": "2026.07.27 - 2026.08.21",
-    "image": null
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "S63811",
-    "title": "2026년 전주공연예술연습공간 제3차 정기대관 공모",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63811",
-    "date": "2026.07.27 - 2026.08.14",
-    "image": null
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "S64062",
-    "title": "2026년 만천명월예술인家 하반기 예술인 네트워크 활성화 사업 참여자 모집 연장 공고",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64062",
-    "date": "2026.07.27 - 2026.08.12",
-    "image": null
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "JBCT_BIZ_NOTICE_20260728044637001",
-    "title": "2026년 치유 문화예술교육 지원사업 ‘오롯이, 예술로 치유’ 모집 공고",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=JBCT_BIZ_NOTICE_20260728044637001",
-    "date": "2026.07.27 - 2026.08.10",
-    "image": null
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "GOKAMS_NEWS_20260728044505001",
-    "title": "2026년 예술분야 예비창업 프로그램 참여자 모집",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_NEWS_20260728044505001",
-    "date": "2026.07.27 - 2026.08.10",
-    "image": null
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "CRL3570",
-    "title": "2026년 지역중심 예술과 기업 동반성장 지원사업 유형②<대한민국 예술과 기업 동반성장 대상>공모(첨부파일수정)",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CRL3570",
-    "date": "2026.07.20 - 2026.09.04",
-    "image": null
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "S63912",
-    "title": "「금천 예술인 단계별 지원사업」 크라우드 펀딩 연계 프로젝트 오픈 안내",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63912",
-    "date": "2026.07.20 - 2026.08.23",
-    "image": null
-  },
-  {
-    "site": "nabi",
-    "site_label": "아트센터 나비미술관",
-    "id": "1431",
-    "title": "2026 교육콘서트 <교육 새로고침: AI시대, 배움을 다시 묻다>",
-    "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1431&brd_id=academy",
-    "date": "2026.07.11 ~ 2026.07.11",
-    "image": "https://www.nabi.or.kr/upload_file/board/1781759632_VpvV3k.jpg"
-  },
-  {
-    "site": "arko_education",
-    "site_label": "한국문화예술위원회(교육)",
-    "id": "/develop/board/view/594?bid=392&cid=717499&category=education",
-    "title": "2026 아르코무대예술아카데미 온라인 기초과정 오픈 무대조명, 처음 만",
-    "url": "https://arko.or.kr/develop/board/view/594?bid=392&cid=717499&category=education",
-    "date": "2026.07.01 ~ 2026.12.31",
-    "image": "https://arko.or.kr/infra/cwsattach/image/99/717499_202607081026138990.gif"
-  },
-  {
-    "site": "arko_education",
-    "site_label": "한국문화예술위원회(교육)",
-    "id": "/develop/board/view/594?bid=392&cid=717498&category=education",
-    "title": "2026 아르코무대예술아카데미 온라인 기초과정 오픈 무대음향, 처음 만나는 세계",
-    "url": "https://arko.or.kr/develop/board/view/594?bid=392&cid=717498&category=education",
-    "date": "2026.07.01 ~ 2026.12.31",
-    "image": "https://arko.or.kr/infra/cwsattach/image/98/717498_202607081019236600.gif"
-  },
-  {
-    "site": "arko_education",
-    "site_label": "한국문화예술위원회(교육)",
-    "id": "/develop/board/view/594?bid=392&cid=717497&category=education",
-    "title": "2026 아르코무대예술아카데미 온라인 기초과정 무대기계",
-    "url": "https://arko.or.kr/develop/board/view/594?bid=392&cid=717497&category=education",
-    "date": "2026.07.01 ~ 2026.12.31",
-    "image": "https://arko.or.kr/infra/cwsattach/image/97/717497_202607081008083930.gif"
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "ARKO_BOARD_20260703043753001",
-    "title": "2026년 아르코예술행정아카데미(현장교육) 참여자 모집",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=ARKO_BOARD_20260703043753001",
-    "date": "2026.06.29 - 2026.08.14",
-    "image": null
-  },
-  {
-    "site": "metaverse_campus_lecture",
-    "site_label": "가상융합기술 Campus (제작역량강화 교육)",
-    "id": "271",
-    "title": "AI X UE5: 차세대 리얼타임 콘텐츠 제작 실무 마스터 클래스 과정",
-    "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=271",
-    "date": "2026.06.16 ~ 2026.06.18",
-    "image": null
-  },
-  {
-    "site": "metaverse_campus_lecture",
-    "site_label": "가상융합기술 Campus (제작역량강화 교육)",
-    "id": "268",
-    "title": "생성형 AI와 Unity를 활용한 지능형 콘텐츠 제작 과정",
-    "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=268",
-    "date": "2026.05.20 ~ 2026.05.22",
-    "image": null
-  },
-  {
-    "site": "nabi",
-    "site_label": "아트센터 나비미술관",
-    "id": "1415",
-    "title": "Creative AI : Computer Vision",
-    "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1415&brd_id=academy",
-    "date": "2026.05.12 ~ 2026.06.09",
-    "image": "https://www.nabi.or.kr/upload_file/board/1776155261_6W5uyw.png"
-  },
-  {
-    "site": "metaverse_campus_lecture",
-    "site_label": "가상융합기술 Campus (제작역량강화 교육)",
-    "id": "266",
-    "title": "라이노 MCP & 생성형 AI 실무 자동화 및 웹 인터랙티브 디자인 과정",
-    "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=266",
-    "date": "2026.05.12 ~ 2026.05.14",
-    "image": null
-  },
-  {
-    "site": "metaverse_campus_lecture",
-    "site_label": "가상융합기술 Campus (제작역량강화 교육)",
-    "id": "264",
-    "title": "생성형 AI 기반 지능형 디지털트윈 구축 과정",
-    "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=264",
-    "date": "2026.04.28 ~ 2026.04.30",
-    "image": null
-  },
-  {
-    "site": "metaverse_campus_lecture",
-    "site_label": "가상융합기술 Campus (제작역량강화 교육)",
-    "id": "263",
-    "title": "AI x Blender 3D : Next-Gen MV CG 방법과 VFX 실무 파이프라인 과정",
-    "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=263",
-    "date": "2026.04.21 ~ 2026.04.23",
-    "image": null
-  },
-  {
-    "site": "metaverse_campus_lecture",
-    "site_label": "가상융합기술 Campus (제작역량강화 교육)",
-    "id": "262",
-    "title": "바이브 코딩(노코드)을 활용한 AI 업무 서비스 개발 과정",
-    "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=262",
-    "date": "2026.04.15 ~ 2026.04.17",
-    "image": null
-  },
-  {
-    "site": "nabi",
-    "site_label": "아트센터 나비미술관",
-    "id": "1408",
-    "title": "Dr. Future Studio 2.0 - 예술과 기술이 만나는 실험실",
-    "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1408&brd_id=academy",
-    "date": "2026.02.24 ~ 2026.02.25",
-    "image": "https://www.nabi.or.kr/upload_file/board/1770269356_lPHHkf.png"
+    "image": null,
+    "first_seen": "2026-08-10"
   },
   {
     "site": "artskorealab",
@@ -720,7 +16,8 @@
     "title": "2026 아트코리아랩 AI+기술융합 오픈이노베이션(2차) 지원사업 공모(~8.24.(월) 17:00까지)",
     "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2608100003",
     "date": "2026-08-10",
-    "image": null
+    "image": null,
+    "first_seen": "2026-08-10"
   },
   {
     "site": "artskorealab",
@@ -729,7 +26,8 @@
     "title": "2026 아트코리아랩 오픈 프롬프트 커뮤니티 콜로키엄 3차 참여자 모집(~8.23(일)까지)",
     "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2608100002",
     "date": "2026-08-10",
-    "image": null
+    "image": null,
+    "first_seen": "2026-08-10"
   },
   {
     "site": "artskorealab",
@@ -738,7 +36,38 @@
     "title": "2026 아트코리아랩 오픈 프롬프트 커뮤니티 포스트모템 8월 참여자 모집(~8.23(일)까지)",
     "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2608100001",
     "date": "2026-08-10",
-    "image": null
+    "image": null,
+    "first_seen": "2026-08-10"
+  },
+  {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "20260427107",
+    "title": "거제시 「2026년 노동자 휴게시설 지원사업」재공고(3차)",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260427107",
+    "date": "2026.08.10. ~ 2026.08.28.",
+    "image": null,
+    "first_seen": "2026-08-09"
+  },
+  {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "20260428631",
+    "title": "2026년 오산시 청년동아리 지원사업",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260428631",
+    "date": "2026.08.07. ~ 2026.08.23.",
+    "image": null,
+    "first_seen": "2026-08-09"
+  },
+  {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "20260426528",
+    "title": "「2026년 제2차 양주시 문화예술단체 활동지원 사업」 보조사업자 모집 공고",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260426528",
+    "date": "2026.08.06. ~ 2026.08.20.",
+    "image": null,
+    "first_seen": "2026-08-09"
   },
   {
     "site": "artmore",
@@ -747,7 +76,68 @@
     "title": "[한국문화예술위원회] 2026년 3차 아르코·대학로예술극장 관객안내원(수료전형) 모집(~8/19 18:00) (서울 종로구 대학로10길 17 (동숭동))",
     "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94463",
     "date": "2026-08-09",
-    "image": null
+    "image": null,
+    "first_seen": "2026-08-09"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S64060",
+    "title": "2026년 예술 일자리 박람회 참여 기업·기관 부스 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64060",
+    "date": "2026.08.07 - 2026.08.31",
+    "image": null,
+    "first_seen": "2026-08-07"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "GOKAMS_NEWS_20260807044107001",
+    "title": "2026년 예술기업 상생혁신(오픈이노베이션) 지원사업 공모",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_NEWS_20260807044107001",
+    "date": "2026.08.06 - 2026.08.20",
+    "image": null,
+    "first_seen": "2026-08-07"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S64052",
+    "title": "2026년 꿈의 스튜디오 ‘사천’ 예비사업 예술가 모집 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64052",
+    "date": "2026.08.06 - 2026.08.14",
+    "image": null,
+    "first_seen": "2026-08-07"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S64049",
+    "title": "2026년 (재)은평문화재단 신진 청년작가 지원사업 「사이」 참여작가 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64049",
+    "date": "2026.07.29 - 2026.08.17",
+    "image": null,
+    "first_seen": "2026-08-07"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S64053",
+    "title": "2026년 대한민국 문화도시 충주 국악과 창의적 나이듦 <A.I 창의 융복합 예술 교육> 참여자 모집 연장 공고 (심사계획 변경)",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64053",
+    "date": "2026.07.29 - 2026.08.13",
+    "image": null,
+    "first_seen": "2026-08-07"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S64062",
+    "title": "2026년 만천명월예술인家 하반기 예술인 네트워크 활성화 사업 참여자 모집 연장 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64062",
+    "date": "2026.07.27 - 2026.08.12",
+    "image": null,
+    "first_seen": "2026-08-07"
   },
   {
     "site": "gokams",
@@ -756,7 +146,8 @@
     "title": "<2026 예술 일자리 박람회> 참여 기업·기관 부스 모집 안내",
     "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4535&page=1&txtKeyword=&ddlKeyfield=T",
     "date": "2026-08-07",
-    "image": null
+    "image": null,
+    "first_seen": "2026-08-07"
   },
   {
     "site": "gokams",
@@ -765,7 +156,128 @@
     "title": "2026 예술기업 상생혁신(오픈이노베이션) 지원사업 공모(~8.20.(목), 18:00)",
     "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4534&page=1&txtKeyword=&ddlKeyfield=T",
     "date": "2026-08-06",
-    "image": null
+    "image": null,
+    "first_seen": "2026-08-07"
+  },
+  {
+    "site": "arko_education",
+    "site_label": "한국문화예술위원회(교육)",
+    "id": "/artcenter/board/view/521?bid=327&cid=717615&category=education",
+    "title": "2026년 아르코미술관 주제기획전 《예술 학교 : 우리가 서로의 학교가 될 때,》 전시연계 프로그램 <내가 만들고 싶은 학교>",
+    "url": "https://arko.or.kr/artcenter/board/view/521?bid=327&cid=717615&category=education",
+    "date": "2026.08.07 ~ 2026.09.27",
+    "image": "https://arko.or.kr/infra/cwsattach/image/15/717615_202608051658447370.gif",
+    "first_seen": "2026-08-06"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "CRL3572",
+    "title": "한국문화예술위원회 심의위원 후보단 신규 모집 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CRL3572",
+    "date": "2026.08.05 - 2026.08.26",
+    "image": null,
+    "first_seen": "2026-08-06"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "GCFAC_NOTICE_20260805011418001",
+    "title": "2026년 4분기 만천명월예술인家 정기대관 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GCFAC_NOTICE_20260805011418001",
+    "date": "2026.08.05 - 2026.08.19",
+    "image": null,
+    "first_seen": "2026-08-06"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S64009",
+    "title": "2026년 금정문화예술포럼 <금정문화정담> 좌담회 개최 안내",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64009",
+    "date": "2026.08.05 - 2026.08.11",
+    "image": null,
+    "first_seen": "2026-08-06"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S63996",
+    "title": "2026 김포 지역예술인 발굴 프로젝트 '무대로 잇다' 뮤지컬 <애기봉> 배우 오디션 지원 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63996",
+    "date": "2026.08.04 - 2026.08.21",
+    "image": null,
+    "first_seen": "2026-08-06"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S64007",
+    "title": "2026년 관악늘봄 메세나 지원사업 예술단체 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64007",
+    "date": "2026.08.04 - 2026.08.18",
+    "image": null,
+    "first_seen": "2026-08-06"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S63998",
+    "title": "2026년 꿈의 스튜디오 ‘속초’ 예비사업 예술가 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63998",
+    "date": "2026.08.04 - 2026.08.12",
+    "image": null,
+    "first_seen": "2026-08-06"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S63978",
+    "title": "2026년 송파 생활예술 동호회 지원사업 참여자 모집공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63978",
+    "date": "2026.08.03 - 2026.08.16",
+    "image": null,
+    "first_seen": "2026-08-06"
+  },
+  {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "202632000000009900020B",
+    "title": "2026년 조사료생산용 경영체 기계장비 지원사업",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000009900020B",
+    "date": "2026.08.17 ~ 2026.09.07",
+    "image": null,
+    "first_seen": "2026-08-05"
+  },
+  {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "20260426985",
+    "title": "2026년 전문 평생교육 지원사업(3차)",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260426985",
+    "date": "2026.08.05. ~ 2026.08.05.",
+    "image": null,
+    "first_seen": "2026-08-05"
+  },
+  {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "202632000000022700064B",
+    "title": "양주열병합발전소 주변지역 지원사업",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000022700064B",
+    "date": "2026.08.05 ~ 2026.08.10",
+    "image": null,
+    "first_seen": "2026-08-05"
+  },
+  {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "20260427427",
+    "title": "2026년도 예천군 공동주택관리비용 지원사업 ",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260427427",
+    "date": "2026.08.03. ~ 2026.08.28.",
+    "image": null,
+    "first_seen": "2026-08-05"
   },
   {
     "site": "artmore",
@@ -774,7 +286,58 @@
     "title": "[여민] [재공고] 2026 예술기반 청년일자리(연수단원) 채용 공고 (여민) (서울 중구 청계천로 160 (산림동))",
     "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94411",
     "date": "2026-08-05",
-    "image": null
+    "image": null,
+    "first_seen": "2026-08-05"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S63947",
+    "title": "2026년 예술산업아카데미 <예술산업 일잘러 성장 워크숍> 수강생 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63947",
+    "date": "2026.08.03 - 2026.08.24",
+    "image": null,
+    "first_seen": "2026-08-04"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "SFAC_NOTICE_20260801044207001",
+    "title": "2026년 서울예술인지원센터 하반기 수시대관 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20260801044207001",
+    "date": "2026.08.01 - 2026.08.07",
+    "image": null,
+    "first_seen": "2026-08-04"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "JBCT_NOTICE_20260801044235001",
+    "title": "2026년 HERE, HEART 뮤직 크리에이티브 공모전 안내",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=JBCT_NOTICE_20260801044235001",
+    "date": "2026.07.31 - 2026.08.31",
+    "image": null,
+    "first_seen": "2026-08-04"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "PHCF_NOTICE_20260803021749001",
+    "title": "포항국제음악제와 함께하는 2026 예술기업매칭펀드지원사업 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=PHCF_NOTICE_20260803021749001",
+    "date": "2026.07.31 - 2026.08.28",
+    "image": null,
+    "first_seen": "2026-08-04"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "UCTF_NOTICE_20260801044222002",
+    "title": "2026년 유에코(UECO) 개최 전시회 지원사업 추가공모 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=UCTF_NOTICE_20260801044222002",
+    "date": "2026.07.31 - 2026.08.10",
+    "image": null,
+    "first_seen": "2026-08-04"
   },
   {
     "site": "gokams",
@@ -783,7 +346,504 @@
     "title": "2026 예술산업아카데미 <예술산업 일잘러 성장 워크숍> 수강생 모집",
     "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4526&page=1&txtKeyword=&ddlKeyfield=T",
     "date": "2026-08-03",
-    "image": null
+    "image": null,
+    "first_seen": "2026-08-03"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S63909",
+    "title": "2026년 예술산업아카데미 <예술산업 HR 커뮤니티 Connect - 3회차> 수강생 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63909",
+    "date": "2026.08.01 - 2026.08.20",
+    "image": null,
+    "first_seen": "2026-08-02"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S63890",
+    "title": "「2026년 문화예술교육사 활동 수기 공모전」 안내",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63890",
+    "date": "2026.08.01 - 2026.08.17",
+    "image": null,
+    "first_seen": "2026-08-02"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "GOKAMS_APPLY_20260731044456001",
+    "title": "2026년 예술산업보증 8월(5차) 공모",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_APPLY_20260731044456001",
+    "date": "2026.08.01 - 2026.08.10",
+    "image": null,
+    "first_seen": "2026-08-02"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "NAMDONG_BOARD_20260801044441001",
+    "title": "2026년 NPAF : 남동공연예술페스타 공연팀 모집 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=NAMDONG_BOARD_20260801044441001",
+    "date": "2026.07.31 - 2026.08.14",
+    "image": null,
+    "first_seen": "2026-08-02"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S63895",
+    "title": "생성형 AI 퓨전국악 뮤직비디오 공모전 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63895",
+    "date": "2026.07.30 - 2026.08.27",
+    "image": null,
+    "first_seen": "2026-08-02"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S63912",
+    "title": "「금천 예술인 단계별 지원사업」 크라우드 펀딩 연계 프로젝트 오픈 안내",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63912",
+    "date": "2026.07.20 - 2026.08.23",
+    "image": null,
+    "first_seen": "2026-08-02"
+  },
+  {
+    "site": "artnuri",
+    "site_label": "아트누리",
+    "id": "S63821",
+    "title": "2026년 대한민국 예술과 기업 동반성장 대상 참여 예술인(단체) 모집 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=S63821&source=대전문화재단&seNo=001",
+    "date": "~ 2026-08-31",
+    "image": null,
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "artnuri",
+    "site_label": "아트누리",
+    "id": "S63874",
+    "title": "2026년 대한민국 문화도시 충주 국악과 창의적 나이듦 <A.I 창의 융복합 예술 교육> 참여자 모집 연장",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=S63874&source=충주문화관광재단&seNo=001",
+    "date": "~ 2026-08-12",
+    "image": null,
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "109624",
+    "title": "2026년 숏폼·영상 공모전 [함께 성장하는 AI(아이) 공모전]",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=109624",
+    "date": "D-62 접수예정",
+    "image": null,
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "wevity_video",
+    "id": "109666",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "title": "제6회 광진구 영상 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=109666",
+    "date": "D-45 접수예정",
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "wevity_video",
+    "id": "109597",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "title": "2026년 하천계곡이 청정하(천)계(곡)바뀌었어요 - 숏폼 영상공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=109597",
+    "date": "D-32 접수중",
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "wevity_video",
+    "id": "109628",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "title": "2026 대학생·청년 진주 도보여행 콘텐츠 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=109628",
+    "date": "D-31 접수중",
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "wevity_video",
+    "id": "109604",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "title": "2026 에이즈 및 성매개감염병 숏폼 영상 콘텐츠 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=109604",
+    "date": "D-31 접수중",
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "wevity",
+    "site_label": "위비티",
+    "id": "109144",
+    "title": "제2회 매일유업 대학생 AI 영상 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109144",
+    "date": "D-18 접수중",
+    "image": null,
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "wevity",
+    "id": "108509",
+    "site_label": "위비티",
+    "title": "제 5회 그린이니셔티브 60초 영화제 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108509",
+    "date": "D-15 접수중",
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "wevity",
+    "id": "108549",
+    "site_label": "위비티",
+    "title": "2026 장애 공감 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108549",
+    "date": "D-12 접수중",
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "wevity",
+    "site_label": "위비티",
+    "id": "107427",
+    "title": "[국립아시아문화전당] 2026 ACC 민주·인권·평화 영상(+AI) 콘텐츠 공모전IDEA",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107427",
+    "date": "D-1 마감임박",
+    "image": null,
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "wevity",
+    "id": "107781",
+    "site_label": "위비티",
+    "title": "2026 HiKR MEDIA ART(하이커 미디어 아트) 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107781",
+    "date": "D-1 마감임박",
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "wevity",
+    "id": "106999",
+    "site_label": "위비티",
+    "title": "2026 제15회 협성독서왕 독후감 공모전IDEA",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106999",
+    "date": "D-1 마감임박",
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "wevity",
+    "site_label": "위비티",
+    "id": "108662",
+    "title": "코웨이 비렉스 AI 영상 광고 · 숏폼 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108662",
+    "date": "D+0 마감",
+    "image": null,
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "wevity",
+    "site_label": "위비티",
+    "id": "108417",
+    "title": "2026 CHAI 대학생 AI 광고 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108417",
+    "date": "D+0 마감",
+    "image": null,
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "wevity",
+    "id": "108289",
+    "site_label": "위비티",
+    "title": "2026 성평등 영상 콘텐츠 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108289",
+    "date": "D+0 마감",
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "wevity",
+    "id": "107426",
+    "site_label": "위비티",
+    "title": "2026 한국수력원자력 기업이미지 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107426",
+    "date": "D+0 마감",
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "wevity",
+    "id": "107425",
+    "site_label": "위비티",
+    "title": "2026 한국수력원자력 유튜브 짧은영상 공모전IDEA",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107425",
+    "date": "D+0 마감",
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "ncas",
+    "site_label": "국가문화예술지원시스템",
+    "id": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyDx0ltzm8BGqLSZ2e%2Ftn%2Bh9gPBZm1EJpnMlsBwvsh76BM",
+    "title": "대한민국 예술과 기업 동반성장 대상",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyDx0ltzm8BGqLSZ2e%2Ftn%2Bh9gPBZm1EJpnMlsBwvsh76BM",
+    "date": "2026.09.04 15:00 (D-35)",
+    "image": null,
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "ncas",
+    "site_label": "국가문화예술지원시스템",
+    "id": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4522&page=1&txtKeyword=&ddlKeyfield=T",
+    "title": "2026 예술산업 금융지원 시범사업(융자) 4차 공모",
+    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4522&page=1&txtKeyword=&ddlKeyfield=T",
+    "date": "2026.08.21 16:00 (D-21)",
+    "image": null,
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "ncas",
+    "site_label": "국가문화예술지원시스템",
+    "id": "https://www.jbct.or.kr/bizNotice_infoView.php?id=2350",
+    "title": "2026 치유 문화예술교육 지원사업",
+    "url": "https://www.jbct.or.kr/bizNotice_infoView.php?id=2350",
+    "date": "2026.08.10 17:59 (D-10)",
+    "image": null,
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "ncas",
+    "site_label": "국가문화예술지원시스템",
+    "id": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4523&page=1&txtKeyword=&ddlKeyfield=T",
+    "title": "예술산업보증 8월(5차) 공모",
+    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4523&page=1&txtKeyword=&ddlKeyfield=T",
+    "date": "2026.08.10 16:00 (D-10)",
+    "image": null,
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "ncas",
+    "site_label": "국가문화예술지원시스템",
+    "id": "https://uctf.or.kr/board/bid/view/202411167581",
+    "title": "2026년 예술인 창작준비금 지원사업 공모",
+    "url": "https://uctf.or.kr/board/bid/view/202411167581",
+    "date": "2026.08.07 18:00 (D-07)",
+    "image": null,
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "bojo",
+    "id": "202633000000006500010A",
+    "site_label": "e나라도움(보조금통합포털)",
+    "title": "2026년 순환경제 성과관리 이행지원사업 추가 공고",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202633000000006500010A",
+    "date": "2026.07.30 ~ 2026.08.13",
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "arko_thearts",
+    "id": "S63871",
+    "site_label": "아르코 통합플랫폼",
+    "title": "2026년 수성 건축·조경 시각작품 국제 공모전 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63871",
+    "date": "2026.07.29 - 2026.09.11",
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "nabi",
+    "site_label": "아트센터 나비미술관",
+    "id": "1438",
+    "title": "Creative AI : 슬기로운 AI 생활 I",
+    "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1438&brd_id=academy",
+    "date": "2026.07.28 ~ 2026.08.25",
+    "image": "https://www.nabi.or.kr/upload_file/board/1784882996_fJzdKS.jpg",
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "arko_thearts",
+    "id": "S63838",
+    "site_label": "아르코 통합플랫폼",
+    "title": "2026년 구로 아마추어 동아리 활동 지원사업",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63838",
+    "date": "2026.07.28 - 2026.08.23",
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "JBCT_BIZ_NOTICE_20260728044837001",
+    "title": "2026년 예술인역량강화재교육지원사업(예술대로 길나래) 모집 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=JBCT_BIZ_NOTICE_20260728044837001",
+    "date": "2026.07.27 - 2026.08.21",
+    "image": null,
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S63811",
+    "title": "2026년 전주공연예술연습공간 제3차 정기대관 공모",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S63811",
+    "date": "2026.07.27 - 2026.08.14",
+    "image": null,
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "JBCT_BIZ_NOTICE_20260728044637001",
+    "title": "2026년 치유 문화예술교육 지원사업 ‘오롯이, 예술로 치유’ 모집 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=JBCT_BIZ_NOTICE_20260728044637001",
+    "date": "2026.07.27 - 2026.08.10",
+    "image": null,
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "GOKAMS_NEWS_20260728044505001",
+    "title": "2026년 예술분야 예비창업 프로그램 참여자 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_NEWS_20260728044505001",
+    "date": "2026.07.27 - 2026.08.10",
+    "image": null,
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "CRL3570",
+    "title": "2026년 지역중심 예술과 기업 동반성장 지원사업 유형②<대한민국 예술과 기업 동반성장 대상>공모(첨부파일수정)",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CRL3570",
+    "date": "2026.07.20 - 2026.09.04",
+    "image": null,
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "nabi",
+    "site_label": "아트센터 나비미술관",
+    "id": "1431",
+    "title": "2026 교육콘서트 <교육 새로고침: AI시대, 배움을 다시 묻다>",
+    "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1431&brd_id=academy",
+    "date": "2026.07.11 ~ 2026.07.11",
+    "image": "https://www.nabi.or.kr/upload_file/board/1781759632_VpvV3k.jpg",
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "arko_education",
+    "site_label": "한국문화예술위원회(교육)",
+    "id": "/develop/board/view/594?bid=392&cid=717499&category=education",
+    "title": "2026 아르코무대예술아카데미 온라인 기초과정 오픈 무대조명, 처음 만",
+    "url": "https://arko.or.kr/develop/board/view/594?bid=392&cid=717499&category=education",
+    "date": "2026.07.01 ~ 2026.12.31",
+    "image": "https://arko.or.kr/infra/cwsattach/image/99/717499_202607081026138990.gif",
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "arko_education",
+    "site_label": "한국문화예술위원회(교육)",
+    "id": "/develop/board/view/594?bid=392&cid=717498&category=education",
+    "title": "2026 아르코무대예술아카데미 온라인 기초과정 오픈 무대음향, 처음 만나는 세계",
+    "url": "https://arko.or.kr/develop/board/view/594?bid=392&cid=717498&category=education",
+    "date": "2026.07.01 ~ 2026.12.31",
+    "image": "https://arko.or.kr/infra/cwsattach/image/98/717498_202607081019236600.gif",
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "arko_education",
+    "site_label": "한국문화예술위원회(교육)",
+    "id": "/develop/board/view/594?bid=392&cid=717497&category=education",
+    "title": "2026 아르코무대예술아카데미 온라인 기초과정 무대기계",
+    "url": "https://arko.or.kr/develop/board/view/594?bid=392&cid=717497&category=education",
+    "date": "2026.07.01 ~ 2026.12.31",
+    "image": "https://arko.or.kr/infra/cwsattach/image/97/717497_202607081008083930.gif",
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "ARKO_BOARD_20260703043753001",
+    "title": "2026년 아르코예술행정아카데미(현장교육) 참여자 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=ARKO_BOARD_20260703043753001",
+    "date": "2026.06.29 - 2026.08.14",
+    "image": null,
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "metaverse_campus_lecture",
+    "site_label": "가상융합기술 Campus (제작역량강화 교육)",
+    "id": "271",
+    "title": "AI X UE5: 차세대 리얼타임 콘텐츠 제작 실무 마스터 클래스 과정",
+    "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=271",
+    "date": "2026.06.16 ~ 2026.06.18",
+    "image": null,
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "metaverse_campus_lecture",
+    "site_label": "가상융합기술 Campus (제작역량강화 교육)",
+    "id": "268",
+    "title": "생성형 AI와 Unity를 활용한 지능형 콘텐츠 제작 과정",
+    "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=268",
+    "date": "2026.05.20 ~ 2026.05.22",
+    "image": null,
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "nabi",
+    "site_label": "아트센터 나비미술관",
+    "id": "1415",
+    "title": "Creative AI : Computer Vision",
+    "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1415&brd_id=academy",
+    "date": "2026.05.12 ~ 2026.06.09",
+    "image": "https://www.nabi.or.kr/upload_file/board/1776155261_6W5uyw.png",
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "metaverse_campus_lecture",
+    "site_label": "가상융합기술 Campus (제작역량강화 교육)",
+    "id": "266",
+    "title": "라이노 MCP & 생성형 AI 실무 자동화 및 웹 인터랙티브 디자인 과정",
+    "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=266",
+    "date": "2026.05.12 ~ 2026.05.14",
+    "image": null,
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "metaverse_campus_lecture",
+    "site_label": "가상융합기술 Campus (제작역량강화 교육)",
+    "id": "264",
+    "title": "생성형 AI 기반 지능형 디지털트윈 구축 과정",
+    "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=264",
+    "date": "2026.04.28 ~ 2026.04.30",
+    "image": null,
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "metaverse_campus_lecture",
+    "site_label": "가상융합기술 Campus (제작역량강화 교육)",
+    "id": "263",
+    "title": "AI x Blender 3D : Next-Gen MV CG 방법과 VFX 실무 파이프라인 과정",
+    "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=263",
+    "date": "2026.04.21 ~ 2026.04.23",
+    "image": null,
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "metaverse_campus_lecture",
+    "site_label": "가상융합기술 Campus (제작역량강화 교육)",
+    "id": "262",
+    "title": "바이브 코딩(노코드)을 활용한 AI 업무 서비스 개발 과정",
+    "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=262",
+    "date": "2026.04.15 ~ 2026.04.17",
+    "image": null,
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "nabi",
+    "site_label": "아트센터 나비미술관",
+    "id": "1408",
+    "title": "Dr. Future Studio 2.0 - 예술과 기술이 만나는 실험실",
+    "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1408&brd_id=academy",
+    "date": "2026.02.24 ~ 2026.02.25",
+    "image": "https://www.nabi.or.kr/upload_file/board/1770269356_lPHHkf.png",
+    "first_seen": "2026-07-31"
   },
   {
     "site": "artmore",
@@ -792,7 +852,8 @@
     "title": "[아트포럼리] [아트포럼리]하반기 전시 및 예술프로젝트 어시스턴트 모집(~08/09 24시) (경기 부천시 원미구 조마루로105번길 8-73 (상동))",
     "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94342",
     "date": "2026-07-31",
-    "image": null
+    "image": null,
+    "first_seen": "2026-07-31"
   },
   {
     "site": "artmore",
@@ -801,7 +862,8 @@
     "title": "[예술의전당] 예술의전당 음악당 하우스 어텐던트 2026년 하반기 8월 모집 (~8/4) (서울 서초구 남부순환로 2406 (서초동))",
     "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94339",
     "date": "2026-07-31",
-    "image": null
+    "image": null,
+    "first_seen": "2026-07-31"
   },
   {
     "site": "gokams",
@@ -810,7 +872,8 @@
     "title": "2026 예술산업아카데미 <예술산업 HR 커뮤니티 Connect - 3회차> 수강생 모집",
     "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4525&page=1&txtKeyword=&ddlKeyfield=T",
     "date": "2026-07-31",
-    "image": null
+    "image": null,
+    "first_seen": "2026-07-31"
   },
   {
     "site": "artmore",
@@ -819,7 +882,8 @@
     "title": "[할리퀸크리에이션즈] [HQC KIDS] 뮤지컬 'AI세계에서 살아남기' 음향 오퍼레이터 채용 공고 (서울 성동구 서울숲2길 32-14 (성수동1가, 갤러리아 포레))",
     "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94322",
     "date": "2026-07-30",
-    "image": null
+    "image": null,
+    "first_seen": "2026-07-31"
   },
   {
     "site": "gokams",
@@ -828,7 +892,8 @@
     "title": "2026 공연예술 관람료 지원 사업 현장할인 참여 문예회관 모집(2차)",
     "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4524&page=1&txtKeyword=&ddlKeyfield=T",
     "date": "2026-07-30",
-    "image": null
+    "image": null,
+    "first_seen": "2026-07-31"
   },
   {
     "site": "gokams",
@@ -837,7 +902,8 @@
     "title": "2026 예술산업보증 8월(5차) 공모 안내(8.1.(토)~8.10.(월), 16:00)",
     "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4523&page=1&txtKeyword=&ddlKeyfield=T",
     "date": "2026-07-30",
-    "image": null
+    "image": null,
+    "first_seen": "2026-07-31"
   },
   {
     "site": "gokams",
@@ -846,7 +912,8 @@
     "title": "2026 예술산업 금융지원 시범사업(융자) 4차 공모(~8.21.(금) 16:00)",
     "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4522&page=1&txtKeyword=&ddlKeyfield=T",
     "date": "2026-07-29",
-    "image": null
+    "image": null,
+    "first_seen": "2026-07-31"
   },
   {
     "site": "gokams",
@@ -855,7 +922,8 @@
     "title": "2026 예술분야 예비창업 프로그램 참여자 모집(~8.10.(월) 18:00)",
     "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4519&page=1&txtKeyword=&ddlKeyfield=T",
     "date": "2026-07-27",
-    "image": null
+    "image": null,
+    "first_seen": "2026-07-31"
   },
   {
     "site": "gokams",
@@ -864,7 +932,8 @@
     "title": "2026 예술산업아카데미 예술창업 모닝 살롱 Vol.3 수강생 모집",
     "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4518&page=1&txtKeyword=&ddlKeyfield=T",
     "date": "2026-07-24",
-    "image": null
+    "image": null,
+    "first_seen": "2026-07-31"
   },
   {
     "site": "artskorealab",
@@ -872,7 +941,8 @@
     "site_label": "아트코리아랩",
     "title": "2026 아트코리아랩 오픈 프롬프트 커뮤니티 콜로키엄 2차 참여자 모집(~8.2(일)까지)",
     "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2607140003",
-    "date": "2026-07-14"
+    "date": "2026-07-14",
+    "first_seen": "2026-07-31"
   },
   {
     "site": "artskorealab",
@@ -880,7 +950,8 @@
     "site_label": "아트코리아랩",
     "title": "2026 아트코리아랩 오픈프롬프트 커뮤니티 포스트모템 7월 참여자 모집(~7.26(일)까지)",
     "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2607140002",
-    "date": "2026-07-14"
+    "date": "2026-07-14",
+    "first_seen": "2026-07-31"
   },
   {
     "site": "artskorealab",
@@ -889,7 +960,8 @@
     "title": "[7월 아트코리아랩 아트부스트] \"예술콘텐츠를 위한 실감기술 선택가이드 : AR vs VR\"[특강+1:1컨...",
     "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2607100002",
     "date": "2026-07-10",
-    "image": null
+    "image": null,
+    "first_seen": "2026-07-31"
   },
   {
     "site": "artskorealab",
@@ -898,7 +970,8 @@
     "title": "2026 예술계 AI활용 설문조사(~7.19.)",
     "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2607070001",
     "date": "2026-07-07",
-    "image": null
+    "image": null,
+    "first_seen": "2026-07-31"
   },
   {
     "site": "artspoon",
@@ -906,7 +979,8 @@
     "site_label": "아트스푼",
     "title": "농카데미아 아트페어 참여작가 공모 <농카데미아 아트페어 작가 공모전>",
     "url": "https://artspoon.io/ko/contest/non-cademia-artfair",
-    "date": "2026-07-02 ~ 2026-07-23"
+    "date": "2026-07-02 ~ 2026-07-23",
+    "first_seen": "2026-07-31"
   },
   {
     "site": "artspoon",
@@ -915,7 +989,8 @@
     "title": "검은집예술문화공간 단체전 공모 <NIJU(日州) 2026 - 두 개의 섬, 스무 개의 결>",
     "url": "https://artspoon.io/ko/contest/niju-2026-jeju",
     "date": "2026-06-22 ~ 2026-08-20",
-    "image": null
+    "image": null,
+    "first_seen": "2026-07-31"
   },
   {
     "site": "artskorealab",
@@ -923,7 +998,8 @@
     "site_label": "아트코리아랩",
     "title": "2026 아트코리아랩 오픈 프롬프트 커뮤니티 콜로키엄 1차 참여자 모집(~6.28.(일)까지)",
     "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2606160002",
-    "date": "2026-06-16"
+    "date": "2026-06-16",
+    "first_seen": "2026-07-31"
   },
   {
     "site": "artskorealab",
@@ -931,7 +1007,8 @@
     "site_label": "아트코리아랩",
     "title": "2026 아트코리아랩 오픈프롬프트 커뮤니티 포스트모템 6월 참여자 모집(~6.21.(일)까지)",
     "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2606160001",
-    "date": "2026-06-16"
+    "date": "2026-06-16",
+    "first_seen": "2026-07-31"
   },
   {
     "site": "artspoon",
@@ -939,7 +1016,8 @@
     "site_label": "아트스푼",
     "title": "MOMA K GALLERY 신진작가 공모전",
     "url": "https://artspoon.io/ko/contest/moma-k-gallery-emerging-artist-2026",
-    "date": "2026-06-01 ~ 2026-06-30"
+    "date": "2026-06-01 ~ 2026-06-30",
+    "first_seen": "2026-07-31"
   },
   {
     "site": "artspoon",
@@ -947,7 +1025,8 @@
     "site_label": "아트스푼",
     "title": "2026 갤러리 비브 팝 아티스트 공모전",
     "url": "https://artspoon.io/ko/contest/gallery-viv-pop-artist-open-call-2026",
-    "date": "2026-04-17 ~ 2026-05-25"
+    "date": "2026-04-17 ~ 2026-05-25",
+    "first_seen": "2026-07-31"
   },
   {
     "site": "artspoon",
@@ -955,7 +1034,8 @@
     "site_label": "아트스푼",
     "title": "[PLAS] 조형아트페어 메리아트 공모전, 총상금 7,000 만원",
     "url": "https://artspoon.io/ko/contest/meri-art-2nd-2026",
-    "date": "2026-03-27 ~ 2026-04-30"
+    "date": "2026-03-27 ~ 2026-04-30",
+    "first_seen": "2026-07-31"
   },
   {
     "site": "artspoon",
@@ -964,7 +1044,8 @@
     "title": "[저스피스재단] 루프 플러스 2026 글로벌 미디어아트 경험 프로그램",
     "url": "https://artspoon.io/ko/contest/loop-plus-2026-global-media-art-experience",
     "date": "2026-03-23 ~ 2026-04-11",
-    "image": null
+    "image": null,
+    "first_seen": "2026-07-31"
   },
   {
     "site": "artspoon",
@@ -972,7 +1053,8 @@
     "site_label": "아트스푼",
     "title": "UiAF2026 신진작가 공모전",
     "url": "https://artspoon.io/ko/contest/uiaf2026-emerging-artist-contest",
-    "date": "2026-03-05 ~ 2026-03-29"
+    "date": "2026-03-05 ~ 2026-03-29",
+    "first_seen": "2026-07-31"
   },
   {
     "site": "metaverse_campus_lecture",
@@ -981,7 +1063,8 @@
     "title": "AI를 활용한 Unreal Engine 리얼타임 콘텐츠 제작 과정",
     "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=260",
     "date": "2025.11.25 ~ 2025.11.27",
-    "image": null
+    "image": null,
+    "first_seen": "2026-07-31"
   },
   {
     "site": "metaverse_campus_lecture",
@@ -990,7 +1073,8 @@
     "title": "Unity AI (Muse  Sentis)를 활용한 메타버스 콘텐츠 개발 과정",
     "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=258",
     "date": "2025.11.17 ~ 2025.11.21",
-    "image": null
+    "image": null,
+    "first_seen": "2026-07-31"
   },
   {
     "site": "nabi",
@@ -999,7 +1083,8 @@
     "title": "중장년 세대를 위한 예술X기술 창작 워크숍 'RE:CALENDAR - 나의 열두 달'",
     "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1403&brd_id=academy",
     "date": "2025.10.21 ~ 2025.10.25",
-    "image": "https://www.nabi.or.kr/upload_file/board/1757554754_rELKpn.png"
+    "image": "https://www.nabi.or.kr/upload_file/board/1757554754_rELKpn.png",
+    "first_seen": "2026-07-31"
   },
   {
     "site": "nabi",
@@ -1008,7 +1093,8 @@
     "title": "능동적 AI 실천 II - 데이터와 AI, 사실과 허구적 재현 워크숍",
     "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1400&brd_id=academy",
     "date": "2025.09.22 ~ 2025.10.28",
-    "image": "https://www.nabi.or.kr/upload_file/board/1756113148_fhaQEs.png"
+    "image": "https://www.nabi.or.kr/upload_file/board/1756113148_fhaQEs.png",
+    "first_seen": "2026-07-31"
   },
   {
     "site": "nabi",
@@ -1017,7 +1103,8 @@
     "title": "능동적 AI 실천 I - Context Engineering 기반 창작 워크숍",
     "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1396&brd_id=academy",
     "date": "2025.08.05 ~ 2025.09.02",
-    "image": "https://www.nabi.or.kr/upload_file/board/1752482051_I3jRze.png"
+    "image": "https://www.nabi.or.kr/upload_file/board/1752482051_I3jRze.png",
+    "first_seen": "2026-07-31"
   },
   {
     "site": "nabi",
@@ -1026,7 +1113,8 @@
     "title": "AI X MUSIC for Teens",
     "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1391&brd_id=academy",
     "date": "2025.08.02 ~ 2025.08.09",
-    "image": "https://www.nabi.or.kr/upload_file/board/1751529614_tfvabD.jpg"
+    "image": "https://www.nabi.or.kr/upload_file/board/1751529614_tfvabD.jpg",
+    "first_seen": "2026-07-31"
   },
   {
     "site": "nabi",
@@ -1035,7 +1123,8 @@
     "title": "2025 Creative AI : AI 파헤치기",
     "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1389&brd_id=academy",
     "date": "2025.07.09 ~ 2025.07.30",
-    "image": "https://www.nabi.or.kr/upload_file/board/1750727078_e4FcL8.png"
+    "image": "https://www.nabi.or.kr/upload_file/board/1750727078_e4FcL8.png",
+    "first_seen": "2026-07-31"
   },
   {
     "site": "nabi",
@@ -1044,7 +1133,8 @@
     "title": "CREATIVE AI – AI X MUSIC 파헤치기",
     "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1363&brd_id=academy",
     "date": "2025.03.12 ~ 2025.04.02",
-    "image": "https://www.nabi.or.kr/upload_file/board/1738651963_UKxJZ3.png"
+    "image": "https://www.nabi.or.kr/upload_file/board/1738651963_UKxJZ3.png",
+    "first_seen": "2026-07-31"
   },
   {
     "site": "nabi",
@@ -1053,7 +1143,8 @@
     "title": "2025 Creative AI : Computer Vision",
     "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1354&brd_id=academy",
     "date": "2025.02.12 ~ 2025.03.05",
-    "image": "https://www.nabi.or.kr/upload_file/board/1736474482_07TI38.png"
+    "image": "https://www.nabi.or.kr/upload_file/board/1736474482_07TI38.png",
+    "first_seen": "2026-07-31"
   },
   {
     "site": "artspoon",
@@ -1061,7 +1152,8 @@
     "site_label": "아트스푼",
     "title": "예림문화사 × 아트앤갤러리 2027년 달력 작가 공모전 (저작권료 지급)",
     "url": "https://artspoon.io/ko/contest/contest-19",
-    "date": "2025-10-21 ~ 2026-03-09"
+    "date": "2025-10-21 ~ 2026-03-09",
+    "first_seen": "2026-07-31"
   },
   {
     "site": "artspoon",
@@ -1069,7 +1161,8 @@
     "site_label": "아트스푼",
     "title": "제 1회 Art Spoon 글로벌 신진작가 공모전",
     "url": "https://artspoon.io/ko/contest/contest-3",
-    "date": "2025-05-02 ~ 2025-07-02"
+    "date": "2025-05-02 ~ 2025-07-02",
+    "first_seen": "2026-07-31"
   },
   {
     "site": "nabi",
@@ -1078,7 +1171,8 @@
     "title": "우리동네 레전드맵: 미디어아트로 만나는 서촌과 앙카라",
     "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1337&brd_id=academy",
     "date": "2024.09.21 ~ 2024.09.23",
-    "image": "https://www.nabi.or.kr/upload_file/board/1725347981_N1tt9H.png"
+    "image": "https://www.nabi.or.kr/upload_file/board/1725347981_N1tt9H.png",
+    "first_seen": "2026-07-31"
   },
   {
     "site": "nabi",
@@ -1087,6 +1181,36 @@
     "title": "Creative AI - 챗 GPT를 활용한 AI 리터러시 교육",
     "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1333&brd_id=academy",
     "date": "2024.07.25 ~ 2024.07.26",
-    "image": "https://www.nabi.or.kr/upload_file/board/1722230844_J3Cnzi.png"
+    "image": "https://www.nabi.or.kr/upload_file/board/1722230844_J3Cnzi.png",
+    "first_seen": "2026-07-31"
+  },
+  {
+    "site": "arko_education",
+    "site_label": "한국문화예술위원회(교육)",
+    "id": "/develop/board/view/594?bid=392&cid=717495&category=education",
+    "title": "2026 아르코무대예술아카데미 무대 특수효과 장치 제작 워크숍(AI x Arduino x DMX)",
+    "url": "https://arko.or.kr/develop/board/view/594?bid=392&cid=717495&category=education",
+    "date": "2026.08.25 ~ 2026.08.27",
+    "image": "https://arko.or.kr/infra/cwsattach/image/95/717495_202607071722516100.gif",
+    "first_seen": "2026-07-30"
+  },
+  {
+    "site": "arko_education",
+    "site_label": "한국문화예술위원회(교육)",
+    "id": "/develop/board/view/594?bid=392&cid=717494&category=education",
+    "title": "2026 아르코무대예술아카데미 생성형 AI와 프롬프트 디자인으로 구축하는 무대영상 제작",
+    "url": "https://arko.or.kr/develop/board/view/594?bid=392&cid=717494&category=education",
+    "date": "2026.08.18 ~ 2026.08.19",
+    "image": "https://arko.or.kr/infra/cwsattach/image/94/717494_202607071707076530.gif",
+    "first_seen": "2026-07-30"
+  },
+  {
+    "site": "bojo",
+    "id": "20260400831",
+    "site_label": "e나라도움(보조금통합포털)",
+    "title": "2026년 침수방지시설 설치지원 보조금지원사업 공고",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260400831",
+    "date": "2026.08.03. ~ 2026.08.28.",
+    "first_seen": "2026-07-30"
   }
 ]

@@ -45,7 +45,9 @@ def merge_matched_items(existing: list, new_items: list) -> list:
     for item in new_items:
         by_key[(item["site"], item["id"])] = item
     merged = list(by_key.values())
-    merged.sort(key=lambda i: i.get("date") or "", reverse=True)
+    # "date" 필드는 사이트마다 형식이 달라(게시일/마감일/"D-n" 등) 정렬 기준으로 쓸 수 없음.
+    # 실제로 새로 수집된 시점(first_seen, ISO 형식)을 기준으로 최신순 정렬.
+    merged.sort(key=lambda i: i.get("first_seen") or "", reverse=True)
     merged = dedupe_by_title(merged)
     return merged[:MAX_ITEMS]
 
