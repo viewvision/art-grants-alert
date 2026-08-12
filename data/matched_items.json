@@ -1,5 +1,65 @@
 [
   {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "PCFAC_NOTICE_20260811073006001",
+    "title": "2026년 꿈의 스튜디오 포천 예비거점기관 참여 예술가 모집 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=PCFAC_NOTICE_20260811073006001",
+    "date": "2026.08.10 - 2026.08.13",
+    "image": null,
+    "first_seen": "2026-08-12"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "GOKAMS_NEWS_20260811044503002",
+    "title": "2026년 아트코리아랩 오픈 프롬프트 커뮤니티 콜로키엄 3차 참여자 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_NEWS_20260811044503002",
+    "date": "2026.08.10 - 2026.08.23",
+    "image": null,
+    "first_seen": "2026-08-12"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "GOKAMS_NEWS_20260811044504001",
+    "title": "2026년 아트코리아랩 오픈 프롬프트 커뮤니티 포스트모템 8월 참여자 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_NEWS_20260811044504001",
+    "date": "2026.08.10 - 2026.08.23",
+    "image": null,
+    "first_seen": "2026-08-12"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S64119",
+    "title": "2026년 아트코리아랩 AI+기술융합 오픈이노베이션(2차) 지원사업 공모",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64119",
+    "date": "2026.08.10 - 2026.08.24",
+    "image": null,
+    "first_seen": "2026-08-12"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "CRL3576",
+    "title": "성남문화재단 예술본부장 공개채용 재공모",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CRL3576",
+    "date": "2026.08.10 - 2026.08.20",
+    "image": null,
+    "first_seen": "2026-08-12"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "YWCF_BOARD_20260809063002001",
+    "title": "2026년 공연예술 크리에이티브 랩 참여자 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=YWCF_BOARD_20260809063002001",
+    "date": "2026.08.08 - 2026.08.15",
+    "image": null,
+    "first_seen": "2026-08-12"
+  },
+  {
     "site": "accf",
     "site_label": "국립아시아문화전당재단 (기획 행사)",
     "id": "394",

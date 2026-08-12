@@ -475,6 +475,66 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20260806044601001",
       "date": "2026.08.06 - 2026.08.23",
       "first_seen": "2026-08-10"
+    },
+    "PCFAC_NOTICE_20260811073006001": {
+      "title": "2026년 꿈의 스튜디오 포천 예비거점기관 참여 예술가 모집 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=PCFAC_NOTICE_20260811073006001",
+      "date": "2026.08.10 - 2026.08.13",
+      "first_seen": "2026-08-12"
+    },
+    "KCDF_MENU_20260811044524001": {
+      "title": "2026년 디자인마이애미 현장운영 세일즈 파트너사 공모",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=KCDF_MENU_20260811044524001",
+      "date": "2026.08.10 - 2026.08.28",
+      "first_seen": "2026-08-12"
+    },
+    "KCDF_MENU_20260811044521001": {
+      "title": "2026년 공공데이터 아이디어 공모",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=KCDF_MENU_20260811044521001",
+      "date": "2026.08.11 - 2026.09.07",
+      "first_seen": "2026-08-12"
+    },
+    "GOKAMS_NEWS_20260811044503002": {
+      "title": "2026년 아트코리아랩 오픈 프롬프트 커뮤니티 콜로키엄 3차 참여자 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_NEWS_20260811044503002",
+      "date": "2026.08.10 - 2026.08.23",
+      "first_seen": "2026-08-12"
+    },
+    "GOKAMS_NEWS_20260811044504001": {
+      "title": "2026년 아트코리아랩 오픈 프롬프트 커뮤니티 포스트모템 8월 참여자 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_NEWS_20260811044504001",
+      "date": "2026.08.10 - 2026.08.23",
+      "first_seen": "2026-08-12"
+    },
+    "S64119": {
+      "title": "2026년 아트코리아랩 AI+기술융합 오픈이노베이션(2차) 지원사업 공모",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64119",
+      "date": "2026.08.10 - 2026.08.24",
+      "first_seen": "2026-08-12"
+    },
+    "CRL3576": {
+      "title": "성남문화재단 예술본부장 공개채용 재공모",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CRL3576",
+      "date": "2026.08.10 - 2026.08.20",
+      "first_seen": "2026-08-12"
+    },
+    "YWCF_BOARD_20260809063002001": {
+      "title": "2026년 공연예술 크리에이티브 랩 참여자 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=YWCF_BOARD_20260809063002001",
+      "date": "2026.08.08 - 2026.08.15",
+      "first_seen": "2026-08-12"
+    },
+    "SFAC_NOTICE_20260808044603001": {
+      "title": "서울문화재단 대학로센터 <제철공연> 참여단체 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20260808044603001",
+      "date": "2026.08.10 - 2026.11.24",
+      "first_seen": "2026-08-12"
+    },
+    "KCDF_MENU_20260808044523001": {
+      "title": "2026년 디자인마이애미 한국공예부스 참여작가 공모",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=KCDF_MENU_20260808044523001",
+      "date": "2026.08.10 - 2026.08.31",
+      "first_seen": "2026-08-12"
     }
   },
   "arko_education": {
@@ -1519,6 +1579,66 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94481",
       "date": "2026-08-11",
       "first_seen": "2026-08-11"
+    },
+    "94530": {
+      "title": "[파주문화재단] 2026 파주문화재단 하우스어셔(공연장 안내원) 모집 (~8/17) (경기 파주시 시민회관길 33 (금촌동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94530",
+      "date": "2026-08-12",
+      "first_seen": "2026-08-12"
+    },
+    "94523": {
+      "title": "[홍익대학교 산학협력단] 홍익대 대학로 아트센터 하우스 안내원 기간제 근무자 모집 (서울 종로구 대학로 57 (연건동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94523",
+      "date": "2026-08-11",
+      "first_seen": "2026-08-12"
+    },
+    "94522": {
+      "title": "[주식회사 어빌리커스] 【롯데월드 어드벤처 부산】캐릭터 퍼포머 모집 (부산 기장군 기장읍 동부산관광로 42)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94522",
+      "date": "2026-08-11",
+      "first_seen": "2026-08-12"
+    },
+    "94521": {
+      "title": "[홍익대학교 산학협력단] 홍익대 대학로 아트센터 하우스 기간제 부매니저 모집 (서울 종로구 대학로 57 (연건동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94521",
+      "date": "2026-08-11",
+      "first_seen": "2026-08-12"
+    },
+    "94519": {
+      "title": "[주식회사 어빌리커스] 【부산 롯데월드】테마파크 공연 댄서 연기자 모집 (부산 기장군 기장읍 동부산관광로 42)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94519",
+      "date": "2026-08-11",
+      "first_seen": "2026-08-12"
+    },
+    "94518": {
+      "title": "[주식회사 어빌리커스] 【부산 롯데월드】테마파크 공연 러시아어 우크라이나어 통역 가능자 운영 크루 모집 (부산 기장군 기장읍 동부산관광로 42)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94518",
+      "date": "2026-08-11",
+      "first_seen": "2026-08-12"
+    },
+    "94517": {
+      "title": "[주식회사 어빌리커스] 【부산 롯데월드】테마파크 공연 특수 분장팀 크루 모집 (부산 기장군 기장읍 동부산관광로 42)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94517",
+      "date": "2026-08-11",
+      "first_seen": "2026-08-12"
+    },
+    "94516": {
+      "title": "[주식회사 어빌리커스] 【부산 롯데월드】테마파크 공연 의상 디자인팀 크루 모집 (부산 기장군 기장읍 동부산관광로 42)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94516",
+      "date": "2026-08-11",
+      "first_seen": "2026-08-12"
+    },
+    "94515": {
+      "title": "[주식회사 어빌리커스] 【부산 롯데월드】테마파크 공연 기계 (차량, 자동차 정비) 크루 모집 (부산 기장군 기장읍 동부산관광로 42)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94515",
+      "date": "2026-08-11",
+      "first_seen": "2026-08-12"
+    },
+    "94514": {
+      "title": "[주식회사 어빌리커스] 【부산 롯데월드】테마파크 공연 기계 (무대 장치&특수효과) 크루 모집 (부산 기장군 기장읍 동부산관광로 42)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94514",
+      "date": "2026-08-11",
+      "first_seen": "2026-08-12"
     }
   },
   "wevity": {
