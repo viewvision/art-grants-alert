@@ -95,6 +95,18 @@
       "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2608130001",
       "date": "2026-08-13",
       "first_seen": "2026-08-14"
+    },
+    "2608140002": {
+      "title": "아트코리아랩 x 전라남도문화재단 : 2026 찾아가는 아트코리아랩 비즈센터 운영",
+      "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2608140002",
+      "date": "2026-08-14",
+      "first_seen": "2026-08-14"
+    },
+    "2608140001": {
+      "title": "아트코리아랩 x 전북문화관광재단 : 2026 찾아가는 아트코리아랩 비즈센터 운영",
+      "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2608140001",
+      "date": "2026-08-14",
+      "first_seen": "2026-08-14"
     }
   },
   "arko_thearts": {
@@ -642,6 +654,24 @@
       "title": "2026년 세종일상예술교육가(STAR) 3기 양성과정 참여자 모집 연장",
       "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64179",
       "date": "2026.08.12 - 2026.08.21",
+      "first_seen": "2026-08-14"
+    },
+    "CRL3575": {
+      "title": "2026년 크라우드펀딩 확산사업 <크라우드펀딩 챌린지> 2차 공모",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CRL3575",
+      "date": "2026.08.14 - 2026.10.18",
+      "first_seen": "2026-08-14"
+    },
+    "S64227": {
+      "title": "2026년 EEBF 버디즈(BUDDIES) 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64227",
+      "date": "2026.08.10 - 2026.08.23",
+      "first_seen": "2026-08-14"
+    },
+    "GUNWI_MENU_20260814012419001": {
+      "title": "2026년 군위생활문화센터 3분기 정기 대관 신청",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GUNWI_MENU_20260814012419001",
+      "date": "2026.08.12 - 2026.08.25",
       "first_seen": "2026-08-14"
     }
   },
@@ -1867,6 +1897,66 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94566",
       "date": "2026-08-13",
       "first_seen": "2026-08-14"
+    },
+    "94588": {
+      "title": "[홍익대학교 산학협력단] 홍익대 대학로 아트센터 하우스 안내원 기간제 근무자 모집 (서울 종로구 대학로 57 (연건동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94588",
+      "date": "2026-08-14",
+      "first_seen": "2026-08-14"
+    },
+    "94587": {
+      "title": "[홍익대학교 산학협력단] 홍익대 대학로 아트센터 하우스 부매니저 기간제 근무자 모집 (서울 종로구 대학로 57 (연건동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94587",
+      "date": "2026-08-14",
+      "first_seen": "2026-08-14"
+    },
+    "94586": {
+      "title": "[홍익대학교 산학협력단] 홍익대 대학로 아트센터 무대기계감독 채용 공고 (서울 종로구 대학로 57 (연건동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94586",
+      "date": "2026-08-14",
+      "first_seen": "2026-08-14"
+    },
+    "94584": {
+      "title": "[주식회사 사유원] [사유원] 공연기획팀 직원 채용 공고(신입/경력) (대구 군위군 부계면 치산효령로 1150)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94584",
+      "date": "2026-08-14",
+      "first_seen": "2026-08-14"
+    },
+    "94583": {
+      "title": "[고양문화재단 고양아람누리] [고양문화재단] 어울림문화학교 강사 상시 모집 (경기 고양시 덕양구 어울림로 33 (성사동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94583",
+      "date": "2026-08-14",
+      "first_seen": "2026-08-14"
+    },
+    "94582": {
+      "title": "[에스엠피(SMP)] 2026 연극/뮤지컬 무대조감독 모집 (서울 종로구 대학로8가길 79 (동숭동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94582",
+      "date": "2026-08-14",
+      "first_seen": "2026-08-14"
+    },
+    "94581": {
+      "title": "[재단법인 영덕문화관광재단] 2026년 재단법인 영덕문화관광재단 제7차 직원 채용 공고 (경북 영덕군 영덕읍 야성길 67)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94581",
+      "date": "2026-08-14",
+      "first_seen": "2026-08-14"
+    },
+    "94580": {
+      "title": "[(주)신세계] [신세계갤러리] 갤러리 도슨트(스태프) 모집 (서울 강남구 압구정로60길 21 (청담동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94580",
+      "date": "2026-08-14",
+      "first_seen": "2026-08-14"
+    },
+    "94579": {
+      "title": "[(재)동작문화재단] 동작문화재단 임원(비상임이사 · 감사) 공개모집 공고 (서울 동작구 장승배기로 161 (노량진동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94579",
+      "date": "2026-08-14",
+      "first_seen": "2026-08-14"
+    },
+    "94578": {
+      "title": "[(재)동작문화재단] 동작문화재단 임원(대표이사) 공개모집 공고 (서울 동작구 장승배기로 161 (노량진동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94578",
+      "date": "2026-08-14",
+      "first_seen": "2026-08-14"
     }
   },
   "wevity": {
@@ -2654,6 +2744,12 @@
       "title": "[8월 아트코리아랩 아트부스트] \"디지털휴먼과 실시간 모션 캡쳐를 활용한 뉴 퍼포먼스\"[특강+1:1컨설팅]",
       "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4542&page=1&txtKeyword=&ddlKeyfield=T",
       "date": "2026-08-13",
+      "first_seen": "2026-08-14"
+    },
+    "4543": {
+      "title": "아트코리아랩 x 전북문화관광재단 : 2026 찾아가는 아트코리아랩 비즈센터 운영",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4543&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-08-14",
       "first_seen": "2026-08-14"
     }
   },
