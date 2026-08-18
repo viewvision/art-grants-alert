@@ -986,6 +986,15 @@ arousal, 숫자 몇 개)만 로컬에 저장**한다. 관람객이 없을 때는
 않고, 오히려 "AI 생성이라는 실제 매체로 구현했을 때 어떤 표현이
 실패하는지"를 구체적으로 검증해 원칙에 실무적 디테일을 더한 것.
 
+**⏳ 진행 중 — 실제 현장 사진 합성 테스트 (2026-08-17, 미확정)**: 위
+확정된 스타일(크로스해치+전체 블러, 정면·한손 제스처)을 「일상비일상의틈」
+실제 현장 사진(작가 제공)의 미디어월 화면에 합성해보는 테스트를
+시작함 — "모두의 인상"(유휴 상태 앰비언트 모드) 구현 시 실물 공간에서
+어떻게 보일지 확인하는 목적. 두 인물(색 조합 다르게)까지는 합성
+성공했고, 인물 스케일 축소·색 번짐 강조를 마지막으로 요청한 상태에서
+중단 — **다음 세션에서 이어서 진행 예정**. 아직 최종본으로 확정된
+버전 없음, 링크들은 채팅 기록에만 있고 파일 보관 안 됨.
+
 참고 이미지(서명된 URL, 만료 2036년 — 로컬 파일로는 미보관, 작가가
 직접 다운로드해 저장소에 보관 필요):
 [최종 테스트 결과](https://cms-toolkit-artifacts.artlist.io/content/-e-x-t-e-r-n-a-l_-i-m-a-g-e_-t-o_-i-m-a-g-e-v1/media__5/-e-x-t-e-r-n-a-l_-i-m-a-g-e_-t-o_-i-m-a-g-e-bca34218-9f52-42b6-adec-ce4624b0d5fc.png?Expires=2102423409&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=MFeR1SUfvpxubF-~~Ll8pJyX5u8f~LNFcPwLi9cOP5V64x8dZ7HP5F4-nQFI3ZXcZIChsdo1p2bnfwFX-Xm8YW2pBHRWTeFNudcJR6B9AcUeG0WQ17C4MkBEufQtC9l5skjQ-reL2-ND6VcH01jy1ysSBEdrJ7Tmsiip1SpwjbwJWPWQ0dfTyhFAjkd5aypqcXcwqTNNyK6FQAIzQxRbBfNHIhT1EEUjx5QtGeViHwrIXMcjOzEXnyOju589~RSuQ1bc6CCRwvHfROWdEIGe9jJyCk3mQ7l-SWx2ne4nh6r~MhDR7ep~neOvgRw2EPS6B97DHhJ~GS48wWUgDuGM8Q__)
