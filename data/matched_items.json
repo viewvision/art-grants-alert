@@ -1,5 +1,75 @@
 [
   {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S64275",
+    "title": "2026년 대형 뮤지컬 낭독공연 지원사업 2차 공모",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64275",
+    "date": "2026.08.18 - 2026.09.08",
+    "image": null,
+    "first_seen": "2026-08-18"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "SFAC_NOTICE_20260818044156001",
+    "title": "2026년 서울거리예술창작센터 예술가역량강화 프로그램 1탄 <서커스 스텝 인투> 참가자 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20260818044156001",
+    "date": "2026.08.17 - 2026.08.20",
+    "image": null,
+    "first_seen": "2026-08-18"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "MFAC_NOTICE_20260815050007001",
+    "title": "2026년 생활예술 마스터클래스 역량강화 워크숍 참여자 모집(무용, 합창)",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=MFAC_NOTICE_20260815050007001",
+    "date": "2026.08.14 - 2026.09.20",
+    "image": null,
+    "first_seen": "2026-08-18"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "SFAC_NOTICE_20260815044207001",
+    "title": "서울예술인지원센터(대학로센터) 2026년 하반기 수시대관 일정",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20260815044207001",
+    "date": "2026.08.18 - 2026.08.21",
+    "image": null,
+    "first_seen": "2026-08-18"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "SFAC_NOTICE_20260815044207002",
+    "title": "서울거리예술창작센터 9월 정기대관 신청 안내",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20260815044207002",
+    "date": "2026.08.18 - 2026.08.24",
+    "image": null,
+    "first_seen": "2026-08-18"
+  },
+  {
+    "site": "artmore",
+    "site_label": "아트모아",
+    "id": "94617",
+    "title": "[세종국악관현악단] 세종국악관현악단, 2026 예술기반 청년일자리(연수단원) - 창작실연 모집 (경기 군포시 고산로 599 (산본동))",
+    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94617",
+    "date": "2026-08-18",
+    "image": null,
+    "first_seen": "2026-08-18"
+  },
+  {
+    "site": "gokams",
+    "site_label": "예술경영지원센터",
+    "id": "4544",
+    "title": "2026 대형 뮤지컬 낭독공연 지원사업 2차 공모",
+    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4544&page=1&txtKeyword=&ddlKeyfield=T",
+    "date": "2026-08-18",
+    "image": null,
+    "first_seen": "2026-08-18"
+  },
+  {
     "site": "artmore",
     "site_label": "아트모아",
     "id": "94598",
