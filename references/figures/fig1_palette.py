@@ -12,16 +12,15 @@ LINE = (222, 220, 214)
 
 # 원소별 최고강도 기준색 (문서의 색 서술과 일치)
 ELEMENTS = [
-    ('물',  '청록 · 시안',        (0, 158, 176), '내면으로 가라앉음', '가라앉으며 고인다'),
-    ('불',  '코랄 · 주황빛 골드',  (238, 104,  54), '밖으로 터져 나감',  '피어오르며 번진다'),
-    ('공기', '옅은 라벤더',        (140, 124, 200), '아직 오지 않은 것', '경계 없이 흩어진다'),
-    ('흙',  '따뜻한 황토 · 호박',  (186, 134,  48), '현재에 머묾',       '구조를 이루며 응집한다'),
+    ('물',  '시안 · 아쿠아',   ['81EAF8', '3DE8FF', '00E1FF'], '내면으로 가라앉음', '가라앉으며 고인다'),
+    ('불',  '코랄 · 버밀리언', ['F89D81', 'FF6A3D', 'FF3C00'], '밖으로 터져 나감',  '피어오르며 번진다'),
+    ('공기', '라벤더 · 바이올렛', ['AD81F8', '843DFF', '5E00FF'], '아직 오지 않은 것', '경계 없이 흩어진다'),
+    ('흙',  '앰버 · 골드',     ['F8CD81', 'FFB83D', 'FFA200'], '현재에 머묾',       '구조를 이루며 응집한다'),
 ]
 STEPS = ['저', '중', '고']
 
-def mix(c, t):
-    """t=0이면 배경에 가깝게(저채도), t=1이면 원색"""
-    return tuple(int(BG[i] + (c[i] - BG[i]) * t) for i in range(3))
+def hx(h):
+    return tuple(bytes.fromhex(h))
 
 W, H = 2000, 1330
 img = Image.new('RGB', (W, H), BG)
@@ -45,7 +44,7 @@ ROW_TOP = 262
 ROW_H = 218
 SW_W, SW_H = 250, 132
 
-for i, (name, desc, base, axis, motion) in enumerate(ELEMENTS):
+for i, (name, desc, swatches, axis, motion) in enumerate(ELEMENTS):
     y = ROW_TOP + i * ROW_H
 
     # 원소명 + 색 이름
@@ -54,12 +53,10 @@ for i, (name, desc, base, axis, motion) in enumerate(ELEMENTS):
     d.text((70, y + 136), axis, font=f(25), fill=(160, 166, 178))
 
     # 3단계 스와치
-    for j, t in enumerate([0.32, 0.66, 1.0]):
+    for j, hcode in enumerate(swatches):
         x = col_x[1 + j]
-        c = mix(base, t)
-        d.rounded_rectangle([x, y + 20, x + SW_W, y + 20 + SW_H], radius=10, fill=c)
-        hexs = '#%02X%02X%02X' % c
-        d.text((x, y + 20 + SW_H + 14), hexs, font=f(24), fill=SUB)
+        d.rounded_rectangle([x, y + 20, x + SW_W, y + 20 + SW_H], radius=10, fill=hx(hcode))
+        d.text((x, y + 20 + SW_H + 14), '#' + hcode, font=f(24), fill=SUB)
 
     # 운동 성질
     d.text((1400, y + 66), motion, font=f(34), fill=INK)

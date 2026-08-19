@@ -26,10 +26,10 @@ s1.background = { color: 'FFFFFF' };
 title(s1, '감정 판정 결과 = 색');
 
 const ELEMENTS = [
-  { name: '물',   sw: ['AADBDF', '55BCC7', '009EB0'] },
-  { name: '불',   sw: ['F6CAB8', 'F29977', 'EE6836'] },
-  { name: '공기', sw: ['D6D1E7', 'B1A6D7', '8C7CC8'] },
-  { name: '흙',   sw: ['E5D4B6', 'CFAD73', 'BA8630'] },
+  { name: '물',   sw: ['81EAF8', '3DE8FF', '00E1FF'] },
+  { name: '불',   sw: ['F89D81', 'FF6A3D', 'FF3C00'] },
+  { name: '공기', sw: ['AD81F8', '843DFF', '5E00FF'] },
+  { name: '흙',   sw: ['F8CD81', 'FFB83D', 'FFA200'] },
 ];
 
 const COL_W = 2.6, COL_GAP = 0.55;
