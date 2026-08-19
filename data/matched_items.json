@@ -1,5 +1,25 @@
 [
   {
+    "site": "nabi",
+    "site_label": "아트센터 나비미술관",
+    "id": "1440",
+    "title": "Creative AI : 슬기로운 AI 생활 II",
+    "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1440&brd_id=academy",
+    "date": "2026.09.01 ~ 2026.09.30",
+    "image": "https://www.nabi.or.kr/upload_file/board/1787039351_K7TvG8.jpg",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "20260430116",
+    "title": "2026년 비영리 민간단체 공익활동 지원사업",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260430116",
+    "date": "2026.08.18. ~ 2026.08.31.",
+    "image": null,
+    "first_seen": "2026-08-19"
+  },
+  {
     "site": "arko_thearts",
     "site_label": "아르코 통합플랫폼",
     "id": "S64275",
