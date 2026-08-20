@@ -1,5 +1,65 @@
 [
   {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "SFAC_NOTICE_20260820044601001",
+    "title": "2027년 서울문화재단 예술지원 운영안 현장공유회 참여자 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20260820044601001",
+    "date": "2026.08.19 - 2026.09.06",
+    "image": null,
+    "first_seen": "2026-08-20"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "NARU_NOTICE_20260819083004001",
+    "title": "2026년 생활예술축제 <춤추는 광진> 참가단체 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=NARU_NOTICE_20260819083004001",
+    "date": "2026.08.21 - 2026.09.11",
+    "image": null,
+    "first_seen": "2026-08-20"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "SFAC_NOTICE_20260819044203001",
+    "title": "2026년 서울문화예술교육센터 서초 정기대관② 4분기 공모 안내",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20260819044203001",
+    "date": "2026.08.21 - 2026.09.02",
+    "image": null,
+    "first_seen": "2026-08-20"
+  },
+  {
+    "site": "gmap",
+    "site_label": "광주미디어아트플랫폼(G.MAP) 공지사항",
+    "id": "105",
+    "title": "[재공모] 2026 G.MAP 디지털아트 컬처랩 프로젝트랩 참여자 모집",
+    "url": "https://gmap.gwangju.go.kr/bbs/board.php?bo_table=notice&wr_id=105",
+    "date": "08-13",
+    "image": null,
+    "first_seen": "2026-08-20"
+  },
+  {
+    "site": "gmap",
+    "site_label": "광주미디어아트플랫폼(G.MAP) 공지사항",
+    "id": "101",
+    "title": "2026 G.MAP 디지털아트 컬처랩 프로젝트랩 참여자 모집",
+    "url": "https://gmap.gwangju.go.kr/bbs/board.php?bo_table=notice&wr_id=101",
+    "date": "07-21",
+    "image": null,
+    "first_seen": "2026-08-20"
+  },
+  {
+    "site": "gmap",
+    "site_label": "광주미디어아트플랫폼(G.MAP) 공지사항",
+    "id": "94",
+    "title": "청년융합예술인 선정 작가전 제1회《G.MAP 뉴웨이브》 전시 연계 웹진 Vol.1-4",
+    "url": "https://gmap.gwangju.go.kr/bbs/board.php?bo_table=notice&wr_id=94",
+    "date": "06-15",
+    "image": null,
+    "first_seen": "2026-08-20"
+  },
+  {
     "site": "nabi",
     "site_label": "아트센터 나비미술관",
     "id": "1440",
