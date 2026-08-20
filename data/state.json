@@ -733,6 +733,18 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64270",
       "date": "2026.08.14 - 2026.09.27",
       "first_seen": "2026-08-18"
+    },
+    "CHILGOK_NOTICE_20260819094005001": {
+      "title": "제15회 칠곡 향사 가야금병창 전국대회 참가자 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CHILGOK_NOTICE_20260819094005001",
+      "date": "2026.08.18 - 2026.09.09",
+      "first_seen": "2026-08-19"
+    },
+    "S64279": {
+      "title": "2026년 Kiaf SEOUL x KAMS x Frieze Seoul 토크 프로그램",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64279",
+      "date": "2026.08.18 - 2026.09.01",
+      "first_seen": "2026-08-19"
     }
   },
   "arko_education": {
@@ -1059,6 +1071,12 @@
       "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1333&brd_id=academy",
       "date": "2024.07.25 ~ 2024.07.26",
       "first_seen": "2026-07-31"
+    },
+    "1440": {
+      "title": "Creative AI : 슬기로운 AI 생활 II",
+      "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1440&brd_id=academy",
+      "date": "2026.09.01 ~ 2026.09.30",
+      "first_seen": "2026-08-19"
     }
   },
   "metaverse_campus": {
@@ -2125,6 +2143,66 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94614",
       "date": "2026-08-18",
       "first_seen": "2026-08-18"
+    },
+    "94653": {
+      "title": "[홍익대학교 산학협력단] 홍익대 대학로 아트센터 하우스 안내원 기간제 근무자 모집 (서울 종로구 대학로 57 (연건동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94653",
+      "date": "2026-08-19",
+      "first_seen": "2026-08-19"
+    },
+    "94652": {
+      "title": "[홍익대학교 산학협력단] 홍익대 대학로 아트센터 하우스 부매니저 기간제 근무자 모집 (서울 종로구 대학로 57 (연건동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94652",
+      "date": "2026-08-19",
+      "first_seen": "2026-08-19"
+    },
+    "94651": {
+      "title": "[홍익대학교 산학협력단] 홍익대 대학로 아트센터 무대기계감독 채용 공고 (서울 종로구 대학로 57 (연건동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94651",
+      "date": "2026-08-19",
+      "first_seen": "2026-08-19"
+    },
+    "94650": {
+      "title": "[(주)오픈갤러리] [오픈갤러리] 마케팅팀 채용 (서울 성동구 왕십리로 115 (성수동1가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94650",
+      "date": "2026-08-19",
+      "first_seen": "2026-08-19"
+    },
+    "94649": {
+      "title": "[(주)오픈갤러리] [오픈갤러리] 학예팀 신입 채용 (미술 작품 큐레이션) (서울 성동구 왕십리로 115 (성수동1가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94649",
+      "date": "2026-08-19",
+      "first_seen": "2026-08-19"
+    },
+    "94648": {
+      "title": "[(주)오픈갤러리] [오픈갤러리] 고객관리팀 신입 채용 (미술 작품 추천 및 운영) (서울 성동구 왕십리로 115 (성수동1가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94648",
+      "date": "2026-08-19",
+      "first_seen": "2026-08-19"
+    },
+    "94647": {
+      "title": "[로데아트센터] <로데아트센터 2026년 8,9월 단기 공연/콩쿨 인력 모집> (서울 서초구 남부순환로317길 79 (서초동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94647",
+      "date": "2026-08-19",
+      "first_seen": "2026-08-19"
+    },
+    "94646": {
+      "title": "[재단법인 영등포문화재단] 2026년 영등포아트홀 제2차 공연장 안내원 모집 공고(~9.1.(화) 24:00) (서울 영등포구 국회대로 596 (당산동3가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94646",
+      "date": "2026-08-19",
+      "first_seen": "2026-08-19"
+    },
+    "94643": {
+      "title": "[광림아트센터] [광림아트센터] BBCH홀 / 장천홀 대관, 티켓, 기획담당자 채용 공고 (서울 강남구 논현로163길 33 (신사동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94643",
+      "date": "2026-08-19",
+      "first_seen": "2026-08-19"
+    },
+    "94642": {
+      "title": "[(주)연극열전] 뮤지컬 엠.버터플라이 하우스 인력 공고 (서울 종로구 대학로12길 21 (동숭동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94642",
+      "date": "2026-08-19",
+      "first_seen": "2026-08-19"
     }
   },
   "wevity": {
@@ -2803,6 +2881,54 @@
       "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202633000000009400006B",
       "date": "2026.08.14 ~ 2026.08.30",
       "first_seen": "2026-08-15"
+    },
+    "20260431195": {
+      "title": "2026년 안동구시장 찜닭 축제",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260431195",
+      "date": "2026.08.20. ~ 2026.09.04.",
+      "first_seen": "2026-08-19"
+    },
+    "202633000000007400023A": {
+      "title": "2026년 질량유량계 설치 지원 간접보조사업자 선정 공모",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202633000000007400023A",
+      "date": "2026.08.19 ~ 2026.10.16",
+      "first_seen": "2026-08-19"
+    },
+    "202600000576176600004A": {
+      "title": "2026년 전지훈련 특화시설(에어돔) 설치 지원 사업",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202600000576176600004A",
+      "date": "2026.08.19 ~ 2026.09.21",
+      "first_seen": "2026-08-19"
+    },
+    "20260430587": {
+      "title": "2026년 용상시장 달빛야시장 축제",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260430587",
+      "date": "2026.08.18. ~ 2026.09.02.",
+      "first_seen": "2026-08-19"
+    },
+    "20260430582": {
+      "title": "충남 스마트팜 지원본부 운영 지원(스마트팜 딸기 수출 경쟁력 강화 지원사업)",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260430582",
+      "date": "2026.08.18. ~ 2026.09.01.",
+      "first_seen": "2026-08-19"
+    },
+    "20260430116": {
+      "title": "2026년 비영리 민간단체 공익활동 지원사업",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260430116",
+      "date": "2026.08.18. ~ 2026.08.31.",
+      "first_seen": "2026-08-19"
+    },
+    "20260400663": {
+      "title": "버섯재배 원자재 구입 지원",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260400663",
+      "date": "2026.08.18. ~ 2026.08.21.",
+      "first_seen": "2026-08-19"
+    },
+    "20260430267": {
+      "title": "2026년 여성단체 국제교류사업 지원 계획 공고",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260430267",
+      "date": "2026.08.14. ~ 2026.08.31.",
+      "first_seen": "2026-08-19"
     }
   },
   "gokams": {
@@ -2943,6 +3069,24 @@
       "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4544&page=1&txtKeyword=&ddlKeyfield=T",
       "date": "2026-08-18",
       "first_seen": "2026-08-18"
+    },
+    "4548": {
+      "title": "2026 뮤지컬 창작진 글로벌 아카데미 공개 특강 참가 신청",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4548&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-08-19",
+      "first_seen": "2026-08-19"
+    },
+    "4547": {
+      "title": "2026 아트코리아랩 입주기업 모집 공모 1차 서류심의 결과",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4547&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-08-19",
+      "first_seen": "2026-08-19"
+    },
+    "4546": {
+      "title": "2026 Dive into Korean Art Conversations 안내 및 사전신청",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4546&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-08-19",
+      "first_seen": "2026-08-19"
     }
   },
   "metaverse_campus_lecture": {
