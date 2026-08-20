@@ -60,6 +60,16 @@
     "first_seen": "2026-08-20"
   },
   {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S64321",
+    "title": "2026년 군포예술인센터 입주단체·예술인 모집 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64321",
+    "date": "2026.08.19 - 2026.09.02",
+    "image": null,
+    "first_seen": "2026-08-20"
+  },
+  {
     "site": "nabi",
     "site_label": "아트센터 나비미술관",
     "id": "1440",
