@@ -14,6 +14,7 @@ from . import gokams
 from . import metaverse_campus_lecture
 from . import wevity_video
 from . import accf
+from . import gmap
 
 SITE_MODULES = [
     artskorealab,
@@ -31,4 +32,5 @@ SITE_MODULES = [
     metaverse_campus_lecture,
     wevity_video,
     accf,
+    gmap,
 ]
