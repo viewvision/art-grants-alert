@@ -775,6 +775,42 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64321",
       "date": "2026.08.19 - 2026.09.02",
       "first_seen": "2026-08-20"
+    },
+    "BSJIN_20260821052007001": {
+      "title": "제 6회 부산진구 버스킹 페스티벌 출연진 모집 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=BSJIN_20260821052007001",
+      "date": "2026.08.20 - 2026.09.11",
+      "first_seen": "2026-08-21"
+    },
+    "DDMAC_NOTICE_20260821045002001": {
+      "title": "동대문페스티벌 POP UP in 성북 개최 안내",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=DDMAC_NOTICE_20260821045002001",
+      "date": "2026.08.21 - 2026.09.04",
+      "first_seen": "2026-08-21"
+    },
+    "GONGJU_NOTICE_20260821044409001": {
+      "title": "2026년 1967호서극장 수시대관공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GONGJU_NOTICE_20260821044409001",
+      "date": "2026.08.20 - 2026.12.31",
+      "first_seen": "2026-08-21"
+    },
+    "JFAC_NOTICE_20260821044343001": {
+      "title": "2026년 9월 제주 예술인 성장 지원 프로그램 [아트내비] 참여 예술인 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=JFAC_NOTICE_20260821044343001",
+      "date": "2026.08.21 - 2026.09.03",
+      "first_seen": "2026-08-21"
+    },
+    "S64359": {
+      "title": "2026년 문화예술기획자양성과정 <문화예술기획자 갈현씨> 참여자 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64359",
+      "date": "2026.08.19 - 2026.09.09",
+      "first_seen": "2026-08-21"
+    },
+    "S64350": {
+      "title": "제51회 정선아리랑제 전국 아리랑 합창대회(일반·시니어부) 재공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64350",
+      "date": "2026.08.20 - 2026.08.28",
+      "first_seen": "2026-08-21"
     }
   },
   "arko_education": {
@@ -2311,6 +2347,48 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94688",
       "date": "2026-08-21",
       "first_seen": "2026-08-21"
+    },
+    "94696": {
+      "title": "[홍익대학교 산학협력단] (복사) 홍익대 대학로 아트센터 하우스 부매니저 기간제 근무자 모집 (서울 종로구 대학로 57 (연건동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94696",
+      "date": "2026-08-21",
+      "first_seen": "2026-08-21"
+    },
+    "94695": {
+      "title": "[쇼온컴퍼니] [쇼온컴퍼니] 공연 언론 홍보 담당 직원 채용 공고 ㅣ 채용 시 마감 (서울 은평구 진관3로 32 (진관동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94695",
+      "date": "2026-08-21",
+      "first_seen": "2026-08-21"
+    },
+    "94694": {
+      "title": "[재단법인 충주문화관광재단] 2026 꿈의 예술단(무용단) 예비거점 지원사업 무용감독 공개 모집 (충북 충주시 사직로 140 (문화동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94694",
+      "date": "2026-08-21",
+      "first_seen": "2026-08-21"
+    },
+    "94693": {
+      "title": "[재단법인 충주문화관광재단] 2026년 꿈의 예술단(극단) 예비거점 지원사업 예술감독 모집 공고 (충북 충주시 사직로 140 (문화동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94693",
+      "date": "2026-08-21",
+      "first_seen": "2026-08-21"
+    },
+    "94692": {
+      "title": "[(주)백산] 푸투라 서울(Futura Seoul) 어시스턴트 큐레이터, 전시 코디네이터/ Office Operations Manager 채용 (서울 종로구 북촌로 61 (가회동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94692",
+      "date": "2026-08-21",
+      "first_seen": "2026-08-21"
+    },
+    "94691": {
+      "title": "[재단법인 영등포문화재단] 2026년 영등포아트홀 제2차 공연장 안내원 모집 공고(~9.1.(화) 24:00) (서울 영등포구 국회대로 596 (당산동3가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94691",
+      "date": "2026-08-21",
+      "first_seen": "2026-08-21"
+    },
+    "94698": {
+      "title": "[(주)인퓨쳐] [행사 운영 인력 채용 공고] 공공기관 / 지자체... (대전광역시 유성구 왕가봉로24번길 15)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94698",
+      "date": "2026-08-21",
+      "first_seen": "2026-08-21"
     }
   },
   "wevity": {
@@ -3225,6 +3303,12 @@
       "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4546&page=1&txtKeyword=&ddlKeyfield=T",
       "date": "2026-08-19",
       "first_seen": "2026-08-19"
+    },
+    "4549": {
+      "title": "2026 국내 화랑 해외 아트페어 참가 하반기 공모 2차 면접심의 결과발표",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4549&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-08-21",
+      "first_seen": "2026-08-21"
     }
   },
   "metaverse_campus_lecture": {
