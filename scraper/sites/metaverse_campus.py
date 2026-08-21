@@ -3,6 +3,8 @@ import re
 import requests
 from bs4 import BeautifulSoup
 
+from . import _ssl_diag
+
 SITE_KEY = "metaverse_campus"
 SITE_LABEL = "가상융합기술 Campus"
 
@@ -17,7 +19,11 @@ FN_VIEW_RE = re.compile(r"fn_view\('([^']*)','([^']*)'")
 
 
 def fetch() -> list:
-    resp = requests.get(LIST_URL, headers=HEADERS, timeout=15)
+    try:
+        resp = requests.get(LIST_URL, headers=HEADERS, timeout=15)
+    except requests.exceptions.SSLError as e:
+        diag = _ssl_diag.diagnose("www.metaverse-campus.kr")
+        raise requests.exceptions.SSLError(f"{e} | 인증서 체인 진단: {diag}") from e
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "lxml")
 
