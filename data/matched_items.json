@@ -1,5 +1,135 @@
 [
   {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "202633000000019000005B",
+    "title": "2026년 기술사업화 패키지 지원사업(2차)",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202633000000019000005B",
+    "date": "2026.08.21 ~ 2026.08.28",
+    "image": null,
+    "first_seen": "2026-08-22"
+  },
+  {
+    "site": "artmore",
+    "site_label": "아트모아",
+    "id": "94688",
+    "title": "[(재)동작문화재단] 2026 꿈의 예술단(무용단) ‘동작’ 예술감독 모집 공고 (서울 동작구 장승배기로 161 (노량진동))",
+    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94688",
+    "date": "2026-08-21",
+    "image": null,
+    "first_seen": "2026-08-21"
+  },
+  {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "20260430903",
+    "title": "2026년 하청노동자 기후재난 예방 지원사업",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260430903",
+    "date": "2026.08.20. ~ 2026.08.31.",
+    "image": null,
+    "first_seen": "2026-08-21"
+  },
+  {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "202633000000004800053B",
+    "title": "2026년 소공인 해외진출 지원사업 전문기관 모집 재공고",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202633000000004800053B",
+    "date": "2026.08.20 ~ 2026.09.03",
+    "image": null,
+    "first_seen": "2026-08-21"
+  },
+  {
+    "site": "metaverse_campus_lecture",
+    "site_label": "가상융합기술 Campus (제작역량강화 교육)",
+    "id": "275",
+    "title": "생성형 AI를 활용한 산업 디지털 트윈 XR 시뮬레이션 제작 과정",
+    "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=275",
+    "date": "2026.09.14 ~ 2026.09.16",
+    "image": null,
+    "first_seen": "2026-08-21"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S64359",
+    "title": "2026년 문화예술기획자양성과정 <문화예술기획자 갈현씨> 참여자 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64359",
+    "date": "2026.08.19 - 2026.09.09",
+    "image": null,
+    "first_seen": "2026-08-21"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "SFAC_NOTICE_20260820044601001",
+    "title": "2027년 서울문화재단 예술지원 운영안 현장공유회 참여자 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20260820044601001",
+    "date": "2026.08.19 - 2026.09.06",
+    "image": null,
+    "first_seen": "2026-08-20"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "NARU_NOTICE_20260819083004001",
+    "title": "2026년 생활예술축제 <춤추는 광진> 참가단체 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=NARU_NOTICE_20260819083004001",
+    "date": "2026.08.21 - 2026.09.11",
+    "image": null,
+    "first_seen": "2026-08-20"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "SFAC_NOTICE_20260819044203001",
+    "title": "2026년 서울문화예술교육센터 서초 정기대관② 4분기 공모 안내",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20260819044203001",
+    "date": "2026.08.21 - 2026.09.02",
+    "image": null,
+    "first_seen": "2026-08-20"
+  },
+  {
+    "site": "gmap",
+    "site_label": "광주미디어아트플랫폼(G.MAP) 공지사항",
+    "id": "105",
+    "title": "[재공모] 2026 G.MAP 디지털아트 컬처랩 프로젝트랩 참여자 모집",
+    "url": "https://gmap.gwangju.go.kr/bbs/board.php?bo_table=notice&wr_id=105",
+    "date": "08-13",
+    "image": null,
+    "first_seen": "2026-08-20"
+  },
+  {
+    "site": "gmap",
+    "site_label": "광주미디어아트플랫폼(G.MAP) 공지사항",
+    "id": "101",
+    "title": "2026 G.MAP 디지털아트 컬처랩 프로젝트랩 참여자 모집",
+    "url": "https://gmap.gwangju.go.kr/bbs/board.php?bo_table=notice&wr_id=101",
+    "date": "07-21",
+    "image": null,
+    "first_seen": "2026-08-20"
+  },
+  {
+    "site": "gmap",
+    "site_label": "광주미디어아트플랫폼(G.MAP) 공지사항",
+    "id": "94",
+    "title": "청년융합예술인 선정 작가전 제1회《G.MAP 뉴웨이브》 전시 연계 웹진 Vol.1-4",
+    "url": "https://gmap.gwangju.go.kr/bbs/board.php?bo_table=notice&wr_id=94",
+    "date": "06-15",
+    "image": null,
+    "first_seen": "2026-08-20"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S64321",
+    "title": "2026년 군포예술인센터 입주단체·예술인 모집 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64321",
+    "date": "2026.08.19 - 2026.09.02",
+    "image": null,
+    "first_seen": "2026-08-20"
+  },
+  {
     "site": "nabi",
     "site_label": "아트센터 나비미술관",
     "id": "1440",

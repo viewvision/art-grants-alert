@@ -13,9 +13,9 @@
 
 ## 알려진 제약사항
 - **해외 IP 차단**: GitHub Actions(미국 등 해외 리전)에서 실행 시 아래 사이트들이 실패함 (로컬 한국 IP에서는 정상 동작 확인됨)
-  - 아트누리, 국가문화예술지원시스템: Connection refused (해외 IP 차단 추정)
-  - 가상융합기술 Campus: SSL 인증서 검증 오류 (원인 미확인, IP 차단이 아닐 수도 있음 — 추후 조사 가능)
-  - 위비티: 403 Forbidden (봇 차단 추정)
+  - 아트누리, 국가문화예술지원시스템: Connection refused (해외 IP 차단 확실 — 코드로 해결 불가, 한국 IP 우회 인프라 필요)
+  - 가상융합기술 Campus: SSL 인증서 검증 오류 — **원인 확인 완료(2026-08-21)**: 서버가 체인에서 중간 인증서(RapidSSL TLS RSA CA G1)를 빠뜨리고 보냄(IP 차단 아님). `.github/workflows/daily.yml`에 GitHub Actions 실행 시 이 중간 인증서를 받아와 CA 번들에 추가하는 단계 추가 — 다음 실행에서 해결 여부 확인 필요
+  - 위비티: 403 Forbidden — 브라우저 User-Agent/Accept-Language/Referer 헤더 보강 + 세션 쿠키 확보 시도(2026-08-21)했으나 여전히 차단됨. 단순 헤더 체크가 아니라 더 강한 봇 차단(WAF/IP 평판 등)으로 추정, 추가 조치 불명
   - 2026-07-31 사용자 결정: 일단 나머지 7개 사이트만 자동화하고 이 4개는 보류. 각 사이트 실패해도 나머지는 정상 진행됨(try/except 처리됨).
 - 매일 실행 시 새 글이 없으면 이메일 발송 안 함(스팸 방지 의도적 설계)
 
@@ -39,6 +39,7 @@
 13. 가상융합기술 Campus (제작역량강화 교육과정) — https://www.metaverse-campus.kr/lecture/listAll.do?menu_idx=50&lecIdx=17 (2026-07-31 추가, 같은 사이트의 다른 메뉴 3개: 기업수요 프로젝트/해외선진기술/생성형AI 교육도 있으나 미추가)
 14. 위비티 (영상/UCC/사진 카테고리) — https://www.wevity.com/?c=find&s=1&gub=1&cidx=10 (2026-07-31 추가)
 15. 국립아시아문화전당재단(ACCF) — 공연 및 행사 > 기획 행사 — https://www.accf.or.kr/main/event/other (2026-08-11 추가, 백엔드 API `main/api/v1/product/list?category=16&status=진행중` 직접 호출)
+16. 광주미디어아트플랫폼(G.MAP) — 공지사항 — https://gmap.gwangju.go.kr/bbs/board.php?bo_table=notice (2026-08-11 추가, 그누보드5 정적 HTML)
 
 ### 보류(URL 미제공, 이번 범위에서 제외 — 나중에 URL 주시면 추가 가능)
 - 예술인경력정보시스템

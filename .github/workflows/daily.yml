@@ -23,6 +23,17 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Prepare CA bundle (metaverse-campus.kr sends an incomplete cert chain)
+        run: |
+          CERTIFI_PATH=$(python3 -c "import certifi; print(certifi.where())")
+          cp "$CERTIFI_PATH" /tmp/ca-bundle.pem
+          if curl -sS -f -o /tmp/rapidssl-intermediate.pem https://cacerts.digicert.com/RapidSSLTLSRSACAG1.crt.pem; then
+            cat /tmp/rapidssl-intermediate.pem >> /tmp/ca-bundle.pem
+            echo "REQUESTS_CA_BUNDLE=/tmp/ca-bundle.pem" >> "$GITHUB_ENV"
+          else
+            echo "[WARN] RapidSSL 중간 인증서 다운로드 실패 — 기본 CA 번들 사용 (metaverse-campus.kr 계속 실패할 수 있음)"
+          fi
+
       - name: Run scraper
         env:
           EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
