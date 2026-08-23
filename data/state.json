@@ -811,6 +811,12 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64350",
       "date": "2026.08.20 - 2026.08.28",
       "first_seen": "2026-08-21"
+    },
+    "S64334": {
+      "title": "2026년 청학문화센터 4분기 정기대관 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64334",
+      "date": "2026.08.24 - 2026.09.04",
+      "first_seen": "2026-08-23"
     }
   },
   "arko_education": {
@@ -2389,6 +2395,24 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94698",
       "date": "2026-08-21",
       "first_seen": "2026-08-21"
+    },
+    "94704": {
+      "title": "[국립정동극장] 2026 국립정동극장 공연장 안내원 모집 공고(~9/1 18:00) (서울 중구 정동길 43 (정동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94704",
+      "date": "2026-08-23",
+      "first_seen": "2026-08-23"
+    },
+    "94703": {
+      "title": "[홍익대학교 산학협력단] 홍익대 대학로 아트센터 하우스 안내원 기간제 근무자 모집 (서울 종로구 대학로 57 (연건동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94703",
+      "date": "2026-08-23",
+      "first_seen": "2026-08-23"
+    },
+    "94702": {
+      "title": "[홍익대학교 산학협력단] 홍익대 대학로 아트센터 하우스 부매니저 기간제 근무자 모집 (서울 종로구 대학로 57 (연건동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94702",
+      "date": "2026-08-23",
+      "first_seen": "2026-08-23"
     }
   },
   "wevity": {
