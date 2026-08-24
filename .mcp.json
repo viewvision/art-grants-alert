@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "watch-skill": {
+      "command": "uvx",
+      "args": ["--from", "watch-skill[standard]", "watch-skill", "serve"]
+    }
+  }
+}
