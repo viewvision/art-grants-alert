@@ -1,5 +1,55 @@
 [
   {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S64399",
+    "title": "2026년 교촌버스킹 전문공연예술인 모집 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64399",
+    "date": "2026.08.24 - 2026.09.11",
+    "image": null,
+    "first_seen": "2026-08-24"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "GURI_MENU_20260822044432001",
+    "title": "2026년 경기문화예술교육 광역-기초협력형연수_구리",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GURI_MENU_20260822044432001",
+    "date": "2026.08.21 - 2026.09.10",
+    "image": null,
+    "first_seen": "2026-08-24"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "JFAC_NOTICE_20260822044344001",
+    "title": "2026년 생활문화예술활동 지원사업 의견수렴 간담회 참여자 모집 안내",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=JFAC_NOTICE_20260822044344001",
+    "date": "2026.08.21 - 2026.08.26",
+    "image": null,
+    "first_seen": "2026-08-24"
+  },
+  {
+    "site": "artmore",
+    "site_label": "아트모아",
+    "id": "94713",
+    "title": "[(주)이지뮤지컬컴퍼니] (추경)예술기반 청년일자리지원(연수단원)채용 (이... (서울특별시 강남구 역삼로 217)",
+    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94713",
+    "date": "2026-08-24",
+    "image": null,
+    "first_seen": "2026-08-24"
+  },
+  {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "20260418930",
+    "title": "2026년 문해교육기관 지원사업",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260418930",
+    "date": "2026.08.25. ~ 2026.09.09.",
+    "image": null,
+    "first_seen": "2026-08-24"
+  },
+  {
     "site": "bojo",
     "site_label": "e나라도움(보조금통합포털)",
     "id": "202633000000019000005B",
