@@ -60,6 +60,46 @@
     "first_seen": "2026-08-28"
   },
   {
+    "site": "ncas",
+    "site_label": "국가문화예술지원시스템",
+    "id": "https://www.bscf.or.kr/view.do?pageIndex=1&pgMode=show&sv=&sw=&no=1010&nowUrl=%2Fview.do%3Fno%3D1010&siteId=SITE003&pbancSn=2400&_csrf=d4201ede-65a2-4242-b720-443db1bf021b",
+    "title": "우수예술-전통국악(단체)",
+    "url": "https://www.bscf.or.kr/view.do?pageIndex=1&pgMode=show&sv=&sw=&no=1010&nowUrl=%2Fview.do%3Fno%3D1010&siteId=SITE003&pbancSn=2400&_csrf=d4201ede-65a2-4242-b720-443db1bf021b",
+    "date": "2026.08.31 17:00 (D-02)",
+    "image": null,
+    "first_seen": "2026-08-28"
+  },
+  {
+    "site": "ncas",
+    "site_label": "국가문화예술지원시스템",
+    "id": "https://www.cacf.or.kr/site/board/index.php?fn=view&no=2026080513373658328&table_nm=tbl_culture",
+    "title": "창작공간 임차료 지원사업 추가공모",
+    "url": "https://www.cacf.or.kr/site/board/index.php?fn=view&no=2026080513373658328&table_nm=tbl_culture",
+    "date": "2026.09.07 23:59 (D-09)",
+    "image": null,
+    "first_seen": "2026-08-28"
+  },
+  {
+    "site": "artmore",
+    "site_label": "아트모아",
+    "id": "94781",
+    "title": "[오페라박물관 과천] [오페라박물관 과천] 음악 예술 기록물 관리 아키비스트 모집 (경기 과천시 가일로 56 (갈현동))",
+    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94781",
+    "date": "2026-08-28",
+    "image": null,
+    "first_seen": "2026-08-28"
+  },
+  {
+    "site": "gokams",
+    "site_label": "예술경영지원센터",
+    "id": "4553",
+    "title": "2026 예술기업 상생혁신(오픈이노베이션) 지원사업 공모 2차 발표심의 대상자 안내",
+    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4553&page=1&txtKeyword=&ddlKeyfield=T",
+    "date": "2026-08-28",
+    "image": null,
+    "first_seen": "2026-08-28"
+  },
+  {
     "site": "arko_thearts",
     "site_label": "아르코 통합플랫폼",
     "id": "GCTF_NOTICE_20260825095005001",
