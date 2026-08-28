@@ -2,6 +2,66 @@
   {
     "site": "arko_thearts",
     "site_label": "아르코 통합플랫폼",
+    "id": "S64446",
+    "title": "2026년 예술 일자리 박람회 협업 실험실 프로그램 참여자 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64446",
+    "date": "2026.07.10 - 2026.09.10",
+    "image": null,
+    "first_seen": "2026-08-28"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "GCFAC_NOTICE_20260826011418001",
+    "title": "2026년 하반기 금천뮤지컬센터 금천예술극장 수시대관 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GCFAC_NOTICE_20260826011418001",
+    "date": "2026.08.25 - 2026.09.07",
+    "image": null,
+    "first_seen": "2026-08-28"
+  },
+  {
+    "site": "artmore",
+    "site_label": "아트모아",
+    "id": "94780",
+    "title": "[예술의전당] 예술의전당 음악당 하우스 어텐던트 2026년 하반기 9월 모집 (~9/1) (서울 서초구 남부순환로 2406 (서초동))",
+    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94780",
+    "date": "2026-08-28",
+    "image": null,
+    "first_seen": "2026-08-28"
+  },
+  {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "202600002600019500006A",
+    "title": "2026년도 국내동포 관련 단체 지원사업 3차 공모",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202600002600019500006A",
+    "date": "2026.08.31 ~ 2026.09.14",
+    "image": null,
+    "first_seen": "2026-08-28"
+  },
+  {
+    "site": "gokams",
+    "site_label": "예술경영지원센터",
+    "id": "4552",
+    "title": "2026 예술산업보증 9월(6차) 공모 안내(9.1.(화)~9.10.(목), 16:00)",
+    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4552&page=1&txtKeyword=&ddlKeyfield=T",
+    "date": "2026-08-27",
+    "image": null,
+    "first_seen": "2026-08-28"
+  },
+  {
+    "site": "metaverse_campus_lecture",
+    "site_label": "가상융합기술 Campus (제작역량강화 교육)",
+    "id": "276",
+    "title": "생성형 AI와 3D 공간 구축 솔루션을 활용한 버추얼 트윈 실무 과정",
+    "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=276",
+    "date": "2026.09.29 ~ 2026.10.01",
+    "image": null,
+    "first_seen": "2026-08-28"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
     "id": "GCTF_NOTICE_20260825095005001",
     "title": "문화인력 양성 및 활용사업예술활동증명 발급 신청 행정지원 안내",
     "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GCTF_NOTICE_20260825095005001",
