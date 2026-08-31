@@ -973,6 +973,12 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GCFAC_NOTICE_20260826011418001",
       "date": "2026.08.25 - 2026.09.07",
       "first_seen": "2026-08-28"
+    },
+    "BCF_BOARD_20260827053018001": {
+      "title": "부천악기은행 교육바우처 시범운영 신청안내",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=BCF_BOARD_20260827053018001",
+      "date": "2026.08.31 - 2026.09.05",
+      "first_seen": "2026-08-31"
     }
   },
   "arko_education": {
@@ -2911,6 +2917,36 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94788",
       "date": "2026-08-29",
       "first_seen": "2026-08-29"
+    },
+    "94793": {
+      "title": "[라인문화재단] [라인문화재단] 홍보기획 경력직 채용 (서울 강남구 봉은사로 541 (삼성동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94793",
+      "date": "2026-08-31",
+      "first_seen": "2026-08-31"
+    },
+    "94792": {
+      "title": "[재단법인 파마리서치문화재단] 파마리서치문화재단 출판·인쇄물 제작 담당 채용 공고 (경기 성남시 수정구 금토로40번길 22 (금토동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94792",
+      "date": "2026-08-31",
+      "first_seen": "2026-08-31"
+    },
+    "94791": {
+      "title": "[코오롱엘에스아이 주식회사] (복사) (복사) [ 스페이스 K 서울 ] 단기 알바 1명 채용 (서울 강서구 마곡중앙8로 32 (마곡동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94791",
+      "date": "2026-08-31",
+      "first_seen": "2026-08-31"
+    },
+    "94790": {
+      "title": "[예술의전당] 예술의전당 음악당 하우스 어텐던트 2026년 하반기 9월 모집 (~9/1) (서울 서초구 남부순환로 2406 (서초동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94790",
+      "date": "2026-08-30",
+      "first_seen": "2026-08-31"
+    },
+    "94789": {
+      "title": "[홍익대학교 산학협력단] (복사) 2026 홍익대 대학로 아트센터 무대감독 채용공고 (서울 종로구 대학로 57 (연건동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94789",
+      "date": "2026-08-30",
+      "first_seen": "2026-08-31"
     }
   },
   "wevity": {
