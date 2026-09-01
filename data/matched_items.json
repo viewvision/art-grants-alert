@@ -2,6 +2,86 @@
   {
     "site": "arko_thearts",
     "site_label": "아르코 통합플랫폼",
+    "id": "JFAC_NOTICE_20260829044239001",
+    "title": "2026년 예술지원사업 개선을 위한 <예술현장 라운드테이블> 2차 그룹 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=JFAC_NOTICE_20260829044239001",
+    "date": "2026.08.31 - 2026.09.08",
+    "image": null,
+    "first_seen": "2026-09-01"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "SFAC_NOTICE_20260829044157002",
+    "title": "2026 예술인 스터디 커뮤니티 <모닝쿼드> 호스트 모집 공모",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20260829044157002",
+    "date": "2026.08.28 - 2026.09.16",
+    "image": null,
+    "first_seen": "2026-09-01"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S64551",
+    "title": "한국문화예술회관연합회-국립심포니오케스트라 2026년 우수 콘텐츠 지역 문예회관 유통 사업 공모",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64551",
+    "date": "2026.08.28 - 2026.09.15",
+    "image": null,
+    "first_seen": "2026-09-01"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "SFAC_NOTICE_20260828044601001",
+    "title": "서울거리예술창작센터 10월 정기대관 신청 안내",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20260828044601001",
+    "date": "2026.09.01 - 2026.09.05",
+    "image": null,
+    "first_seen": "2026-09-01"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "GOKAMS_APPLY_20260828044455001",
+    "title": "2026년 예술산업보증 9월(6차) 공모",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_APPLY_20260828044455001",
+    "date": "2026.09.01 - 2026.09.10",
+    "image": null,
+    "first_seen": "2026-09-01"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S64541",
+    "title": "2026년 지역특화상품개발유통 및 지원사업 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64541",
+    "date": "2026.08.27 - 2026.09.10",
+    "image": null,
+    "first_seen": "2026-09-01"
+  },
+  {
+    "site": "artmore",
+    "site_label": "아트모아",
+    "id": "94800",
+    "title": "[주식회사 아트숨비] (주)아트숨비 문화예술행사 기획자(팀장) 채용 (서울 은평구 은평로8길 9 (응암동))",
+    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94800",
+    "date": "2026-08-31",
+    "image": null,
+    "first_seen": "2026-09-01"
+  },
+  {
+    "site": "gokams",
+    "site_label": "예술경영지원센터",
+    "id": "4554",
+    "title": "2026 공연예술 관람료 지원 사업 2차 발행 안내",
+    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4554&page=1&txtKeyword=&ddlKeyfield=T",
+    "date": "2026-08-31",
+    "image": null,
+    "first_seen": "2026-09-01"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
     "id": "S64446",
     "title": "2026년 예술 일자리 박람회 협업 실험실 프로그램 참여자 모집",
     "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64446",
