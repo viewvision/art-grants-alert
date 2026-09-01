@@ -1045,6 +1045,42 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64541",
       "date": "2026.08.27 - 2026.09.10",
       "first_seen": "2026-09-01"
+    },
+    "NOWON_NOTICE_20260901044349001": {
+      "title": "2026년 노원달빛산책 달빛해설사 모집 공고 N",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=NOWON_NOTICE_20260901044349001",
+      "date": "2026.08.31 - 2026.09.06",
+      "first_seen": "2026-09-01"
+    },
+    "SFAC_NOTICE_20260901044205002": {
+      "title": "<제5회 서울예술상> 스팍 포커스상 후보작 공모 안내",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20260901044205002",
+      "date": "2026.08.31 - 2027.01.05",
+      "first_seen": "2026-09-01"
+    },
+    "KCDF_MENU_20260901044123001": {
+      "title": "2026년 하반기 전통문화 혁신이용권 공급기업 공모",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=KCDF_MENU_20260901044123001",
+      "date": "2026.08.31 - 2026.09.18",
+      "first_seen": "2026-09-01"
+    },
+    "S64612": {
+      "title": "대한민국 문화도시 충주 융복합 문화 콘텐츠 창제작 지원사업 <THE NEXT SHOW II> 참여자 모집 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64612",
+      "date": "2026.08.31 - 2026.09.28",
+      "first_seen": "2026-09-01"
+    },
+    "S64595": {
+      "title": "제61회 설악문화제 거리퍼레이드 참가자 모집 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64595",
+      "date": "2026.08.31 - 2026.09.10",
+      "first_seen": "2026-09-01"
+    },
+    "S64584": {
+      "title": "2026년 공연예술 관람료 지원 사업 2차 발행 안내",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64584",
+      "date": "2026.09.01 - 2026.11.30",
+      "first_seen": "2026-09-01"
     }
   },
   "arko_education": {
@@ -1089,6 +1125,12 @@
       "url": "https://arko.or.kr/artcenter/board/view/521?bid=327&cid=717615&category=education",
       "date": "2026.08.07 ~ 2026.09.27",
       "first_seen": "2026-08-06"
+    },
+    "/artcenter/board/view/521?bid=327&cid=717725&category=education": {
+      "title": "[문학주간2026] 예술로소풍 X 현대어린이책미술관 전시 《세상의 눈 L’œil du monde》연계 교육 프로그램 〈눈짓에서 손짓으로〉",
+      "url": "https://arko.or.kr/artcenter/board/view/521?bid=327&cid=717725&category=education",
+      "date": "2026.09.19 ~ 2026.09.20",
+      "first_seen": "2026-09-01"
     }
   },
   "artnuri": {
@@ -3061,6 +3103,66 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94794",
       "date": "2026-08-31",
       "first_seen": "2026-09-01"
+    },
+    "94829": {
+      "title": "[주식회사 인사이드아트] [후즈아트] 클래식 크리에이터 크루 1기 모집(~9/13) (서울 성동구 광나루로 286 (성수동2가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94829",
+      "date": "2026-09-02",
+      "first_seen": "2026-09-01"
+    },
+    "94821": {
+      "title": "[놀씨어터] [놀씨어터] 블루스퀘어 조명팀 조명감독 (정규직) (서울 용산구 이태원로 294 (한남동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94821",
+      "date": "2026-09-01",
+      "first_seen": "2026-09-01"
+    },
+    "94818": {
+      "title": "[(주)서울옥션] [서울옥션] 브랜드기획팀 전시장 리셉션 및 인포데스크 인턴 상시채용 (인재 Pool 등록) (서울 강남구 언주로 864 (신사동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94818",
+      "date": "2026-09-01",
+      "first_seen": "2026-09-01"
+    },
+    "94817": {
+      "title": "[(주)에이치알메이트] [반도문화재단] 라운지 안내원 모집 (경기 화성시 동탄광역환승로 73 (오산동, 동탄역 반도유보라 아이비파크 8.0))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94817",
+      "date": "2026-09-01",
+      "first_seen": "2026-09-01"
+    },
+    "94816": {
+      "title": "[더뮤엘] 9/12(토) 수원컨벤션센터 클래식 공연 일일 스텝 모집 (경기 수원시 영통구 광교중앙로 140 (하동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94816",
+      "date": "2026-09-01",
+      "first_seen": "2026-09-01"
+    },
+    "94815": {
+      "title": "[(주)케이옥션] [케이옥션] 신입·경력 경매스페셜리스트 양성과정 채용 (9월) (서울 강남구 언주로172길 23 (신사동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94815",
+      "date": "2026-09-01",
+      "first_seen": "2026-09-01"
+    },
+    "94814": {
+      "title": "[(주)갤러리현대] 갤러리현대 - 홍보팀 채용 (서울 종로구 삼청로 14 (사간동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94814",
+      "date": "2026-09-01",
+      "first_seen": "2026-09-01"
+    },
+    "94813": {
+      "title": "[국립극단] (재)국립극단 제3차 직원 채용 공고 (서울 중구 장충단로 59 (장충동2가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94813",
+      "date": "2026-09-01",
+      "first_seen": "2026-09-01"
+    },
+    "94812": {
+      "title": "[세종국악관현악단] 2026년 예술기반 청년일자리(연수단원) 추가 모집 공고 (경기 군포시 고산로 599 (산본동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94812",
+      "date": "2026-09-01",
+      "first_seen": "2026-09-01"
+    },
+    "94811": {
+      "title": "[심스튜디오] 창작음악극 <달빛> 출연자 및 제작진 모집합니다(기획,연출,디자이너 등) (서울 서초구 효령로53길 18 (서초동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94811",
+      "date": "2026-09-01",
+      "first_seen": "2026-09-01"
     }
   },
   "wevity": {
@@ -3973,6 +4075,60 @@
       "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260432568",
       "date": "2026.08.26. ~ 2026.09.11.",
       "first_seen": "2026-08-29"
+    },
+    "20260433629": {
+      "title": "2026 안동 낙동강 힐링로드 보조사업 지원신청 공모",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260433629",
+      "date": "2026.09.07. ~ 2026.09.14.",
+      "first_seen": "2026-09-01"
+    },
+    "20260434232": {
+      "title": "2026년 대도시 경남 우수 농특산물 직거래장터 지원사업",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260434232",
+      "date": "2026.09.02. ~ 2026.09.07.",
+      "first_seen": "2026-09-01"
+    },
+    "20260433853": {
+      "title": "2026년 풍산시장 전통주와 김장 축제",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260433853",
+      "date": "2026.09.01. ~ 2026.09.16.",
+      "first_seen": "2026-09-01"
+    },
+    "20260433894": {
+      "title": "2026년 중앙신시장 가래떡 축제 (가제)",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260433894",
+      "date": "2026.09.01. ~ 2026.09.16.",
+      "first_seen": "2026-09-01"
+    },
+    "20260434366": {
+      "title": "2026년 나주시민 건강걷기 대회",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260434366",
+      "date": "2026.09.01. ~ 2026.09.03.",
+      "first_seen": "2026-09-01"
+    },
+    "202600000571530400005A": {
+      "title": "2026년 하반기 사육곰 보호·관리 지원사업(사육곰 보호시설 설치 지원)",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202600000571530400005A",
+      "date": "2026.09.01 ~ 2026.09.16",
+      "first_seen": "2026-09-01"
+    },
+    "202632000000021700007A": {
+      "title": "2026년 생태계교란생물 퇴치사업",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000021700007A",
+      "date": "2026.09.01 ~ 2026.09.10",
+      "first_seen": "2026-09-01"
+    },
+    "20260433509": {
+      "title": "2026년 시설장비 지원사업",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260433509",
+      "date": "2026.08.31. ~ 2026.09.11.",
+      "first_seen": "2026-09-01"
+    },
+    "202600000570304600001A": {
+      "title": "북한 결핵 대응 공감대 확산을 위한 국제 세미나 개최",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202600000570304600001A",
+      "date": "2026.08.31 ~ 2026.09.15",
+      "first_seen": "2026-09-01"
     }
   },
   "gokams": {
@@ -4451,6 +4607,12 @@
       "url": "https://gmap.gwangju.go.kr/bbs/board.php?bo_table=notice&wr_id=107",
       "date": "08-25",
       "first_seen": "2026-08-25"
+    },
+    "108": {
+      "title": "2026 G.MAP 디지털아트 컬처랩 프로젝트랩 최종 합격자 공고",
+      "url": "https://gmap.gwangju.go.kr/bbs/board.php?bo_table=notice&wr_id=108",
+      "date": "08-31",
+      "first_seen": "2026-09-01"
     }
   }
 }
