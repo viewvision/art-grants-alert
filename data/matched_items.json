@@ -2,6 +2,46 @@
   {
     "site": "arko_thearts",
     "site_label": "아르코 통합플랫폼",
+    "id": "CRL3578",
+    "title": "2026년 공연예술대관료지원 2차 공모",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CRL3578",
+    "date": "2026.09.02 - 2026.09.15",
+    "image": null,
+    "first_seen": "2026-09-02"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "BCF_BOARD_20260902053012001",
+    "title": "2026년 문화예술교육 활성화 사업 <예술 그리고, 전통> - 「단아하고 청아하게, 단청」교육 참여자 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=BCF_BOARD_20260902053012001",
+    "date": "2026.09.01 - 2026.09.17",
+    "image": null,
+    "first_seen": "2026-09-02"
+  },
+  {
+    "site": "artmore",
+    "site_label": "아트모아",
+    "id": "94833",
+    "title": "[평택시문화재단] 2026년 평택시 문화예술회관 제2차 공연장안내원 인력풀 모집 공고 (경기 평택시 중앙로 277 (비전동))",
+    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94833",
+    "date": "2026-09-02",
+    "image": null,
+    "first_seen": "2026-09-02"
+  },
+  {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "202632000000022200061B",
+    "title": "2026년 스마트 APC 지원사업",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000022200061B",
+    "date": "2026.09.03 ~ 2026.09.09",
+    "image": null,
+    "first_seen": "2026-09-02"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
     "id": "JFAC_NOTICE_20260829044239001",
     "title": "2026년 예술지원사업 개선을 위한 <예술현장 라운드테이블> 2차 그룹 모집",
     "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=JFAC_NOTICE_20260829044239001",
