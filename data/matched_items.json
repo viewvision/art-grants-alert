@@ -2,6 +2,16 @@
   {
     "site": "arko_thearts",
     "site_label": "아르코 통합플랫폼",
+    "id": "ARTE_INFO_20260903044543001",
+    "title": "2026년 국민문화예술교육조사 실시 안내와 협조 요청",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=ARTE_INFO_20260903044543001",
+    "date": "2026.09.03 - 2026.10.31",
+    "image": null,
+    "first_seen": "2026-09-03"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
     "id": "CRL3578",
     "title": "2026년 공연예술대관료지원 2차 공모",
     "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CRL3578",
