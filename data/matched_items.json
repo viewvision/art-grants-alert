@@ -1,5 +1,95 @@
 [
   {
+    "site": "artskorealab",
+    "site_label": "아트코리아랩",
+    "id": "2609040001",
+    "title": "2026 아트코리아랩 AI+기술융합 오픈이노베이션(2차) 지원사업 1차 서류심의 결과",
+    "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2609040001",
+    "date": "2026-09-04",
+    "image": null,
+    "first_seen": "2026-09-04"
+  },
+  {
+    "site": "artnuri",
+    "site_label": "아트누리",
+    "id": "2609020003",
+    "title": "2026년 디지털아트 컬처랩｜유스랩 참여자 모집 (교육 수료증 발급, 우수 결과물 쇼케이스 발표!)",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=2609020003&source=광주미디어아트플랫폼(G.MAP)&seNo=002",
+    "date": "~ 2026-12-05",
+    "image": null,
+    "first_seen": "2026-09-04"
+  },
+  {
+    "site": "ncas",
+    "site_label": "국가문화예술지원시스템",
+    "id": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3578&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&pageSetting=&sc_seNo=&key=2301170002&sc_orderBy=&recordCountPerPage=10&pageIndex=1&sc_hash=&sc_list=&seNo=001&sw=%EB%8C%80%EA%B4%80%EB%A3%8C&sc_genre=&sc_target=&sc_local=&sc_field=&sc_isDo=",
+    "title": "공연예술대관료지원 공모-2차",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3578&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&pageSetting=&sc_seNo=&key=2301170002&sc_orderBy=&recordCountPerPage=10&pageIndex=1&sc_hash=&sc_list=&seNo=001&sw=%EB%8C%80%EA%B4%80%EB%A3%8C&sc_genre=&sc_target=&sc_local=&sc_field=&sc_isDo=",
+    "date": "2026.09.16 17:59 (D-11)",
+    "image": null,
+    "first_seen": "2026-09-04"
+  },
+  {
+    "site": "ncas",
+    "site_label": "국가문화예술지원시스템",
+    "id": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4552&page=1&txtKeyword=&ddlKeyfield=T",
+    "title": "예술산업보증 9월(6차) 공모",
+    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4552&page=1&txtKeyword=&ddlKeyfield=T",
+    "date": "2026.09.10 16:00 (D-05)",
+    "image": null,
+    "first_seen": "2026-09-04"
+  },
+  {
+    "site": "gokams",
+    "site_label": "예술경영지원센터",
+    "id": "4561",
+    "title": "2026 예술산업아카데미 <예술창업 모닝 살롱 Vol.4> 수강생 모집",
+    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4561&page=1&txtKeyword=&ddlKeyfield=T",
+    "date": "2026-09-04",
+    "image": null,
+    "first_seen": "2026-09-04"
+  },
+  {
+    "site": "gokams",
+    "site_label": "예술경영지원센터",
+    "id": "4560",
+    "title": "2026 예술산업아카데미 예술산업 입직을 위한 진로 및 취업상담(10월) 수강생 모집",
+    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4560&page=1&txtKeyword=&ddlKeyfield=T",
+    "date": "2026-09-04",
+    "image": null,
+    "first_seen": "2026-09-04"
+  },
+  {
+    "site": "gokams",
+    "site_label": "예술경영지원센터",
+    "id": "4559",
+    "title": "2026 예술산업아카데미 <예술산업 HR 커뮤니티 Connect - 4회차> 수강생 모집",
+    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4559&page=1&txtKeyword=&ddlKeyfield=T",
+    "date": "2026-09-04",
+    "image": null,
+    "first_seen": "2026-09-04"
+  },
+  {
+    "site": "gokams",
+    "site_label": "예술경영지원센터",
+    "id": "4558",
+    "title": "2026 예술산업아카데미 <예술기업 자금전략 로드맵> 수강생 모집",
+    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4558&page=1&txtKeyword=&ddlKeyfield=T",
+    "date": "2026-09-04",
+    "image": null,
+    "first_seen": "2026-09-04"
+  },
+  {
+    "site": "gokams",
+    "site_label": "예술경영지원센터",
+    "id": "4557",
+    "title": "2026 아트코리아랩 AI+기술융합 오픈이노베이션(2차) 1차 서류심의 결과",
+    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4557&page=1&txtKeyword=&ddlKeyfield=T",
+    "date": "2026-09-04",
+    "image": null,
+    "first_seen": "2026-09-04"
+  },
+  {
     "site": "arko_thearts",
     "site_label": "아르코 통합플랫폼",
     "id": "ARTE_INFO_20260903044543001",
