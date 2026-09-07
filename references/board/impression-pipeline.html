@@ -209,6 +209,41 @@ h2{font-size:21px}
 }
 .gap p{font-size:13px; color:var(--ink-2); margin-top:4px; line-height:1.55}
 
+/* ── hardware ───────────────────────────────────── */
+.hw{display:flex; flex-direction:column; gap:1px; background:var(--line); border:1px solid var(--line); border-radius:6px; overflow:hidden}
+.hw-row{background:var(--surface); display:grid; grid-template-columns:64px 1fr; gap:14px; padding:15px 16px}
+.hw-row[data-s="todo"]{background:transparent}
+.hw-layer{
+  font-family:"IBM Plex Mono",monospace; font-size:11px; letter-spacing:.08em;
+  color:var(--ink-3); text-transform:uppercase; padding-top:3px;
+}
+.hw-row[data-s="have"] .hw-layer{color:var(--accent)}
+.hw-name{font-family:"Noto Serif KR",serif; font-weight:700; font-size:16px; display:flex; align-items:baseline; gap:9px; flex-wrap:wrap}
+.hw-tag{
+  font-family:"IBM Plex Mono",monospace; font-weight:400; font-size:11px;
+  letter-spacing:.04em; padding:2px 8px; border-radius:999px;
+  border:1px solid var(--line-2); color:var(--ink-3);
+}
+.hw-row[data-s="have"] .hw-tag{background:var(--accent-solid); border-color:var(--accent-solid); color:var(--accent-ink)}
+.hw-row[data-s="todo"] .hw-tag{border-style:dashed; color:var(--alert); border-color:var(--alert)}
+.hw-spec{
+  font-family:"IBM Plex Mono",monospace; font-size:12px; color:var(--ink-2);
+  margin-top:6px; line-height:1.5;
+}
+.hw-why{font-size:13px; color:var(--ink-2); margin-top:7px; line-height:1.55}
+
+.bud-h{font-size:15px; margin:30px 0 12px}
+.bud{width:100%; font-size:13.5px}
+.bud tr{border-top:1px solid var(--line)}
+.bud tr:first-child{border-top:none}
+.bud th{text-align:left; font-weight:600; padding:9px 12px 9px 0; white-space:nowrap}
+.bud td{padding:9px 12px 9px 0; color:var(--ink-2)}
+.bud-v{font-family:"IBM Plex Mono",monospace; font-variant-numeric:tabular-nums; white-space:nowrap}
+.bud tr[data-s="ok"] .bud-v{color:var(--accent)}
+.bud tr[data-s="unknown"] .bud-v{color:var(--alert)}
+.bud-w{width:99%; font-size:12.5px; color:var(--ink-3)}
+.bud-note{font-size:13px; color:var(--ink-2); margin-top:14px; max-width:64ch; line-height:1.6}
+
 /* ── palette ────────────────────────────────────── */
 .pal{display:grid; grid-template-columns:repeat(4,1fr); gap:14px}
 .pal-col{display:flex; flex-direction:column; gap:0}
@@ -239,6 +274,9 @@ footer{
   .two,.pal{grid-template-columns:1fr}
   .row{grid-template-columns:28px 1fr; gap:10px}
   .row .chip{grid-column:2; justify-self:start; margin-top:10px}
+  .hw-row{grid-template-columns:1fr; gap:6px}
+  .bud th,.bud td{display:block; padding:2px 0}
+  .bud tr{padding:9px 0; display:block}
   .log li{grid-template-columns:1fr; gap:2px}
 }
 @media (prefers-reduced-motion:reduce){
@@ -268,13 +306,13 @@ footer{
     {"k":"B","t":"물 valence · 배경 HEX 확정","kind":"결정","s":"todo","dep":"",
      "note":"둘 다 색 관련이라 렌더 단계에서 눈으로 보며 확정. 임계 경로 아님."},
     {"k":"C","t":"3단계 감정 인식 모듈","kind":"개발","s":"active","dep":"",
-     "note":"py-feat 2.1.2 채택. OpenFace 2.0·LibreFace는 비상업 라이선스로 탈락 — 성능이 아니라 설치 자체가 불가. 남은 두 항목은 작업 PC에서 해야 한다.",
+     "note":"py-feat 2.1.2 v1 경로로 확정. OpenFace 2.0·LibreFace는 비상업 라이선스로 탈락했고, py-feat도 v2 가중치는 research-only라 못 쓴다. v1은 AU 20종이 동일해 설계 변경이 없다. 남은 실측은 작업 PC에서 해야 한다.",
      "subs":[
        {"t":"후보 5종 비교 · 라이선스 검토","d":true},
-       {"t":"EmotionSignal 어댑터 작성 (adapters.py, 검증 18건 통과)","d":true},
-       {"t":"v2 가중치 라이선스 확인 — 배포 패키지·GitHub 어디에도 없다","d":false},
-       {"t":"실측 — 지연 시간 · AU06/12 반응성 · arousal 분포","d":false},
-       {"t":"arousal 표정 쪽 재료 확정 — AU 확률합 vs py-feat 네이티브","d":false}
+       {"t":"EmotionSignal 어댑터 작성 (adapters.py, 검증 22건 통과)","d":true},
+       {"t":"v2 가중치 라이선스 확인 — research-only 확정, v1로 전환","d":true},
+       {"t":"실측 — 지연 시간 · AU06/12 반응성 · v1 AU06 신뢰도","d":false},
+       {"t":"실측값으로 정규화 기준 재조정 (AU 합 5.0 · 움직임 0.35m/s)","d":false}
      ]},
     {"k":"D","t":"캡처 → 인식 → 엔진 → TD 전 구간 연결","kind":"개발","s":"todo","dep":"C",
      "note":"엔진이 to_render_spec() JSON으로 색·비중·배경·문구를 다 내주므로 TD 쪽은 파싱만 하면 된다."},
@@ -288,6 +326,9 @@ footer{
      "note":"「감정의 인상」은 작품명이지 제품명이 아니다. impression_engine은 임시 이름."}
   ],
   "log": [
+    {"d":"09-07","t":"Azure Kinect DK 2대 보유 확인","x":"카메라 조달이 계획에서 빠졌다. 단종품이라 예비기 1대가 3개월 무인 전시의 가동률을 좌우한다."},
+    {"d":"09-07","t":"py-feat v2 탈락 — research-only","x":"모델 카드에서 확정. v1 경로로 간다. AU 20종이 동일해 설계 변경은 없고, 네이티브 arousal 논점도 함께 닫혔다."},
+    {"d":"09-07","t":"웃음근육 가중치 AU12 3 : AU06 1","x":"모델 카드가 AU06을 F1 0.526의 최약점으로 명시했다. 공기의 희망·불안 분기가 이 신호 하나에 걸려 있어 눌러 두었다."},
     {"d":"09-07","t":"py-feat 어댑터 완성","x":"흙 비중이 py-feat Neutral 확률과 정확히 일치한다. 잔여값으로 평온을 정의한 설계와 모델 출력이 맞아떨어지는 지점."},
     {"d":"09-07","t":"인식 모듈 py-feat 2.1.2 채택","x":"상업 이용 가능 라이선스를 선정 기준에 추가하자 기존 후보 3개 중 2개가 탈락했다."},
     {"d":"09-07","t":"arousal = 0.5×표정강도 + 0.5×움직임","x":"확률합은 격자의 70%가 '고'로 쏠려 강도축이 무너진다. 가중합은 저:중:고를 24:52:24로 쓴다."},
@@ -296,10 +337,27 @@ footer{
     {"d":"08-14","t":"24슬롯 구조 확정","x":"단일 우세형 18 + 혼합형 6. 격차 임계 10%p, 강도 3구간."}
   ],
   "gaps": [
-    {"t":"py-feat v2 가중치 라이선스","c":"문서화 안 됨","p":"배포 패키지와 GitHub LICENSE에 열거된 모델 10종에 v2 항목이 없다. 막히면 v1 경로로 내려가면 되고, AU 20종이 동일해 설계에는 지장이 없다."},
+    {"t":"워크스테이션 GPU 사양","c":"미정","p":"하드웨어에서 유일하게 남은 미확정 항목이자 임계 경로. py-feat 추론과 TouchDesigner 렌더 두 가지만이 이 사양을 결정한다. C-3 실측이 이것도 함께 푼다."},
     {"t":"표정 강도 정규화 기준","c":"5.0 잠정","p":"py-feat AU는 0~1 확률값이라 OpenFace 기준 12.0을 그대로 쓰면 강도가 늘 낮게 깎인다. 실측에서 확정."},
+    {"t":"v1의 AU06 신뢰도","c":"미측정","p":"v2 모델 카드는 AU06을 F1 0.526의 최약점으로 밝혔다. v1도 같은지 확인해 웃음근육 가중치 3:1을 재조정한다."},
     {"t":"물의 고정 valence","c":"-0.45 잠정","p":"설계 문서엔 -0.3 ~ -0.6 범위만 있다. 물은 톤 분기가 없어 슬롯 선택에는 영향이 없지만, 렌더에서 밝기를 정할 때 쓰인다."},
     {"t":"배경색 실제 HEX","c":"대비 테스트용 잠정값","p":"차가운 배경 #BFE3F7 → #78C4F0 / 따뜻한 배경 #FFE0C4 → #FFB37A. 규칙은 확정, 색값은 미확정."}
+  ],
+  "hw": [
+    {"layer":"입력","name":"Azure Kinect DK","spec":"RGB 3840×2160 @30fps · 수평화각 약 90° · 32관절 스켈레톤","s":"have",
+     "tag":"보유 2대","why":"1대로 전신·얼굴크롭·스켈레톤 세 가지를 동시에 커버. 2대째는 예비기 — 단종품이라 예비기 유무가 곧 가동률이다."},
+    {"layer":"연산","name":"GPU 워크스테이션","spec":"사양 미정 — py-feat 추론 + TouchDesigner 실시간 렌더","s":"todo",
+     "tag":"미확정","why":"하드웨어에서 유일하게 남은 미확정 항목이자 임계 경로. C-3b 실측이 이것도 함께 푼다."},
+    {"layer":"출력","name":"파인피치 LED","spec":"2.2m(H) × 2.93m(W) · 4:3 · 화소피치 P1.2~1.5mm","s":"todo",
+     "tag":"임차 예정","why":"높이는 20대 평균 상지 도달 높이(키×1.23~1.25)에서 역산 — 그 이상은 손이 닿지 않는 죽은 공간. 데모에는 불필요하다."},
+    {"layer":"렌더","name":"TouchDesigner","spec":"실루엣 추출 테스트 완료","s":"have",
+     "tag":"보유","why":"엔진이 내주는 to_render_spec() JSON을 파싱해 그리면 된다."}
+  ],
+  "budget": [
+    {"n":"1 · 2 감지·캡처","v":"약 33ms","w":"30fps 프레임 취득","s":"ok"},
+    {"n":"3 분석 (py-feat)","v":"미측정 · 목표 1초","w":"예산의 주인","s":"unknown"},
+    {"n":"4 · 5 · 6 판정 엔진","v":"0.02ms","w":"실측 — 예산의 0.0007%","s":"ok"},
+    {"n":"7 렌더 (TouchDesigner)","v":"미측정","w":"나머지 예산","s":"unknown"}
   ],
   "palette": [
     {"ko":"물","en":"WATER","m":"가라앉으며 고인다","c":["#96E2EC","#49D2E3","#00C0D8"]},
@@ -427,6 +485,27 @@ footer{
             }).join("")
     +     '</div>'
     +   '</div>'
+    + '</section>'
+
+    + '<section>'
+    +   '<div class="sec-head"><h2>하드웨어 구성</h2><span class="sec-note">카메라 1대 · 워크스테이션 1대 · 화면 1장</span></div>'
+    +   '<p class="sec-sub">카메라 한 대가 전신 실루엣 · 얼굴 크롭 · 관절 움직임 세 가지를 동시에 낸다. 남은 조달 항목은 사실상 워크스테이션 하나다.</p>'
+    +   '<div class="hw">' + s.hw.map(function(h){
+            return '<div class="hw-row" data-s="' + h.s + '">'
+              + '<div class="hw-layer">' + esc(h.layer) + '</div>'
+              + '<div class="hw-main">'
+              +   '<div class="hw-name">' + esc(h.name) + '<span class="hw-tag">' + esc(h.tag) + '</span></div>'
+              +   '<div class="hw-spec">' + esc(h.spec) + '</div>'
+              +   '<div class="hw-why">' + esc(h.why) + '</div>'
+              + '</div></div>';
+          }).join("") + '</div>'
+    +   '<h3 class="bud-h">3초 연산 예산은 누가 쓰는가</h3>'
+    +   '<table class="bud"><tbody>' + s.budget.map(function(b){
+            return '<tr data-s="' + b.s + '"><th>' + esc(b.n) + '</th>'
+              + '<td class="bud-v">' + esc(b.v) + '</td>'
+              + '<td class="bud-w">' + esc(b.w) + '</td></tr>';
+          }).join("") + '</tbody></table>'
+    +   '<p class="bud-note">판정 엔진은 3초 예산의 0.0007%를 쓴다. GPU도 필요 없다. 예산은 전부 3단계 추론과 7단계 렌더의 몫이며, 그래서 워크스테이션 사양이 이 두 가지만으로 결정된다.</p>'
     + '</section>'
 
     + '<section>'
