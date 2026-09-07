@@ -298,7 +298,10 @@ r = read_pyfeat(V1_ROW)
 check(r.emotions["joy"] == 0.55, "happiness → joy 사상")
 check(r.emotions["sadness"] == 0.04, "sadness 그대로")
 check("neutral" not in r.emotions, "Neutral은 넘기지 않는다")
-check(abs(r.smile_au - (0.75 * 0.91 + 0.25 * 0.82)) < 1e-9, "웃음근육 = AU12에 3:1 가중")
+check(
+    abs(r.smile_au - min(1.0, 0.91 * (1 + 0.25 * 0.82))) < 1e-9,
+    "웃음근육 = AU12 × (1 + 0.25×AU06)",
+)
 check(abs(r.earth_is_neutral - 0.20) < 1e-9, "흙 비중이 Neutral 확률과 일치")
 check(r.native_arousal is None, "v1에는 네이티브 arousal이 없다")
 
@@ -326,25 +329,31 @@ check(
     "네이티브 arousal이 있으면 AU 합 대신 그것을 쓴다",
 )
 
-# 웃음근육 모드 — AU06은 신뢰도가 낮아 기본값에서 눌러 둔다
-noisy_au06 = {"AU06": 0.9, "AU12": 0.1}   # AU06만 헛 반응한 경우
-real_smile = {"AU06": 0.1, "AU12": 0.9}   # AU12는 켜졌는데 AU06이 놓친 경우
+# 웃음근육 — AU06은 웃음을 확인만 하고 만들어내지는 못한다.
+# AU06은 py-feat 모델 카드가 밝힌 최약점(F1 0.526)이므로, 그 오류가
+# 공기의 희망/불안 분기를 뒤집지 못하게 막는 것이 이 모델의 목적이다.
+noisy_au06 = {"AU06": 0.9, "AU12": 0.1}   # AU06만 헛 반응
+missed_au06 = {"AU06": 0.1, "AU12": 0.9}  # AU12는 켜졌는데 AU06이 놓침
+duchenne = {"AU06": 0.9, "AU12": 0.8}     # 둘 다 켜진 진짜 웃음
 
 check(
-    abs(read_pyfeat(noisy_au06).smile_au - 0.3) < 1e-9,
-    "AU06 헛 반응은 0.3까지만 (mean이었다면 0.5)",
+    read_pyfeat(noisy_au06).smile_au < 0.15,
+    "AU06만 켜져도 웃음 신호를 만들지 못한다 (mean이었다면 0.5)",
 )
 check(
-    abs(read_pyfeat(real_smile).smile_au - 0.7) < 1e-9,
-    "AU06이 놓쳐도 진짜 웃음은 0.7 유지 (mean이었다면 0.5)",
+    read_pyfeat(missed_au06).smile_au > 0.9,
+    "AU06이 놓쳐도 AU12가 켜졌으면 웃음이 유지된다 (mean이었다면 0.5)",
 )
 check(
-    read_pyfeat(real_smile).smile_au > read_pyfeat(noisy_au06).smile_au,
-    "AU12가 켜진 쪽이 항상 더 큰 웃음 신호",
+    read_pyfeat(duchenne).smile_au > read_pyfeat({"AU06": 0.0, "AU12": 0.8}).smile_au,
+    "AU06이 함께 켜지면 뒤셴 보너스로 신호가 커진다",
 )
-check(abs(read_pyfeat(real_smile, smile_mode="au12").smile_au - 0.9) < 1e-9, "au12 모드")
-check(abs(read_pyfeat(real_smile, smile_mode="mean").smile_au - 0.5) < 1e-9, "mean 모드")
-check(abs(read_pyfeat(real_smile, smile_mode="strict").smile_au - 0.1) < 1e-9, "strict 모드")
+check(read_pyfeat({"AU06": 1.0, "AU12": 1.0}).smile_au == 1.0, "보너스가 1.0을 넘지 않는다")
+
+check(abs(read_pyfeat(missed_au06, smile_mode="au12").smile_au - 0.9) < 1e-9, "au12 모드")
+check(abs(read_pyfeat(missed_au06, smile_mode="weighted").smile_au - 0.7) < 1e-9, "weighted 모드")
+check(abs(read_pyfeat(missed_au06, smile_mode="mean").smile_au - 0.5) < 1e-9, "mean 모드")
+check(abs(read_pyfeat(missed_au06, smile_mode="strict").smile_au - 0.1) < 1e-9, "strict 모드")
 
 # 통합 경로
 s = signal_from_pyfeat(V1_ROW, motion_energy=0.6)
