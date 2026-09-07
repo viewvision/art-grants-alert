@@ -1,0 +1,520 @@
+<title>감정의 인상 파이프라인</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@600;700&family=IBM+Plex+Sans+KR:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style id="page-style">
+:root{
+  --paper:#FAF9F7; --surface:#FFFFFF; --surface-2:#F3F1ED;
+  --ink:#17191D; --ink-2:#585D64; --ink-3:#8A9098;
+  --line:#E3E0DA; --line-2:#CFCBC3;
+  --accent:#00A2B8; --accent-solid:#00C0D8; --accent-ink:#00323A;
+  --accent-wash:rgba(0,192,216,.13);
+  --alert:#D8410F; --alert-wash:rgba(246,82,27,.12);
+  --w:#00C0D8; --f:#F6521B; --a:#753EE4; --e:#DC9418;
+  --shadow:0 1px 2px rgba(23,25,29,.05);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#121418; --surface:#1A1D22; --surface-2:#22262C;
+    --ink:#ECEEF0; --ink-2:#A2A8B0; --ink-3:#6E757D;
+    --line:#2A2E35; --line-2:#3A3F47;
+    --accent:#49D2E3; --accent-solid:#49D2E3; --accent-ink:#04262C;
+    --accent-wash:rgba(73,210,227,.15);
+    --alert:#FF7B4D; --alert-wash:rgba(248,130,90,.15);
+    --shadow:0 1px 2px rgba(0,0,0,.3);
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#121418; --surface:#1A1D22; --surface-2:#22262C;
+  --ink:#ECEEF0; --ink-2:#A2A8B0; --ink-3:#6E757D;
+  --line:#2A2E35; --line-2:#3A3F47;
+  --accent:#49D2E3; --accent-solid:#49D2E3; --accent-ink:#04262C;
+  --accent-wash:rgba(73,210,227,.15);
+  --alert:#FF7B4D; --alert-wash:rgba(248,130,90,.15);
+  --shadow:0 1px 2px rgba(0,0,0,.3);
+}
+
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0; background:var(--paper); color:var(--ink);
+  font-family:"IBM Plex Sans KR","Apple SD Gothic Neo","Malgun Gothic",system-ui,sans-serif;
+  font-size:15px; line-height:1.65;
+  -webkit-font-smoothing:antialiased;
+}
+h1,h2,h3{margin:0; text-wrap:balance; font-family:"Noto Serif KR",serif; font-weight:700; letter-spacing:-.01em}
+p{margin:0}
+table{border-collapse:collapse}
+
+.wrap{max-width:1080px; margin:0 auto; padding:0 24px 96px}
+
+/* ── header ─────────────────────────────────────── */
+.top{padding:56px 0 36px; border-bottom:1px solid var(--line)}
+.eyebrow{
+  font-family:"IBM Plex Mono",monospace; font-size:11px; font-weight:500;
+  letter-spacing:.16em; text-transform:uppercase; color:var(--ink-3);
+}
+h1{font-size:clamp(28px,4.6vw,42px); line-height:1.2; margin:10px 0 0}
+.lede{margin-top:12px; color:var(--ink-2); max-width:60ch; font-size:15px}
+
+.meter{display:flex; align-items:baseline; gap:14px; margin-top:26px; flex-wrap:wrap}
+.meter-num{
+  font-family:"IBM Plex Mono",monospace; font-size:34px; font-weight:500;
+  color:var(--ink); font-variant-numeric:tabular-nums; line-height:1;
+}
+.meter-num span{font-size:17px; color:var(--ink-3)}
+.meter-bar{flex:1 1 220px; height:6px; background:var(--surface-2); border-radius:3px; overflow:hidden; min-width:180px}
+.meter-fill{height:100%; background:var(--accent-solid); border-radius:3px; transition:width .45s cubic-bezier(.4,0,.2,1)}
+.meter-cap{font-family:"IBM Plex Mono",monospace; font-size:12px; color:var(--ink-3)}
+
+/* ── section ────────────────────────────────────── */
+section{margin-top:52px}
+.sec-head{display:flex; align-items:baseline; gap:14px; flex-wrap:wrap; margin-bottom:6px}
+h2{font-size:21px}
+.sec-note{color:var(--ink-3); font-size:13px}
+.sec-sub{color:var(--ink-2); font-size:14px; max-width:64ch; margin-bottom:22px}
+
+/* ── pipeline rail ──────────────────────────────── */
+.rail-scroll{overflow-x:auto; margin:0 -24px; padding:4px 24px 14px}
+.rail{display:grid; grid-template-columns:repeat(9,minmax(104px,1fr)); gap:8px; min-width:900px}
+.step{
+  background:var(--surface); border:1px solid var(--line); border-radius:5px;
+  padding:12px 11px 13px; display:flex; flex-direction:column; gap:7px;
+  position:relative; box-shadow:var(--shadow);
+}
+.step[data-s="done"]{border-color:var(--accent-solid); background:var(--accent-wash)}
+.step[data-s="have"]{border-color:var(--line-2)}
+.step[data-s="active"]{border-color:var(--accent); border-style:dashed}
+.step[data-s="todo"]{background:transparent; border-style:dashed; border-color:var(--line-2)}
+.step.bottleneck{border-color:var(--alert); border-style:solid; background:var(--alert-wash)}
+.step-n{
+  font-family:"IBM Plex Mono",monospace; font-size:11px; font-weight:500;
+  color:var(--ink-3); font-variant-numeric:tabular-nums;
+}
+.step-name{font-weight:600; font-size:15px; letter-spacing:-.01em}
+.step-out{font-size:11.5px; color:var(--ink-2); line-height:1.45; flex:1}
+.step-tag{
+  font-family:"IBM Plex Mono",monospace; font-size:10px; letter-spacing:.06em;
+  color:var(--ink-3); text-transform:uppercase;
+}
+.step.bottleneck .step-tag{color:var(--alert); font-weight:500}
+.rail-legend{
+  display:flex; gap:18px; flex-wrap:wrap; margin-top:2px;
+  font-family:"IBM Plex Mono",monospace; font-size:11px; color:var(--ink-3);
+}
+.rail-legend b{font-weight:500; color:var(--ink-2)}
+.brace{
+  margin-top:10px; display:flex; gap:8px; align-items:center;
+  font-family:"IBM Plex Mono",monospace; font-size:11.5px; color:var(--ink-2);
+}
+.brace i{flex:0 0 auto; height:1px; background:var(--accent-solid); width:44px; font-style:normal}
+
+/* ── work list ──────────────────────────────────── */
+.hint{
+  font-family:"IBM Plex Mono",monospace; font-size:11.5px; color:var(--ink-3);
+  margin-bottom:14px; display:flex; align-items:center; gap:7px;
+}
+.hint::before{content:""; width:8px; height:8px; border-radius:50%; background:var(--accent-solid); flex:0 0 auto}
+.work{display:flex; flex-direction:column; gap:1px; background:var(--line); border:1px solid var(--line); border-radius:6px; overflow:hidden}
+.row{
+  background:var(--surface); display:grid;
+  grid-template-columns:34px 1fr auto; gap:14px; align-items:start;
+  padding:15px 16px;
+}
+.row[data-s="done"]{background:var(--surface-2)}
+.row-key{
+  font-family:"IBM Plex Mono",monospace; font-weight:500; font-size:14px;
+  color:var(--ink-3); padding-top:1px;
+}
+.row[data-s="done"] .row-key{color:var(--accent)}
+.row-main{min-width:0}
+.row-title{font-weight:600; font-size:15.5px; letter-spacing:-.01em}
+.row[data-s="done"] .row-title{color:var(--ink-2)}
+.row-meta{
+  display:flex; gap:7px; flex-wrap:wrap; align-items:center; margin-top:5px;
+  font-family:"IBM Plex Mono",monospace; font-size:11.5px; color:var(--ink-3);
+}
+.row-meta em{font-style:normal; color:var(--ink-3)}
+.kind{
+  border:1px solid var(--line-2); border-radius:3px; padding:1px 6px;
+  font-size:10.5px; letter-spacing:.04em; color:var(--ink-2);
+}
+.row-note{margin-top:8px; font-size:13px; color:var(--ink-2); line-height:1.55}
+.blocked{color:var(--alert)}
+
+.chip{
+  font-family:"IBM Plex Mono",monospace; font-size:11.5px; font-weight:500;
+  letter-spacing:.04em; padding:5px 12px; border-radius:999px; cursor:pointer;
+  border:1px solid var(--line-2); background:transparent; color:var(--ink-3);
+  white-space:nowrap; transition:background .15s,border-color .15s,color .15s;
+  border-style:dashed;
+}
+.chip:hover{border-color:var(--accent); color:var(--accent)}
+.chip:focus-visible{outline:2px solid var(--accent); outline-offset:2px}
+.chip[data-s="active"]{
+  background:var(--accent-wash); border-color:var(--accent);
+  color:var(--accent); border-style:solid;
+}
+.chip[data-s="done"]{
+  background:var(--accent-solid); border-color:var(--accent-solid);
+  color:var(--accent-ink); border-style:solid;
+}
+.chip[disabled]{cursor:default; opacity:.75}
+.chip[disabled]:hover{border-color:var(--line-2); color:var(--ink-3)}
+
+.subs{margin:11px 0 0; padding:0; list-style:none; display:flex; flex-direction:column; gap:0}
+.sub{
+  display:grid; grid-template-columns:auto 1fr; gap:10px; align-items:start;
+  padding:6px 0; border-top:1px solid var(--line); font-size:13.5px;
+}
+.sub:first-child{border-top:1px dashed var(--line-2)}
+.tick{
+  appearance:none; width:15px; height:15px; margin:4px 0 0; flex:0 0 auto;
+  border:1px solid var(--line-2); border-radius:3px; cursor:pointer;
+  background:transparent; position:relative; transition:background .15s,border-color .15s;
+}
+.tick:hover{border-color:var(--accent)}
+.tick:focus-visible{outline:2px solid var(--accent); outline-offset:2px}
+.tick:checked{background:var(--accent-solid); border-color:var(--accent-solid)}
+.tick:checked::after{
+  content:""; position:absolute; left:4.5px; top:1.5px; width:4px; height:8px;
+  border:solid var(--accent-ink); border-width:0 2px 2px 0; transform:rotate(42deg);
+}
+.tick[disabled]{cursor:default; opacity:.7}
+.sub-t{color:var(--ink-2); line-height:1.5}
+.sub input:checked + .sub-t{color:var(--ink-3); text-decoration:line-through; text-decoration-color:var(--line-2)}
+
+/* ── two-up ─────────────────────────────────────── */
+.two{display:grid; grid-template-columns:1fr 1fr; gap:26px; align-items:start}
+.panel{
+  background:var(--surface); border:1px solid var(--line);
+  border-radius:6px; padding:20px 20px 22px; box-shadow:var(--shadow);
+}
+.panel h3{font-size:16px; margin-bottom:3px}
+.panel .sec-note{margin-bottom:16px; display:block}
+.log{list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:14px}
+.log li{display:grid; grid-template-columns:74px 1fr; gap:12px; align-items:baseline}
+.log time{
+  font-family:"IBM Plex Mono",monospace; font-size:11.5px; color:var(--ink-3);
+  font-variant-numeric:tabular-nums;
+}
+.log b{font-weight:600; font-size:14px; display:block; letter-spacing:-.01em}
+.log span{font-size:13px; color:var(--ink-2); line-height:1.5}
+.gap{padding:13px 0; border-top:1px solid var(--line)}
+.gap:first-of-type{border-top:none; padding-top:0}
+.gap b{font-weight:600; font-size:14px; display:block}
+.gap code{
+  font-family:"IBM Plex Mono",monospace; font-size:12px;
+  background:var(--surface-2); padding:1px 5px; border-radius:3px; color:var(--ink-2);
+}
+.gap p{font-size:13px; color:var(--ink-2); margin-top:4px; line-height:1.55}
+
+/* ── palette ────────────────────────────────────── */
+.pal{display:grid; grid-template-columns:repeat(4,1fr); gap:14px}
+.pal-col{display:flex; flex-direction:column; gap:0}
+.pal-h{display:flex; align-items:baseline; gap:8px; margin-bottom:9px}
+.pal-h b{font-family:"Noto Serif KR",serif; font-size:17px; font-weight:700}
+.pal-h em{font-style:normal; font-size:11.5px; color:var(--ink-3)}
+.sw{
+  height:46px; display:flex; align-items:center; justify-content:space-between;
+  padding:0 11px; font-family:"IBM Plex Mono",monospace; font-size:11px;
+  color:rgba(255,255,255,.94); letter-spacing:.02em;
+}
+.sw:first-of-type{border-radius:4px 4px 0 0; color:rgba(0,0,0,.6)}
+.sw:last-of-type{border-radius:0 0 4px 4px}
+.pal-m{font-size:12px; color:var(--ink-2); margin-top:9px; line-height:1.5}
+
+/* ── footer ─────────────────────────────────────── */
+footer{
+  margin-top:56px; padding-top:22px; border-top:1px solid var(--line);
+  display:flex; justify-content:space-between; gap:18px; flex-wrap:wrap;
+  font-family:"IBM Plex Mono",monospace; font-size:11.5px; color:var(--ink-3);
+}
+.saving{color:var(--accent)}
+.ro{color:var(--alert)}
+
+@media (max-width:760px){
+  .wrap{padding:0 18px 72px}
+  .rail-scroll{margin:0 -18px; padding:4px 18px 14px}
+  .two,.pal{grid-template-columns:1fr}
+  .row{grid-template-columns:28px 1fr; gap:10px}
+  .row .chip{grid-column:2; justify-self:start; margin-top:10px}
+  .log li{grid-template-columns:1fr; gap:2px}
+}
+@media (prefers-reduced-motion:reduce){
+  *{transition:none !important; animation:none !important}
+}
+</style>
+
+<div class="wrap"><div id="app"></div></div>
+
+<script id="state" type="application/json">
+{
+  "updated": "2026-09-07",
+  "steps": [
+    {"n":1,"name":"감지","out":"관객 유무 · 거리","tag":"보유","s":"have","note":"Kinect DK"},
+    {"n":2,"name":"캡처","out":"전신 + 얼굴 RGB 4K","tag":"보유","s":"have","note":"Kinect DK"},
+    {"n":3,"name":"분석","out":"6감정 + AU06·12 + AU강도","tag":"병목","s":"active","note":"py-feat 채택","bottleneck":true},
+    {"n":4,"name":"변환","out":"4방향 비율 (합 100%)","tag":"완료","s":"done","note":"directions.py"},
+    {"n":5,"name":"판정","out":"24슬롯 중 1개","tag":"완료","s":"done","note":"judgment.py"},
+    {"n":6,"name":"문구","out":"질문 1문장","tag":"진행중","s":"active","note":"한국어 8/24"},
+    {"n":7,"name":"렌더","out":"실시간 화면","tag":"보유","s":"have","note":"TouchDesigner"},
+    {"n":8,"name":"재캡처","out":"갱신 파라미터","tag":"미착수","s":"todo","note":""},
+    {"n":9,"name":"저장","out":"익명 수치만","tag":"미착수","s":"todo","note":"얼굴 원본 파기"}
+  ],
+  "work": [
+    {"k":"A","t":"arousal 산출 방식 결정","kind":"결정","s":"done","dep":"",
+     "note":"0.5 × 표정 강도 + 0.5 × 움직임 에너지. 감정에서 유도하면 흙·고를 포함해 최대 6개 슬롯이 구조적으로 죽는다."},
+    {"k":"B","t":"물 valence · 배경 HEX 확정","kind":"결정","s":"todo","dep":"",
+     "note":"둘 다 색 관련이라 렌더 단계에서 눈으로 보며 확정. 임계 경로 아님."},
+    {"k":"C","t":"3단계 감정 인식 모듈","kind":"개발","s":"active","dep":"",
+     "note":"py-feat 2.1.2 채택. OpenFace 2.0·LibreFace는 비상업 라이선스로 탈락 — 성능이 아니라 설치 자체가 불가.",
+     "subs":[
+       {"t":"후보 5종 비교 · 라이선스 검토","d":true},
+       {"t":"v2 모델 가중치 라이선스 확인 (HuggingFace 배포처)","d":false},
+       {"t":"실측 — 지연 시간 · AU06/12 반응성 · arousal 분포","d":false},
+       {"t":"EmotionSignal 어댑터 작성 (py-feat 출력 → 엔진 입력)","d":false},
+       {"t":"arousal 표정 쪽 재료 확정 — AU 강도합 vs py-feat 네이티브","d":false}
+     ]},
+    {"k":"D","t":"캡처 → 인식 → 엔진 → TD 전 구간 연결","kind":"개발","s":"todo","dep":"C",
+     "note":"엔진이 to_render_spec() JSON으로 색·비중·배경·문구를 다 내주므로 TD 쪽은 파싱만 하면 된다."},
+    {"k":"E","t":"1계층 기준 문구 집필","kind":"작가","s":"active","dep":"",
+     "note":"한국어 8/24 · 영어 1/24. --coverage로 남은 슬롯이 정확히 나온다. 병렬 진행 가능."},
+    {"k":"F","t":"30초 데모 영상","kind":"산출물","s":"todo","dep":"D",
+     "note":"다음 신청서의 「기술력 및 BM 보유 여부」를 계획에서 보유로 바꾸는 항목. 이번 탈락의 유력한 원인."},
+    {"k":"G","t":"8·9단계 — 재캡처 · 저장","kind":"개발","s":"todo","dep":"D",
+     "note":"작품 완결성에는 필요하지만 데모 확보에는 필수가 아니다."},
+    {"k":"H","t":"엔진 제품명","kind":"결정","s":"todo","dep":"",
+     "note":"「감정의 인상」은 작품명이지 제품명이 아니다. impression_engine은 임시 이름."}
+  ],
+  "log": [
+    {"d":"09-07","t":"인식 모듈 py-feat 2.1.2 채택","x":"상업 이용 가능 라이선스를 선정 기준에 추가하자 기존 후보 3개 중 2개가 탈락했다."},
+    {"d":"09-07","t":"arousal = 0.5×표정강도 + 0.5×움직임","x":"확률합은 격자의 70%가 '고'로 쏠려 강도축이 무너진다. 가중합은 저:중:고를 24:52:24로 쓴다."},
+    {"d":"08-19","t":"4방향 원소색 HEX 확정","x":"1차·2차 시안의 중간값. 강도는 채도로 옮겨진다."},
+    {"d":"08-19","t":"배경 = 1위 방향의 반대 온도","x":"혼합형 보색쌍에도 예외를 두지 않는다."},
+    {"d":"08-14","t":"24슬롯 구조 확정","x":"단일 우세형 18 + 혼합형 6. 격차 임계 10%p, 강도 3구간."}
+  ],
+  "gaps": [
+    {"t":"물의 고정 valence","c":"-0.45 잠정","p":"설계 문서엔 -0.3 ~ -0.6 범위만 있다. 물은 톤 분기가 없어 슬롯 선택에는 영향이 없지만, 렌더에서 밝기를 정할 때 쓰인다."},
+    {"t":"배경색 실제 HEX","c":"대비 테스트용 잠정값","p":"차가운 배경 #BFE3F7 → #78C4F0 / 따뜻한 배경 #FFE0C4 → #FFB37A. 규칙은 확정, 색값은 미확정."}
+  ],
+  "palette": [
+    {"ko":"물","en":"WATER","m":"가라앉으며 고인다","c":["#96E2EC","#49D2E3","#00C0D8"]},
+    {"ko":"불","en":"FIRE","m":"피어오르며 번진다","c":["#F7B49C","#F8825A","#F6521B"]},
+    {"ko":"공기","en":"AIR","m":"경계 없이 흩어진다","c":["#C2A9F0","#9A72EB","#753EE4"]},
+    {"ko":"흙","en":"EARTH","m":"구조를 이루며 응집한다","c":["#EED09C","#E7B258","#DC9418"]}
+  ]
+}
+</script>
+
+<script id="page-script">
+(function(){
+  var TITLE = "감정의 인상 파이프라인";
+  var FONTS = '<link rel="preconnect" href="https://fonts.googleapis.com">'
+    + '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>'
+    + '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@600;700&family=IBM+Plex+Sans+KR:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">';
+
+  var CYCLE = {todo:"active", active:"done", done:"todo"};
+  var LABEL = {todo:"미착수", active:"진행중", done:"완료"};
+
+  var state = JSON.parse(document.getElementById("state").textContent);
+  var app = document.getElementById("app");
+  var writable = true;
+  var pending = null;
+
+  function esc(s){
+    return String(s).replace(/[&<>"']/g, function(c){
+      return {"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c];
+    });
+  }
+
+  function progress(s){
+    var done = 0, total = 0;
+    s.work.forEach(function(w){
+      total += 1; if (w.s === "done") done += 1;
+      if (w.subs) w.subs.forEach(function(u){ total += 1; if (u.d) done += 1; });
+    });
+    return {done:done, total:total, pct: total ? Math.round(done/total*100) : 0};
+  }
+
+  function railHtml(s){
+    var cells = s.steps.map(function(st){
+      return '<div class="step' + (st.bottleneck ? " bottleneck" : "") + '" data-s="' + st.s + '">'
+        + '<div class="step-n">' + st.n + '</div>'
+        + '<div class="step-name">' + esc(st.name) + '</div>'
+        + '<div class="step-out">' + esc(st.out) + '</div>'
+        + '<div class="step-tag">' + esc(st.tag) + (st.note ? " · " + esc(st.note) : "") + '</div>'
+        + '</div>';
+    }).join("");
+    return '<div class="rail-scroll"><div class="rail">' + cells + '</div></div>'
+      + '<div class="rail-legend">'
+      + '<span><b>보유</b> 장비·도구가 이미 있다</span>'
+      + '<span><b>완료</b> 코드로 구현되고 검증을 통과했다</span>'
+      + '<span><b>병목</b> 여기만 뚫리면 전 구간이 이어진다</span>'
+      + '</div>'
+      + '<div class="brace"><i></i>4·5단계는 impression_engine으로 구현 완료 — 입력 18,750조합 전수 스윕, 24슬롯 전부 도달</div>'
+      + '<div class="brace"><i></i>1~7단계 연산은 3초 이내, 이어서 현상 연출 3~5초</div>';
+  }
+
+  function workHtml(s){
+    return '<div class="work">' + s.work.map(function(w, i){
+      var subs = "";
+      if (w.subs){
+        subs = '<ul class="subs">' + w.subs.map(function(u, j){
+          return '<li class="sub"><input class="tick" type="checkbox" data-w="' + i + '" data-u="' + j + '"'
+            + (u.d ? " checked" : "") + (writable ? "" : " disabled")
+            + ' aria-label="' + esc(u.t) + '"><span class="sub-t">' + esc(u.t) + '</span></li>';
+        }).join("") + '</ul>';
+      }
+      return '<div class="row" data-s="' + w.s + '">'
+        + '<div class="row-key">' + esc(w.k) + '</div>'
+        + '<div class="row-main">'
+        +   '<div class="row-title">' + esc(w.t) + '</div>'
+        +   '<div class="row-meta"><span class="kind">' + esc(w.kind) + '</span>'
+        +     (w.dep ? '<em class="blocked">' + esc(w.dep) + ' 완료까지 대기</em>' : '<em>선행 조건 없음</em>')
+        +   '</div>'
+        +   (w.note ? '<div class="row-note">' + esc(w.note) + '</div>' : "")
+        +   subs
+        + '</div>'
+        + '<button class="chip" data-w="' + i + '" data-s="' + w.s + '"'
+        +   (writable ? "" : " disabled")
+        +   ' aria-label="' + esc(w.t) + ' 상태: ' + LABEL[w.s] + '">' + LABEL[w.s] + '</button>'
+        + '</div>';
+    }).join("") + '</div>';
+  }
+
+  function appHtml(s){
+    var p = progress(s);
+    return ''
+    + '<header class="top">'
+    +   '<div class="eyebrow">VIEWVISION STUDIO · 제작 진행</div>'
+    +   '<h1>감정의 인상 파이프라인</h1>'
+    +   '<p class="lede">관객의 표정을 4가지 방향의 색으로 옮기고 질문 한 문장을 건네는 인터랙티브 미디어아트. '
+    +     '9단계 전 구간의 상태와 남은 일을 한 화면에서 본다.</p>'
+    +   '<div class="meter">'
+    +     '<div class="meter-num">' + p.done + '<span> / ' + p.total + '</span></div>'
+    +     '<div class="meter-bar"><div class="meter-fill" style="width:' + p.pct + '%"></div></div>'
+    +     '<div class="meter-cap">' + p.pct + '% · 갱신 ' + esc(s.updated) + '</div>'
+    +   '</div>'
+    + '</header>'
+
+    + '<section>'
+    +   '<div class="sec-head"><h2>9단계 파이프라인</h2><span class="sec-note">감지에서 저장까지</span></div>'
+    +   '<p class="sec-sub">양끝(입력 장비 · 출력 렌더)과 가운데 두뇌(변환 · 판정)는 있다. 둘을 잇는 3단계 인식 모듈만 없다.</p>'
+    +   railHtml(s)
+    + '</section>'
+
+    + '<section>'
+    +   '<div class="sec-head"><h2>남은 일</h2><span class="sec-note">임계 경로는 C → D → F 하나뿐</span></div>'
+    +   '<p class="sec-sub">B · E · H는 언제 해도 데모 시점을 늦추지 않는다. 손이 비는 대로 병렬로 처리한다.</p>'
+    +   '<div class="hint">상태 칩을 눌러 미착수 → 진행중 → 완료로 바꾼다. 바뀐 내용은 이 페이지에 저장되어 모두에게 보인다.</div>'
+    +   workHtml(s)
+    + '</section>'
+
+    + '<section>'
+    +   '<div class="two">'
+    +     '<div class="panel"><h3>확정 기록</h3><span class="sec-note">되돌리지 않기로 한 것</span>'
+    +       '<ul class="log">' + s.log.map(function(l){
+              return '<li><time>2026-' + esc(l.d) + '</time><div><b>' + esc(l.t) + '</b><span>' + esc(l.x) + '</span></div></li>';
+            }).join("") + '</ul>'
+    +     '</div>'
+    +     '<div class="panel"><h3>남은 스펙 공백</h3><span class="sec-note">작가 판단이 필요한 값</span>'
+    +       s.gaps.map(function(g){
+              return '<div class="gap"><b>' + esc(g.t) + '</b> <code>' + esc(g.c) + '</code><p>' + esc(g.p) + '</p></div>';
+            }).join("")
+    +     '</div>'
+    +   '</div>'
+    + '</section>'
+
+    + '<section>'
+    +   '<div class="sec-head"><h2>4방향 원소색</h2><span class="sec-note">2026-08-19 확정 · 위에서 아래로 강도 저 · 중 · 고</span></div>'
+    +   '<p class="sec-sub">판정된 방향이 색이 되고, 강도가 채도가 된다. 한 화면에는 1위와 2위 두 원소만 오른다.</p>'
+    +   '<div class="pal">' + s.palette.map(function(e){
+            return '<div class="pal-col">'
+              + '<div class="pal-h"><b>' + esc(e.ko) + '</b><em>' + esc(e.en) + '</em></div>'
+              + e.c.map(function(hex, i){
+                  return '<div class="sw" style="background:' + hex + '"><span>' + ["저","중","고"][i] + '</span><span>' + hex + '</span></div>';
+                }).join("")
+              + '<div class="pal-m">' + esc(e.m) + '</div>'
+              + '</div>';
+          }).join("") + '</div>'
+    + '</section>'
+
+    + '<footer>'
+    +   '<span>viewvision/art-grants-alert · PIPELINE.md · impression_engine/</span>'
+    +   '<span id="status">' + (writable ? "" : "읽기 전용 보기") + '</span>'
+    + '</footer>';
+  }
+
+  function fullDoc(s){
+    var css = document.getElementById("page-style").textContent;
+    var js = document.getElementById("page-script").textContent;
+    return '<!doctype html><html lang="ko"><head><meta charset="utf-8">'
+      + '<meta name="viewport" content="width=device-width,initial-scale=1">'
+      + '<title>' + TITLE + '</title>' + FONTS
+      + '<style id="page-style">' + css + '</style></head><body>'
+      + '<div class="wrap"><div id="app"></div></div>'
+      + '<script id="state" type="application/json">' + JSON.stringify(s) + '<\/script>'
+      + '<script id="page-script">' + js + '<\/script>'
+      + '</body></html>';
+  }
+
+  function render(){
+    app.innerHTML = appHtml(state);
+    app.querySelectorAll(".chip").forEach(function(b){
+      b.addEventListener("click", function(){
+        var w = state.work[+b.dataset.w];
+        w.s = CYCLE[w.s];
+        save();
+      });
+    });
+    app.querySelectorAll(".tick").forEach(function(c){
+      c.addEventListener("change", function(){
+        var w = state.work[+c.dataset.w];
+        w.subs[+c.dataset.u].d = c.checked;
+        if (w.subs.every(function(u){ return u.d; })) w.s = "done";
+        else if (w.subs.some(function(u){ return u.d; }) && w.s === "todo") w.s = "active";
+        save();
+      });
+    });
+  }
+
+  function setStatus(text, cls){
+    var el = document.getElementById("status");
+    if (el){ el.textContent = text; el.className = cls || ""; }
+  }
+
+  function save(){
+    state.updated = new Date().toISOString().slice(0,10);
+    render();
+    setStatus("저장 중…", "saving");
+    clearTimeout(pending);
+    pending = setTimeout(commit, 700);
+  }
+
+  function commit(){
+    claude.use("artifact").then(function(a){
+      if (!a){ setStatus("이 보기에서는 저장되지 않는다", "ro"); return; }
+      return a.publish(fullDoc(state)).then(function(){
+        setStatus("저장됨", "");
+      });
+    }).catch(function(err){
+      var code = err && err.code;
+      if (code === "conflict") return;
+      if (code === "not_writer" || code === "not_granted" || code === "not_declared"){
+        writable = false; render();
+        setStatus("읽기 전용 보기 — 변경은 저장되지 않는다", "ro");
+        return;
+      }
+      if (code === "rate_limited"){ setStatus("잠시 후 다시 저장된다", "ro"); return; }
+      setStatus("저장 실패 — 다시 눌러 주세요", "ro");
+    });
+  }
+
+  render();
+
+  claude.use("artifact").then(function(a){
+    if (!a){ writable = false; render(); setStatus("읽기 전용 보기", "ro"); }
+  });
+})();
+</script>
