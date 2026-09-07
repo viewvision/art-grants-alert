@@ -40,6 +40,24 @@ EMOTION_ALIASES: dict[str, str] = {
 #: 웃음근육 쌍. AU06 = 볼 올림(뒤셴), AU12 = 입꼬리 당김.
 SMILE_AUS = ("AU06", "AU12")
 
+#: 기본 가중치 — AU12에 무게를 싣는다.
+#:
+#: py-feat v2 모델 카드가 밝힌 per-AU 성능에서 **AU06은 F1 0.526으로
+#: macro(0.682)에 크게 못 미치는 최약점 중 하나**이며 모델 카드 자체가
+#: "treat AU06 with caution"이라고 적고 있다. 반면 AU12는 cross-tool
+#: common-8 세트(macro-F1 0.774)에 포함된 신뢰 구간의 AU다.
+#:
+#: 공기의 희망/불안 분기는 이 신호 하나에 걸려 있다. 둘을 동등하게
+#: 평균 내면 AU06의 오류가 그대로 슬롯 판정으로 넘어간다 —
+#: 헛 반응하면 희망이 잘못 뜨고, 놓치면 진짜 웃음이 절반으로 깎여
+#: 불안으로 떨어진다. 3:1로 눌러 오차 기여를 1/4로 줄인다.
+#:
+#: ⚠️ 이 수치는 v2 모델 카드 기준이다. 실제로는 v1 경로를 쓰므로
+#: (v2는 research-only 라이선스로 탈락) v1의 AU06 신뢰도를 실측해
+#: 재조정해야 한다. AU06이 어려운 AU라는 사실 자체는 경로와 무관하므로
+#: 보수적으로 잡아 둔다.
+SMILE_WEIGHTS = {"AU12": 0.75, "AU06": 0.25}
+
 #: ⚠️ 잠정값 — 현장 계측 필요.
 #: py-feat의 AU 출력은 OpenFace 계열의 0~5 intensity가 아니라 0~1
 #: 확률값이다. 20개를 다 더하면 이론상 20이지만, 격한 표정에서도 강하게
@@ -106,7 +124,7 @@ class PyFeatReading:
 
 def read_pyfeat(
     row: dict[str, float],
-    smile_mode: str = "mean",
+    smile_mode: str = "weighted",
 ) -> PyFeatReading:
     """py-feat 한 행(감정 + AU 컬럼)을 판독한다.
 
@@ -114,12 +132,18 @@ def read_pyfeat(
         py-feat Fex 한 행을 dict로 만든 것. 컬럼 이름은 v1/v2 어느
         표기든 상관없고, 없는 컬럼은 0으로 본다.
     smile_mode
-        ``"mean"``  AU06·AU12의 평균 — 기본값.
+        ``"weighted"`` 0.75×AU12 + 0.25×AU06 — **기본값**. AU06의 낮은
+        신뢰도를 감안해 AU12에 무게를 싣는다(→ `SMILE_WEIGHTS`).
+        ``"au12"``   AU12만. AU06이 실측에서 못 쓸 수준으로 나오면.
+        ``"mean"``   둘의 평균. AU06 신뢰도가 확인되면 이쪽으로.
         ``"strict"`` 둘 중 작은 값. 두 근육이 함께 켜져야 웃음으로 보는
-        뒤셴 판정에 가깝다. 희망 슬롯이 과하게 나오면 이쪽으로 조인다.
+        뒤셴 판정이다. **AU06이 약한 모델에서는 권장하지 않는다** —
+        약한 쪽이 게이트가 되어 진짜 웃음까지 눌러 버린다.
     """
-    if smile_mode not in ("mean", "strict"):
-        raise ValueError(f"smile_mode는 'mean' 또는 'strict': {smile_mode!r}")
+    if smile_mode not in ("weighted", "au12", "mean", "strict"):
+        raise ValueError(
+            f"smile_mode는 'weighted'/'au12'/'mean'/'strict': {smile_mode!r}"
+        )
 
     lower = {str(k).lower(): v for k, v in row.items()}
 
@@ -142,8 +166,15 @@ def read_pyfeat(
     }
     au_sum = sum(max(0.0, v) for v in au_values.values())
 
-    smile_pair = [_clamp01(au_values.get(au.lower(), 0.0)) for au in SMILE_AUS]
-    smile = min(smile_pair) if smile_mode == "strict" else sum(smile_pair) / 2.0
+    au06, au12 = (_clamp01(au_values.get(au.lower(), 0.0)) for au in SMILE_AUS)
+    if smile_mode == "weighted":
+        smile = SMILE_WEIGHTS["AU12"] * au12 + SMILE_WEIGHTS["AU06"] * au06
+    elif smile_mode == "au12":
+        smile = au12
+    elif smile_mode == "mean":
+        smile = (au06 + au12) / 2.0
+    else:  # strict
+        smile = min(au06, au12)
 
     native = lower.get("arousal")
     native_arousal = None if native is None else _clamp01((float(native) + 1.0) / 2.0)
@@ -159,7 +190,7 @@ def read_pyfeat(
 def signal_from_pyfeat(
     row: dict[str, float],
     motion_energy: float = 0.0,
-    smile_mode: str = "mean",
+    smile_mode: str = "weighted",
     au_reference: float = PYFEAT_AU_REFERENCE,
 ) -> EmotionSignal:
     """py-feat 한 행 + 움직임 에너지 → 엔진 입력 한 번에.
