@@ -12,11 +12,15 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from impression_engine import (  # noqa: E402
+    ArousalTracker,
     EmotionSignal,
     all_slot_ids,
+    blend,
     coverage,
     filter_phrase,
     judge,
+    motion_energy_from_joints,
+    normalise,
     process,
     to_directions,
 )
@@ -210,7 +214,76 @@ def good_generator(slot_id: str, lang: str, examples: list[str]) -> str:
 r = process(EmotionSignal(sadness=0.9, disgust=0.7, arousal=0.5), generator=good_generator)
 check(r.phrase_source == "generated", "필터 통과 → 생성 문구 사용")
 
-# ────────────────────────────── 9. 집필 진행률 ──────────────────────────────
+# ────────────────────────── 9. arousal 산출 ──────────────────────────
+section("arousal 산출 — 표정 강도 + 움직임 에너지 가중합")
+
+check(normalise(6.0, 12.0) == 0.5, "정규화: 기준의 절반 → 0.5")
+check(normalise(20.0, 12.0) == 1.0, "정규화: 기준 초과는 1.0으로 상한")
+check(normalise(-1.0, 12.0) == 0.0, "정규화: 음수는 0.0")
+
+check(abs(blend(1.0, 0.0) - 0.5) < 1e-9, "표정만 최대 → 0.5 (50:50 가중)")
+check(abs(blend(0.0, 1.0) - 0.5) < 1e-9, "움직임만 최대 → 0.5")
+check(abs(blend(1.0, 1.0) - 1.0) < 1e-9, "둘 다 최대 → 1.0")
+check(abs(blend(0.8, 0.2, 0.75, 0.25) - 0.65) < 1e-9, "가중치 변경 반영")
+
+try:
+    blend(0.5, 0.5, 0.6, 0.6)
+    check(False, "가중치 합이 1이 아니면 거부")
+except ValueError:
+    check(True, "가중치 합이 1이 아니면 거부")
+
+# 움직임 — 관절 좌표에서 속도 산출
+still = {"hand": (0.0, 0.0, 0.0), "head": (0.0, 1.5, 0.0)}
+moved = {"hand": (0.3, 0.0, 0.0), "head": (0.0, 1.5, 0.0)}
+speed = motion_energy_from_joints(still, moved, dt_seconds=1.0)
+check(abs(speed - 0.15) < 1e-9, "관절 2개 중 하나만 0.3m 이동 → 평균 0.15m/s")
+check(motion_energy_from_joints(still, still, 1.0) == 0.0, "정지 상태는 0")
+check(
+    motion_energy_from_joints({"a": (0, 0, 0)}, {"b": (1, 1, 1)}, 1.0) == 0.0,
+    "공통 관절이 없으면 0 (가려짐을 움직임으로 세지 않음)",
+)
+
+# 트래커 — 평활과 초기화
+t = ArousalTracker()
+check(t.value == 0.0, "프레임 전에는 0.0")
+first = t.update(au_intensity_sum=12.0, motion_speed=0.35)
+check(abs(first - 1.0) < 1e-9, "첫 프레임은 평활 없이 그대로")
+second = t.update(au_intensity_sum=0.0, motion_speed=0.0)
+check(0.0 < second < 1.0, "급락한 프레임이 평활로 완충됨")
+t.reset()
+check(t.value == 0.0, "reset 후 이전 관객 값이 남지 않음")
+
+# 흙·고 도달 — 이 결정의 핵심 근거.
+# 감정 6개가 전부 약하게 잡힌 애매한 표정이면 흙이 1위가 된다.
+# 감정에서 arousal을 유도했다면 이 상태는 강도 '저'로 고정돼 흙·고가
+# 영구 미도달이었다. 별도 신호를 쓰기 때문에 도달한다.
+AMBIGUOUS = dict(joy=0.1, sadness=0.1, anger=0.1, fear=0.1, disgust=0.1, surprise=0.1)
+
+check(
+    to_directions(EmotionSignal(**AMBIGUOUS)).dominant == "earth",
+    "감정이 전부 약하면 흙이 1위",
+)
+check(
+    judge(to_directions(EmotionSignal(**AMBIGUOUS, arousal=blend(0.5, 1.0)))).slot_id
+    == "earth_high",
+    "애매한 표정 + 큰 움직임 → 흙·고 도달",
+)
+
+# 한쪽 신호만으로는 '고'에 닿지 않는다 — 가중합의 의도된 성질이다.
+# 확률합(soft OR)으로 바꾸면 격자 전체의 70%가 '고'로 쏠려 강도축이
+# 무너진다. 가중합은 저/중/고를 24:52:24로 고르게 쓴다.
+check(
+    judge(to_directions(EmotionSignal(**AMBIGUOUS, arousal=blend(0.0, 1.0)))).level
+    == "mid",
+    "움직임만 최대 → 강도 '중'까지 (한 신호만으로는 '고' 불가)",
+)
+check(
+    judge(to_directions(EmotionSignal(**AMBIGUOUS, arousal=blend(1.0, 0.0)))).level
+    == "mid",
+    "표정만 최대 → 강도 '중'까지",
+)
+
+# ────────────────────────────── 10. 집필 진행률 ──────────────────────────────
 section("1계층 문구 집필 진행률")
 
 ko = coverage("ko")

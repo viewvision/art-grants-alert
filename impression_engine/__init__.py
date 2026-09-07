@@ -12,6 +12,7 @@
     print(result.summary())
 """
 
+from .arousal import ArousalTracker, blend, motion_energy_from_joints, normalise
 from .directions import DirectionVector, to_directions
 from .engine import Impression, process
 from .judgment import Judgment, all_slot_ids, judge
@@ -25,6 +26,10 @@ __all__ = [
     "Judgment",
     "RenderPalette",
     "Impression",
+    "ArousalTracker",
+    "blend",
+    "normalise",
+    "motion_energy_from_joints",
     "to_directions",
     "judge",
     "palette_for",
