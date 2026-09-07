@@ -1,5 +1,65 @@
 [
   {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S64758",
+    "title": "2026년 수원화성 미디어아트 <수원가게> 참여자 모집 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64758",
+    "date": "2026.09.03 - 2026.09.09",
+    "image": null,
+    "first_seen": "2026-09-07"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S64736",
+    "title": "2026년 예술산업아카데미 <예술창업 모닝 살롱 Vol.4> 수강생 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64736",
+    "date": "2026.09.04 - 2026.09.17",
+    "image": null,
+    "first_seen": "2026-09-07"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S64735",
+    "title": "2026년 예술산업아카데미 예술산업 입직을 위한 진로 및 취업상담(10월) 수강생 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64735",
+    "date": "2026.09.04 - 2026.09.30",
+    "image": null,
+    "first_seen": "2026-09-07"
+  },
+  {
+    "site": "artmore",
+    "site_label": "아트모아",
+    "id": "94901",
+    "title": "[보보스링크] 부암아트 문화예술 기획, 공연기술 채용 (서울 종로구 자하문로 242 (부암동))",
+    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94901",
+    "date": "2026-09-08",
+    "image": null,
+    "first_seen": "2026-09-07"
+  },
+  {
+    "site": "artmore",
+    "site_label": "아트모아",
+    "id": "94895",
+    "title": "[세화예술문화재단] [세화미술관] 현장 운영 매니저 채용 (서울 종로구 새문안로 68 (신문로1가))",
+    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94895",
+    "date": "2026-09-07",
+    "image": null,
+    "first_seen": "2026-09-07"
+  },
+  {
+    "site": "artmore",
+    "site_label": "아트모아",
+    "id": "94889",
+    "title": "[서울예술고등학교] 서울예술고등학교 계약직(공무직) 채용 공고 (서울 종로구 평창문화로 70 (평창동))",
+    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94889",
+    "date": "2026-09-07",
+    "image": null,
+    "first_seen": "2026-09-07"
+  },
+  {
     "site": "artmore",
     "site_label": "아트모아",
     "id": "94877",
