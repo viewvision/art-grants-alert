@@ -12,6 +12,7 @@
     print(result.summary())
 """
 
+from .adapters import PyFeatReading, read_pyfeat, signal_from_pyfeat
 from .arousal import ArousalTracker, blend, motion_energy_from_joints, normalise
 from .directions import DirectionVector, to_directions
 from .engine import Impression, process
@@ -27,6 +28,9 @@ __all__ = [
     "RenderPalette",
     "Impression",
     "ArousalTracker",
+    "PyFeatReading",
+    "read_pyfeat",
+    "signal_from_pyfeat",
     "blend",
     "normalise",
     "motion_energy_from_joints",

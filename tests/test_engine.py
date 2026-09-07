@@ -22,6 +22,8 @@ from impression_engine import (  # noqa: E402
     motion_energy_from_joints,
     normalise,
     process,
+    read_pyfeat,
+    signal_from_pyfeat,
     to_directions,
 )
 from impression_engine.judgment import MIXED_THRESHOLD_PP  # noqa: E402
@@ -283,7 +285,65 @@ check(
     "표정만 최대 → 강도 '중'까지",
 )
 
-# ────────────────────────────── 10. 집필 진행률 ──────────────────────────────
+# ────────────────────────── 10. py-feat 어댑터 ──────────────────────────
+section("py-feat 어댑터 — 인식 출력 → 엔진 입력")
+
+# v1 표기(소문자). 감정 7종 확률 합 = 1.
+V1_ROW = {
+    "anger": 0.05, "disgust": 0.03, "fear": 0.02, "happiness": 0.55,
+    "sadness": 0.04, "surprise": 0.11, "neutral": 0.20,
+    "AU06": 0.82, "AU12": 0.91, "AU25": 0.40, "AU01": 0.05,
+}
+r = read_pyfeat(V1_ROW)
+check(r.emotions["joy"] == 0.55, "happiness → joy 사상")
+check(r.emotions["sadness"] == 0.04, "sadness 그대로")
+check("neutral" not in r.emotions, "Neutral은 넘기지 않는다")
+check(abs(r.smile_au - 0.865) < 1e-9, "웃음근육 = AU06·AU12 평균")
+check(abs(r.earth_is_neutral - 0.20) < 1e-9, "흙 비중이 Neutral 확률과 일치")
+check(r.native_arousal is None, "v1에는 네이티브 arousal이 없다")
+
+# 흙 비중이 실제 판정에서도 Neutral과 같은지 — 설계와 모델의 대응 확인
+sig = r.to_signal(arousal=0.8)
+check(
+    abs(to_directions(sig).ratios["earth"] - 0.20) < 1e-9,
+    "엔진이 계산한 흙 비중 = py-feat Neutral (이중 계산 없음)",
+)
+check(judge(to_directions(sig)).slot_id == "fire_joy_high", "웃는 얼굴 → 불·기쁨·고")
+
+# v2 표기(대문자) + 네이티브 arousal
+V2_ROW = {
+    "Anger": 0.02, "Disgust": 0.01, "Fear": 0.30, "Happy": 0.03,
+    "Sad": 0.04, "Surprise": 0.45, "Neutral": 0.15,
+    "AU06": 0.10, "AU12": 0.05, "AU04": 0.60,
+    "arousal": 0.5,
+}
+r2 = read_pyfeat(V2_ROW)
+check(r2.emotions["fear"] == 0.30, "대문자 표기도 인식")
+check(r2.emotions["joy"] == 0.03, "Happy → joy 사상")
+check(abs(r2.native_arousal - 0.75) < 1e-9, "arousal [-1,1] → [0,1] 변환")
+check(
+    r2.face_intensity() == r2.native_arousal,
+    "네이티브 arousal이 있으면 AU 합 대신 그것을 쓴다",
+)
+
+# 뒤셴 판정 — 두 근육이 함께 켜져야 웃음으로 본다
+half = {"AU06": 0.9, "AU12": 0.1}
+check(abs(read_pyfeat(half).smile_au - 0.5) < 1e-9, "mean: 한쪽만 켜져도 0.5")
+check(
+    abs(read_pyfeat(half, smile_mode="strict").smile_au - 0.1) < 1e-9,
+    "strict: 둘 중 작은 값 — 희망 슬롯을 조일 때 쓴다",
+)
+
+# 통합 경로
+s = signal_from_pyfeat(V1_ROW, motion_energy=0.6)
+check(0.0 <= s.arousal <= 1.0, "통합 경로가 유효한 arousal 생성")
+check(process(s).judgment.dominant == "fire", "통합 경로 판정까지 관통")
+
+# 없는 컬럼은 0으로 — 모델 경로가 달라도 죽지 않는다
+check(read_pyfeat({}).smile_au == 0.0, "빈 입력도 예외 없이 처리")
+check(read_pyfeat({}).earth_is_neutral == 1.0, "감정이 없으면 흙 100%")
+
+# ────────────────────────────── 11. 집필 진행률 ──────────────────────────────
 section("1계층 문구 집필 진행률")
 
 ko = coverage("ko")
