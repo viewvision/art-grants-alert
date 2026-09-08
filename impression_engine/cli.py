@@ -11,6 +11,7 @@ import argparse
 import json
 
 from .engine import process
+from .judgment import all_slot_ids
 from .phrases import coverage
 from .profile import Profile
 from .signals import EmotionSignal
@@ -56,6 +57,10 @@ def main() -> None:
     parser.add_argument("--json", action="store_true", help="렌더 사양 JSON 출력")
     parser.add_argument("--coverage", action="store_true", help="문구 집필 진행률")
     parser.add_argument(
+        "--all-slots", action="store_true",
+        help="24개 슬롯 전체의 렌더 사양 JSON (TouchDesigner 작업 참조용)",
+    )
+    parser.add_argument(
         "--profile", metavar="경로",
         help="캘리브레이션 프로필 JSON (예: calibration/작업실.json)",
     )
@@ -80,6 +85,10 @@ def main() -> None:
                     print(f"    ✗ {slot}")
         return
 
+    if args.all_slots:
+        print(json.dumps(all_slot_specs(profile), ensure_ascii=False, indent=2))
+        return
+
     if args.json:
         payload = [
             {"scenario": name, "spec": process(sig, profile=profile).to_render_spec()}
@@ -92,6 +101,36 @@ def main() -> None:
         print(f"\n▸ {name}")
         print(process(signal, profile=profile).summary())
 
+
+
+
+def all_slot_specs(profile=None) -> list[dict]:
+    """24개 슬롯 전체의 렌더 사양.
+
+    슬롯마다 그 슬롯이 나오는 대표 입력을 찾아 실제로 엔진을 통과시킨다.
+    손으로 적은 표가 아니라 엔진이 실제로 내놓는 값이므로, TouchDesigner
+    쪽에서 이 JSON을 그대로 기준 삼아 작업할 수 있다.
+    """
+    import itertools
+
+    found: dict[str, dict] = {}
+    steps = (0.0, 0.2, 0.4, 0.6, 0.8, 1.0)
+    levels = (0.15, 0.5, 0.85)
+
+    for joy, sadness, anger, fear, surprise, disgust in itertools.product(steps, repeat=6):
+        for arousal in levels:
+            for smile in (0.0, 1.0):
+                sig = EmotionSignal(
+                    joy=joy, sadness=sadness, anger=anger, fear=fear,
+                    surprise=surprise, disgust=disgust,
+                    smile_au=smile, arousal=arousal,
+                )
+                result = process(sig, profile=profile)
+                found.setdefault(result.judgment.slot_id, result.to_render_spec())
+        if len(found) == 24:
+            break
+
+    return [found[s] for s in all_slot_ids() if s in found]
 
 if __name__ == "__main__":
     main()

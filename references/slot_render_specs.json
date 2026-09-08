@@ -1,0 +1,830 @@
+[
+  {
+    "slot": "water_low",
+    "label": "물 · 저",
+    "is_mixed": false,
+    "ratios_percent": {
+      "water": 60.0,
+      "fire": 0.0,
+      "air": 0.0,
+      "earth": 40.0
+    },
+    "gap_pp": 20.0,
+    "arousal": 0.15,
+    "palette": {
+      "dominant": {
+        "direction": "water",
+        "color": "#96E2EC",
+        "weight": 0.6
+      },
+      "second": {
+        "direction": "earth",
+        "color": "#EED09C",
+        "weight": 0.4
+      },
+      "background": {
+        "from": "#FFE0C4",
+        "to": "#FFB37A"
+      },
+      "level": "low"
+    },
+    "phrase": {
+      "ko": "조금 가라앉아 있네요. 오늘 무엇이 있었나요?",
+      "en": "Something in you has settled low today. What was it?",
+      "source": "baseline"
+    }
+  },
+  {
+    "slot": "water_mid",
+    "label": "물 · 중",
+    "is_mixed": false,
+    "ratios_percent": {
+      "water": 60.0,
+      "fire": 0.0,
+      "air": 0.0,
+      "earth": 40.0
+    },
+    "gap_pp": 20.0,
+    "arousal": 0.5,
+    "palette": {
+      "dominant": {
+        "direction": "water",
+        "color": "#49D2E3",
+        "weight": 0.6
+      },
+      "second": {
+        "direction": "earth",
+        "color": "#E7B258",
+        "weight": 0.4
+      },
+      "background": {
+        "from": "#FFE0C4",
+        "to": "#FFB37A"
+      },
+      "level": "mid"
+    },
+    "phrase": {
+      "ko": "지금 당신을 가라앉게 하는 건 무엇인가요?",
+      "en": "What is it that keeps pulling you down right now?",
+      "source": "baseline"
+    }
+  },
+  {
+    "slot": "water_high",
+    "label": "물 · 고",
+    "is_mixed": false,
+    "ratios_percent": {
+      "water": 60.0,
+      "fire": 0.0,
+      "air": 0.0,
+      "earth": 40.0
+    },
+    "gap_pp": 20.0,
+    "arousal": 0.85,
+    "palette": {
+      "dominant": {
+        "direction": "water",
+        "color": "#00C0D8",
+        "weight": 0.6
+      },
+      "second": {
+        "direction": "earth",
+        "color": "#DC9418",
+        "weight": 0.4
+      },
+      "background": {
+        "from": "#FFE0C4",
+        "to": "#FFB37A"
+      },
+      "level": "high"
+    },
+    "phrase": {
+      "ko": "그 무게를 잠시 내려놓아도 될까요?",
+      "en": "That weight — could you set it down for a moment?",
+      "source": "baseline"
+    }
+  },
+  {
+    "slot": "fire_joy_low",
+    "label": "불 · 기쁨 · 저",
+    "is_mixed": false,
+    "ratios_percent": {
+      "water": 20.0,
+      "fire": 40.0,
+      "air": 20.0,
+      "earth": 20.0
+    },
+    "gap_pp": 20.0,
+    "arousal": 0.15,
+    "palette": {
+      "dominant": {
+        "direction": "fire",
+        "color": "#F7B49C",
+        "weight": 0.4
+      },
+      "second": {
+        "direction": "water",
+        "color": "#96E2EC",
+        "weight": 0.2
+      },
+      "background": {
+        "from": "#BFE3F7",
+        "to": "#78C4F0"
+      },
+      "level": "low"
+    },
+    "phrase": {
+      "ko": "작게 밝아지고 있네요. 무엇이 그렇게 만들었나요?",
+      "en": "Something in you is brightening, just a little. What did that?",
+      "source": "baseline"
+    }
+  },
+  {
+    "slot": "fire_joy_mid",
+    "label": "불 · 기쁨 · 중",
+    "is_mixed": false,
+    "ratios_percent": {
+      "water": 20.0,
+      "fire": 40.0,
+      "air": 20.0,
+      "earth": 20.0
+    },
+    "gap_pp": 20.0,
+    "arousal": 0.5,
+    "palette": {
+      "dominant": {
+        "direction": "fire",
+        "color": "#F8825A",
+        "weight": 0.4
+      },
+      "second": {
+        "direction": "water",
+        "color": "#49D2E3",
+        "weight": 0.2
+      },
+      "background": {
+        "from": "#BFE3F7",
+        "to": "#78C4F0"
+      },
+      "level": "mid"
+    },
+    "phrase": {
+      "ko": "안에서 무언가 피어오르고 있네요. 무엇 때문인가요?",
+      "en": "Something is rising in you. What lit it?",
+      "source": "baseline"
+    }
+  },
+  {
+    "slot": "fire_joy_high",
+    "label": "불 · 기쁨 · 고",
+    "is_mixed": false,
+    "ratios_percent": {
+      "water": 20.0,
+      "fire": 40.0,
+      "air": 20.0,
+      "earth": 20.0
+    },
+    "gap_pp": 20.0,
+    "arousal": 0.85,
+    "palette": {
+      "dominant": {
+        "direction": "fire",
+        "color": "#F6521B",
+        "weight": 0.4
+      },
+      "second": {
+        "direction": "water",
+        "color": "#00C0D8",
+        "weight": 0.2
+      },
+      "background": {
+        "from": "#BFE3F7",
+        "to": "#78C4F0"
+      },
+      "level": "high"
+    },
+    "phrase": {
+      "ko": "그 뜨거움은 어디를 향해 있나요?",
+      "en": "That heat in you — where is it heading?",
+      "source": "baseline"
+    }
+  },
+  {
+    "slot": "fire_anger_low",
+    "label": "불 · 분노 · 저",
+    "is_mixed": false,
+    "ratios_percent": {
+      "water": 20.0,
+      "fire": 40.0,
+      "air": 20.0,
+      "earth": 20.0
+    },
+    "gap_pp": 20.0,
+    "arousal": 0.15,
+    "palette": {
+      "dominant": {
+        "direction": "fire",
+        "color": "#F7B49C",
+        "weight": 0.4
+      },
+      "second": {
+        "direction": "water",
+        "color": "#96E2EC",
+        "weight": 0.2
+      },
+      "background": {
+        "from": "#BFE3F7",
+        "to": "#78C4F0"
+      },
+      "level": "low"
+    },
+    "phrase": {
+      "ko": "아직 식지 않은 열이 남아 있네요. 어디서 온 걸까요?",
+      "en": "A heat that hasn't cooled is still here. Where did it come from?",
+      "source": "baseline"
+    }
+  },
+  {
+    "slot": "fire_anger_mid",
+    "label": "불 · 분노 · 중",
+    "is_mixed": false,
+    "ratios_percent": {
+      "water": 20.0,
+      "fire": 40.0,
+      "air": 20.0,
+      "earth": 20.0
+    },
+    "gap_pp": 20.0,
+    "arousal": 0.5,
+    "palette": {
+      "dominant": {
+        "direction": "fire",
+        "color": "#F8825A",
+        "weight": 0.4
+      },
+      "second": {
+        "direction": "water",
+        "color": "#49D2E3",
+        "weight": 0.2
+      },
+      "background": {
+        "from": "#BFE3F7",
+        "to": "#78C4F0"
+      },
+      "level": "mid"
+    },
+    "phrase": {
+      "ko": "뜨거운 것이 올라오고 있네요. 무엇이 그렇게 만들었나요?",
+      "en": "Something hot is rising in you. What brought it up?",
+      "source": "baseline"
+    }
+  },
+  {
+    "slot": "fire_anger_high",
+    "label": "불 · 분노 · 고",
+    "is_mixed": false,
+    "ratios_percent": {
+      "water": 20.0,
+      "fire": 40.0,
+      "air": 20.0,
+      "earth": 20.0
+    },
+    "gap_pp": 20.0,
+    "arousal": 0.85,
+    "palette": {
+      "dominant": {
+        "direction": "fire",
+        "color": "#F6521B",
+        "weight": 0.4
+      },
+      "second": {
+        "direction": "water",
+        "color": "#00C0D8",
+        "weight": 0.2
+      },
+      "background": {
+        "from": "#BFE3F7",
+        "to": "#78C4F0"
+      },
+      "level": "high"
+    },
+    "phrase": {
+      "ko": "그 뜨거움은 무엇을 지키려 하나요?",
+      "en": "That heat in you — what is it protecting?",
+      "source": "baseline"
+    }
+  },
+  {
+    "slot": "air_hope_low",
+    "label": "공기 · 희망 · 저",
+    "is_mixed": false,
+    "ratios_percent": {
+      "water": 0.0,
+      "fire": 0.0,
+      "air": 60.0,
+      "earth": 40.0
+    },
+    "gap_pp": 20.0,
+    "arousal": 0.15,
+    "palette": {
+      "dominant": {
+        "direction": "air",
+        "color": "#C2A9F0",
+        "weight": 0.6
+      },
+      "second": {
+        "direction": "earth",
+        "color": "#EED09C",
+        "weight": 0.4
+      },
+      "background": {
+        "from": "#FFE0C4",
+        "to": "#FFB37A"
+      },
+      "level": "low"
+    },
+    "phrase": {
+      "ko": "무언가를 조금 기다리고 있네요. 그게 무엇인가요?",
+      "en": "You're waiting on something, quietly. What is it?",
+      "source": "baseline"
+    }
+  },
+  {
+    "slot": "air_hope_mid",
+    "label": "공기 · 희망 · 중",
+    "is_mixed": false,
+    "ratios_percent": {
+      "water": 0.0,
+      "fire": 0.0,
+      "air": 60.0,
+      "earth": 40.0
+    },
+    "gap_pp": 20.0,
+    "arousal": 0.5,
+    "palette": {
+      "dominant": {
+        "direction": "air",
+        "color": "#9A72EB",
+        "weight": 0.6
+      },
+      "second": {
+        "direction": "earth",
+        "color": "#E7B258",
+        "weight": 0.4
+      },
+      "background": {
+        "from": "#FFE0C4",
+        "to": "#FFB37A"
+      },
+      "level": "mid"
+    },
+    "phrase": {
+      "ko": "당신이 기다리고 있는 건 무엇인가요?",
+      "en": "What is it that you keep waiting for?",
+      "source": "baseline"
+    }
+  },
+  {
+    "slot": "air_hope_high",
+    "label": "공기 · 희망 · 고",
+    "is_mixed": false,
+    "ratios_percent": {
+      "water": 0.0,
+      "fire": 0.0,
+      "air": 60.0,
+      "earth": 40.0
+    },
+    "gap_pp": 20.0,
+    "arousal": 0.85,
+    "palette": {
+      "dominant": {
+        "direction": "air",
+        "color": "#753EE4",
+        "weight": 0.6
+      },
+      "second": {
+        "direction": "earth",
+        "color": "#DC9418",
+        "weight": 0.4
+      },
+      "background": {
+        "from": "#FFE0C4",
+        "to": "#FFB37A"
+      },
+      "level": "high"
+    },
+    "phrase": {
+      "ko": "기다리는 마음이 크네요. 그것이 온다면 무엇이 달라질까요?",
+      "en": "The waiting in you is large. If it arrived, what would change?",
+      "source": "baseline"
+    }
+  },
+  {
+    "slot": "air_anxiety_low",
+    "label": "공기 · 불안 · 저",
+    "is_mixed": false,
+    "ratios_percent": {
+      "water": 0.0,
+      "fire": 0.0,
+      "air": 60.0,
+      "earth": 40.0
+    },
+    "gap_pp": 20.0,
+    "arousal": 0.15,
+    "palette": {
+      "dominant": {
+        "direction": "air",
+        "color": "#C2A9F0",
+        "weight": 0.6
+      },
+      "second": {
+        "direction": "earth",
+        "color": "#EED09C",
+        "weight": 0.4
+      },
+      "background": {
+        "from": "#FFE0C4",
+        "to": "#FFB37A"
+      },
+      "level": "low"
+    },
+    "phrase": {
+      "ko": "조금 흔들리고 있네요. 무엇이 마음에 걸리나요?",
+      "en": "Something in you is unsteady, slightly. What sits on your mind?",
+      "source": "baseline"
+    }
+  },
+  {
+    "slot": "air_anxiety_mid",
+    "label": "공기 · 불안 · 중",
+    "is_mixed": false,
+    "ratios_percent": {
+      "water": 0.0,
+      "fire": 0.0,
+      "air": 60.0,
+      "earth": 40.0
+    },
+    "gap_pp": 20.0,
+    "arousal": 0.5,
+    "palette": {
+      "dominant": {
+        "direction": "air",
+        "color": "#9A72EB",
+        "weight": 0.6
+      },
+      "second": {
+        "direction": "earth",
+        "color": "#E7B258",
+        "weight": 0.4
+      },
+      "background": {
+        "from": "#FFE0C4",
+        "to": "#FFB37A"
+      },
+      "level": "mid"
+    },
+    "phrase": {
+      "ko": "아직 모르는 그것이, 당신에게 무엇일까요?",
+      "en": "That thing you don't know yet — what is it to you?",
+      "source": "baseline"
+    }
+  },
+  {
+    "slot": "air_anxiety_high",
+    "label": "공기 · 불안 · 고",
+    "is_mixed": false,
+    "ratios_percent": {
+      "water": 0.0,
+      "fire": 0.0,
+      "air": 60.0,
+      "earth": 40.0
+    },
+    "gap_pp": 20.0,
+    "arousal": 0.85,
+    "palette": {
+      "dominant": {
+        "direction": "air",
+        "color": "#753EE4",
+        "weight": 0.6
+      },
+      "second": {
+        "direction": "earth",
+        "color": "#DC9418",
+        "weight": 0.4
+      },
+      "background": {
+        "from": "#FFE0C4",
+        "to": "#FFB37A"
+      },
+      "level": "high"
+    },
+    "phrase": {
+      "ko": "흩어지는 것들 사이에 서 있네요. 무엇을 붙잡고 싶은가요?",
+      "en": "You're standing among things coming apart. What would you hold?",
+      "source": "baseline"
+    }
+  },
+  {
+    "slot": "earth_low",
+    "label": "흙 · 저",
+    "is_mixed": false,
+    "ratios_percent": {
+      "water": 0.0,
+      "fire": 0.0,
+      "air": 0.0,
+      "earth": 100.0
+    },
+    "gap_pp": 100.0,
+    "arousal": 0.15,
+    "palette": {
+      "dominant": {
+        "direction": "earth",
+        "color": "#EED09C",
+        "weight": 1.0
+      },
+      "second": null,
+      "background": {
+        "from": "#BFE3F7",
+        "to": "#78C4F0"
+      },
+      "level": "low"
+    },
+    "phrase": {
+      "ko": "아주 고요하네요. 지금 이 순간 무엇이 남아 있나요?",
+      "en": "It is very still here. What remains, in this moment?",
+      "source": "baseline"
+    }
+  },
+  {
+    "slot": "earth_mid",
+    "label": "흙 · 중",
+    "is_mixed": false,
+    "ratios_percent": {
+      "water": 0.0,
+      "fire": 0.0,
+      "air": 0.0,
+      "earth": 100.0
+    },
+    "gap_pp": 100.0,
+    "arousal": 0.5,
+    "palette": {
+      "dominant": {
+        "direction": "earth",
+        "color": "#E7B258",
+        "weight": 1.0
+      },
+      "second": null,
+      "background": {
+        "from": "#BFE3F7",
+        "to": "#78C4F0"
+      },
+      "level": "mid"
+    },
+    "phrase": {
+      "ko": "지금 당신을 지탱해주는 건 무엇인가요?",
+      "en": "What is holding you up right now?",
+      "source": "baseline"
+    }
+  },
+  {
+    "slot": "earth_high",
+    "label": "흙 · 고",
+    "is_mixed": false,
+    "ratios_percent": {
+      "water": 0.0,
+      "fire": 0.0,
+      "air": 0.0,
+      "earth": 100.0
+    },
+    "gap_pp": 100.0,
+    "arousal": 0.85,
+    "palette": {
+      "dominant": {
+        "direction": "earth",
+        "color": "#DC9418",
+        "weight": 1.0
+      },
+      "second": null,
+      "background": {
+        "from": "#BFE3F7",
+        "to": "#78C4F0"
+      },
+      "level": "high"
+    },
+    "phrase": {
+      "ko": "겉은 잔잔한데 안이 분주하네요. 무엇이 움직이고 있나요?",
+      "en": "Still on the surface, busy underneath. What is moving in there?",
+      "source": "baseline"
+    }
+  },
+  {
+    "slot": "mixed_water_fire",
+    "label": "혼합 · 물+불",
+    "is_mixed": true,
+    "ratios_percent": {
+      "water": 40.0,
+      "fire": 40.0,
+      "air": 0.0,
+      "earth": 20.0
+    },
+    "gap_pp": 0.0,
+    "arousal": 0.15,
+    "palette": {
+      "dominant": {
+        "direction": "water",
+        "color": "#49D2E3",
+        "weight": 0.4
+      },
+      "second": {
+        "direction": "fire",
+        "color": "#F8825A",
+        "weight": 0.4
+      },
+      "background": {
+        "from": "#FFE0C4",
+        "to": "#FFB37A"
+      },
+      "level": "mid"
+    },
+    "phrase": {
+      "ko": "가라앉음과 뜨거움이 함께 있네요. 어느 쪽이 먼저였나요?",
+      "en": "Something in you is sinking and burning at once. Which one came first?",
+      "source": "baseline"
+    }
+  },
+  {
+    "slot": "mixed_water_air",
+    "label": "혼합 · 물+공기",
+    "is_mixed": true,
+    "ratios_percent": {
+      "water": 40.0,
+      "fire": 0.0,
+      "air": 40.0,
+      "earth": 20.0
+    },
+    "gap_pp": 0.0,
+    "arousal": 0.15,
+    "palette": {
+      "dominant": {
+        "direction": "water",
+        "color": "#49D2E3",
+        "weight": 0.4
+      },
+      "second": {
+        "direction": "air",
+        "color": "#9A72EB",
+        "weight": 0.4
+      },
+      "background": {
+        "from": "#FFE0C4",
+        "to": "#FFB37A"
+      },
+      "level": "mid"
+    },
+    "phrase": {
+      "ko": "가라앉으면서 흩어지고 있네요. 어느 쪽에 머물고 싶은가요?",
+      "en": "Sinking and scattering at once. Which one would you stay with?",
+      "source": "baseline"
+    }
+  },
+  {
+    "slot": "mixed_water_earth",
+    "label": "혼합 · 물+흙",
+    "is_mixed": true,
+    "ratios_percent": {
+      "water": 40.0,
+      "fire": 0.0,
+      "air": 20.0,
+      "earth": 40.0
+    },
+    "gap_pp": 0.0,
+    "arousal": 0.15,
+    "palette": {
+      "dominant": {
+        "direction": "water",
+        "color": "#49D2E3",
+        "weight": 0.4
+      },
+      "second": {
+        "direction": "earth",
+        "color": "#E7B258",
+        "weight": 0.4
+      },
+      "background": {
+        "from": "#FFE0C4",
+        "to": "#FFB37A"
+      },
+      "level": "mid"
+    },
+    "phrase": {
+      "ko": "가라앉은 자리에 그대로 머물러 있네요. 그곳은 어떤가요?",
+      "en": "Settled low, and staying there. What is that place like?",
+      "source": "baseline"
+    }
+  },
+  {
+    "slot": "mixed_fire_air",
+    "label": "혼합 · 불+공기",
+    "is_mixed": true,
+    "ratios_percent": {
+      "water": 0.0,
+      "fire": 40.0,
+      "air": 40.0,
+      "earth": 20.0
+    },
+    "gap_pp": 0.0,
+    "arousal": 0.15,
+    "palette": {
+      "dominant": {
+        "direction": "fire",
+        "color": "#F8825A",
+        "weight": 0.4
+      },
+      "second": {
+        "direction": "air",
+        "color": "#9A72EB",
+        "weight": 0.4
+      },
+      "background": {
+        "from": "#BFE3F7",
+        "to": "#78C4F0"
+      },
+      "level": "mid"
+    },
+    "phrase": {
+      "ko": "뜨거움이 사방으로 흩어지고 있네요. 어디로 가고 싶은가요?",
+      "en": "The heat is scattering outward. Where does it want to go?",
+      "source": "baseline"
+    }
+  },
+  {
+    "slot": "mixed_fire_earth",
+    "label": "혼합 · 불+흙",
+    "is_mixed": true,
+    "ratios_percent": {
+      "water": 20.0,
+      "fire": 40.0,
+      "air": 0.0,
+      "earth": 40.0
+    },
+    "gap_pp": 0.0,
+    "arousal": 0.15,
+    "palette": {
+      "dominant": {
+        "direction": "fire",
+        "color": "#F8825A",
+        "weight": 0.4
+      },
+      "second": {
+        "direction": "earth",
+        "color": "#E7B258",
+        "weight": 0.4
+      },
+      "background": {
+        "from": "#BFE3F7",
+        "to": "#78C4F0"
+      },
+      "level": "mid"
+    },
+    "phrase": {
+      "ko": "뜨거운 채로 자리를 지키고 있네요. 무엇을 위해서인가요?",
+      "en": "Hot, and holding its ground. What is it holding for?",
+      "source": "baseline"
+    }
+  },
+  {
+    "slot": "mixed_air_earth",
+    "label": "혼합 · 공기+흙",
+    "is_mixed": true,
+    "ratios_percent": {
+      "water": 20.0,
+      "fire": 0.0,
+      "air": 40.0,
+      "earth": 40.0
+    },
+    "gap_pp": 0.0,
+    "arousal": 0.15,
+    "palette": {
+      "dominant": {
+        "direction": "air",
+        "color": "#9A72EB",
+        "weight": 0.4
+      },
+      "second": {
+        "direction": "earth",
+        "color": "#E7B258",
+        "weight": 0.4
+      },
+      "background": {
+        "from": "#FFE0C4",
+        "to": "#FFB37A"
+      },
+      "level": "mid"
+    },
+    "phrase": {
+      "ko": "떠나려는 마음과 머무는 마음이 같이 있네요. 어느 쪽인가요?",
+      "en": "Part of you leaving, part of you staying. Which one is it?",
+      "source": "baseline"
+    }
+  }
+]
