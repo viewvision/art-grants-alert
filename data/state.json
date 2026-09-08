@@ -1177,6 +1177,60 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64702",
       "date": "2026.09.03 - 2026.09.17",
       "first_seen": "2026-09-04"
+    },
+    "CRL3580": {
+      "title": "2026년 서울문화재단 창작 희곡 공모 <제4회 서울희곡상>",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CRL3580",
+      "date": "2026.08.31 - 2026.09.14",
+      "first_seen": "2026-09-07"
+    },
+    "S64765": {
+      "title": "2026년 크리에이티브X성수 서밋(웹툰 피칭) 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64765",
+      "date": "2026.09.07 - 2026.09.18",
+      "first_seen": "2026-09-07"
+    },
+    "S64762": {
+      "title": "2026년 글빛마루정원 하반기 정기대관 신청접수 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64762",
+      "date": "2026.09.04 - 2026.09.13",
+      "first_seen": "2026-09-07"
+    },
+    "S64758": {
+      "title": "2026년 수원화성 미디어아트 <수원가게> 참여자 모집 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64758",
+      "date": "2026.09.03 - 2026.09.09",
+      "first_seen": "2026-09-07"
+    },
+    "S64757": {
+      "title": "2026년 꿈의 극단 예비거점기관 '제천' 파일럿 프로그램 참여자 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64757",
+      "date": "2026.09.04 - 2026.09.19",
+      "first_seen": "2026-09-07"
+    },
+    "S64755": {
+      "title": "2026년 하반기 서해구 문화시설 수시대관 2차 공고(서해구문화회관,청라블루노바홀)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64755",
+      "date": "2026.09.04 - 2026.09.13",
+      "first_seen": "2026-09-07"
+    },
+    "S64743": {
+      "title": "2027년 상반기 공연장·전시실 정기대관 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64743",
+      "date": "2026.09.04 - 2026.09.20",
+      "first_seen": "2026-09-07"
+    },
+    "S64736": {
+      "title": "2026년 예술산업아카데미 <예술창업 모닝 살롱 Vol.4> 수강생 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64736",
+      "date": "2026.09.04 - 2026.09.17",
+      "first_seen": "2026-09-07"
+    },
+    "S64735": {
+      "title": "2026년 예술산업아카데미 예술산업 입직을 위한 진로 및 취업상담(10월) 수강생 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64735",
+      "date": "2026.09.04 - 2026.09.30",
+      "first_seen": "2026-09-07"
     }
   },
   "arko_education": {
@@ -3583,6 +3637,66 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94882",
       "date": "2026-09-06",
       "first_seen": "2026-09-06"
+    },
+    "94901": {
+      "title": "[보보스링크] 부암아트 문화예술 기획, 공연기술 채용 (서울 종로구 자하문로 242 (부암동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94901",
+      "date": "2026-09-08",
+      "first_seen": "2026-09-07"
+    },
+    "94895": {
+      "title": "[세화예술문화재단] [세화미술관] 현장 운영 매니저 채용 (서울 종로구 새문안로 68 (신문로1가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94895",
+      "date": "2026-09-07",
+      "first_seen": "2026-09-07"
+    },
+    "94894": {
+      "title": "[스테이지엠] [스테이지엠] 대구 및 지방 투어 공연 현장(하우스) 매니저 모집 (대구 남구 중앙대로 243 (대명동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94894",
+      "date": "2026-09-07",
+      "first_seen": "2026-09-07"
+    },
+    "94893": {
+      "title": "[쇼온컴퍼니] [쇼온컴퍼니] 공연 언론 홍보 담당 직원 채용 공고 ㅣ 채용 시 마감 (서울 은평구 진관3로 32 (진관동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94893",
+      "date": "2026-09-07",
+      "first_seen": "2026-09-07"
+    },
+    "94892": {
+      "title": "[한국항공대학교 항공우주박물관] 한국항공대학교 항공우주박물관 채용(기간제) 기념품샵 및 박물관 운영 (경기 고양시 덕양구 항공대학로 76 (화전동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94892",
+      "date": "2026-09-07",
+      "first_seen": "2026-09-07"
+    },
+    "94891": {
+      "title": "[경기아트센터] 2026년 경기아트센터 제3차 하우스어셔 채용공고 (경기 수원시 팔달구 효원로307번길 20 (인계동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94891",
+      "date": "2026-09-07",
+      "first_seen": "2026-09-07"
+    },
+    "94890": {
+      "title": "[간송미술문화재단] 대구간송미술관 신규직원(기간제) 채용 계획(제한경쟁) (대구 수성구 미술관로 70 (삼덕동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94890",
+      "date": "2026-09-07",
+      "first_seen": "2026-09-07"
+    },
+    "94889": {
+      "title": "[서울예술고등학교] 서울예술고등학교 계약직(공무직) 채용 공고 (서울 종로구 평창문화로 70 (평창동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94889",
+      "date": "2026-09-07",
+      "first_seen": "2026-09-07"
+    },
+    "94888": {
+      "title": "[(주)아라리오] [아라리오갤러리 서울] 아트샵 관리자 (계약직) 채용 공고 (서울 종로구 율곡로 85 (원서동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94888",
+      "date": "2026-09-07",
+      "first_seen": "2026-09-07"
+    },
+    "94887": {
+      "title": "[송파문화재단] [송파문화재단] 일일 하우스어셔 모집 (서울 송파구 백제고분로 242 (삼전동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94887",
+      "date": "2026-09-07",
+      "first_seen": "2026-09-07"
     }
   },
   "wevity": {
@@ -4597,6 +4711,24 @@
       "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260435385",
       "date": "2026.09.02. ~ 2026.09.07.",
       "first_seen": "2026-09-04"
+    },
+    "20260435333": {
+      "title": "「2026년 정신건강 어울림 한마당」운영 단체 모집 공고",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260435333",
+      "date": "2026.09.07. ~ 2026.09.21.",
+      "first_seen": "2026-09-07"
+    },
+    "202632000000023800025A": {
+      "title": "안동시 어린이·사회복지 급식관리지원센터  수탁기관 모집 공고",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000023800025A",
+      "date": "2026.09.07 ~ 2026.09.21",
+      "first_seen": "2026-09-07"
+    },
+    "202633000000004800055B": {
+      "title": "2026년 소공인 해외진출 지원사업 전문기관 모집 재공고",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202633000000004800055B",
+      "date": "2026.09.07 ~ 2026.09.14",
+      "first_seen": "2026-09-07"
     }
   },
   "gokams": {
@@ -5013,6 +5145,12 @@
       "url": "https://www.accf.or.kr/main/product/detail/ko/421",
       "date": "2026-09-10 ~ 2026-09-10",
       "first_seen": "2026-08-28"
+    },
+    "423": {
+      "title": "ACC 엑스뮤직페스티벌 워크숍",
+      "url": "https://www.accf.or.kr/main/product/detail/ko/423",
+      "date": "2026-10-02 ~ 2026-10-03",
+      "first_seen": "2026-09-07"
     }
   },
   "gmap": {
