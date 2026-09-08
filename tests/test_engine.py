@@ -192,6 +192,16 @@ check(not filter_phrase("지금 기분이 어떤가요").passed, "물음표 없�
 check(not filter_phrase("가" * 50 + "?").passed, "길이 상한 초과 차단")
 check(not filter_phrase("측정 결과는 무엇인가요?").passed, "'측정 결과' 금지어 차단")
 check(not filter_phrase("You are sad?", lang="en").passed, "영문 진단문 차단")
+check(not filter_phrase("You seem angry?", lang="en").passed, "영문 seem 진단 차단")
+check(not filter_phrase("You look a little sad?", lang="en").passed, "완충어 낀 진단도 차단")
+check(
+    filter_phrase("You're waiting on something, quietly. What is it?", lang="en").passed,
+    "일반 you're 는 통과 (2026-09-07 규칙 완화)",
+)
+check(
+    filter_phrase("You are standing among things coming apart. What now?", lang="en").passed,
+    "일반 you are 도 통과",
+)
 
 # ────────────────────────────── 8. 폴백 동작 ──────────────────────────────
 section("생성 실패 시 1계층 폴백")
@@ -457,7 +467,19 @@ print(f"        영어   채워짐 {en['written']}/{en['total']} · 작가확정
 check(ko["written"] == 24, "한국어 24칸 전부 채워짐")
 check(ko["author_confirmed"] == 8, "작가 확정본 8개가 구분돼 있음")
 check(len(ko["draft"]) == 16, "초안 16개가 검토 대기로 표시됨")
-check(en["author_confirmed"] == 0, "영문은 아직 작가 확정본이 없다")
+check(en["written"] == 24, "영어 24칸 전부 채워짐")
+check(en["author_confirmed"] == 0, "영문은 전부 초안 — 원어민 감수 대기")
+
+from impression_engine.phrases import BASELINE_EN, BASELINE_KO  # noqa: E402
+en_violations = [s for s, txt in BASELINE_EN.items() if txt and not filter_phrase(txt, "en").passed]
+check(not en_violations, f"영문 기준 문구 전체가 필터 통과 (위반 {en_violations})")
+check(
+    max(len(t) for t in BASELINE_EN.values() if t) <= 90,
+    "모든 영문이 길이 상한 90자 이내",
+)
+check(set(BASELINE_EN) == set(BASELINE_KO), "한/영 슬롯 구성이 동일")
+missing_en = [s for s in all_slot_ids() if resolve_phrase(s, "en")[1] == "missing"]
+check(not missing_en, f"24개 슬롯 전부 영문이 나온다 (없는 슬롯 {missing_en})")
 
 # 채워진 문구가 전부 작가 규칙 필터를 통과해야 한다 — 폴백으로 그대로
 # 화면에 뜨는 문장이므로 예외가 있으면 안 된다

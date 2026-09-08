@@ -97,18 +97,58 @@ BASELINE_KO: dict[str, str | None] = {
     "mixed_air_earth": "떠나려는 마음과 머무는 마음이 같이 있네요. 어느 쪽인가요?",
 }
 
-#: 1계층 기준 문구 — 영어. 직역이 아니라 영어로 따로 쓴 문장이어야 한다.
-#: 현재 1개만 시안 단계에서 사용됐고 작가 확정 전이다.
+#: 1계층 기준 문구 — 영어 24개.
+#:
+#: 직역이 아니다. 다만 **완전히 다른 문장이어서도 안 된다** — 한글과
+#: 영문이 화면에 나란히 뜨므로(2026-08-17 한영 병기 확정), 둘을 다 읽는
+#: 관객에게 서로 다른 말로 보이면 어긋난다. 기준은 이렇게 좁혀졌다:
+#:
+#:     의미의 축은 같게, 문장의 리듬만 각 언어에 맞게 (2026-09-07)
+#:
+#: 영문은 장식이 아니라 **입력 트리거**다. 관객이 문장을 읽고 반응하는
+#: 것이 8단계(반응 재캡처)의 입력값이므로, 문장을 읽지 못하는 관객에게는
+#: 인터랙션의 절반이 작동하지 않는다. 외국인 관객에게는 이쪽이 본문이다.
+#:
+#: `Something in you is...` 구문을 축으로 삼았다 — 관객에게 감정을 붙이지
+#: 않으면서 상태를 비추는 데 영어에서 가장 잘 작동한다.
 BASELINE_EN: dict[str, str | None] = {
-    slot: PENDING for slot in BASELINE_KO
+    # ── water ───────────────────────────────────────────────
+    "water_low": "Something in you has settled low today. What was it?",
+    "water_mid": "What is it that keeps pulling you down right now?",
+    "water_high": "That weight — could you set it down for a moment?",
+    # ── fire ────────────────────────────────────────────────
+    "fire_joy_low": "Something in you is brightening, just a little. What did that?",
+    "fire_joy_mid": "Something is rising in you. What lit it?",
+    "fire_joy_high": "That heat in you — where is it heading?",
+    "fire_anger_low": "A heat that hasn't cooled is still here. Where did it come from?",
+    "fire_anger_mid": "Something hot is rising in you. What brought it up?",
+    "fire_anger_high": "That heat in you — what is it protecting?",
+    # ── air ─────────────────────────────────────────────────
+    "air_hope_low": "You're waiting on something, quietly. What is it?",
+    "air_hope_mid": "What is it that you keep waiting for?",
+    "air_hope_high": "The waiting in you is large. If it arrived, what would change?",
+    "air_anxiety_low": "Something in you is unsteady, slightly. What sits on your mind?",
+    "air_anxiety_mid": "That thing you don't know yet — what is it to you?",
+    "air_anxiety_high": "You're standing among things coming apart. What would you hold?",
+    # ── earth ───────────────────────────────────────────────
+    "earth_low": "It is very still here. What remains, in this moment?",
+    "earth_mid": "What is holding you up right now?",
+    "earth_high": "Still on the surface, busy underneath. What is moving in there?",
+    # ── mixed ───────────────────────────────────────────────
+    "mixed_water_fire": (
+        "Something in you is sinking and burning at once. Which one came first?"
+    ),
+    "mixed_water_air": "Sinking and scattering at once. Which one would you stay with?",
+    "mixed_water_earth": "Settled low, and staying there. What is that place like?",
+    "mixed_fire_air": "The heat is scattering outward. Where does it want to go?",
+    "mixed_fire_earth": "Hot, and holding its ground. What is it holding for?",
+    "mixed_air_earth": "Part of you leaving, part of you staying. Which one is it?",
 }
-BASELINE_EN["mixed_water_fire"] = (
-    "Something in you is sinking and burning at once. Which one came first?"
-)
 
-#: 영문은 아직 작가 확정본이 없다. 위 1개도 시안 단계에서 쓴 것이다.
-#: 영문은 한글의 직역이면 안 되고 영어로 따로 써야 한다는 것이 확정
-#: 조건이므로(2026-08-17 한영 병기 확정), 별도 집필 과제로 남는다.
+#: 영문에는 아직 작가 확정본이 없다 — 24개 전부 초안이다.
+#: ⬜ **원어민 감수 예정** (2026-09-07 작가 메모). 24문장뿐이라 부담이
+#: 크지 않고, 트리거로 실제 작동해야 하는 문장이므로 값어치가 있다.
+#: 감수를 마친 슬롯은 이 목록으로 옮긴다.
 AUTHOR_CONFIRMED_EN: frozenset[str] = frozenset()
 
 # ─────────────────────────── 3계층: 작가 규칙 필터 ───────────────────────────
@@ -124,10 +164,26 @@ BANNED_KO_PATTERNS = (
     r"(진단|분석\s*결과|측정\s*결과|점수)",
 )
 
+#: 영문 감정 라벨 — 이 단어들을 관객에게 붙이는 것이 진단이다.
+_EN_EMOTION_WORDS = (
+    "sad|angry|anxious|depressed|happy|upset|stressed|afraid|scared"
+    "|nervous|lonely|miserable|furious|joyful|calm"
+)
+
+#: 영문 금지 규칙 — 2026-09-07 완화.
+#:
+#: 이전에는 `you are` / `you're` 자체를 통째로 막았다. 그런데 영어에서
+#: 이 구문 없이 관객에게 말을 걸기가 매우 어색해진다 — "You're waiting
+#: on something"을 "There is a waiting in you"로 우회해야 했고, 그러면
+#: 문어적으로 굳어 트리거로서의 즉각성이 떨어진다.
+#:
+#: 막아야 할 것은 구문이 아니라 **진단**이므로, `you are` 뒤에 감정
+#: 라벨이 붙는 경우만 막는다. `you seem/look/feel + 감정`도 같은 진단이다.
+#: (2026-09-07 작가 승인)
 BANNED_EN_PATTERNS = (
-    r"\byou are\b",
-    r"\byou're\b",
-    r"\b(sad|angry|anxious|depressed|happy)\b\s*$",
+    rf"\byou\s*(?:are|'re|were)\s+(?:\w+\s+){{0,2}}(?:{_EN_EMOTION_WORDS})\b",
+    rf"\byou\s+(?:seem|look|feel|appear)\s+(?:\w+\s+){{0,2}}(?:{_EN_EMOTION_WORDS})\b",
+    rf"\byou\s+(?:are|'re)\s+being\b",
     r"\b(diagnos|analysis result|score)\w*\b",
 )
 
