@@ -509,7 +509,67 @@ original.save(round_path)
 check(Profile.load(round_path) == original, "저장 → 로드 왕복이 동일")
 check(not original.is_provisional, "measured가 있으면 실측 완료로 표시")
 
-# ────────────────────────────── 12. 집필 진행률 ──────────────────────────────
+# ─────────────────────── 12. TouchDesigner 배관 ───────────────────────
+section("TD 배관 — 엔진 출력을 TD가 먹는 형태로")
+
+from bridge.td_bridge import (  # noqa: E402
+    hex_to_rgb, mock_spec, read_spec, to_channels, to_table, write_spec,
+)
+
+check(hex_to_rgb("#000000") == (0.0, 0.0, 0.0), "HEX → 0~1 RGB (검정)")
+check(hex_to_rgb("#FFFFFF") == (1.0, 1.0, 1.0), "HEX → 0~1 RGB (흰색)")
+r, g, b = hex_to_rgb("#00C0D8")
+check(r == 0.0 and 0.75 < g < 0.76, "물 시안 변환 — TD는 0~255가 아니라 0~1")
+
+# 슬라이더 목업 — 인식 모듈 없이 슬롯을 지정해 낼 수 있어야 한다
+check(mock_spec(water=1.0, arousal=0.8)["slot"] == "water_high", "목업: 물·고")
+check(mock_spec(arousal=0.2)["slot"] == "earth_low", "목업: 무반응 → 흙·저")
+check(
+    mock_spec(fire=1.0, arousal=0.9, bias=0.9)["slot"] == "fire_joy_high",
+    "목업: bias 양수 → 기쁨",
+)
+check(
+    mock_spec(fire=1.0, arousal=0.9, bias=-0.9)["slot"] == "fire_anger_high",
+    "목업: bias 음수 → 분노",
+)
+
+reached = set()
+for w, f, a, e in ((1,0,0,0), (0,1,0,0), (0,0,1,0), (0,0,0,1), (1,1,0,0)):
+    for ar in (0.2, 0.5, 0.9):
+        for bi in (-0.9, 0.9):
+            reached.add(mock_spec(w, f, a, e, arousal=ar, bias=bi)["slot"])
+check(len(reached) >= 15, f"목업 슬라이더로 {len(reached)}개 슬롯 도달")
+
+# 채널 — 숫자만, 색은 r/g/b로 갈라져야 한다
+ch = to_channels(mock_spec(water=0.8, fire=0.2, arousal=0.8))
+check(all(isinstance(v, float) for v in ch.values()), "채널은 전부 실수 (CHOP용)")
+check(abs(ch["ratio_water"] - 0.8) < 1e-9, "비중이 0~1로 넘어간다")
+check("dom_r" in ch and "bg_from_b" in ch, "색이 r/g/b로 갈라져 있다")
+
+check(
+    to_channels(mock_spec(water=1.0, arousal=0.5))["sec_visible"] == 0.0,
+    "2위 비중 0이면 sec_visible 0 — 화면에 올리지 말라는 뜻",
+)
+
+# 테이블 — 문자열, 첫 행은 헤더
+rows = to_table(mock_spec(fire=1.0, arousal=0.9, bias=-0.9))
+check(rows[0] == ["key", "value"], "테이블 첫 행은 헤더 (DAT용)")
+cells = dict(rows[1:])
+check(cells["motion_toned"] == "사방으로 터지며 흩어진다", "운동이 문자열로 넘어간다")
+check(cells["phrase_ko"] and cells["phrase_en"], "한/영 문구가 함께 넘어간다")
+
+# 파일 왕복 — 외부 프로세스(py-feat)가 TD에 넘기는 경로
+import tempfile  # noqa: E402
+
+spec = mock_spec(air=1.0, arousal=0.5)
+with tempfile.TemporaryDirectory() as d:
+    target = Path(d) / "nested" / "spec.json"
+    write_spec(target, spec)
+    check(read_spec(target) == spec, "JSON 파일 왕복이 동일")
+    check(not list(target.parent.glob("*.tmp")), "임시 파일이 남지 않는다")
+check(read_spec("/존재하지/않는/경로.json") is None, "없는 파일은 None (TD가 안 죽는다)")
+
+# ────────────────────────────── 13. 집필 진행률 ──────────────────────────────
 section("1계층 문구 집필 진행률")
 
 ko = coverage("ko")
