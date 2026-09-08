@@ -68,11 +68,16 @@ def main() -> None:
     if args.coverage:
         for lang in ("ko", "en"):
             c = coverage(lang)
-            print(f"\n[{lang}] {c['written']}/{c['total']} 집필 완료")
+            print(f"\n[{lang}] 채워짐 {c['written']}/{c['total']}"
+                  f"  ·  작가 확정 {c['author_confirmed']}/{c['total']}")
+            if c["draft"]:
+                print(f"  초안 (작가 검토 대기) {len(c['draft'])}개:")
+                for slot in c["draft"]:
+                    print(f"    ◐ {slot}")
             if c["missing"]:
-                print("  남은 슬롯:")
+                print(f"  미집필 {len(c['missing'])}개:")
                 for slot in c["missing"]:
-                    print(f"    - {slot}")
+                    print(f"    ✗ {slot}")
         return
 
     if args.json:

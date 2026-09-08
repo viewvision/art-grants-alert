@@ -24,6 +24,7 @@ from impression_engine import (  # noqa: E402
     normalise,
     process,
     Profile,
+    resolve_phrase,
     read_pyfeat,
     signal_from_pyfeat,
     to_directions,
@@ -451,8 +452,28 @@ section("1계층 문구 집필 진행률")
 
 ko = coverage("ko")
 en = coverage("en")
-print(f"        한국어 {ko['written']}/{ko['total']}   영어 {en['written']}/{en['total']}")
-check(ko["written"] == 8, "한국어 확정 8개 반영됨")
+print(f"        한국어 채워짐 {ko['written']}/{ko['total']} · 작가확정 {ko['author_confirmed']}")
+print(f"        영어   채워짐 {en['written']}/{en['total']} · 작가확정 {en['author_confirmed']}")
+check(ko["written"] == 24, "한국어 24칸 전부 채워짐")
+check(ko["author_confirmed"] == 8, "작가 확정본 8개가 구분돼 있음")
+check(len(ko["draft"]) == 16, "초안 16개가 검토 대기로 표시됨")
+check(en["author_confirmed"] == 0, "영문은 아직 작가 확정본이 없다")
+
+# 채워진 문구가 전부 작가 규칙 필터를 통과해야 한다 — 폴백으로 그대로
+# 화면에 뜨는 문장이므로 예외가 있으면 안 된다
+from impression_engine.phrases import BASELINE_KO  # noqa: E402
+violations = [s for s, txt in BASELINE_KO.items() if txt and not filter_phrase(txt).passed]
+check(not violations, f"한국어 기준 문구 전체가 필터 통과 (위반 {violations})")
+check(
+    max(len(t) for t in BASELINE_KO.values() if t) <= 40,
+    "모든 문구가 길이 상한 40자 이내",
+)
+
+# 모든 슬롯이 문구를 받는가 — resolve_phrase가 missing을 내지 않아야 한다
+missing_at_runtime = [
+    s for s in all_slot_ids() if resolve_phrase(s, "ko")[1] == "missing"
+]
+check(not missing_at_runtime, f"24개 슬롯 전부 문구가 나온다 (없는 슬롯 {missing_at_runtime})")
 
 # ────────────────────────────── 결과 ──────────────────────────────
 print("\n" + "=" * 60)
