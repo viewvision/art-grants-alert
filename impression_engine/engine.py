@@ -20,7 +20,7 @@ from dataclasses import dataclass, field
 
 from .directions import DirectionVector, to_directions
 from .judgment import Judgment, judge
-from .palette import RenderPalette, palette_for
+from .palette import MOTION, TONE_MOTION, RenderPalette, palette_for
 from .phrases import PhraseGenerator, resolve_phrase
 from .profile import Profile
 from .signals import EmotionSignal
@@ -37,12 +37,39 @@ class Impression:
     phrase_source: str
     vector: DirectionVector = field(repr=False)
 
+    def motion_spec(self) -> dict[str, object]:
+        """1위 원소의 운동 성질.
+
+        **톤은 색이 아니라 운동으로 드러난다** (2026-09-07 확정). 원소색은
+        방향×강도 12색으로 확정돼 있어 톤이 들어갈 자리가 없다. 그대로 두면
+        불·기쁨과 불·분노가 화면에서 구분되지 않으므로, 렌더 계층이 운동을
+        가를 수 있도록 여기서 재료를 넘긴다.
+
+        bias
+            방향별 valence 원값(-1~1). 톤을 3단계로 양자화하기 전의 연속값
+            이므로, 렌더 쪽에서 "얼마나 기쁨 쪽인가"를 단계가 아니라 정도로
+            쓸 수 있다. 엔진이 계산해 놓고 버리던 값이다.
+            물·흙은 valence가 고정값이라 None을 넘긴다 — 운동을 가를
+            재료가 없다는 뜻이다.
+        """
+        direction = self.judgment.dominant
+        tone = self.judgment.tone
+        return {
+            "base": MOTION[direction],
+            "tone": tone,
+            "toned": TONE_MOTION.get((direction, tone)) if tone else None,
+            "bias": (
+                round(self.vector.valences[direction], 3) if tone else None
+            ),
+        }
+
     def to_render_spec(self) -> dict[str, object]:
         """TouchDesigner 등 렌더 계층에 넘길 직렬화 가능한 사양."""
         return {
             "slot": self.judgment.slot_id,
             "label": self.judgment.ko_label,
             "is_mixed": self.judgment.is_mixed,
+            "motion": self.motion_spec(),
             "ratios_percent": {
                 k: round(v * 100, 1) for k, v in self.judgment.ratios.items()
             },

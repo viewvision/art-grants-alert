@@ -3,6 +3,12 @@
     "slot": "water_low",
     "label": "물 · 저",
     "is_mixed": false,
+    "motion": {
+      "base": "가라앉으며 고인다",
+      "tone": null,
+      "toned": null,
+      "bias": null
+    },
     "ratios_percent": {
       "water": 60.0,
       "fire": 0.0,
@@ -38,6 +44,12 @@
     "slot": "water_mid",
     "label": "물 · 중",
     "is_mixed": false,
+    "motion": {
+      "base": "가라앉으며 고인다",
+      "tone": null,
+      "toned": null,
+      "bias": null
+    },
     "ratios_percent": {
       "water": 60.0,
       "fire": 0.0,
@@ -73,6 +85,12 @@
     "slot": "water_high",
     "label": "물 · 고",
     "is_mixed": false,
+    "motion": {
+      "base": "가라앉으며 고인다",
+      "tone": null,
+      "toned": null,
+      "bias": null
+    },
     "ratios_percent": {
       "water": 60.0,
       "fire": 0.0,
@@ -108,6 +126,12 @@
     "slot": "fire_joy_low",
     "label": "불 · 기쁨 · 저",
     "is_mixed": false,
+    "motion": {
+      "base": "피어오르며 번진다",
+      "tone": "joy",
+      "toned": "위로 곧게 피어오른다",
+      "bias": 1.0
+    },
     "ratios_percent": {
       "water": 20.0,
       "fire": 40.0,
@@ -143,6 +167,12 @@
     "slot": "fire_joy_mid",
     "label": "불 · 기쁨 · 중",
     "is_mixed": false,
+    "motion": {
+      "base": "피어오르며 번진다",
+      "tone": "joy",
+      "toned": "위로 곧게 피어오른다",
+      "bias": 1.0
+    },
     "ratios_percent": {
       "water": 20.0,
       "fire": 40.0,
@@ -178,6 +208,12 @@
     "slot": "fire_joy_high",
     "label": "불 · 기쁨 · 고",
     "is_mixed": false,
+    "motion": {
+      "base": "피어오르며 번진다",
+      "tone": "joy",
+      "toned": "위로 곧게 피어오른다",
+      "bias": 1.0
+    },
     "ratios_percent": {
       "water": 20.0,
       "fire": 40.0,
@@ -213,6 +249,12 @@
     "slot": "fire_anger_low",
     "label": "불 · 분노 · 저",
     "is_mixed": false,
+    "motion": {
+      "base": "피어오르며 번진다",
+      "tone": "anger",
+      "toned": "사방으로 터지며 흩어진다",
+      "bias": -1.0
+    },
     "ratios_percent": {
       "water": 20.0,
       "fire": 40.0,
@@ -248,6 +290,12 @@
     "slot": "fire_anger_mid",
     "label": "불 · 분노 · 중",
     "is_mixed": false,
+    "motion": {
+      "base": "피어오르며 번진다",
+      "tone": "anger",
+      "toned": "사방으로 터지며 흩어진다",
+      "bias": -1.0
+    },
     "ratios_percent": {
       "water": 20.0,
       "fire": 40.0,
@@ -283,6 +331,12 @@
     "slot": "fire_anger_high",
     "label": "불 · 분노 · 고",
     "is_mixed": false,
+    "motion": {
+      "base": "피어오르며 번진다",
+      "tone": "anger",
+      "toned": "사방으로 터지며 흩어진다",
+      "bias": -1.0
+    },
     "ratios_percent": {
       "water": 20.0,
       "fire": 40.0,
@@ -318,6 +372,12 @@
     "slot": "air_hope_low",
     "label": "공기 · 희망 · 저",
     "is_mixed": false,
+    "motion": {
+      "base": "경계 없이 흩어진다",
+      "tone": "hope",
+      "toned": "한 방향으로 퍼져 나간다",
+      "bias": 1.0
+    },
     "ratios_percent": {
       "water": 0.0,
       "fire": 0.0,
@@ -353,6 +413,12 @@
     "slot": "air_hope_mid",
     "label": "공기 · 희망 · 중",
     "is_mixed": false,
+    "motion": {
+      "base": "경계 없이 흩어진다",
+      "tone": "hope",
+      "toned": "한 방향으로 퍼져 나간다",
+      "bias": 1.0
+    },
     "ratios_percent": {
       "water": 0.0,
       "fire": 0.0,
@@ -388,6 +454,12 @@
     "slot": "air_hope_high",
     "label": "공기 · 희망 · 고",
     "is_mixed": false,
+    "motion": {
+      "base": "경계 없이 흩어진다",
+      "tone": "hope",
+      "toned": "한 방향으로 퍼져 나간다",
+      "bias": 1.0
+    },
     "ratios_percent": {
       "water": 0.0,
       "fire": 0.0,
@@ -423,6 +495,12 @@
     "slot": "air_anxiety_low",
     "label": "공기 · 불안 · 저",
     "is_mixed": false,
+    "motion": {
+      "base": "경계 없이 흩어진다",
+      "tone": "anxiety",
+      "toned": "흩어졌다 모이기를 반복한다",
+      "bias": 0.0
+    },
     "ratios_percent": {
       "water": 0.0,
       "fire": 0.0,
@@ -458,6 +536,12 @@
     "slot": "air_anxiety_mid",
     "label": "공기 · 불안 · 중",
     "is_mixed": false,
+    "motion": {
+      "base": "경계 없이 흩어진다",
+      "tone": "anxiety",
+      "toned": "흩어졌다 모이기를 반복한다",
+      "bias": 0.0
+    },
     "ratios_percent": {
       "water": 0.0,
       "fire": 0.0,
@@ -493,6 +577,12 @@
     "slot": "air_anxiety_high",
     "label": "공기 · 불안 · 고",
     "is_mixed": false,
+    "motion": {
+      "base": "경계 없이 흩어진다",
+      "tone": "anxiety",
+      "toned": "흩어졌다 모이기를 반복한다",
+      "bias": 0.0
+    },
     "ratios_percent": {
       "water": 0.0,
       "fire": 0.0,
@@ -528,6 +618,12 @@
     "slot": "earth_low",
     "label": "흙 · 저",
     "is_mixed": false,
+    "motion": {
+      "base": "구조를 이루며 응집한다",
+      "tone": null,
+      "toned": null,
+      "bias": null
+    },
     "ratios_percent": {
       "water": 0.0,
       "fire": 0.0,
@@ -559,6 +655,12 @@
     "slot": "earth_mid",
     "label": "흙 · 중",
     "is_mixed": false,
+    "motion": {
+      "base": "구조를 이루며 응집한다",
+      "tone": null,
+      "toned": null,
+      "bias": null
+    },
     "ratios_percent": {
       "water": 0.0,
       "fire": 0.0,
@@ -590,6 +692,12 @@
     "slot": "earth_high",
     "label": "흙 · 고",
     "is_mixed": false,
+    "motion": {
+      "base": "구조를 이루며 응집한다",
+      "tone": null,
+      "toned": null,
+      "bias": null
+    },
     "ratios_percent": {
       "water": 0.0,
       "fire": 0.0,
@@ -621,6 +729,12 @@
     "slot": "mixed_water_fire",
     "label": "혼합 · 물+불",
     "is_mixed": true,
+    "motion": {
+      "base": "가라앉으며 고인다",
+      "tone": null,
+      "toned": null,
+      "bias": null
+    },
     "ratios_percent": {
       "water": 40.0,
       "fire": 40.0,
@@ -656,6 +770,12 @@
     "slot": "mixed_water_air",
     "label": "혼합 · 물+공기",
     "is_mixed": true,
+    "motion": {
+      "base": "가라앉으며 고인다",
+      "tone": null,
+      "toned": null,
+      "bias": null
+    },
     "ratios_percent": {
       "water": 40.0,
       "fire": 0.0,
@@ -691,6 +811,12 @@
     "slot": "mixed_water_earth",
     "label": "혼합 · 물+흙",
     "is_mixed": true,
+    "motion": {
+      "base": "가라앉으며 고인다",
+      "tone": null,
+      "toned": null,
+      "bias": null
+    },
     "ratios_percent": {
       "water": 40.0,
       "fire": 0.0,
@@ -726,6 +852,12 @@
     "slot": "mixed_fire_air",
     "label": "혼합 · 불+공기",
     "is_mixed": true,
+    "motion": {
+      "base": "피어오르며 번진다",
+      "tone": null,
+      "toned": null,
+      "bias": null
+    },
     "ratios_percent": {
       "water": 0.0,
       "fire": 40.0,
@@ -761,6 +893,12 @@
     "slot": "mixed_fire_earth",
     "label": "혼합 · 불+흙",
     "is_mixed": true,
+    "motion": {
+      "base": "피어오르며 번진다",
+      "tone": null,
+      "toned": null,
+      "bias": null
+    },
     "ratios_percent": {
       "water": 20.0,
       "fire": 40.0,
@@ -796,6 +934,12 @@
     "slot": "mixed_air_earth",
     "label": "혼합 · 공기+흙",
     "is_mixed": true,
+    "motion": {
+      "base": "경계 없이 흩어진다",
+      "tone": null,
+      "toned": null,
+      "bias": null
+    },
     "ratios_percent": {
       "water": 20.0,
       "fire": 0.0,

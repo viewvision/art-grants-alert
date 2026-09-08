@@ -183,6 +183,58 @@ check(
     "물(차가움) 1위 → 따뜻한 오렌지 배경",
 )
 
+# ─────────────────────── 6-2. 톤은 운동으로 드러난다 ───────────────────────
+section("톤 → 운동 (2026-09-07 — 색 체계를 열지 않고 톤을 드러낸다)")
+
+joy = process(EmotionSignal(joy=0.95, smile_au=0.9, arousal=0.85))
+anger = process(EmotionSignal(anger=0.95, arousal=0.85))
+
+check(
+    joy.palette.dominant_color == anger.palette.dominant_color,
+    "불·기쁨과 불·분노는 색이 같다 (12색 체계 유지)",
+)
+check(
+    joy.to_render_spec()["motion"]["toned"]
+    != anger.to_render_spec()["motion"]["toned"],
+    "그러나 운동이 다르다 — 화면에서 구분된다",
+)
+check(joy.motion_spec()["bias"] > 0, "기쁨은 bias 양수")
+check(anger.motion_spec()["bias"] < 0, "분노는 bias 음수")
+check(
+    joy.motion_spec()["base"] == anger.motion_spec()["base"] == "피어오르며 번진다",
+    "기본 운동은 원소가 정한다 — 둘 다 불",
+)
+
+hope = process(EmotionSignal(surprise=0.9, smile_au=0.9, arousal=0.5))
+anxiety = process(EmotionSignal(fear=0.9, arousal=0.5))
+check(
+    hope.motion_spec()["toned"] != anxiety.motion_spec()["toned"],
+    "공기의 희망과 불안도 운동이 다르다",
+)
+
+# 물·흙은 톤 분기가 없으므로 운동을 가를 재료가 없다
+water = process(EmotionSignal(sadness=0.9, disgust=0.5, arousal=0.85))
+earth = process(EmotionSignal(arousal=0.5))
+check(water.motion_spec()["bias"] is None, "물은 bias 없음 (valence 고정값)")
+check(earth.motion_spec()["toned"] is None, "흙은 톤 운동 없음")
+check(water.motion_spec()["base"] == "가라앉으며 고인다", "물의 기본 운동")
+
+# bias는 양자화 전 연속값이어야 한다 — 단계가 아니라 정도로 쓴다
+mild = process(EmotionSignal(joy=0.5, anger=0.3, smile_au=0.5, arousal=0.5))
+strong = process(EmotionSignal(joy=0.9, anger=0.05, smile_au=0.9, arousal=0.5))
+check(
+    0 < mild.motion_spec()["bias"] < strong.motion_spec()["bias"],
+    "bias가 연속값 — 기쁨이 강할수록 커진다",
+)
+
+# 렌더 사양에 실려 나가는가
+spec = joy.to_render_spec()
+check("motion" in spec, "렌더 사양에 motion이 포함된다")
+check(
+    set(spec["motion"]) == {"base", "tone", "toned", "bias"},
+    "motion 필드 구성",
+)
+
 # ────────────────────────────── 7. 문구 규칙 필터 ──────────────────────────────
 section("3계층 작가 규칙 필터")
 
