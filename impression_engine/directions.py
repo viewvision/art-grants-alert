@@ -7,8 +7,12 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
+from typing import TYPE_CHECKING
 
 from .signals import EmotionSignal
+
+if TYPE_CHECKING:
+    from .profile import Profile
 
 WATER = "water"
 FIRE = "fire"
@@ -66,7 +70,9 @@ class DirectionVector:
         return {k: round(v * 100, 1) for k, v in self.ratios.items()}
 
 
-def to_directions(signal: EmotionSignal) -> DirectionVector:
+def to_directions(
+    signal: EmotionSignal, profile: "Profile | None" = None
+) -> DirectionVector:
     """6개 감정값을 4방향 비중으로 재배분한다.
 
     배정 규칙
@@ -81,6 +87,10 @@ def to_directions(signal: EmotionSignal) -> DirectionVector:
     # 각 방향은 배정된 감정 2개의 합(0~2)이다. 여기서 2로 나눠 평균을
     # 내면 감정 하나만 강한 경우(분노 0.9, 기쁨 0)에 활성도가 절반으로
     # 깎여 흙이 1위가 되어버린다. 합을 그대로 쓴다.
+    water_valence = (
+        WATER_FIXED_VALENCE if profile is None else profile.water_valence
+    )
+
     water_raw = signal.sadness + signal.disgust
     fire_raw = signal.anger + signal.joy
     air_raw = signal.fear + signal.surprise
@@ -102,7 +112,7 @@ def to_directions(signal: EmotionSignal) -> DirectionVector:
     positive_surprise = signal.surprise * signal.smile_au
 
     valences = {
-        WATER: WATER_FIXED_VALENCE,
+        WATER: water_valence,
         FIRE: _opposition(bright=signal.joy, dark=signal.anger),
         AIR: _opposition(bright=positive_surprise, dark=signal.fear),
         EARTH: EARTH_FIXED_VALENCE,

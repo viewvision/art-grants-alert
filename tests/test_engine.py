@@ -12,6 +12,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from impression_engine import (  # noqa: E402
+    DEFAULT_PROFILE,
     ArousalTracker,
     EmotionSignal,
     all_slot_ids,
@@ -22,6 +23,7 @@ from impression_engine import (  # noqa: E402
     motion_energy_from_joints,
     normalise,
     process,
+    Profile,
     read_pyfeat,
     signal_from_pyfeat,
     to_directions,
@@ -364,7 +366,87 @@ check(process(s).judgment.dominant == "fire", "통합 경로 판정까지 관통
 check(read_pyfeat({}).smile_au == 0.0, "빈 입력도 예외 없이 처리")
 check(read_pyfeat({}).earth_is_neutral == 1.0, "감정이 없으면 흙 100%")
 
-# ────────────────────────────── 11. 집필 진행률 ──────────────────────────────
+# ────────────────────────── 11. 캘리브레이션 프로필 ──────────────────────────
+section("캘리브레이션 프로필 — 기계·현장 종속값 분리")
+
+check(DEFAULT_PROFILE.is_provisional, "기본 프로필은 실측 전 표시")
+
+# 저장소에 든 프로필이 전부 유효해야 한다
+profiles = sorted(Path(__file__).resolve().parents[1].glob("calibration/*.json"))
+check(len(profiles) >= 2, f"프로필 파일 {len(profiles)}개 확인")
+for path in profiles:
+    try:
+        Profile.load(path)
+        check(True, f"{path.name} 로드·검증 통과")
+    except Exception as exc:  # noqa: BLE001
+        check(False, f"{path.name} 로드 실패: {exc}")
+
+# 프로필이 실제로 결과를 바꾸는가 — 배경색
+tinted = Profile(background_cool=("#101820", "#203040"), background_warm=("#FFF0E0", "#FFD0A0"))
+base = process(EmotionSignal(anger=0.9, arousal=0.8))
+themed = process(EmotionSignal(anger=0.9, arousal=0.8), profile=tinted)
+check(base.palette.background[0] == "#BFE3F7", "프로필 없으면 코드 기본 배경")
+check(themed.palette.background[0] == "#101820", "프로필 배경색이 실제로 적용됨")
+
+# 물 valence
+deep = Profile(water_valence=-0.9)
+check(
+    to_directions(EmotionSignal(sadness=0.8, arousal=0.5), deep).valences["water"] == -0.9,
+    "프로필 물 valence가 적용됨",
+)
+
+# 웃음근육 계수
+strong = Profile(au06_bonus=1.0)
+row = {"AU06": 1.0, "AU12": 0.5}
+check(
+    read_pyfeat(row, profile=strong).smile_au > read_pyfeat(row).smile_au,
+    "프로필 au06_bonus가 웃음 신호를 바꾼다",
+)
+check(
+    read_pyfeat(row, profile=Profile(smile_mode="au12")).smile_au == 0.5,
+    "프로필 smile_mode가 적용됨",
+)
+
+# 프로필로 만든 트래커
+t = Profile(au_reference=2.0, motion_reference=1.0).tracker()
+check(abs(t.update(au_intensity_sum=2.0, motion_speed=1.0) - 1.0) < 1e-9, "프로필로 만든 트래커")
+
+# 잘못된 값은 조용히 넘어가지 않는다
+def rejects(label, **kwargs):
+    try:
+        Profile(**kwargs)
+        check(False, f"거부해야 함: {label}")
+    except ValueError:
+        check(True, f"거부: {label}")
+
+rejects("가중치 합이 1이 아님", face_weight=0.7, motion_weight=0.7)
+rejects("smile_mode 오타", smile_mode="bonuss")
+rejects("물 valence 양수", water_valence=0.5)
+rejects("배경색 형식 오류", background_cool=("파랑", "#78C4F0"))
+rejects("정규화 기준 0", au_reference=0.0)
+
+# 오타 난 키를 조용히 무시하면 캘리브레이션했다고 착각하게 된다
+import json as _json  # noqa: E402
+import tempfile  # noqa: E402
+
+with tempfile.NamedTemporaryFile("w", suffix=".json", delete=False, encoding="utf-8") as fh:
+    _json.dump({"arousal": {"au_referenc": 3.0}}, fh)  # 오타
+    typo_path = fh.name
+try:
+    Profile.load(typo_path)
+    check(False, "오타 난 키를 거부해야 함")
+except ValueError:
+    check(True, "오타 난 키를 거부한다")
+
+# 왕복 — 저장했다 읽으면 같아야 한다
+with tempfile.NamedTemporaryFile(suffix=".json", delete=False) as fh:
+    round_path = fh.name
+original = Profile(name="왕복", measured="2026-09-07", au_reference=7.5, smile_mode="au12")
+original.save(round_path)
+check(Profile.load(round_path) == original, "저장 → 로드 왕복이 동일")
+check(not original.is_provisional, "measured가 있으면 실측 완료로 표시")
+
+# ────────────────────────────── 12. 집필 진행률 ──────────────────────────────
 section("1계층 문구 집필 진행률")
 
 ko = coverage("ko")

@@ -9,9 +9,13 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
+from typing import TYPE_CHECKING
 
 from .directions import AIR, EARTH, FIRE, WATER
 from .judgment import Judgment
+
+if TYPE_CHECKING:
+    from .profile import Profile
 
 #: 원소색 — 강도 저/중/고 3단계. 강도는 채도로 옮겨진다.
 ELEMENT_COLORS: dict[str, dict[str, str]] = {
@@ -90,19 +94,23 @@ class RenderPalette:
         }
 
 
-def background_for(dominant: str) -> tuple[str, str]:
+def background_for(
+    dominant: str, profile: "Profile | None" = None
+) -> tuple[str, str]:
     """1위 방향의 반대 온도를 배경에 배정한다.
 
     혼합형에도 같은 규칙을 그대로 적용한다. 예외를 두지 않기로 확정했고,
     물+불처럼 두 원소가 서로 보색인 조합에서 2위 원소의 대비가 다소
     낮아지는 것은 감수 가능한 수준으로 판단했다.
     """
-    if dominant in WARM_DIRECTIONS:
-        return COOL_BACKGROUND
-    return WARM_BACKGROUND
+    cool = COOL_BACKGROUND if profile is None else profile.background_cool
+    warm = WARM_BACKGROUND if profile is None else profile.background_warm
+    return cool if dominant in WARM_DIRECTIONS else warm
 
 
-def palette_for(judgment: Judgment) -> RenderPalette:
+def palette_for(
+    judgment: Judgment, profile: "Profile | None" = None
+) -> RenderPalette:
     """판정 결과를 화면 색으로 옮긴다.
 
     혼합형은 강도 구분이 없으므로 색은 '중' 단계를 쓴다.
@@ -119,7 +127,7 @@ def palette_for(judgment: Judgment) -> RenderPalette:
         return RenderPalette(
             dominant_color=ELEMENT_COLORS[judgment.dominant][level],
             second_color=None,
-            background=background_for(judgment.dominant),
+            background=background_for(judgment.dominant, profile),
             dominant_direction=judgment.dominant,
             second_direction=None,
             dominant_weight=dominant_weight,
@@ -130,7 +138,7 @@ def palette_for(judgment: Judgment) -> RenderPalette:
     return RenderPalette(
         dominant_color=ELEMENT_COLORS[judgment.dominant][level],
         second_color=ELEMENT_COLORS[judgment.second][level],
-        background=background_for(judgment.dominant),
+        background=background_for(judgment.dominant, profile),
         dominant_direction=judgment.dominant,
         second_direction=judgment.second,
         dominant_weight=dominant_weight,

@@ -12,6 +12,7 @@ import json
 
 from .engine import process
 from .phrases import coverage
+from .profile import Profile
 from .signals import EmotionSignal
 
 SCENARIOS: list[tuple[str, EmotionSignal]] = [
@@ -54,7 +55,15 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="감정의 인상 — 판정 엔진 데모")
     parser.add_argument("--json", action="store_true", help="렌더 사양 JSON 출력")
     parser.add_argument("--coverage", action="store_true", help="문구 집필 진행률")
+    parser.add_argument(
+        "--profile", metavar="경로",
+        help="캘리브레이션 프로필 JSON (예: calibration/작업실.json)",
+    )
     args = parser.parse_args()
+
+    profile = Profile.load(args.profile) if args.profile else None
+    if profile:
+        print(profile.summary())
 
     if args.coverage:
         for lang in ("ko", "en"):
@@ -68,7 +77,7 @@ def main() -> None:
 
     if args.json:
         payload = [
-            {"scenario": name, "spec": process(sig).to_render_spec()}
+            {"scenario": name, "spec": process(sig, profile=profile).to_render_spec()}
             for name, sig in SCENARIOS
         ]
         print(json.dumps(payload, ensure_ascii=False, indent=2))
@@ -76,7 +85,7 @@ def main() -> None:
 
     for name, signal in SCENARIOS:
         print(f"\n▸ {name}")
-        print(process(signal).summary())
+        print(process(signal, profile=profile).summary())
 
 
 if __name__ == "__main__":

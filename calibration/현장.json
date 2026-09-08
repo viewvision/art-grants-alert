@@ -1,0 +1,27 @@
+{
+  "name": "현장",
+  "note": "설치 현장용 템플릿. 아직 값을 재지 않았으므로 작업실 값을 그대로 복사해 두었다. 조명·관객 동선이 다르면 motion_reference와 au_reference를 현장에서 다시 잰다.",
+  "measured": "",
+  "arousal": {
+    "face_weight": 0.5,
+    "motion_weight": 0.5,
+    "au_reference": 5.0,
+    "motion_reference": 0.35,
+    "smoothing": 0.4
+  },
+  "smile": {
+    "smile_mode": "bonus",
+    "au06_bonus": 0.25
+  },
+  "pending": {
+    "water_valence": -0.45,
+    "background_cool": [
+      "#BFE3F7",
+      "#78C4F0"
+    ],
+    "background_warm": [
+      "#FFE0C4",
+      "#FFB37A"
+    ]
+  }
+}

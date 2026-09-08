@@ -19,9 +19,13 @@ py-feat는 두 경로가 있고 감정 라벨 표기가 서로 다르다.
 from __future__ import annotations
 
 from dataclasses import dataclass
+from typing import TYPE_CHECKING
 
 from .arousal import blend, normalise
 from .signals import EmotionSignal
+
+if TYPE_CHECKING:
+    from .profile import Profile
 
 #: py-feat 감정 라벨 → 엔진 필드. 대소문자 구분 없이 매칭한다.
 #: Neutral은 일부러 버린다 — 아래 `earth_is_neutral` 주석 참고.
@@ -145,7 +149,8 @@ class PyFeatReading:
 
 def read_pyfeat(
     row: dict[str, float],
-    smile_mode: str = "bonus",
+    smile_mode: str | None = None,
+    profile: "Profile | None" = None,
 ) -> PyFeatReading:
     """py-feat 한 행(감정 + AU 컬럼)을 판독한다.
 
@@ -161,6 +166,10 @@ def read_pyfeat(
         ``"strict"``   둘 중 작은 값(뒤셴 판정). **비권장** — 약한 쪽이
         게이트가 되어 진짜 웃음까지 눌러 버린다.
     """
+    if smile_mode is None:
+        smile_mode = "bonus" if profile is None else profile.smile_mode
+    bonus = AU06_BONUS if profile is None else profile.au06_bonus
+
     if smile_mode not in ("bonus", "au12", "weighted", "mean", "strict"):
         raise ValueError(
             "smile_mode는 'bonus'/'au12'/'weighted'/'mean'/'strict': "
@@ -190,7 +199,7 @@ def read_pyfeat(
 
     au06, au12 = (_clamp01(au_values.get(au.lower(), 0.0)) for au in SMILE_AUS)
     if smile_mode == "bonus":
-        smile = _clamp01(au12 * (1.0 + AU06_BONUS * au06))
+        smile = _clamp01(au12 * (1.0 + bonus * au06))
     elif smile_mode == "au12":
         smile = au12
     elif smile_mode == "weighted":
@@ -214,8 +223,9 @@ def read_pyfeat(
 def signal_from_pyfeat(
     row: dict[str, float],
     motion_energy: float = 0.0,
-    smile_mode: str = "bonus",
-    au_reference: float = PYFEAT_AU_REFERENCE,
+    smile_mode: str | None = None,
+    au_reference: float | None = None,
+    profile: "Profile | None" = None,
 ) -> EmotionSignal:
     """py-feat 한 행 + 움직임 에너지 → 엔진 입력 한 번에.
 
@@ -224,8 +234,17 @@ def signal_from_pyfeat(
     여러 프레임을 평활하려면 이 함수 대신 `arousal.ArousalTracker`를
     쓰고 결과를 `PyFeatReading.to_signal`에 넣는다.
     """
-    reading = read_pyfeat(row, smile_mode=smile_mode)
-    arousal = blend(reading.face_intensity(au_reference), _clamp01(motion_energy))
+    if au_reference is None:
+        au_reference = (
+            PYFEAT_AU_REFERENCE if profile is None else profile.au_reference
+        )
+    weights = (
+        (0.5, 0.5) if profile is None else (profile.face_weight, profile.motion_weight)
+    )
+    reading = read_pyfeat(row, smile_mode=smile_mode, profile=profile)
+    arousal = blend(
+        reading.face_intensity(au_reference), _clamp01(motion_energy), *weights
+    )
     return reading.to_signal(arousal)
 
 

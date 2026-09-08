@@ -22,6 +22,7 @@ from .directions import DirectionVector, to_directions
 from .judgment import Judgment, judge
 from .palette import RenderPalette, palette_for
 from .phrases import PhraseGenerator, resolve_phrase
+from .profile import Profile
 from .signals import EmotionSignal
 
 
@@ -81,11 +82,16 @@ class Impression:
 def process(
     signal: EmotionSignal,
     generator: PhraseGenerator | None = None,
+    profile: Profile | None = None,
 ) -> Impression:
-    """감정 신호 → 화면 사양. 엔진의 단일 진입점."""
-    vector = to_directions(signal)
+    """감정 신호 → 화면 사양. 엔진의 단일 진입점.
+
+    profile을 주면 그 기계·공간의 캘리브레이션 값이 쓰인다. 주지 않으면
+    코드 기본값으로 돈다 (→ `profile.py`).
+    """
+    vector = to_directions(signal, profile)
     verdict = judge(vector)
-    colors = palette_for(verdict)
+    colors = palette_for(verdict, profile)
 
     phrase_ko, source = resolve_phrase(verdict.slot_id, "ko", generator)
     phrase_en, _ = resolve_phrase(verdict.slot_id, "en", generator)

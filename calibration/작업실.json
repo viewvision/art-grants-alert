@@ -1,0 +1,27 @@
+{
+  "name": "작업실",
+  "note": "VIEWVISION 작업실 PC — i9-13900K / 64GB DDR5 / RTX 3070 8GB / Windows 11, Azure Kinect DK 연결. 데모 촬영과 C-3 실측을 여기서 한다.",
+  "measured": "",
+  "arousal": {
+    "face_weight": 0.5,
+    "motion_weight": 0.5,
+    "au_reference": 5.0,
+    "motion_reference": 0.35,
+    "smoothing": 0.4
+  },
+  "smile": {
+    "smile_mode": "bonus",
+    "au06_bonus": 0.25
+  },
+  "pending": {
+    "water_valence": -0.45,
+    "background_cool": [
+      "#BFE3F7",
+      "#78C4F0"
+    ],
+    "background_warm": [
+      "#FFE0C4",
+      "#FFB37A"
+    ]
+  }
+}

@@ -19,6 +19,7 @@ from .engine import Impression, process
 from .judgment import Judgment, all_slot_ids, judge
 from .palette import RenderPalette, palette_for
 from .phrases import coverage, filter_phrase, resolve_phrase
+from .profile import DEFAULT_PROFILE, Profile
 from .signals import EmotionSignal
 
 __all__ = [
@@ -27,6 +28,8 @@ __all__ = [
     "Judgment",
     "RenderPalette",
     "Impression",
+    "Profile",
+    "DEFAULT_PROFILE",
     "ArousalTracker",
     "PyFeatReading",
     "read_pyfeat",
