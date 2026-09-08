@@ -42,7 +42,7 @@ COOL_DIRECTIONS = frozenset({WATER, AIR})
 
 #: 배경 그라데이션. 어둡거나 탁한 배경은 쓰지 않는다(밝은 톤 원칙).
 #: ⚠️ 이 값은 대비 테스트에서 쓴 잠정값이다. 실제 렌더 단계에서
-#: 작가 확정 필요. (→ SPEC_GAPS.md 3번)
+#: 작가 확정 필요. (→ `Project_감정의인상.md` "제작 파이프라인" 공백 2)
 COOL_BACKGROUND = ("#BFE3F7", "#78C4F0")  # 하늘색 — 불·흙이 1위일 때
 WARM_BACKGROUND = ("#FFE0C4", "#FFB37A")  # 오렌지·피치 — 물·공기가 1위일 때
 
