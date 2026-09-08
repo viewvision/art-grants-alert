@@ -2,6 +2,46 @@
   {
     "site": "arko_thearts",
     "site_label": "아르코 통합플랫폼",
+    "id": "GOKAMS_NEWS_20260905044102003",
+    "title": "2026년 예술산업아카데미 <예술산업 HR 커뮤니티 Connect - 4회차> 수강생 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_NEWS_20260905044102003",
+    "date": "2026.09.04 - 2026.09.14",
+    "image": null,
+    "first_seen": "2026-09-08"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "GOKAMS_NEWS_20260905044102004",
+    "title": "2026년 예술산업아카데미 <예술기업 자금전략 로드맵> 수강생 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_NEWS_20260905044102004",
+    "date": "2026.09.04 - 2026.10.01",
+    "image": null,
+    "first_seen": "2026-09-08"
+  },
+  {
+    "site": "metaverse_campus",
+    "site_label": "가상융합기술 Campus",
+    "id": "BD0000000046",
+    "title": "AI 달인 100 챌린지",
+    "url": "https://www.metaverse-campus.kr/bbs/data/view.do?bbs_mst_idx=BM0000000008&data_idx=BD0000000046",
+    "date": "",
+    "image": null,
+    "first_seen": "2026-09-08"
+  },
+  {
+    "site": "artmore",
+    "site_label": "아트모아",
+    "id": "94911",
+    "title": "[예술의전당] 예술의전당 연극 <유리동물원> 티켓매니저, 숏폼 영상 기획 편집자 모집 (서울 서초구 남부순환로 2406 (서초동))",
+    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94911",
+    "date": "2026-09-08",
+    "image": null,
+    "first_seen": "2026-09-08"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
     "id": "S64758",
     "title": "2026년 수원화성 미디어아트 <수원가게> 참여자 모집 공고",
     "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64758",

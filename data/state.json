@@ -1231,6 +1231,42 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64735",
       "date": "2026.09.04 - 2026.09.30",
       "first_seen": "2026-09-07"
+    },
+    "GCTF_NOTICE_20260908095004001": {
+      "title": "2026년 문화관광 일자리 사업(4차) 모집공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GCTF_NOTICE_20260908095004001",
+      "date": "2026.09.07 - 2026.09.11",
+      "first_seen": "2026-09-08"
+    },
+    "YWCF_BOARD_20260908063002001": {
+      "title": "[2026년 제29회 김삿갓문화제] '랩 경연대회' 참가자 모집공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=YWCF_BOARD_20260908063002001",
+      "date": "2026.09.01 - 2026.09.30",
+      "first_seen": "2026-09-08"
+    },
+    "S64794": {
+      "title": "동아시아문화도시 교류사업 한·중·일 국제포럼 개최(참가신청)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64794",
+      "date": "2026.09.07 - 2026.09.20",
+      "first_seen": "2026-09-08"
+    },
+    "S64784": {
+      "title": "2027년 대구대표축제 감독단 모집 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64784",
+      "date": "2026.09.07 - 2026.10.02",
+      "first_seen": "2026-09-08"
+    },
+    "GOKAMS_NEWS_20260905044102003": {
+      "title": "2026년 예술산업아카데미 <예술산업 HR 커뮤니티 Connect - 4회차> 수강생 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_NEWS_20260905044102003",
+      "date": "2026.09.04 - 2026.09.14",
+      "first_seen": "2026-09-08"
+    },
+    "GOKAMS_NEWS_20260905044102004": {
+      "title": "2026년 예술산업아카데미 <예술기업 자금전략 로드맵> 수강생 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_NEWS_20260905044102004",
+      "date": "2026.09.04 - 2026.10.01",
+      "first_seen": "2026-09-08"
     }
   },
   "arko_education": {
@@ -1841,6 +1877,12 @@
       "url": "https://www.metaverse-campus.kr/bbs/data/view.do?bbs_mst_idx=BM0000000008&data_idx=BD0000000038",
       "date": "2023-06-05",
       "first_seen": "2026-07-31"
+    },
+    "BD0000000046": {
+      "title": "AI 달인 100 챌린지",
+      "url": "https://www.metaverse-campus.kr/bbs/data/view.do?bbs_mst_idx=BM0000000008&data_idx=BD0000000046",
+      "date": "",
+      "first_seen": "2026-09-08"
     }
   },
   "artmore": {
@@ -3697,6 +3739,66 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94887",
       "date": "2026-09-07",
       "first_seen": "2026-09-07"
+    },
+    "94912": {
+      "title": "[(주)케이옥션] [케이옥션] 신입·경력 경매스페셜리스트 양성과정 채용 (9월) (서울 강남구 언주로172길 23 (신사동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94912",
+      "date": "2026-09-08",
+      "first_seen": "2026-09-08"
+    },
+    "94911": {
+      "title": "[예술의전당] 예술의전당 연극 <유리동물원> 티켓매니저, 숏폼 영상 기획 편집자 모집 (서울 서초구 남부순환로 2406 (서초동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94911",
+      "date": "2026-09-08",
+      "first_seen": "2026-09-08"
+    },
+    "94910": {
+      "title": "[부천아트센터] (재)부천아트센터 2026년 제2차 공연장 안내원(아르바이트생) 모집 공고(~9/28) (경기 부천시 원미구 소향로 165 (중동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94910",
+      "date": "2026-09-08",
+      "first_seen": "2026-09-08"
+    },
+    "94909": {
+      "title": "[(주)랑] 주식회사 랑에서 뮤지컬<미드나잇 앤틀러스>의 하우스 안내원을 모집합니다. (서울 종로구 대학로12길 64 (동숭동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94909",
+      "date": "2026-09-08",
+      "first_seen": "2026-09-08"
+    },
+    "94908": {
+      "title": "[(재)예천문화관광재단] 2026 제4회 직원 채용 공고 (경북 예천군 예천읍 충효로 209-15)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94908",
+      "date": "2026-09-08",
+      "first_seen": "2026-09-08"
+    },
+    "94907": {
+      "title": "[광림아트센터] (복사) [광림아트센터] BBCH홀 / 장천홀 공연장안내원 모집공고 (서울 강남구 논현로163길 33 (신사동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94907",
+      "date": "2026-09-08",
+      "first_seen": "2026-09-08"
+    },
+    "94906": {
+      "title": "[더뮤엘] 9/13(일) 수원 선경도서관 클래식 공연 스텝 모집 (경기 수원시 팔달구 신풍로23번길 68 (신풍동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94906",
+      "date": "2026-09-08",
+      "first_seen": "2026-09-08"
+    },
+    "94905": {
+      "title": "[(재)용인문화재단] 2026년 (재)용인문화재단 6차 기간제근로자(휴직대체인력) 채용 공고 (경기 용인시 수지구 포은대로 499 (죽전동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94905",
+      "date": "2026-09-08",
+      "first_seen": "2026-09-08"
+    },
+    "94904": {
+      "title": "[음악교육신문] 음악교육신문 신입/경력 기자 채용 (서울 서초구 반포대로5길 14 (서초동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94904",
+      "date": "2026-09-08",
+      "first_seen": "2026-09-08"
+    },
+    "94903": {
+      "title": "[대전광역시 서예진흥원] [대전광역시 서예진흥원] 기간제 근로자 채용 공고 (대전 중구 중앙로 119 (선화동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94903",
+      "date": "2026-09-08",
+      "first_seen": "2026-09-08"
     }
   },
   "wevity": {
@@ -5033,6 +5135,12 @@
       "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=276",
       "date": "2026.09.29 ~ 2026.10.01",
       "first_seen": "2026-08-28"
+    },
+    "277": {
+      "title": "VICON 기반 모션캡쳐 실무 파이프라인: 디지털 휴먼 콘텐츠 제작 과정",
+      "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=277",
+      "date": "2026.10.06 ~ 2026.10.08",
+      "first_seen": "2026-09-08"
     }
   },
   "wevity_video": {
