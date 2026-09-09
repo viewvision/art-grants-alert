@@ -2,6 +2,76 @@
   {
     "site": "arko_thearts",
     "site_label": "아르코 통합플랫폼",
+    "id": "NAMDONG_BOARD_20260909044339001",
+    "title": "2026년 남동소래아트홀 갤러리 화ㆍ소 전시공간지원사업 모집공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=NAMDONG_BOARD_20260909044339001",
+    "date": "2026.09.08 - 2026.10.08",
+    "image": null,
+    "first_seen": "2026-09-09"
+  },
+  {
+    "site": "ncas",
+    "site_label": "국가문화예술지원시스템",
+    "id": "https://uctf.or.kr/board/notice/view/202411239195",
+    "title": "2026년 예술인 창작안정 대출이자 지원사업 공모",
+    "url": "https://uctf.or.kr/board/notice/view/202411239195",
+    "date": "2026.10.30 23:59 (D-50)",
+    "image": null,
+    "first_seen": "2026-09-09"
+  },
+  {
+    "site": "artmore",
+    "site_label": "아트모아",
+    "id": "94921",
+    "title": "[사단법인한국사립박물관협회] [한국사립박물관협회] 2026년 사립 및 사립대학박물관 예비 학예인력 지원사업 9차 인력 모집 공고 (서울 종로구 삼일대로30길 21 (낙원동, 종로오피스텔))",
+    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94921",
+    "date": "2026-09-09",
+    "image": null,
+    "first_seen": "2026-09-09"
+  },
+  {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "20260436221",
+    "title": "2026년 안동 바로알기 팸투어 지원사업",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260436221",
+    "date": "2026.09.09. ~ 2026.09.23.",
+    "image": null,
+    "first_seen": "2026-09-09"
+  },
+  {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "20260436082",
+    "title": "2026년 민관협력 유실·유기동물 기증비 지원사업",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260436082",
+    "date": "2026.09.08. ~ 2026.09.23.",
+    "image": null,
+    "first_seen": "2026-09-09"
+  },
+  {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "20260435968",
+    "title": "2026년 문화예술단체활동 지원사업 추가 공모",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260435968",
+    "date": "2026.09.08. ~ 2026.09.22.",
+    "image": null,
+    "first_seen": "2026-09-09"
+  },
+  {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "202633000002031100011A",
+    "title": "2026년 게임 인턴십 2차 지원사업",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202633000002031100011A",
+    "date": "2026.09.08 ~ 2026.09.23",
+    "image": null,
+    "first_seen": "2026-09-09"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
     "id": "GOKAMS_NEWS_20260905044102003",
     "title": "2026년 예술산업아카데미 <예술산업 HR 커뮤니티 Connect - 4회차> 수강생 모집",
     "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_NEWS_20260905044102003",
