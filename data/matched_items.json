@@ -1,5 +1,45 @@
 [
   {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "GOKAMS_NEWS_20260911044102001",
+    "title": "2026년 아트코리아랩 오픈 프롬프트 커뮤니티 포스트모템 9월 참여자 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_NEWS_20260911044102001",
+    "date": "2026.09.10 - 2026.09.20",
+    "image": null,
+    "first_seen": "2026-09-11"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S64882",
+    "title": "2026년 예술창작 지원사업 [청년작가 기획전] 참여 청년작가 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64882",
+    "date": "2026.09.10 - 2026.10.05",
+    "image": null,
+    "first_seen": "2026-09-11"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S64880",
+    "title": "2026년 AI 국악 크로스오버 작곡 공모전 온라인 청중평가 오픈 다이브 투 퓨전: 만개(滿開)",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64880",
+    "date": "2026.09.10 - 2026.09.20",
+    "image": null,
+    "first_seen": "2026-09-11"
+  },
+  {
+    "site": "gokams",
+    "site_label": "예술경영지원센터",
+    "id": "4564",
+    "title": "2026 예술산업 금융지원 시범사업(융자) 5차 공모(~10.2.(금) 16:00)",
+    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4564&page=1&txtKeyword=&ddlKeyfield=T",
+    "date": "2026-09-11",
+    "image": null,
+    "first_seen": "2026-09-11"
+  },
+  {
     "site": "artskorealab",
     "site_label": "아트코리아랩",
     "id": "2609100001",

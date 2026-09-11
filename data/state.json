@@ -1363,6 +1363,36 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64848",
       "date": "2026.09.09 - 2026.09.30",
       "first_seen": "2026-09-10"
+    },
+    "MFAC_NOTICE_20260911050006001": {
+      "title": "별★걸 다 파는 마포 주민 아트 마켓 <2026 궁금한 시장> 참여 셀러 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=MFAC_NOTICE_20260911050006001",
+      "date": "2026.09.11 - 2026.09.28",
+      "first_seen": "2026-09-11"
+    },
+    "GOKAMS_NEWS_20260911044102001": {
+      "title": "2026년 아트코리아랩 오픈 프롬프트 커뮤니티 포스트모템 9월 참여자 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_NEWS_20260911044102001",
+      "date": "2026.09.10 - 2026.09.20",
+      "first_seen": "2026-09-11"
+    },
+    "S64890": {
+      "title": "2026년 관악강감찬축제 10주년 학술 대회 <지나봄, 내다봄> 사전 등록 안내",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64890",
+      "date": "2026.09.11 - 2026.10.15",
+      "first_seen": "2026-09-11"
+    },
+    "S64882": {
+      "title": "2026년 예술창작 지원사업 [청년작가 기획전] 참여 청년작가 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64882",
+      "date": "2026.09.10 - 2026.10.05",
+      "first_seen": "2026-09-11"
+    },
+    "S64880": {
+      "title": "2026년 AI 국악 크로스오버 작곡 공모전 온라인 청중평가 오픈 다이브 투 퓨전: 만개(滿開)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64880",
+      "date": "2026.09.10 - 2026.09.20",
+      "first_seen": "2026-09-11"
     }
   },
   "arko_education": {
@@ -4111,6 +4141,66 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94948",
       "date": "2026-09-10",
       "first_seen": "2026-09-10"
+    },
+    "94965": {
+      "title": "[주식회사 서브윌] [한국은행 아카이브] 전시공간 운영·안내 담당자 모집 (3개월) (서울 중구 남대문로 39 (남대문로3가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94965",
+      "date": "2026-09-11",
+      "first_seen": "2026-09-11"
+    },
+    "94964": {
+      "title": "[터치파이브(주)홍대지점] 쇼뮤지컬하우스매니저 모집 (서울 마포구 와우산로 76-1 (서교동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94964",
+      "date": "2026-09-11",
+      "first_seen": "2026-09-11"
+    },
+    "94963": {
+      "title": "[군포 프라임필하모닉오케스트라] (복사) 프라임필하모닉오케스트라 사무국 공연기획 직원 채용 공고 (경기 군포시 고산로 599 (산본동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94963",
+      "date": "2026-09-11",
+      "first_seen": "2026-09-11"
+    },
+    "94962": {
+      "title": "[(주)오픈갤러리] [오픈갤러리] 마케팅팀 채용 (서울 성동구 왕십리로 115 (성수동1가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94962",
+      "date": "2026-09-11",
+      "first_seen": "2026-09-11"
+    },
+    "94961": {
+      "title": "[(주)오픈갤러리] [오픈갤러리] 학예팀 신입 채용 (미술 작품 큐레이션) (서울 성동구 왕십리로 115 (성수동1가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94961",
+      "date": "2026-09-11",
+      "first_seen": "2026-09-11"
+    },
+    "94960": {
+      "title": "[(주)오픈갤러리] [오픈갤러리] 고객관리팀 신입 채용 (미술 작품 추천 및 운영) (서울 성동구 왕십리로 115 (성수동1가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94960",
+      "date": "2026-09-11",
+      "first_seen": "2026-09-11"
+    },
+    "94959": {
+      "title": "[마이어리거울프] [마이어리거울프] 갤러리 어시스턴트 채용 공고 (서울 용산구 독서당로29길 6 (한남동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94959",
+      "date": "2026-09-11",
+      "first_seen": "2026-09-11"
+    },
+    "94958": {
+      "title": "[(주)씨에이치수박] [뮤지컬 빨래] 제작팀 경력사원 채용 공고 (서울 종로구 율곡로 191-1 (연건동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94958",
+      "date": "2026-09-11",
+      "first_seen": "2026-09-11"
+    },
+    "94957": {
+      "title": "[서울식물원] 서울식물원 매력일자리 사업 디자인·전시기획보조·투어·프로그램 분야 참여자 모집 공고(6차 재공고) (서울 강서구 마곡동로 161 (마곡동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94957",
+      "date": "2026-09-11",
+      "first_seen": "2026-09-11"
+    },
+    "94956": {
+      "title": "[라바마인 주식회사] 라바마인과 함께할 신입 공연 홍보·마케팅 사원을 찾습니다 (서울 중구 필동로8가길 56 (예장동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94956",
+      "date": "2026-09-11",
+      "first_seen": "2026-09-11"
     }
   },
   "wevity": {
@@ -5445,6 +5535,12 @@
       "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4563&page=1&txtKeyword=&ddlKeyfield=T",
       "date": "2026-09-10",
       "first_seen": "2026-09-10"
+    },
+    "4564": {
+      "title": "2026 예술산업 금융지원 시범사업(융자) 5차 공모(~10.2.(금) 16:00)",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4564&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-09-11",
+      "first_seen": "2026-09-11"
     }
   },
   "metaverse_campus_lecture": {
