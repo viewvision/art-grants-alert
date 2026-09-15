@@ -40,6 +40,46 @@
     "first_seen": "2026-09-15"
   },
   {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "CRL3581",
+    "title": "2027년 해외레지던시참가지원(지정) IETM 국제현대공연예술네트워크 글로벌 커넥트 및 정기총회 초청 프로그램",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CRL3581",
+    "date": "2026.09.15 - 2026.10.15",
+    "image": null,
+    "first_seen": "2026-09-15"
+  },
+  {
+    "site": "ncas",
+    "site_label": "국가문화예술지원시스템",
+    "id": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4564",
+    "title": "2026 예술산업 금융지원 시범사업(융자) 5차 공모",
+    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4564",
+    "date": "2026.10.02 16:00 (D-16)",
+    "image": null,
+    "first_seen": "2026-09-15"
+  },
+  {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "20260438004",
+    "title": "2026년 공동주택 전기차 충전구역 화재감지 및 경보설비 구축 지원사업",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260438004",
+    "date": "2026.09.15. ~ 2026.10.14.",
+    "image": null,
+    "first_seen": "2026-09-15"
+  },
+  {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "202633000000000500098A",
+    "title": "2026년 대중음악 공연환경 개선 지원사업 추가 공고",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202633000000000500098A",
+    "date": "2026.09.15 ~ 2026.10.02",
+    "image": null,
+    "first_seen": "2026-09-15"
+  },
+  {
     "site": "artmore",
     "site_label": "아트모아",
     "id": "94971",

@@ -1423,6 +1423,12 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64900",
       "date": "2026.09.15 - 2026.09.27",
       "first_seen": "2026-09-15"
+    },
+    "CRL3581": {
+      "title": "2027년 해외레지던시참가지원(지정) IETM 국제현대공연예술네트워크 글로벌 커넥트 및 정기총회 초청 프로그램",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CRL3581",
+      "date": "2026.09.15 - 2026.10.15",
+      "first_seen": "2026-09-15"
     }
   },
   "arko_education": {
@@ -1963,6 +1969,12 @@
       "url": "https://uctf.or.kr/board/notice/view/202411239195",
       "date": "2026.10.30 23:59 (D-50)",
       "first_seen": "2026-09-09"
+    },
+    "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4564": {
+      "title": "2026 예술산업 금융지원 시범사업(융자) 5차 공모",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4564",
+      "date": "2026.10.02 16:00 (D-16)",
+      "first_seen": "2026-09-15"
     }
   },
   "nabi": {
@@ -4327,6 +4339,66 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94975",
       "date": "2026-09-14",
       "first_seen": "2026-09-15"
+    },
+    "95008": {
+      "title": "[국립박물관문화재단] 국립중앙박물관 극장 용 <티켓 및 고객만족센터 근로자> 채용 공고(~9.21.(월) 23:59까지) (서울 용산구 서빙고로 137 (용산동6가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95008",
+      "date": "2026-09-15",
+      "first_seen": "2026-09-15"
+    },
+    "95007": {
+      "title": "[GALLERY BATON] [갤러리바톤] 갤러리 어시스턴트 채용 (서울 용산구 이태원로 223-9 (한남동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95007",
+      "date": "2026-09-15",
+      "first_seen": "2026-09-15"
+    },
+    "95006": {
+      "title": "[이화익갤러리] [이화익갤러리] 안내데스크 및 사무보조 1명 채용 공고 (서울 종로구 율곡로3길 67 (송현동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95006",
+      "date": "2026-09-15",
+      "first_seen": "2026-09-15"
+    },
+    "95005": {
+      "title": "[경기아트센터] (복사) 2026년 경기아트센터 제3차 하우스어셔 채용공고 (경기 수원시 팔달구 효원로307번길 20 (인계동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95005",
+      "date": "2026-09-15",
+      "first_seen": "2026-09-15"
+    },
+    "95004": {
+      "title": "[영산아트홀] 2026 영산아트홀 하우스어셔 모집 공고 (서울 영등포구 여의공원로 101 (여의도동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95004",
+      "date": "2026-09-15",
+      "first_seen": "2026-09-15"
+    },
+    "95003": {
+      "title": "[광림아트센터] [광림아트센터] BBCH홀 / 장천홀 공연장안내원 모집공고 (서울 강남구 논현로163길 33 (신사동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95003",
+      "date": "2026-09-15",
+      "first_seen": "2026-09-15"
+    },
+    "95002": {
+      "title": "[(주)케이옥션] [케이옥션] 전시관리팀 매니저 경력 채용 (서울 강남구 언주로172길 23 (신사동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95002",
+      "date": "2026-09-15",
+      "first_seen": "2026-09-15"
+    },
+    "95001": {
+      "title": "[아뜰리에 아키] [ATELIER AKI 갤러리 어시스턴트 채용 공고] (서울 성동구 서울숲2길 32-14 (성수동1가, 갤러리아 포레))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95001",
+      "date": "2026-09-15",
+      "first_seen": "2026-09-15"
+    },
+    "95000": {
+      "title": "[(재)국립오페라단] 2026년 제3차 국립오페라단 직원 채용 공고(정규직) (서울 서초구 남부순환로 2406 (서초동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95000",
+      "date": "2026-09-15",
+      "first_seen": "2026-09-15"
+    },
+    "94999": {
+      "title": "[(재)국립오페라단] 2026년 제3차 국립오페라단 직원 채용 공고 (서울 서초구 남부순환로 2406 (서초동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94999",
+      "date": "2026-09-15",
+      "first_seen": "2026-09-15"
     }
   },
   "wevity": {
@@ -5472,6 +5544,30 @@
       "title": "2026년 충북 특화콘텐츠 마케팅 지원사업(국내외형) 3차 모집",
       "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202641000000226900016A",
       "date": "2026.09.11 ~ 2026.09.28",
+      "first_seen": "2026-09-15"
+    },
+    "202632000000015200004A": {
+      "title": "대구광역시 남구 어린이·사회복지급식관리지원센터 위탁 운영기관 모집 공고",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000015200004A",
+      "date": "2026.09.16 ~ 2026.10.06",
+      "first_seen": "2026-09-15"
+    },
+    "20260438004": {
+      "title": "2026년 공동주택 전기차 충전구역 화재감지 및 경보설비 구축 지원사업",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260438004",
+      "date": "2026.09.15. ~ 2026.10.14.",
+      "first_seen": "2026-09-15"
+    },
+    "20260437766": {
+      "title": "성경전래지 기념관 개관 10주년 기념 도서 발간 사업",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260437766",
+      "date": "2026.09.15. ~ 2026.09.30.",
+      "first_seen": "2026-09-15"
+    },
+    "202633000000000500098A": {
+      "title": "2026년 대중음악 공연환경 개선 지원사업 추가 공고",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202633000000000500098A",
+      "date": "2026.09.15 ~ 2026.10.02",
       "first_seen": "2026-09-15"
     }
   },
