@@ -1393,6 +1393,36 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64880",
       "date": "2026.09.10 - 2026.09.20",
       "first_seen": "2026-09-11"
+    },
+    "DDMAC_NOTICE_20260912045003003": {
+      "title": "2026년 삼동제(TROIKA) 「감동제」 학술포럼 현장 참여자 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=DDMAC_NOTICE_20260912045003003",
+      "date": "2026.09.14 - 2026.09.20",
+      "first_seen": "2026-09-15"
+    },
+    "KCDF_MENU_20260912044523001": {
+      "title": "2026년 공예 온라인 유통 및 AI활용 역량 강화 교육 프로그램 교육생 모집 (온라인)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=KCDF_MENU_20260912044523001",
+      "date": "2026.09.14 - 2026.09.20",
+      "first_seen": "2026-09-15"
+    },
+    "GOKAMS_APPLY_20260912044456001": {
+      "title": "2026년 예술산업 금융지원 시범사업(융자) 5차 공모",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_APPLY_20260912044456001",
+      "date": "2026.09.14 - 2026.10.02",
+      "first_seen": "2026-09-15"
+    },
+    "S64912": {
+      "title": "2026년 마을극장 흰고무신「수안연극제」 참가팀 추가모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64912",
+      "date": "2026.09.10 - 2026.09.28",
+      "first_seen": "2026-09-15"
+    },
+    "S64900": {
+      "title": "차세대 청년문화 활성화 「금정 AI, 넥스트 웨이브」 참여자 모집 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64900",
+      "date": "2026.09.15 - 2026.09.27",
+      "first_seen": "2026-09-15"
     }
   },
   "arko_education": {
@@ -4237,6 +4267,66 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94973",
       "date": "2026-09-12",
       "first_seen": "2026-09-12"
+    },
+    "94985": {
+      "title": "[엘림연기학원] 엘림 연기학원에서 함께 수업을 진행할 외래강사를 모집합니다. (경기 용인시 수지구 현암로125번길 6 (죽전동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94985",
+      "date": "2026-09-14",
+      "first_seen": "2026-09-15"
+    },
+    "94984": {
+      "title": "[주식회사 컬처브릿지] 2026년 제5차 주식회사 컬처브릿지 서울 남산국악당 및 돈화문국악당 직원 채용 (서울 종로구 율곡로 102 (와룡동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94984",
+      "date": "2026-09-14",
+      "first_seen": "2026-09-15"
+    },
+    "94983": {
+      "title": "[(주)장앤파트너스그룹] [장앤파트너스그룹] 프로젝트 전담 연구원 채용 (서울 중구 정동길 35 (정동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94983",
+      "date": "2026-09-14",
+      "first_seen": "2026-09-15"
+    },
+    "94982": {
+      "title": "[(재)대림문화재단] [대림문화재단 채용공고] 전시해설 프로그램 담당 에듀케이터 경력직 채용공고 (1명, 계약직) (서울 성동구 왕십리로 83-21 (성수동1가, 아크로 서울포레스트))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94982",
+      "date": "2026-09-14",
+      "first_seen": "2026-09-15"
+    },
+    "94980": {
+      "title": "[롯데문화재단] 롯데콘서트홀 하우스어텐던트(공연장 안내원) 모집 공고 (서울 송파구 올림픽로 300 (신천동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94980",
+      "date": "2026-09-14",
+      "first_seen": "2026-09-15"
+    },
+    "94979": {
+      "title": "[더프리마] [더프리마아트센터] 큐레이터 경력직 채용 (서울 종로구 인사동길 37-11 (관훈동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94979",
+      "date": "2026-09-14",
+      "first_seen": "2026-09-15"
+    },
+    "94978": {
+      "title": "[(주)랑] 주식회사 랑에서 뮤지컬<미드나잇 앤틀러스>의 하우스 안내원을 모집합니다. (서울 종로구 대학로12길 64 (동숭동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94978",
+      "date": "2026-09-14",
+      "first_seen": "2026-09-15"
+    },
+    "94977": {
+      "title": "[주식회사 오운] [오운] 2026년 하반기 경력직 채용-디자인 (서울 종로구 삼청로7길 28 (삼청동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94977",
+      "date": "2026-09-14",
+      "first_seen": "2026-09-15"
+    },
+    "94976": {
+      "title": "[주식회사 오운] (복사) [오운] 2026년 하반기 경력직 채용-행사 기획(이벤트 프로덕션) (서울 종로구 삼청로7길 28 (삼청동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94976",
+      "date": "2026-09-14",
+      "first_seen": "2026-09-15"
+    },
+    "94975": {
+      "title": "[주식회사 오운] [오운] 2026년 하반기 경력직 채용-행사 기획(이벤트 프로덕션) (서울 종로구 삼청로7길 28 (삼청동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94975",
+      "date": "2026-09-14",
+      "first_seen": "2026-09-15"
     }
   },
   "wevity": {
@@ -5365,6 +5455,24 @@
       "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260436836",
       "date": "2026.09.14. ~ 2026.10.01.",
       "first_seen": "2026-09-13"
+    },
+    "20260436584": {
+      "title": "2026년 다량배출사업장 음식물류폐기물 감량기 설치 지원사업",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260436584",
+      "date": "2026.09.14. ~ 2026.10.12.",
+      "first_seen": "2026-09-15"
+    },
+    "202632000000011000006A": {
+      "title": "2026년 스마트 HACCP 등록시스템 비용 지원 사업 재공고",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000011000006A",
+      "date": "2026.09.14 ~ 2026.09.30",
+      "first_seen": "2026-09-15"
+    },
+    "202641000000226900016A": {
+      "title": "2026년 충북 특화콘텐츠 마케팅 지원사업(국내외형) 3차 모집",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202641000000226900016A",
+      "date": "2026.09.11 ~ 2026.09.28",
+      "first_seen": "2026-09-15"
     }
   },
   "gokams": {
