@@ -2,6 +2,36 @@
   {
     "site": "arko_thearts",
     "site_label": "아르코 통합플랫폼",
+    "id": "CRL3582",
+    "title": "2026년 대한민국 예술과 기업 동반성장 대상(공고연장)",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CRL3582",
+    "date": "2026.07.15 - 2026.09.30",
+    "image": null,
+    "first_seen": "2026-09-17"
+  },
+  {
+    "site": "gokams",
+    "site_label": "예술경영지원센터",
+    "id": "4570",
+    "title": "2026 아트코리아랩 AI+기술융합 오픈이노베이션(2차) 공모 2차 발표심의 결과안내",
+    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4570&page=1&txtKeyword=&ddlKeyfield=T",
+    "date": "2026-09-16",
+    "image": null,
+    "first_seen": "2026-09-17"
+  },
+  {
+    "site": "gmap",
+    "site_label": "광주미디어아트플랫폼(G.MAP) 공지사항",
+    "id": "109",
+    "title": "2026 디지털아트 컬처랩 서포터즈 모집",
+    "url": "https://gmap.gwangju.go.kr/bbs/board.php?bo_table=notice&wr_id=109",
+    "date": "09-16",
+    "image": null,
+    "first_seen": "2026-09-17"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
     "id": "KCDF_MENU_20260912044523001",
     "title": "2026년 공예 온라인 유통 및 AI활용 역량 강화 교육 프로그램 교육생 모집 (온라인)",
     "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=KCDF_MENU_20260912044523001",
