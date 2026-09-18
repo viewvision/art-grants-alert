@@ -1495,6 +1495,30 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64949",
       "date": "2026.09.15 - 2026.11.30",
       "first_seen": "2026-09-17"
+    },
+    "BSJIN_20260918052004001": {
+      "title": "2026년 부산진구 문화공론장 문화자치 페스타 추진 워크숍",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=BSJIN_20260918052004001",
+      "date": "2026.09.17 - 2026.09.29",
+      "first_seen": "2026-09-18"
+    },
+    "S65025": {
+      "title": "2026년 경남 콘텐츠페어 전시존 참가기업 모집 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65025",
+      "date": "2026.09.17 - 2026.09.22",
+      "first_seen": "2026-09-18"
+    },
+    "S65009": {
+      "title": "2026년 대한민국 예술과 기업 동반성장 대상 연장 공고(2차) 및 서식 안내",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65009",
+      "date": "2026.09.17 - 2026.09.28",
+      "first_seen": "2026-09-18"
+    },
+    "S65004": {
+      "title": "2026년 대한민국 예술과 기업 동반성장 대상 지원사업 참여 예술인(단체) 추가 모집 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65004",
+      "date": "2026.09.17 - 2026.09.28",
+      "first_seen": "2026-09-18"
     }
   },
   "arko_education": {
@@ -4573,6 +4597,66 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95024",
       "date": "2026-09-17",
       "first_seen": "2026-09-17"
+    },
+    "95047": {
+      "title": "[주식회사 마크923] [마크923] 공연 홍보.마케팅 담당자 채용 공고 (서울 용산구 대사관로 23 (한남동, 오페라하우스3차))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95047",
+      "date": "2026-09-18",
+      "first_seen": "2026-09-18"
+    },
+    "95046": {
+      "title": "[라비에발레학원] (복사) ***인천 송도 무용_발레 선생님 구인*** (인천 연수구 첨단대로 40 (송도동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95046",
+      "date": "2026-09-18",
+      "first_seen": "2026-09-18"
+    },
+    "95045": {
+      "title": "[(주)오픈갤러리] [오픈갤러리] 고객관리팀 신입 채용 (미술 작품 추천 및 운영) (서울 성동구 왕십리로 115 (성수동1가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95045",
+      "date": "2026-09-18",
+      "first_seen": "2026-09-18"
+    },
+    "95044": {
+      "title": "[(주)오픈갤러리] [오픈갤러리] 학예팀 신입 채용 (미술 작품 큐레이션) (서울 성동구 왕십리로 115 (성수동1가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95044",
+      "date": "2026-09-18",
+      "first_seen": "2026-09-18"
+    },
+    "95043": {
+      "title": "[(주)오픈갤러리] [오픈갤러리] 마케팅팀 채용 (서울 성동구 왕십리로 115 (성수동1가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95043",
+      "date": "2026-09-18",
+      "first_seen": "2026-09-18"
+    },
+    "95041": {
+      "title": "[재단법인서울시립교향악단] (재)서울시립교향악단 발달장애 예술인 모집 (기간제(장애인 제한) 채용) (서울 종로구 세종대로 175 (세종로))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95041",
+      "date": "2026-09-18",
+      "first_seen": "2026-09-18"
+    },
+    "95040": {
+      "title": "[충북문화재단] 2026년 (재)충북문화재단 제5차 직원(가급, 마급, 기간제) 공개채용 공고 (충북 청주시 청원구 향군로94번길 7 (우암동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95040",
+      "date": "2026-09-18",
+      "first_seen": "2026-09-18"
+    },
+    "95039": {
+      "title": "[(재)GS문화재단] (재)GS문화재단 기획홍보팀 정규직 채용 공고 (디지털 플랫폼·CRM 매니저) (서울 강남구 논현로 508 (역삼동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95039",
+      "date": "2026-09-18",
+      "first_seen": "2026-09-18"
+    },
+    "95036": {
+      "title": "[주식회사 컬처브릿지] (복사) 2026년 제5차 주식회사 컬처브릿지 서울 남산국악당 및 돈화문국악당 직원 채용 (서울 종로구 율곡로 102 (와룡동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95036",
+      "date": "2026-09-18",
+      "first_seen": "2026-09-18"
+    },
+    "95048": {
+      "title": "[주식회사 충청직업학교] 헤어미용 자격증 및 실무 과정 강사 모집 (충청남도 천안시 동남구 대흥로 145)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95048",
+      "date": "2026-09-18",
+      "first_seen": "2026-09-18"
     }
   },
   "wevity": {

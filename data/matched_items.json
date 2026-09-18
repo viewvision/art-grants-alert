@@ -2,6 +2,36 @@
   {
     "site": "arko_thearts",
     "site_label": "아르코 통합플랫폼",
+    "id": "S65009",
+    "title": "2026년 대한민국 예술과 기업 동반성장 대상 연장 공고(2차) 및 서식 안내",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65009",
+    "date": "2026.09.17 - 2026.09.28",
+    "image": null,
+    "first_seen": "2026-09-18"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S65004",
+    "title": "2026년 대한민국 예술과 기업 동반성장 대상 지원사업 참여 예술인(단체) 추가 모집 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65004",
+    "date": "2026.09.17 - 2026.09.28",
+    "image": null,
+    "first_seen": "2026-09-18"
+  },
+  {
+    "site": "artmore",
+    "site_label": "아트모아",
+    "id": "95041",
+    "title": "[재단법인서울시립교향악단] (재)서울시립교향악단 발달장애 예술인 모집 (기간제(장애인 제한) 채용) (서울 종로구 세종대로 175 (세종로))",
+    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95041",
+    "date": "2026-09-18",
+    "image": null,
+    "first_seen": "2026-09-18"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
     "id": "CRL3582",
     "title": "2026년 대한민국 예술과 기업 동반성장 대상(공고연장)",
     "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CRL3582",
