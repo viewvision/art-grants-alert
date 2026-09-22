@@ -1,5 +1,255 @@
 [
   {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "ARKO_BOARD_20260922044055001",
+    "title": "2026년 문화예술후원매개전문가 양성과정 아트너스클럽 시즌7",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=ARKO_BOARD_20260922044055001",
+    "date": "2026.09.21 - 2026.10.05",
+    "image": null,
+    "first_seen": "2026-09-22"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S65089",
+    "title": "2026년 길따라 예술로 참여기관 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65089",
+    "date": "2026.09.21 - 2026.10.02",
+    "image": null,
+    "first_seen": "2026-09-22"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S65086",
+    "title": "2026년 대한민국 예술과 기업 동반성장 대상 연장 및 변경 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65086",
+    "date": "2026.09.21 - 2026.09.28",
+    "image": null,
+    "first_seen": "2026-09-22"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "YDPCF_BOARD_20260919062003002",
+    "title": "2026년 문화예술후원매개단체 지원사업 <포커스 아트 커넥트> 참여자 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=YDPCF_BOARD_20260919062003002",
+    "date": "2026.09.18 - 2026.09.30",
+    "image": null,
+    "first_seen": "2026-09-22"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S65052",
+    "title": "2026년 대한민국 예술과 기업 동반성장 대상 참여 예술가·단체 추가모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65052",
+    "date": "2026.09.21 - 2026.09.27",
+    "image": null,
+    "first_seen": "2026-09-22"
+  },
+  {
+    "site": "artmore",
+    "site_label": "아트모아",
+    "id": "95072",
+    "title": "[세종국악관현악단] [세종국악관현악단]2026년 예술기반 청년일자리(연수단원-작편곡) 추가 모집 공고 (경기 군포시 고산로 599 (산본동))",
+    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95072",
+    "date": "2026-09-22",
+    "image": null,
+    "first_seen": "2026-09-22"
+  },
+  {
+    "site": "wevity",
+    "site_label": "위비티",
+    "id": "110678",
+    "title": "2026년 스포츠토토 숏폼 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110678",
+    "date": "D-6 마감임박",
+    "image": null,
+    "first_seen": "2026-09-22"
+  },
+  {
+    "site": "wevity",
+    "site_label": "위비티",
+    "id": "110633",
+    "title": "[문화체육관광부×한국문화정보원] 문화데이터 활용 영상 제작 AI 챌린지",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110633",
+    "date": "D-6 마감임박",
+    "image": null,
+    "first_seen": "2026-09-22"
+  },
+  {
+    "site": "wevity",
+    "site_label": "위비티",
+    "id": "110585",
+    "title": "2026 0924영상제 영상 공모전IDEA",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110585",
+    "date": "D-25 접수중",
+    "image": null,
+    "first_seen": "2026-09-22"
+  },
+  {
+    "site": "wevity",
+    "site_label": "위비티",
+    "id": "110530",
+    "title": "제5회 2026 대한민국 고등학생 AI•SW 개발 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110530",
+    "date": "D-5 마감임박",
+    "image": null,
+    "first_seen": "2026-09-22"
+  },
+  {
+    "site": "wevity",
+    "site_label": "위비티",
+    "id": "110179",
+    "title": "7th Da-Ho Award Asian International Short Film Competition(단편영화 공모전)IDEA",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110179",
+    "date": "D-115 접수중",
+    "image": null,
+    "first_seen": "2026-09-22"
+  },
+  {
+    "site": "wevity",
+    "site_label": "위비티",
+    "id": "107830",
+    "title": "2026년 디지털윤리 창작콘텐츠 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107830",
+    "date": "D-10 접수중",
+    "image": null,
+    "first_seen": "2026-09-22"
+  },
+  {
+    "site": "wevity",
+    "site_label": "위비티",
+    "id": "107265",
+    "title": "2026년 템플스테이·사찰음식·불교문화 콘텐츠 논문공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107265",
+    "date": "D-24 접수중",
+    "image": null,
+    "first_seen": "2026-09-22"
+  },
+  {
+    "site": "wevity",
+    "site_label": "위비티",
+    "id": "106342",
+    "title": "제5회 서울특별시의회 청년 학술논문 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106342",
+    "date": "D-8 마감임박",
+    "image": null,
+    "first_seen": "2026-09-22"
+  },
+  {
+    "site": "wevity",
+    "site_label": "위비티",
+    "id": "111238",
+    "title": "[포천도시공사] 2026년 주민참여예산제 아이디어 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111238",
+    "date": "D-21 접수중",
+    "image": null,
+    "first_seen": "2026-09-22"
+  },
+  {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "20260439620",
+    "title": "2026년 지역특성화 축제 지원사업",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260439620",
+    "date": "2026.09.21. ~ 2026.10.08.",
+    "image": null,
+    "first_seen": "2026-09-22"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "111236",
+    "title": "2026 PBS 숏폼 영상 콘텐츠 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111236",
+    "date": "D-52 접수중",
+    "image": null,
+    "first_seen": "2026-09-22"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "111229",
+    "title": "2026 서울시건축사회 숏폼 영상 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111229",
+    "date": "D-38 접수중",
+    "image": null,
+    "first_seen": "2026-09-22"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "111223",
+    "title": "2026 AI 활용 숏폼 영상 공모전 (나의 공단, 나의 이야기)",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111223",
+    "date": "D-39 접수예정",
+    "image": null,
+    "first_seen": "2026-09-22"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "111222",
+    "title": "NEXMUSE AI Music Video Contest 2027",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111222",
+    "date": "D-97 접수중",
+    "image": null,
+    "first_seen": "2026-09-22"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "111203",
+    "title": "교육부-EBS 함께학교 100초 숏폼 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111203",
+    "date": "D-39 접수예정",
+    "image": null,
+    "first_seen": "2026-09-22"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "111191",
+    "title": "제72회 백제문화제 숏폼 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111191",
+    "date": "D-31 접수예정",
+    "image": null,
+    "first_seen": "2026-09-22"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "111169",
+    "title": "K-아이웨어 숏폼 영상 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111169",
+    "date": "D-24 접수중",
+    "image": null,
+    "first_seen": "2026-09-22"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "111140",
+    "title": "롯데렌터카 T car 숏폼 영상 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111140",
+    "date": "D-39 접수예정",
+    "image": null,
+    "first_seen": "2026-09-22"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "111132",
+    "title": "2026 대한지방행정공제회 생성형 AI 콘텐츠 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111132",
+    "date": "D-47 접수중",
+    "image": null,
+    "first_seen": "2026-09-22"
+  },
+  {
     "site": "bojo",
     "site_label": "e나라도움(보조금통합포털)",
     "id": "202600008000580600002A",
