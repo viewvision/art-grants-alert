@@ -1,5 +1,35 @@
 [
   {
+    "site": "wevity",
+    "site_label": "위비티",
+    "id": "111280",
+    "title": "Pollo AI K-pop MV 챌린지",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111280",
+    "date": "D-13 접수중",
+    "image": null,
+    "first_seen": "2026-09-25"
+  },
+  {
+    "site": "wevity",
+    "site_label": "위비티",
+    "id": "111276",
+    "title": "양식 수산물 요리대회 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111276",
+    "date": "D-19 접수중",
+    "image": null,
+    "first_seen": "2026-09-25"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "111273",
+    "title": "[BytePlus x AI-Kive] Seedance2.5 AI 시리즈 제작지원 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111273",
+    "date": "D-36 접수예정",
+    "image": null,
+    "first_seen": "2026-09-25"
+  },
+  {
     "site": "arko_thearts",
     "site_label": "아르코 통합플랫폼",
     "id": "GCTF_NOTICE_20260923095008001",
@@ -2944,34 +2974,6 @@
     "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1363&brd_id=academy",
     "date": "2025.03.12 ~ 2025.04.02",
     "image": "https://www.nabi.or.kr/upload_file/board/1738651963_UKxJZ3.png",
-    "first_seen": "2026-07-31"
-  },
-  {
-    "site": "nabi",
-    "site_label": "아트센터 나비미술관",
-    "id": "1354",
-    "title": "2025 Creative AI : Computer Vision",
-    "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1354&brd_id=academy",
-    "date": "2025.02.12 ~ 2025.03.05",
-    "image": "https://www.nabi.or.kr/upload_file/board/1736474482_07TI38.png",
-    "first_seen": "2026-07-31"
-  },
-  {
-    "site": "artspoon",
-    "id": "19",
-    "site_label": "아트스푼",
-    "title": "예림문화사 × 아트앤갤러리 2027년 달력 작가 공모전 (저작권료 지급)",
-    "url": "https://artspoon.io/ko/contest/contest-19",
-    "date": "2025-10-21 ~ 2026-03-09",
-    "first_seen": "2026-07-31"
-  },
-  {
-    "site": "artspoon",
-    "id": "3",
-    "site_label": "아트스푼",
-    "title": "제 1회 Art Spoon 글로벌 신진작가 공모전",
-    "url": "https://artspoon.io/ko/contest/contest-3",
-    "date": "2025-05-02 ~ 2025-07-02",
     "first_seen": "2026-07-31"
   }
 ]
