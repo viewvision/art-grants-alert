@@ -2,6 +2,16 @@
   {
     "site": "wevity",
     "site_label": "위비티",
+    "id": "111285",
+    "title": "2026 승강기산업 진흥&승강기 안전문화 확산 아이디어 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111285",
+    "date": "D-35 접수예정",
+    "image": null,
+    "first_seen": "2026-09-26"
+  },
+  {
+    "site": "wevity",
+    "site_label": "위비티",
     "id": "111280",
     "title": "Pollo AI K-pop MV 챌린지",
     "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111280",
@@ -2964,16 +2974,6 @@
     "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1389&brd_id=academy",
     "date": "2025.07.09 ~ 2025.07.30",
     "image": "https://www.nabi.or.kr/upload_file/board/1750727078_e4FcL8.png",
-    "first_seen": "2026-07-31"
-  },
-  {
-    "site": "nabi",
-    "site_label": "아트센터 나비미술관",
-    "id": "1363",
-    "title": "CREATIVE AI – AI X MUSIC 파헤치기",
-    "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1363&brd_id=academy",
-    "date": "2025.03.12 ~ 2025.04.02",
-    "image": "https://www.nabi.or.kr/upload_file/board/1738651963_UKxJZ3.png",
     "first_seen": "2026-07-31"
   }
 ]
