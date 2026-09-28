@@ -2,6 +2,36 @@
   {
     "site": "wevity_video",
     "site_label": "위비티 (영상/UCC/사진)",
+    "id": "111275",
+    "title": "경기도 지구환경 지킴이 단체급식 숏폼영상 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111275",
+    "date": "D-14 접수중",
+    "image": null,
+    "first_seen": "2026-09-28"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "111268",
+    "title": "2026년 사진으로 만나는 도시농부 이야기 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111268",
+    "date": "D-1 마감임박",
+    "image": null,
+    "first_seen": "2026-09-28"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "111264",
+    "title": "2026 양주 나리농원 숏폼 영상 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111264",
+    "date": "D-28 접수중",
+    "image": null,
+    "first_seen": "2026-09-28"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
     "id": "111234",
     "title": "2026년 지역자율형 사회서비스 우수사진 공모전",
     "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111234",
@@ -2944,36 +2974,6 @@
     "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1403&brd_id=academy",
     "date": "2025.10.21 ~ 2025.10.25",
     "image": "https://www.nabi.or.kr/upload_file/board/1757554754_rELKpn.png",
-    "first_seen": "2026-07-31"
-  },
-  {
-    "site": "nabi",
-    "site_label": "아트센터 나비미술관",
-    "id": "1400",
-    "title": "능동적 AI 실천 II - 데이터와 AI, 사실과 허구적 재현 워크숍",
-    "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1400&brd_id=academy",
-    "date": "2025.09.22 ~ 2025.10.28",
-    "image": "https://www.nabi.or.kr/upload_file/board/1756113148_fhaQEs.png",
-    "first_seen": "2026-07-31"
-  },
-  {
-    "site": "nabi",
-    "site_label": "아트센터 나비미술관",
-    "id": "1396",
-    "title": "능동적 AI 실천 I - Context Engineering 기반 창작 워크숍",
-    "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1396&brd_id=academy",
-    "date": "2025.08.05 ~ 2025.09.02",
-    "image": "https://www.nabi.or.kr/upload_file/board/1752482051_I3jRze.png",
-    "first_seen": "2026-07-31"
-  },
-  {
-    "site": "nabi",
-    "site_label": "아트센터 나비미술관",
-    "id": "1391",
-    "title": "AI X MUSIC for Teens",
-    "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1391&brd_id=academy",
-    "date": "2025.08.02 ~ 2025.08.09",
-    "image": "https://www.nabi.or.kr/upload_file/board/1751529614_tfvabD.jpg",
     "first_seen": "2026-07-31"
   }
 ]
