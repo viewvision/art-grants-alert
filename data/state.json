@@ -137,6 +137,12 @@
       "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2609100001",
       "date": "2026-09-10",
       "first_seen": "2026-09-10"
+    },
+    "2609280001": {
+      "title": "2026 아트코리아랩 오픈 프롬프트 커뮤니티 예술 해커톤 참여자 모집공고(~10.18(일)까지)",
+      "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2609280001",
+      "date": "2026-09-28",
+      "first_seen": "2026-09-29"
     }
   },
   "arko_thearts": {
@@ -1621,6 +1627,12 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65100",
       "date": "2026.09.15 - 2026.09.27",
       "first_seen": "2026-09-24"
+    },
+    "CFAC_BOARD_20260923071012001": {
+      "title": "2027년 성환문화회관 상반기(1~6월) 정기대관 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CFAC_BOARD_20260923071012001",
+      "date": "2026.09.29 - 2026.10.08",
+      "first_seen": "2026-09-29"
     }
   },
   "arko_education": {
@@ -5119,6 +5131,66 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95119",
       "date": "2026-09-27",
       "first_seen": "2026-09-28"
+    },
+    "95142": {
+      "title": "[극단 은산] 극단 은산 연출 모집 공고  (*타 분야 상시 모집) (서울 서초구 서초중앙로2길 35 (서초동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95142",
+      "date": "2026-09-28",
+      "first_seen": "2026-09-29"
+    },
+    "95137": {
+      "title": "[재단법인 화성시문화재단] 2026년 제3회 (재)화성시문화관광재단 공연장 안내원 모집 (경기 화성시 동탄구 노작로 134 (반송동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95137",
+      "date": "2026-09-28",
+      "first_seen": "2026-09-29"
+    },
+    "95136": {
+      "title": "[롯데문화재단] 롯데콘서트홀 하우스어텐던트(공연장 안내원) 모집 공고 (서울 송파구 올림픽로 300 (신천동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95136",
+      "date": "2026-09-28",
+      "first_seen": "2026-09-29"
+    },
+    "95135": {
+      "title": "[주식회사 원체] [핸드투홈 서울] 공예 큐레이션 스토어 파트타이머 채용 (서울 영등포구 63로 50 (여의도동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95135",
+      "date": "2026-09-28",
+      "first_seen": "2026-09-29"
+    },
+    "95134": {
+      "title": "[(주)씨제이이엔엠] [CJ ENM] 뮤지컬 마케팅 프리랜서 PD (경력직) 채용 공고 (서울 마포구 상암산로 66 (상암동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95134",
+      "date": "2026-09-28",
+      "first_seen": "2026-09-29"
+    },
+    "95133": {
+      "title": "[우지기업(주)] 서울문화재단 문화예술 지원 업무 보조 구인(서울무용센터_명지대 인근) (서울 서대문구 명지2길 14 (홍은동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95133",
+      "date": "2026-09-28",
+      "first_seen": "2026-09-29"
+    },
+    "95132": {
+      "title": "[(주)인사이트모션] (주)인사이트모션 회계(경력) 직원 채용 재공고 (서울 영등포구 양평로22길 21 (양평동5가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95132",
+      "date": "2026-09-28",
+      "first_seen": "2026-09-29"
+    },
+    "95131": {
+      "title": "[(주)에이치알메이트] [두산아트센터] 사무보조 아르바이트 채용 (서울 종로구 종로33길 15 (연지동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95131",
+      "date": "2026-09-28",
+      "first_seen": "2026-09-29"
+    },
+    "95130": {
+      "title": "[주식회사 수컴퍼니] 2027 (주)수컴퍼니 제작 연극 조연출을 모집합니다 (서울 종로구 성균관로 90 (명륜1가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95130",
+      "date": "2026-09-28",
+      "first_seen": "2026-09-29"
+    },
+    "95129": {
+      "title": "[(재)무주산골문화재단] 2027년도 제15회 무주산골영화제 사무국 스태프 1차 채용공고 (전북특별자치도 전주시 완산구 산월1길 29 (중화산동2가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95129",
+      "date": "2026-09-28",
+      "first_seen": "2026-09-29"
     }
   },
   "wevity": {
@@ -5367,6 +5439,36 @@
       "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111286",
       "date": "D-27 접수중",
       "first_seen": "2026-09-27"
+    },
+    "111311": {
+      "title": "LG 대국민 미소 사진 공모전 - 스마일 모먼트SPECIAL",
+      "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111311",
+      "date": "D-20 접수중",
+      "first_seen": "2026-09-29"
+    },
+    "109516": {
+      "title": "2026 디자인 크리에이션 챌린지(DCC) 3D프린팅 제품디자인 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109516",
+      "date": "D-34 접수예정",
+      "first_seen": "2026-09-29"
+    },
+    "109120": {
+      "title": "DIDA 2026 대구국제디자인어워드 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109120",
+      "date": "D-21 접수예정",
+      "first_seen": "2026-09-29"
+    },
+    "108562": {
+      "title": "제38회 대한민국 실내건축대전",
+      "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108562",
+      "date": "D-16 접수중",
+      "first_seen": "2026-09-29"
+    },
+    "111322": {
+      "title": "[서울대학교 창업지원단·H1R AI] 2026 SNU X Croche AI 앱 해커톤",
+      "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111322",
+      "date": "D-12 접수중",
+      "first_seen": "2026-09-29"
     }
   },
   "artspoon": {
@@ -6523,6 +6625,48 @@
       "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000020900002A",
       "date": "2026.09.28 ~ 2026.10.13",
       "first_seen": "2026-09-28"
+    },
+    "202633000000019000007B": {
+      "title": "2026년 기술사업화 패키지 지원 사업(참여기관)",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202633000000019000007B",
+      "date": "2026.10.02 ~ 2026.10.08",
+      "first_seen": "2026-09-29"
+    },
+    "202632000000015800001A": {
+      "title": "강서구 어린이사회복지급식관리지원센터 민간위탁 공개모집",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000015800001A",
+      "date": "2026.09.30 ~ 2026.10.14",
+      "first_seen": "2026-09-29"
+    },
+    "202641000008936200002A": {
+      "title": "다회용 택배상자 시장형성 시범사업(배달·포장)",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202641000008936200002A",
+      "date": "2026.09.29 ~ 2026.10.15",
+      "first_seen": "2026-09-29"
+    },
+    "202632000000008600007A": {
+      "title": "담양군어린이·사회복지급식관리지원센터 위탁 운영기관 모집 공고",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000008600007A",
+      "date": "2026.09.29 ~ 2026.10.14",
+      "first_seen": "2026-09-29"
+    },
+    "202632000000016100004A": {
+      "title": "전남광주통합특별시 북구 어린이·사회복지급식관리지원센터 수탁기관 모집 공고",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000016100004A",
+      "date": "2026.09.29 ~ 2026.10.13",
+      "first_seen": "2026-09-29"
+    },
+    "20260440943": {
+      "title": "동행 콘서트 행사 지원",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260440943",
+      "date": "2026.09.28. ~ 2026.10.12.",
+      "first_seen": "2026-09-29"
+    },
+    "202632000000016300007A": {
+      "title": "「안양시 어린이·사회복지 급식관리지원센터」 위탁 운영기관 모집 공고",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000016300007A",
+      "date": "2026.09.28 ~ 2026.10.12",
+      "first_seen": "2026-09-29"
     }
   },
   "gokams": {
@@ -6783,6 +6927,12 @@
       "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4571&page=1&txtKeyword=&ddlKeyfield=T",
       "date": "2026-09-17",
       "first_seen": "2026-09-17"
+    },
+    "4572": {
+      "title": "2026 아트코리아랩 오픈 프롬프트 커뮤니티 예술 해커톤 참여자 모집공고(~10.18(일)까지)",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4572&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-09-28",
+      "first_seen": "2026-09-29"
     }
   },
   "metaverse_campus_lecture": {
@@ -7123,6 +7273,24 @@
       "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111264",
       "date": "D-28 접수중",
       "first_seen": "2026-09-28"
+    },
+    "111311": {
+      "title": "LG 대국민 미소 사진 공모전 - 스마일 모먼트SPECIAL",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111311",
+      "date": "D-20 접수중",
+      "first_seen": "2026-09-29"
+    },
+    "111290": {
+      "title": "[드론플레이x곰랩] 드론 영상•사진 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111290",
+      "date": "D-27 접수중",
+      "first_seen": "2026-09-29"
+    },
+    "111287": {
+      "title": "시민의 시선으로 기록하는 노들글로벌예술섬 사진·짧은 영상(숏폼) 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111287",
+      "date": "D-32 접수중",
+      "first_seen": "2026-09-29"
     }
   },
   "accf": {

@@ -1,5 +1,75 @@
 [
   {
+    "site": "artskorealab",
+    "site_label": "아트코리아랩",
+    "id": "2609280001",
+    "title": "2026 아트코리아랩 오픈 프롬프트 커뮤니티 예술 해커톤 참여자 모집공고(~10.18(일)까지)",
+    "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2609280001",
+    "date": "2026-09-28",
+    "image": null,
+    "first_seen": "2026-09-29"
+  },
+  {
+    "site": "artmore",
+    "site_label": "아트모아",
+    "id": "95133",
+    "title": "[우지기업(주)] 서울문화재단 문화예술 지원 업무 보조 구인(서울무용센터_명지대 인근) (서울 서대문구 명지2길 14 (홍은동))",
+    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95133",
+    "date": "2026-09-28",
+    "image": null,
+    "first_seen": "2026-09-29"
+  },
+  {
+    "site": "wevity",
+    "site_label": "위비티",
+    "id": "111311",
+    "title": "LG 대국민 미소 사진 공모전 - 스마일 모먼트SPECIAL",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111311",
+    "date": "D-20 접수중",
+    "image": null,
+    "first_seen": "2026-09-29"
+  },
+  {
+    "site": "wevity",
+    "site_label": "위비티",
+    "id": "109516",
+    "title": "2026 디자인 크리에이션 챌린지(DCC) 3D프린팅 제품디자인 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109516",
+    "date": "D-34 접수예정",
+    "image": null,
+    "first_seen": "2026-09-29"
+  },
+  {
+    "site": "wevity",
+    "site_label": "위비티",
+    "id": "111322",
+    "title": "[서울대학교 창업지원단·H1R AI] 2026 SNU X Croche AI 앱 해커톤",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111322",
+    "date": "D-12 접수중",
+    "image": null,
+    "first_seen": "2026-09-29"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "111290",
+    "title": "[드론플레이x곰랩] 드론 영상•사진 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111290",
+    "date": "D-27 접수중",
+    "image": null,
+    "first_seen": "2026-09-29"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "111287",
+    "title": "시민의 시선으로 기록하는 노들글로벌예술섬 사진·짧은 영상(숏폼) 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111287",
+    "date": "D-32 접수중",
+    "image": null,
+    "first_seen": "2026-09-29"
+  },
+  {
     "site": "wevity_video",
     "site_label": "위비티 (영상/UCC/사진)",
     "id": "111275",
@@ -2907,73 +2977,6 @@
     "title": "MOMA K GALLERY 신진작가 공모전",
     "url": "https://artspoon.io/ko/contest/moma-k-gallery-emerging-artist-2026",
     "date": "2026-06-01 ~ 2026-06-30",
-    "first_seen": "2026-07-31"
-  },
-  {
-    "site": "artspoon",
-    "id": "50",
-    "site_label": "아트스푼",
-    "title": "2026 갤러리 비브 팝 아티스트 공모전",
-    "url": "https://artspoon.io/ko/contest/gallery-viv-pop-artist-open-call-2026",
-    "date": "2026-04-17 ~ 2026-05-25",
-    "first_seen": "2026-07-31"
-  },
-  {
-    "site": "artspoon",
-    "id": "43",
-    "site_label": "아트스푼",
-    "title": "[PLAS] 조형아트페어 메리아트 공모전, 총상금 7,000 만원",
-    "url": "https://artspoon.io/ko/contest/meri-art-2nd-2026",
-    "date": "2026-03-27 ~ 2026-04-30",
-    "first_seen": "2026-07-31"
-  },
-  {
-    "site": "artspoon",
-    "site_label": "아트스푼",
-    "id": "42",
-    "title": "[저스피스재단] 루프 플러스 2026 글로벌 미디어아트 경험 프로그램",
-    "url": "https://artspoon.io/ko/contest/loop-plus-2026-global-media-art-experience",
-    "date": "2026-03-23 ~ 2026-04-11",
-    "image": null,
-    "first_seen": "2026-07-31"
-  },
-  {
-    "site": "artspoon",
-    "id": "40",
-    "site_label": "아트스푼",
-    "title": "UiAF2026 신진작가 공모전",
-    "url": "https://artspoon.io/ko/contest/uiaf2026-emerging-artist-contest",
-    "date": "2026-03-05 ~ 2026-03-29",
-    "first_seen": "2026-07-31"
-  },
-  {
-    "site": "metaverse_campus_lecture",
-    "site_label": "가상융합기술 Campus (제작역량강화 교육)",
-    "id": "260",
-    "title": "AI를 활용한 Unreal Engine 리얼타임 콘텐츠 제작 과정",
-    "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=260",
-    "date": "2025.11.25 ~ 2025.11.27",
-    "image": null,
-    "first_seen": "2026-07-31"
-  },
-  {
-    "site": "metaverse_campus_lecture",
-    "site_label": "가상융합기술 Campus (제작역량강화 교육)",
-    "id": "258",
-    "title": "Unity AI (Muse  Sentis)를 활용한 메타버스 콘텐츠 개발 과정",
-    "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=258",
-    "date": "2025.11.17 ~ 2025.11.21",
-    "image": null,
-    "first_seen": "2026-07-31"
-  },
-  {
-    "site": "nabi",
-    "site_label": "아트센터 나비미술관",
-    "id": "1403",
-    "title": "중장년 세대를 위한 예술X기술 창작 워크숍 'RE:CALENDAR - 나의 열두 달'",
-    "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1403&brd_id=academy",
-    "date": "2025.10.21 ~ 2025.10.25",
-    "image": "https://www.nabi.or.kr/upload_file/board/1757554754_rELKpn.png",
     "first_seen": "2026-07-31"
   }
 ]
