@@ -2,6 +2,126 @@
   {
     "site": "arko_thearts",
     "site_label": "아르코 통합플랫폼",
+    "id": "SFAC_NOTICE_20260924044202001",
+    "title": "서울거리예술창작센터 11월 정기대관 신청 안내",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20260924044202001",
+    "date": "2026.10.01 - 2026.10.05",
+    "image": null,
+    "first_seen": "2026-10-01"
+  },
+  {
+    "site": "artnuri",
+    "site_label": "아트누리",
+    "id": "S65185",
+    "title": "2026년 아트코리아랩 오픈 프롬프트 커뮤니티 예술 해커톤 참여자 모집공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=S65185&source=예술경영지원센터&seNo=001",
+    "date": "~ 2026-10-18",
+    "image": null,
+    "first_seen": "2026-10-01"
+  },
+  {
+    "site": "artnuri",
+    "site_label": "아트누리",
+    "id": "S65155",
+    "title": "2026 지역문화예술전문인력 양성 사업(인제 기획실행학교) 참여자 모집 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=S65155&source=인제군문화재단&seNo=001",
+    "date": "~ 2026-10-09",
+    "image": null,
+    "first_seen": "2026-10-01"
+  },
+  {
+    "site": "artnuri",
+    "site_label": "아트누리",
+    "id": "S65154",
+    "title": "2027년 안양문화예술재단 문화예술시설 정기대관 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=S65154&source=안양문화예술재단&seNo=001",
+    "date": "~ 2026-11-01",
+    "image": null,
+    "first_seen": "2026-10-01"
+  },
+  {
+    "site": "ncas",
+    "site_label": "국가문화예술지원시스템",
+    "id": "https://ifac.or.kr/bbs/view.do?bbsSn=236090&key=m2501152808232&pageIndex=1&bbsCtgrySn=&sw=",
+    "title": "2027 청년예술활동지원",
+    "url": "https://ifac.or.kr/bbs/view.do?bbsSn=236090&key=m2501152808232&pageIndex=1&bbsCtgrySn=&sw=",
+    "date": "2026.10.21 17:59 (D-20)",
+    "image": null,
+    "first_seen": "2026-10-01"
+  },
+  {
+    "site": "ncas",
+    "site_label": "국가문화예술지원시스템",
+    "id": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4573&page=2&txtKeyword=&ddlKeyfield=T",
+    "title": "예술산업보증 10월(7차) 공모",
+    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4573&page=2&txtKeyword=&ddlKeyfield=T",
+    "date": "2026.10.12 16:00 (D-11)",
+    "image": null,
+    "first_seen": "2026-10-01"
+  },
+  {
+    "site": "artmore",
+    "site_label": "아트모아",
+    "id": "95179",
+    "title": "[부천국제판타스틱영화제] 부천국제판타스틱영화제 프로그램팀장 채용 (경기 부천시 원미구 길주로 17 (상동, 청년문화마을 예술인주택 및 웹툰융합센터))",
+    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95179",
+    "date": "2026-10-01",
+    "image": null,
+    "first_seen": "2026-10-01"
+  },
+  {
+    "site": "wevity",
+    "site_label": "위비티",
+    "id": "111378",
+    "title": "2026 한국외식산업연구원 외식경영스타 아이디어 공모전SPECIAL",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111378",
+    "date": "D-33 접수중",
+    "image": null,
+    "first_seen": "2026-10-01"
+  },
+  {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "20260441309",
+    "title": "2026년 스포츠복지지원사업 공모",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260441309",
+    "date": "2026.10.01. ~ 2026.10.15.",
+    "image": null,
+    "first_seen": "2026-10-01"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "111345",
+    "title": "[제5회 응급의료 주간] 올바른 응급실 이용문화 숏폼 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111345",
+    "date": "D-11 접수중",
+    "image": null,
+    "first_seen": "2026-10-01"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "111344",
+    "title": "제1차 중소기업 소상공인 불합리 규제 발굴 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111344",
+    "date": "D-30 접수중",
+    "image": null,
+    "first_seen": "2026-10-01"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "111341",
+    "title": "제8회 대한민국 사회연대경제박람회 및 국제컨퍼런스 사진 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111341",
+    "date": "D-11 접수중",
+    "image": null,
+    "first_seen": "2026-10-01"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
     "id": "S65174",
     "title": "제23회 안산거리극축제 거리예술제작지원사업 '안산리서치' 공모",
     "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65174",
@@ -2862,126 +2982,6 @@
     "title": "라이노 MCP & 생성형 AI 실무 자동화 및 웹 인터랙티브 디자인 과정",
     "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=266",
     "date": "2026.05.12 ~ 2026.05.14",
-    "image": null,
-    "first_seen": "2026-07-31"
-  },
-  {
-    "site": "metaverse_campus_lecture",
-    "site_label": "가상융합기술 Campus (제작역량강화 교육)",
-    "id": "264",
-    "title": "생성형 AI 기반 지능형 디지털트윈 구축 과정",
-    "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=264",
-    "date": "2026.04.28 ~ 2026.04.30",
-    "image": null,
-    "first_seen": "2026-07-31"
-  },
-  {
-    "site": "metaverse_campus_lecture",
-    "site_label": "가상융합기술 Campus (제작역량강화 교육)",
-    "id": "263",
-    "title": "AI x Blender 3D : Next-Gen MV CG 방법과 VFX 실무 파이프라인 과정",
-    "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=263",
-    "date": "2026.04.21 ~ 2026.04.23",
-    "image": null,
-    "first_seen": "2026-07-31"
-  },
-  {
-    "site": "metaverse_campus_lecture",
-    "site_label": "가상융합기술 Campus (제작역량강화 교육)",
-    "id": "262",
-    "title": "바이브 코딩(노코드)을 활용한 AI 업무 서비스 개발 과정",
-    "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=262",
-    "date": "2026.04.15 ~ 2026.04.17",
-    "image": null,
-    "first_seen": "2026-07-31"
-  },
-  {
-    "site": "nabi",
-    "site_label": "아트센터 나비미술관",
-    "id": "1408",
-    "title": "Dr. Future Studio 2.0 - 예술과 기술이 만나는 실험실",
-    "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1408&brd_id=academy",
-    "date": "2026.02.24 ~ 2026.02.25",
-    "image": "https://www.nabi.or.kr/upload_file/board/1770269356_lPHHkf.png",
-    "first_seen": "2026-07-31"
-  },
-  {
-    "site": "artmore",
-    "site_label": "아트모아",
-    "id": "94342",
-    "title": "[아트포럼리] [아트포럼리]하반기 전시 및 예술프로젝트 어시스턴트 모집(~08/09 24시) (경기 부천시 원미구 조마루로105번길 8-73 (상동))",
-    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94342",
-    "date": "2026-07-31",
-    "image": null,
-    "first_seen": "2026-07-31"
-  },
-  {
-    "site": "artmore",
-    "site_label": "아트모아",
-    "id": "94339",
-    "title": "[예술의전당] 예술의전당 음악당 하우스 어텐던트 2026년 하반기 8월 모집 (~8/4) (서울 서초구 남부순환로 2406 (서초동))",
-    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94339",
-    "date": "2026-07-31",
-    "image": null,
-    "first_seen": "2026-07-31"
-  },
-  {
-    "site": "gokams",
-    "site_label": "예술경영지원센터",
-    "id": "4525",
-    "title": "2026 예술산업아카데미 <예술산업 HR 커뮤니티 Connect - 3회차> 수강생 모집",
-    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4525&page=1&txtKeyword=&ddlKeyfield=T",
-    "date": "2026-07-31",
-    "image": null,
-    "first_seen": "2026-07-31"
-  },
-  {
-    "site": "artmore",
-    "site_label": "아트모아",
-    "id": "94322",
-    "title": "[할리퀸크리에이션즈] [HQC KIDS] 뮤지컬 'AI세계에서 살아남기' 음향 오퍼레이터 채용 공고 (서울 성동구 서울숲2길 32-14 (성수동1가, 갤러리아 포레))",
-    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94322",
-    "date": "2026-07-30",
-    "image": null,
-    "first_seen": "2026-07-31"
-  },
-  {
-    "site": "gokams",
-    "site_label": "예술경영지원센터",
-    "id": "4524",
-    "title": "2026 공연예술 관람료 지원 사업 현장할인 참여 문예회관 모집(2차)",
-    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4524&page=1&txtKeyword=&ddlKeyfield=T",
-    "date": "2026-07-30",
-    "image": null,
-    "first_seen": "2026-07-31"
-  },
-  {
-    "site": "gokams",
-    "site_label": "예술경영지원센터",
-    "id": "4523",
-    "title": "2026 예술산업보증 8월(5차) 공모 안내(8.1.(토)~8.10.(월), 16:00)",
-    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4523&page=1&txtKeyword=&ddlKeyfield=T",
-    "date": "2026-07-30",
-    "image": null,
-    "first_seen": "2026-07-31"
-  },
-  {
-    "site": "gokams",
-    "site_label": "예술경영지원센터",
-    "id": "4522",
-    "title": "2026 예술산업 금융지원 시범사업(융자) 4차 공모(~8.21.(금) 16:00)",
-    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4522&page=1&txtKeyword=&ddlKeyfield=T",
-    "date": "2026-07-29",
-    "image": null,
-    "first_seen": "2026-07-31"
-  },
-  {
-    "site": "gokams",
-    "site_label": "예술경영지원센터",
-    "id": "4519",
-    "title": "2026 예술분야 예비창업 프로그램 참여자 모집(~8.10.(월) 18:00)",
-    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4519&page=1&txtKeyword=&ddlKeyfield=T",
-    "date": "2026-07-27",
     "image": null,
     "first_seen": "2026-07-31"
   }
