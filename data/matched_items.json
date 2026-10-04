@@ -1,5 +1,25 @@
 [
   {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "202641000000061200011A",
+    "title": "2026 사립미술관 전문인력 지원사업_지원관 3차 공모",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202641000000061200011A",
+    "date": "2026.10.02 ~ 2026.10.08",
+    "image": null,
+    "first_seen": "2026-10-04"
+  },
+  {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "202641000000061200012A",
+    "title": "2026 사립미술관 예비학예인력 지원사업_지원관 2차 공모",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202641000000061200012A",
+    "date": "2026.10.02 ~ 2026.10.08",
+    "image": null,
+    "first_seen": "2026-10-04"
+  },
+  {
     "site": "arko_thearts",
     "site_label": "아르코 통합플랫폼",
     "id": "SFAC_NOTICE_20261002044202001",
@@ -2965,26 +2985,6 @@
     "title": "2026 치유 문화예술교육 지원사업",
     "url": "https://www.jbct.or.kr/bizNotice_infoView.php?id=2350",
     "date": "2026.08.10 17:59 (D-10)",
-    "image": null,
-    "first_seen": "2026-07-31"
-  },
-  {
-    "site": "ncas",
-    "site_label": "국가문화예술지원시스템",
-    "id": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4523&page=1&txtKeyword=&ddlKeyfield=T",
-    "title": "예술산업보증 8월(5차) 공모",
-    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4523&page=1&txtKeyword=&ddlKeyfield=T",
-    "date": "2026.08.10 16:00 (D-10)",
-    "image": null,
-    "first_seen": "2026-07-31"
-  },
-  {
-    "site": "ncas",
-    "site_label": "국가문화예술지원시스템",
-    "id": "https://uctf.or.kr/board/bid/view/202411167581",
-    "title": "2026년 예술인 창작준비금 지원사업 공모",
-    "url": "https://uctf.or.kr/board/bid/view/202411167581",
-    "date": "2026.08.07 18:00 (D-07)",
     "image": null,
     "first_seen": "2026-07-31"
   }
