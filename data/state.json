@@ -1795,6 +1795,66 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65302",
       "date": "2026.10.06 - 2026.10.23",
       "first_seen": "2026-10-06"
+    },
+    "GCTF_NOTICE_20261003095005001": {
+      "title": "2026년 문화관광 일자리 사업(5차) 모집공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GCTF_NOTICE_20261003095005001",
+      "date": "2026.10.02 - 2026.10.07",
+      "first_seen": "2026-10-07"
+    },
+    "NSART_NOTICE_20261003082004001": {
+      "title": "2027년 광주시문화재단 광주시문화예술의전당 상반기 정기대관 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=NSART_NOTICE_20261003082004001",
+      "date": "2026.10.06 - 2026.10.19",
+      "first_seen": "2026-10-07"
+    },
+    "YDPCF_BOARD_20261003062003003": {
+      "title": "2026년 안양천 문화위크 포럼 <이어지는 수변> 참여자 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=YDPCF_BOARD_20261003062003003",
+      "date": "2026.10.06 - 2026.10.13",
+      "first_seen": "2026-10-07"
+    },
+    "MFAC_NOTICE_20261003050016001": {
+      "title": "인문학 감상 특강 안내",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=MFAC_NOTICE_20261003050016001",
+      "date": "2026.09.14 - 2026.11.03",
+      "first_seen": "2026-10-07"
+    },
+    "GONGJU_BOARD_20261003044320001": {
+      "title": "2026년 공주문화예술촌 스토리 콘텐츠 창작공간 청년 입주작가 수시모집 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GONGJU_BOARD_20261003044320001",
+      "date": "2026.10.06 - 2026.12.04",
+      "first_seen": "2026-10-07"
+    },
+    "SFAC_NOTICE_20261003044205001": {
+      "title": "2026년 효성과 함께하는 <제4회 올해의 작가상> 공모",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20261003044205001",
+      "date": "2026.10.01 - 2026.10.15",
+      "first_seen": "2026-10-07"
+    },
+    "SFAC_NOTICE_20261003044203001": {
+      "title": "모닝쿼드 '한국 현대무용사 연대기 - 엉키고 흐르는 현대무용의 시간' 참여 멤버 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20261003044203001",
+      "date": "2026.10.06 - 2026.10.13",
+      "first_seen": "2026-10-07"
+    },
+    "SFAC_NOTICE_20261003044202001": {
+      "title": "문학으로 모이는 방법들 2026",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20261003044202001",
+      "date": "2026.10.02 - 2026.11.04",
+      "first_seen": "2026-10-07"
+    },
+    "GOKAMS_NEWS_20261003044102001": {
+      "title": "2026년 예술산업아카데미 <예술산업 AI 트렌드 특강Ⅱ> 수강생 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_NEWS_20261003044102001",
+      "date": "2026.10.02 - 2026.10.23",
+      "first_seen": "2026-10-07"
+    },
+    "GOKAMS_NEWS_20261003044102002": {
+      "title": "2026년 예술산업아카데미 예술산업 입직을 위한 진로 및 취업상담(11월) 수강생 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_NEWS_20261003044102002",
+      "date": "2026.10.02 - 2026.10.29",
+      "first_seen": "2026-10-07"
     }
   },
   "arko_education": {
@@ -5857,6 +5917,66 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95229",
       "date": "2026-10-05",
       "first_seen": "2026-10-06"
+    },
+    "95256": {
+      "title": "[뮤지엄호두 주식회사] 뮤지엄호두 학예책임자 채용공고 (충남 천안시 동남구 광덕면 광풍로 315)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95256",
+      "date": "2026-10-07",
+      "first_seen": "2026-10-07"
+    },
+    "95255": {
+      "title": "[헤파이스토스웍스] 영업지원팀 신입·경력 채용/고객응대·CS·영업우대 (경기 화성시 만세구 팔탄면 서해로 1322-10)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95255",
+      "date": "2026-10-07",
+      "first_seen": "2026-10-07"
+    },
+    "95254": {
+      "title": "[재단법인 목목문화재단] [피크닉 piknic] 전시 주말 운영 스태프 모집 공고 (서울 중구 퇴계로6가길 30 (남창동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95254",
+      "date": "2026-10-07",
+      "first_seen": "2026-10-07"
+    },
+    "95245": {
+      "title": "[오픈하우스] [오픈하우스서울] 오픈하우스서울 2026 진행요원 모집 (서울 성동구 상원1길 25 (성수동1가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95245",
+      "date": "2026-10-06",
+      "first_seen": "2026-10-07"
+    },
+    "95244": {
+      "title": "[(주)더크로싱랩] [부산시립미술관] 메타버스 전시 안내원 아르바이트 모집 (26/10/31~27/3/14) (부산 해운대구 APEC로 58 (우동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95244",
+      "date": "2026-10-06",
+      "first_seen": "2026-10-07"
+    },
+    "95243": {
+      "title": "[(재)광진문화재단] (재)광진문화재단 2026년도 제5회 직원 공개채용 공고 (서울 광진구 능동로 76 (자양동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95243",
+      "date": "2026-10-06",
+      "first_seen": "2026-10-07"
+    },
+    "95242": {
+      "title": "[울산문화관광재단] (재)울산문화관광재단 제7차 기간제 근로자 채용 (울산 울주군 삼남읍 울산역로 255)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95242",
+      "date": "2026-10-06",
+      "first_seen": "2026-10-07"
+    },
+    "95241": {
+      "title": "[(재)연수문화재단] (재)연수문화재단 2026년 제6차 직원(기간제근로자) 공개채용 공고 (인천 연수구 송도동 310-5)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95241",
+      "date": "2026-10-06",
+      "first_seen": "2026-10-07"
+    },
+    "95239": {
+      "title": "[서울국제도서전 주식회사] [서울국제도서전] 기획ㆍ운영 경력 사원 모집 (서울 마포구 토정로 222 (신수동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95239",
+      "date": "2026-10-06",
+      "first_seen": "2026-10-07"
+    },
+    "95238": {
+      "title": "[충남문화관광재단] 충남문화관광재단 임원(대표이사) 공개모집 공고 (충남 예산군 삽교읍 예학로 10-22)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95238",
+      "date": "2026-10-06",
+      "first_seen": "2026-10-07"
     }
   },
   "wevity": {
@@ -6189,6 +6309,18 @@
       "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111464",
       "date": "D-18 접수중",
       "first_seen": "2026-10-06"
+    },
+    "111508": {
+      "title": "제20회 전북청소년영화제",
+      "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111508",
+      "date": "D-4 마감임박",
+      "first_seen": "2026-10-07"
+    },
+    "111506": {
+      "title": "2026년 2차 외국발 허위정보 대응 대학생 아이디어 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111506",
+      "date": "D-42 접수중",
+      "first_seen": "2026-10-07"
     }
   },
   "artspoon": {
@@ -7483,6 +7615,30 @@
       "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000017500009A",
       "date": "2026.10.02 ~ 2026.10.16",
       "first_seen": "2026-10-06"
+    },
+    "202632000000015200005A": {
+      "title": "대구광역시 남구 어린이·사회복지급식관리지원센터 위탁 운영기관 모집 재공고",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000015200005A",
+      "date": "2026.10.07 ~ 2026.10.15",
+      "first_seen": "2026-10-07"
+    },
+    "202632000000022700086B": {
+      "title": "2026년 발전소주변지역 지원사업(추동2리 마을 공동물품 구입)",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000022700086B",
+      "date": "2026.10.07 ~ 2026.10.11",
+      "first_seen": "2026-10-07"
+    },
+    "20260443145": {
+      "title": "2026년 양산시 노동자 휴게시설 지원사업 추가 공고(2차)",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260443145",
+      "date": "2026.10.06. ~ 2026.10.26.",
+      "first_seen": "2026-10-07"
+    },
+    "202632000000014400021A": {
+      "title": "2026년 최중증 발달장애인 통합돌봄 24시간 서비스 제공기관 모집 재공고",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000014400021A",
+      "date": "2026.10.06 ~ 2026.10.16",
+      "first_seen": "2026-10-07"
     }
   },
   "gokams": {
@@ -7773,6 +7929,12 @@
       "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4576&page=1&txtKeyword=&ddlKeyfield=T",
       "date": "2026-10-02",
       "first_seen": "2026-10-03"
+    },
+    "4577": {
+      "title": "2026 대형 뮤지컬 낭독공연 지원사업 2차 공모 최종 심의 결과 안내",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4577&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-10-06",
+      "first_seen": "2026-10-07"
     }
   },
   "metaverse_campus_lecture": {
@@ -8257,6 +8419,60 @@
       "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111415",
       "date": "D-9 접수중",
       "first_seen": "2026-10-06"
+    },
+    "111508": {
+      "title": "제20회 전북청소년영화제",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111508",
+      "date": "D-4 마감임박",
+      "first_seen": "2026-10-07"
+    },
+    "111500": {
+      "title": "5극3특 성장엔진 미래지도(성장엔진이 바꿀 대한민국의 미래)",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111500",
+      "date": "D-38 접수중",
+      "first_seen": "2026-10-07"
+    },
+    "111487": {
+      "title": "2026 남원시 영상 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111487",
+      "date": "D-20 접수중",
+      "first_seen": "2026-10-07"
+    },
+    "111483": {
+      "title": "2026 제 2회 퓨리얼 AI 영상 콘테스트",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111483",
+      "date": "D-34 접수중",
+      "first_seen": "2026-10-07"
+    },
+    "111478": {
+      "title": "치악산한우 영상공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111478",
+      "date": "D-2 마감임박",
+      "first_seen": "2026-10-07"
+    },
+    "111442": {
+      "title": "[파주시] 여성친화도시 홍보 영상 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111442",
+      "date": "D-17 접수중",
+      "first_seen": "2026-10-07"
+    },
+    "111438": {
+      "title": "2026년 경기도 청소년활동 수기·영상 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111438",
+      "date": "D-25 접수중",
+      "first_seen": "2026-10-07"
+    },
+    "111435": {
+      "title": "110을 알려줘 SNS 숏폼 콘텐츠 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111435",
+      "date": "D-26 접수중",
+      "first_seen": "2026-10-07"
+    },
+    "111430": {
+      "title": "모두의 프로듀서 (전국민 AI 경진대회 뮤직비디오 시즌2)",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111430",
+      "date": "D-25 접수중",
+      "first_seen": "2026-10-07"
     }
   },
   "accf": {
