@@ -1855,6 +1855,84 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_NEWS_20261003044102002",
       "date": "2026.10.02 - 2026.10.29",
       "first_seen": "2026-10-07"
+    },
+    "CRL3616": {
+      "title": "2027년 인바운드국제협력강화(인바운드리서치지원)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CRL3616",
+      "date": "2026.10.08 - 2026.11.05",
+      "first_seen": "2026-10-09"
+    },
+    "CRL3615": {
+      "title": "2027년 인바운드국제협력강화(인바운드레지던시지원)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CRL3615",
+      "date": "2026.10.08 - 2026.11.05",
+      "first_seen": "2026-10-09"
+    },
+    "CRL3611": {
+      "title": "2027년 국제협업지원(ARKO사업연계)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CRL3611",
+      "date": "2026.10.08 - 2026.11.05",
+      "first_seen": "2026-10-09"
+    },
+    "https://theater.arko.or.kr/Rent/Notice/239201/?q=null": {
+      "title": "아르코·대학로예술극장 2027년 대관 창작자(단체) 공모",
+      "url": "https://theater.arko.or.kr/Rent/Notice/239201/?q=null",
+      "date": "2026.10.08 - 2026.11.16",
+      "first_seen": "2026-10-09"
+    },
+    "S65391": {
+      "title": "2027년 사천시문화예술회관 정기대관 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65391",
+      "date": "2026.10.06 - 2026.11.04",
+      "first_seen": "2026-10-09"
+    },
+    "SFAC_NOTICE_20261007043359001": {
+      "title": "서울문화예술교육 3.0 AiH 인문 세미나 #1 <반(反)•응(應) ━ 하는(行) 예술> 개최 안내",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20261007043359001",
+      "date": "2026.10.06 - 2026.10.13",
+      "first_seen": "2026-10-09"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyD5p4sbIal%2F4IjFWHPt7ZbLIPBZm1EJpnMlsBwvsh76BM": {
+      "title": "2027년 인바운드국제협력강화(인바운드리서치지원)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyD5p4sbIal%2F4IjFWHPt7ZbLIPBZm1EJpnMlsBwvsh76BM",
+      "date": "2026.10.08 - 2026.11.05",
+      "first_seen": "2026-10-09"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyD0mTniArRVouwj7U5teZEgUPBZm1EJpnMlsBwvsh76BM": {
+      "title": "2027년 인바운드국제협력강화(인바운드레지던시지원)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyD0mTniArRVouwj7U5teZEgUPBZm1EJpnMlsBwvsh76BM",
+      "date": "2026.10.08 - 2026.11.05",
+      "first_seen": "2026-10-09"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyDznlfS0lbtipaN4kwqvLbnMPBZm1EJpnMlsBwvsh76BM": {
+      "title": "2027년 국제협업지원(ARKO사업연계)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyDznlfS0lbtipaN4kwqvLbnMPBZm1EJpnMlsBwvsh76BM",
+      "date": "2026.10.08 - 2026.11.05",
+      "first_seen": "2026-10-09"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyDztQ2kylQHZEY8CVJZTTmwEPBZm1EJpnMlsBwvsh76BM": {
+      "title": "2027년 국제협업지원(창･제작)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyDztQ2kylQHZEY8CVJZTTmwEPBZm1EJpnMlsBwvsh76BM",
+      "date": "2026.10.08 - 2026.11.05",
+      "first_seen": "2026-10-09"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyD2oIW650hEulqLto2J%2FPBFkPBZm1EJpnMlsBwvsh76BM": {
+      "title": "2027년 국제협업지원(기획･네트워크)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyD2oIW650hEulqLto2J%2FPBFkPBZm1EJpnMlsBwvsh76BM",
+      "date": "2026.10.08 - 2026.11.05",
+      "first_seen": "2026-10-09"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyD6pDx%2BABF3dZKRwuIqwjzWUPBZm1EJpnMlsBwvsh76BM": {
+      "title": "2027년 해외레지던시및프로그램참가지원",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyD6pDx%2BABF3dZKRwuIqwjzWUPBZm1EJpnMlsBwvsh76BM",
+      "date": "2026.10.08 - 2026.11.05",
+      "first_seen": "2026-10-09"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyD7s7MarnkJQYIUP8ctK9D2UPBZm1EJpnMlsBwvsh76BM": {
+      "title": "2027년 어린이청소년을위한공연예술지원",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyD7s7MarnkJQYIUP8ctK9D2UPBZm1EJpnMlsBwvsh76BM",
+      "date": "2026.10.08 - 2026.11.05",
+      "first_seen": "2026-10-09"
     }
   },
   "arko_education": {
@@ -2543,6 +2621,96 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=S65227&source=수성문화재단&seNo=001",
       "date": "~ 2026-10-08",
       "first_seen": "2026-10-03"
+    },
+    "S65391": {
+      "title": "2027년 사천시문화예술회관 정기대관 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=S65391&source=사천문화재단&seNo=001",
+      "date": "~ 2026-11-04",
+      "first_seen": "2026-10-09"
+    },
+    "SFAC_NOTICE_20261007043359001": {
+      "title": "서울문화예술교육 3.0 AiH 인문 세미나 #1 <반(反)•응(應) ━ 하는(行) 예술> 개최 안내",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=SFAC_NOTICE_20261007043359001&source=서울문화재단&seNo=001",
+      "date": "~ 2026-10-13",
+      "first_seen": "2026-10-09"
+    },
+    "2610060001": {
+      "title": "지속가능한 예술생태계를 만드는 '문화예술후원매개전문가' 양성과정 모집 | 아트너스클럽 시즌7 심화과정",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=2610060001&source=블루버드씨&seNo=002",
+      "date": "~ 2026-11-16",
+      "first_seen": "2026-10-09"
+    },
+    "CRL3616": {
+      "title": "2027년 인바운드국제협력강화(인바운드리서치지원)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=CRL3616&source=한국문화예술위원회&seNo=001",
+      "date": "~ 2026-11-05",
+      "first_seen": "2026-10-09"
+    },
+    "CRL3615": {
+      "title": "2027년 인바운드국제협력강화(인바운드레지던시지원)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=CRL3615&source=한국문화예술위원회&seNo=001",
+      "date": "~ 2026-11-05",
+      "first_seen": "2026-10-09"
+    },
+    "CRL3611": {
+      "title": "2027년 국제협업지원(ARKO사업연계)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=CRL3611&source=한국문화예술위원회&seNo=001",
+      "date": "~ 2026-11-05",
+      "first_seen": "2026-10-09"
+    },
+    "CRL3610": {
+      "title": "2027년 국제협업지원(창･제작)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=CRL3610&source=한국문화예술위원회&seNo=001",
+      "date": "~ 2026-11-05",
+      "first_seen": "2026-10-09"
+    },
+    "CRL3609": {
+      "title": "2027년 국제협업지원(기획･네트워크)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=CRL3609&source=한국문화예술위원회&seNo=001",
+      "date": "~ 2026-11-05",
+      "first_seen": "2026-10-09"
+    },
+    "CRL3608": {
+      "title": "2027년 해외레지던시및프로그램참가지원",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=CRL3608&source=한국문화예술위원회&seNo=001",
+      "date": "~ 2026-11-05",
+      "first_seen": "2026-10-09"
+    },
+    "CRL3605": {
+      "title": "2027년 어린이청소년을위한공연예술지원",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=CRL3605&source=한국문화예술위원회&seNo=001",
+      "date": "~ 2026-11-05",
+      "first_seen": "2026-10-09"
+    },
+    "CRL3604": {
+      "title": "2027년 대한민국공연예술제",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=CRL3604&source=한국문화예술위원회&seNo=001",
+      "date": "~ 2026-11-05",
+      "first_seen": "2026-10-09"
+    },
+    "CRL3603": {
+      "title": "2027년 공연예술비평활동활성화지원",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=CRL3603&source=한국문화예술위원회&seNo=001",
+      "date": "~ 2026-11-05",
+      "first_seen": "2026-10-09"
+    },
+    "CRL3602": {
+      "title": "2027년 공연예술창작주체(공연장기획제작지원)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=CRL3602&source=한국문화예술위원회&seNo=001",
+      "date": "~ 2026-11-05",
+      "first_seen": "2026-10-09"
+    },
+    "CRL3601": {
+      "title": "2027년 공연예술창작주체(중장기단체도약지원)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=CRL3601&source=한국문화예술위원회&seNo=001",
+      "date": "~ 2026-11-05",
+      "first_seen": "2026-10-09"
+    },
+    "CRL3599": {
+      "title": "2027년 공연예술창작산실(2차 제작지원)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=CRL3599&source=한국문화예술위원회&seNo=001",
+      "date": "~ 2026-11-05",
+      "first_seen": "2026-10-09"
     }
   },
   "ncas": {
@@ -2701,6 +2869,156 @@
       "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4573&page=2&txtKeyword=&ddlKeyfield=T",
       "date": "2026.10.12 16:00 (D-11)",
       "first_seen": "2026-10-01"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3591&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&pageSetting=&sc_seNo=001&key=2301170002&sc_orderBy=&recordCountPerPage=10&pageIndex=2&sc_hash=&sc_list=&seNo=001&sw=&sc_genre=&sc_target=&sc_local=&sc_field=&sc_isDo=": {
+      "title": "시각예술비평연구지원(다년)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3591&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&pageSetting=&sc_seNo=001&key=2301170002&sc_orderBy=&recordCountPerPage=10&pageIndex=2&sc_hash=&sc_list=&seNo=001&sw=&sc_genre=&sc_target=&sc_local=&sc_field=&sc_isDo=",
+      "date": "2026.11.05 15:00 (D-27)",
+      "first_seen": "2026-10-09"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3590&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&pageSetting=&sc_seNo=001&key=2301170002&sc_orderBy=&recordCountPerPage=10&pageIndex=2&sc_hash=&sc_list=&seNo=001&sw=&sc_genre=&sc_target=&sc_local=&sc_field=&sc_isDo=": {
+      "title": "시각예술우수작가창작지원(유망_다년)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3590&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&pageSetting=&sc_seNo=001&key=2301170002&sc_orderBy=&recordCountPerPage=10&pageIndex=2&sc_hash=&sc_list=&seNo=001&sw=&sc_genre=&sc_target=&sc_local=&sc_field=&sc_isDo=",
+      "date": "2026.11.05 15:00 (D-27)",
+      "first_seen": "2026-10-09"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3603&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002": {
+      "title": "공연예술비평활동활성화지원(개인)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3603&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002",
+      "date": "2026.11.05 15:00 (D-27)",
+      "first_seen": "2026-10-09"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3601&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002": {
+      "title": "공연예술창작주체(중장기단체도약지원_비수도권)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3601&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002",
+      "date": "2026.11.05 15:00 (D-27)",
+      "first_seen": "2026-10-09"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3602&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002": {
+      "title": "공연예술창작주체(공연장기획제작지원)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3602&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002",
+      "date": "2026.11.05 15:00 (D-27)",
+      "first_seen": "2026-10-09"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyD9%2Bshv6mz81FOpqfUJPBGeYPBZm1EJpnMlsBwvsh76BM": {
+      "title": "다원예술창작기반지원",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyD9%2Bshv6mz81FOpqfUJPBGeYPBZm1EJpnMlsBwvsh76BM",
+      "date": "2026.11.05 15:00 (D-27)",
+      "first_seen": "2026-10-09"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyD8d%2Fs6ZEUeVXrwgPizPcecIPBZm1EJpnMlsBwvsh76BM": {
+      "title": "다원예술창작발표지원(확장)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyD8d%2Fs6ZEUeVXrwgPizPcecIPBZm1EJpnMlsBwvsh76BM",
+      "date": "2026.11.05 15:00 (D-27)",
+      "first_seen": "2026-10-09"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3604&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002": {
+      "title": "대한민국공연예술제",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3604&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002",
+      "date": "2026.11.05 15:00 (D-27)",
+      "first_seen": "2026-10-09"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3587&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&pageSetting=&sc_seNo=001&key=2301170002&sc_orderBy=&recordCountPerPage=10&pageIndex=3&sc_hash=&sc_list=&seNo=001&sw=&sc_genre=&sc_target=&sc_local=&sc_field=&sc_isDo=": {
+      "title": "문예지원고료지원(단년)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3587&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&pageSetting=&sc_seNo=001&key=2301170002&sc_orderBy=&recordCountPerPage=10&pageIndex=3&sc_hash=&sc_list=&seNo=001&sw=&sc_genre=&sc_target=&sc_local=&sc_field=&sc_isDo=",
+      "date": "2026.11.05 15:00 (D-27)",
+      "first_seen": "2026-10-09"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3589&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&pageSetting=&sc_seNo=001&key=2301170002&sc_orderBy=&recordCountPerPage=10&pageIndex=3&sc_hash=&sc_list=&seNo=001&sw=&sc_genre=&sc_target=&sc_local=&sc_field=&sc_isDo=": {
+      "title": "문학레지던시(남이섬 호텔정관루)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3589&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&pageSetting=&sc_seNo=001&key=2301170002&sc_orderBy=&recordCountPerPage=10&pageIndex=3&sc_hash=&sc_list=&seNo=001&sw=&sc_genre=&sc_target=&sc_local=&sc_field=&sc_isDo=",
+      "date": "2026.11.05 15:00 (D-27)",
+      "first_seen": "2026-10-09"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3588&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&pageSetting=&sc_seNo=001&key=2301170002&sc_orderBy=&recordCountPerPage=10&pageIndex=3&sc_hash=&sc_list=&seNo=001&sw=&sc_genre=&sc_target=&sc_local=&sc_field=&sc_isDo=": {
+      "title": "심층비평지원",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3588&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&pageSetting=&sc_seNo=001&key=2301170002&sc_orderBy=&recordCountPerPage=10&pageIndex=3&sc_hash=&sc_list=&seNo=001&sw=&sc_genre=&sc_target=&sc_local=&sc_field=&sc_isDo=",
+      "date": "2026.11.05 15:00 (D-27)",
+      "first_seen": "2026-10-09"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3593&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&pageSetting=&sc_seNo=001&key=2301170002&sc_orderBy=&recordCountPerPage=10&pageIndex=2&sc_hash=&sc_list=&seNo=001&sw=&sc_genre=&sc_target=&sc_local=&sc_field=&sc_isDo=": {
+      "title": "시각예술전시행사지원",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3593&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&pageSetting=&sc_seNo=001&key=2301170002&sc_orderBy=&recordCountPerPage=10&pageIndex=2&sc_hash=&sc_list=&seNo=001&sw=&sc_genre=&sc_target=&sc_local=&sc_field=&sc_isDo=",
+      "date": "2026.11.05 15:00 (D-27)",
+      "first_seen": "2026-10-09"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3592&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&pageSetting=&sc_seNo=001&key=2301170002&sc_orderBy=&recordCountPerPage=10&pageIndex=2&sc_hash=&sc_list=&seNo=001&sw=&sc_genre=&sc_target=&sc_local=&sc_field=&sc_isDo=": {
+      "title": "시각예술창작공간지원(다년)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3592&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&pageSetting=&sc_seNo=001&key=2301170002&sc_orderBy=&recordCountPerPage=10&pageIndex=2&sc_hash=&sc_list=&seNo=001&sw=&sc_genre=&sc_target=&sc_local=&sc_field=&sc_isDo=",
+      "date": "2026.11.05 15:00 (D-27)",
+      "first_seen": "2026-10-09"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3605&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002": {
+      "title": "어린이청소년을위한공연예술지원(2차제작)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3605&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002",
+      "date": "2026.11.05 15:00 (D-27)",
+      "first_seen": "2026-10-09"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3611&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002": {
+      "title": "국제협업지원(ARKO사업연계)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3611&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002",
+      "date": "2026.11.05 15:00 (D-27)",
+      "first_seen": "2026-10-09"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3609&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002": {
+      "title": "국제협업지원(기획.네트워크)_다년",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3609&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002",
+      "date": "2026.11.05 15:00 (D-27)",
+      "first_seen": "2026-10-09"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3610&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002": {
+      "title": "국제협업지원(창.제작)_다년",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3610&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002",
+      "date": "2026.11.05 15:00 (D-27)",
+      "first_seen": "2026-10-09"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3615&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002": {
+      "title": "인바운드레지던시지원",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3615&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002",
+      "date": "2026.11.05 15:00 (D-27)",
+      "first_seen": "2026-10-09"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3616&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002": {
+      "title": "인바운드리서치지원",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3616&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002",
+      "date": "2026.11.05 15:00 (D-27)",
+      "first_seen": "2026-10-09"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3608&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002": {
+      "title": "해외레지던시및프로그램참가지원(자율형)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3608&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002",
+      "date": "2026.11.05 15:00 (D-27)",
+      "first_seen": "2026-10-09"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3599&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002": {
+      "title": "공연예술창작산실_2차 제작지원_유형① 창작산실 후속지원형(무용)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3599&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002",
+      "date": "2026.11.05 15:00 (D-27)",
+      "first_seen": "2026-10-09"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3598&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002": {
+      "title": "공연예술창작산실_올해의신작(무용)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3598&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002",
+      "date": "2026.11.05 15:00 (D-27)",
+      "first_seen": "2026-10-09"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3596&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002": {
+      "title": "공연예술청년예술가지원",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3596&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002",
+      "date": "2026.11.05 15:00 (D-27)",
+      "first_seen": "2026-10-09"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyD%2Bh6FnnZzl8O1I%2F8xd8eb6UPBZm1EJpnMlsBwvsh76BM": {
+      "title": "문화예술 연수단원(무대기술인턴 포함)지원(공립)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyD%2Bh6FnnZzl8O1I%2F8xd8eb6UPBZm1EJpnMlsBwvsh76BM",
+      "date": "2026.11.05 15:00 (D-27)",
+      "first_seen": "2026-10-09"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3584&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&pageSetting=&sc_seNo=001&key=2301170002&sc_orderBy=&recordCountPerPage=10&pageIndex=3&sc_hash=&sc_list=&seNo=001&sw=&sc_genre=&sc_target=&sc_local=&sc_field=&sc_isDo=": {
+      "title": "예술대학의 예비예술인 현장연계지원_다년",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3584&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&pageSetting=&sc_seNo=001&key=2301170002&sc_orderBy=&recordCountPerPage=10&pageIndex=3&sc_hash=&sc_list=&seNo=001&sw=&sc_genre=&sc_target=&sc_local=&sc_field=&sc_isDo=",
+      "date": "2026.11.05 15:00 (D-27)",
+      "first_seen": "2026-10-09"
     }
   },
   "nabi": {
@@ -6049,6 +6367,60 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95272",
       "date": "2026-10-07",
       "first_seen": "2026-10-08"
+    },
+    "95300": {
+      "title": "[예술의전당] 예술의전당 오페라하우스  하우스 어텐던트 2026년 하반기 10월 모집 (10/2 ~ 10/9) (서울 서초구 남부순환로 2406 (서초동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95300",
+      "date": "2026-10-08",
+      "first_seen": "2026-10-09"
+    },
+    "95298": {
+      "title": "[장애인문화예술판] 2026 예술기반 청년일자리(연수단원) 채용 (장애인문화예술판) (서울 성북구 보문로34길 15 (삼선동4가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95298",
+      "date": "2026-10-08",
+      "first_seen": "2026-10-09"
+    },
+    "95297": {
+      "title": "[재단법인성동문화재단] 성동문화재단(소월아트홀, 성수아트홀) 공연장안내원 모집 공고 (서울 성동구 왕십리로 281 (행당동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95297",
+      "date": "2026-10-08",
+      "first_seen": "2026-10-09"
+    },
+    "95296": {
+      "title": "[롯데컬처웍스] 뮤지컬 전용극장 샤롯데씨어터 공연장 안내원 모집 공고(~10/10) (서울 송파구 올림픽로 240 (잠실동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95296",
+      "date": "2026-10-08",
+      "first_seen": "2026-10-09"
+    },
+    "95295": {
+      "title": "[서울문화재단 대학로센터] 2026년 서울문화재단 대학로 극장 쿼드 QUAD 하우스 안내원 모집 (~2026.10.21) (서울 종로구 동숭길 122 (동숭동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95295",
+      "date": "2026-10-08",
+      "first_seen": "2026-10-09"
+    },
+    "95294": {
+      "title": "[할리퀸크리에이션즈] [HQC KIDS] 뮤지컬 'AI세계에서 살아남기' 무대크루 채용 공고 (서울 성동구 서울숲2길 32-14 (성수동1가, 갤러리아 포레))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95294",
+      "date": "2026-10-08",
+      "first_seen": "2026-10-09"
+    },
+    "95293": {
+      "title": "[서울문화재단] 서울문화재단 예술지원사업 업무 보조 단기인력 구인(서울무용센터) (서울 서대문구 명지2길 14 (홍은동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95293",
+      "date": "2026-10-08",
+      "first_seen": "2026-10-09"
+    },
+    "95292": {
+      "title": "[히어위아(HereWeAre)] [히어위아(HereWeAre)] 서비스 기획자 채용 (경기 성남시 분당구 성남대로331번길 8 (정자동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95292",
+      "date": "2026-10-08",
+      "first_seen": "2026-10-09"
+    },
+    "95291": {
+      "title": "[인사이트컨설팅] 국제학교 학생 대상 미술 파트타임 강사 모집 (서울 강남구 도산대로26길 51 (논현동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95291",
+      "date": "2026-10-08",
+      "first_seen": "2026-10-09"
     }
   },
   "wevity": {
@@ -6411,6 +6783,24 @@
       "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111531",
       "date": "D-43 접수예정",
       "first_seen": "2026-10-08"
+    },
+    "111546": {
+      "title": "미래에셋금융서비스 TAMS 글로벌금융인양성과정 17기 모집SPECIAL",
+      "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111546",
+      "date": "D-53 접수중",
+      "first_seen": "2026-10-09"
+    },
+    "111555": {
+      "title": "[OPERA] 오페라 7기 서포터즈 모집",
+      "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111555",
+      "date": "D-4 마감임박",
+      "first_seen": "2026-10-09"
+    },
+    "111553": {
+      "title": "제7회 하이라이트TV AI 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111553",
+      "date": "D-19 접수중",
+      "first_seen": "2026-10-09"
     }
   },
   "artspoon": {
@@ -7765,6 +8155,48 @@
       "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000013800006A",
       "date": "2026.10.07 ~ 2026.10.13",
       "first_seen": "2026-10-08"
+    },
+    "202633000000021500007B": {
+      "title": "26년 공공건축물 그린리모델링 의무화 기술지원",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202633000000021500007B",
+      "date": "2026.10.08 ~ 2026.11.03",
+      "first_seen": "2026-10-09"
+    },
+    "202633000000025900003B": {
+      "title": "&apos;26년 공공건축물 그린리모델링 의무화 기술지원",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202633000000025900003B",
+      "date": "2026.10.08 ~ 2026.11.03",
+      "first_seen": "2026-10-09"
+    },
+    "202600008001472600004A": {
+      "title": "2026년 재생원료 종량제봉투 제작 지원사업(3차)",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202600008001472600004A",
+      "date": "2026.10.08 ~ 2026.10.26",
+      "first_seen": "2026-10-09"
+    },
+    "202632000000021400005A": {
+      "title": "대전광역시 서구 어린이·사회복지급식관리지원센터 민간위탁 운영기관 공개모집 공고",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000021400005A",
+      "date": "2026.10.08 ~ 2026.10.23",
+      "first_seen": "2026-10-09"
+    },
+    "202641000000026500011A": {
+      "title": "2026년 수산물 직매장 및 창업지원 플랫폼 구축 보조사업자(사업운영기관) 추가 모집공고",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202641000000026500011A",
+      "date": "2026.10.08 ~ 2026.10.22",
+      "first_seen": "2026-10-09"
+    },
+    "202641000000026500012A": {
+      "title": "2026년 수산물 직매장 및 창업지원 플랫폼 구축 보조사업자(사업운영기관) 추가 모집공고",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202641000000026500012A",
+      "date": "2026.10.08 ~ 2026.10.22",
+      "first_seen": "2026-10-09"
+    },
+    "202641000000226900021A": {
+      "title": "2026 충북 콘텐츠기업 글로벌 스케일업(Scale-up) 지원사업",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202641000000226900021A",
+      "date": "2026.10.08 ~ 2026.10.22",
+      "first_seen": "2026-10-09"
     }
   },
   "gokams": {
@@ -8067,6 +8499,36 @@
       "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4513&page=1&txtKeyword=&ddlKeyfield=T",
       "date": "2026-07-16",
       "first_seen": "2026-10-08"
+    },
+    "4582": {
+      "title": "예술경영지원센터x파리 인터내셔날레 \"NEXT KOREA: GALLERIES\"",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4582&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-10-08",
+      "first_seen": "2026-10-09"
+    },
+    "4581": {
+      "title": "2027년 문화예술 전국 유통지원 사업설명회 안내",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4581&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-10-08",
+      "first_seen": "2026-10-09"
+    },
+    "4580": {
+      "title": "2026 공연예술통합전산망 데이터 활용 워크숍 참가 신청 안내(~10.22(목))",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4580&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-10-08",
+      "first_seen": "2026-10-09"
+    },
+    "4579": {
+      "title": "2026 서울아트마켓(PAMS) 팸스밍글 선착순 참여신청(10/8(목) 15:00~)",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4579&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-10-08",
+      "first_seen": "2026-10-09"
+    },
+    "4578": {
+      "title": "2026 아트 스타트업 데이 <1:1 미팅 프로그램> 참여 예술기업 모집",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4578&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-10-08",
+      "first_seen": "2026-10-09"
     }
   },
   "metaverse_campus_lecture": {
@@ -8629,6 +9091,24 @@
       "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111515",
       "date": "D-33 접수중",
       "first_seen": "2026-10-08"
+    },
+    "111553": {
+      "title": "제7회 하이라이트TV AI 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111553",
+      "date": "D-19 접수중",
+      "first_seen": "2026-10-09"
+    },
+    "111544": {
+      "title": "가평군시설관리공단과 함께한 순간 찰칵 사진 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111544",
+      "date": "D-10 접수중",
+      "first_seen": "2026-10-09"
+    },
+    "111543": {
+      "title": "2026 해양생태 변화대응 사진・영상 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111543",
+      "date": "D-16 접수중",
+      "first_seen": "2026-10-09"
     }
   },
   "accf": {
