@@ -2,6 +2,16 @@
   {
     "site": "wevity",
     "site_label": "위비티",
+    "id": "111575",
+    "title": "2026년 제 5회 한티가는길 사진공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111575",
+    "date": "D-35 접수예정",
+    "image": null,
+    "first_seen": "2026-10-12"
+  },
+  {
+    "site": "wevity",
+    "site_label": "위비티",
     "id": "111563",
     "title": "용인어린이상상의숲 상상 아트마켓 참여 예술가 공모",
     "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111563",
@@ -2986,16 +2996,6 @@
     "title": "2026년 아트코리아랩 AI+기술융합 오픈이노베이션(2차) 지원사업 공모",
     "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64119",
     "date": "2026.08.10 - 2026.08.24",
-    "image": null,
-    "first_seen": "2026-08-12"
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "CRL3576",
-    "title": "성남문화재단 예술본부장 공개채용 재공모",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CRL3576",
-    "date": "2026.08.10 - 2026.08.20",
     "image": null,
     "first_seen": "2026-08-12"
   }

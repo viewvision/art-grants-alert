@@ -6445,6 +6445,30 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95304",
       "date": "2026-10-10",
       "first_seen": "2026-10-11"
+    },
+    "95311": {
+      "title": "[부천문화재단] [공고 제2026-111호] 부천문화재단 임원 공개모집 공고 (경기 부천시 원미구 장말로 107 (상동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95311",
+      "date": "2026-10-12",
+      "first_seen": "2026-10-12"
+    },
+    "95310": {
+      "title": "[kbs] KBS홀/아트홀 하우스 어텐던트(안내원) 신규 채용 (~10/27) (서울 영등포구 여의공원로 13 (여의도동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95310",
+      "date": "2026-10-12",
+      "first_seen": "2026-10-12"
+    },
+    "95309": {
+      "title": "[재단법인 강북문화재단] [재]강북문화재단 2026년 제4차 정규직 및 기간제근로자 공개채용 공고 (서울 강북구 삼각산로 85 (수유동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95309",
+      "date": "2026-10-12",
+      "first_seen": "2026-10-12"
+    },
+    "95308": {
+      "title": "[한국문화원연합회] [한국문화원연합회] 직원(계약직) 채용 공고 (서울 마포구 마포대로 49 (도화동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95308",
+      "date": "2026-10-11",
+      "first_seen": "2026-10-12"
     }
   },
   "wevity": {
@@ -6831,6 +6855,18 @@
       "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111563",
       "date": "D-13 접수중",
       "first_seen": "2026-10-11"
+    },
+    "111578": {
+      "title": "2026 연연지회 청소년 문화 경연대회 참가자 모집",
+      "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111578",
+      "date": "D-3 마감임박",
+      "first_seen": "2026-10-12"
+    },
+    "111575": {
+      "title": "2026년 제 5회 한티가는길 사진공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111575",
+      "date": "D-35 접수예정",
+      "first_seen": "2026-10-12"
     }
   },
   "artspoon": {
@@ -9139,6 +9175,12 @@
       "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111543",
       "date": "D-16 접수중",
       "first_seen": "2026-10-09"
+    },
+    "111575": {
+      "title": "2026년 제 5회 한티가는길 사진공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111575",
+      "date": "D-35 접수예정",
+      "first_seen": "2026-10-12"
     }
   },
   "accf": {
