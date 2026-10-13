@@ -1933,6 +1933,78 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyD7s7MarnkJQYIUP8ctK9D2UPBZm1EJpnMlsBwvsh76BM",
       "date": "2026.10.08 - 2026.11.05",
       "first_seen": "2026-10-09"
+    },
+    "CRL3619": {
+      "title": "2027년 아르코․대학로예술극장 대관공모",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CRL3619",
+      "date": "2026.11.02 - 2026.11.16",
+      "first_seen": "2026-10-13"
+    },
+    "CRL3618": {
+      "title": "2027년 문예진흥기금 공모사업 지원신청 안내",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CRL3618",
+      "date": "2026.10.08 - 2026.11.05",
+      "first_seen": "2026-10-13"
+    },
+    "S65491": {
+      "title": "2027년 사천시문화예술회관 기획공연 공모",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65491",
+      "date": "2026.10.12 - 2026.11.10",
+      "first_seen": "2026-10-13"
+    },
+    "JFAC_NOTICE_20261013043444001": {
+      "title": "2026년 제주 문화예술교육 매개자 역량강화 프로그램 ✨ 「나를 깨우는 [틈], 삶을 바꾸는 거리 1cm」✨ 참여자 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=JFAC_NOTICE_20261013043444001",
+      "date": "2026.10.12 - 2026.10.16",
+      "first_seen": "2026-10-13"
+    },
+    "SFAC_NOTICE_20261013043400001": {
+      "title": "2027년 서울문화예술교육센터 강북 상반기 정기대관 운영 안내",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20261013043400001",
+      "date": "2026.10.12 - 2026.11.15",
+      "first_seen": "2026-10-13"
+    },
+    "S65482": {
+      "title": "[강북미술협회 30주년 기념 ] 청년작가 특별기획 공모(2차모집)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65482",
+      "date": "2026.10.12 - 2026.10.17",
+      "first_seen": "2026-10-13"
+    },
+    "S65477": {
+      "title": "2026년 예술인 간담회 안내",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65477",
+      "date": "2026.10.12 - 2026.10.22",
+      "first_seen": "2026-10-13"
+    },
+    "CRL3620": {
+      "title": "2026년 하반기 문화예술분야 예술 계약 특강",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CRL3620",
+      "date": "2026.09.23 - 2026.10.24",
+      "first_seen": "2026-10-13"
+    },
+    "GCTF_NOTICE_20261009095005001": {
+      "title": "2026년 원로창작이음지원사업 예술인 추천 및 모집 추가 연장공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GCTF_NOTICE_20261009095005001",
+      "date": "2026.10.08 - 2026.10.20",
+      "first_seen": "2026-10-13"
+    },
+    "S65465": {
+      "title": "국악향유공간활성화지원 소소한호강 우리함께 국악학교 모집 재공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65465",
+      "date": "2026.10.08 - 2026.10.16",
+      "first_seen": "2026-10-13"
+    },
+    "S65466": {
+      "title": "국악향유공간활성화지원 소소한호강 동네어울림 모집 재공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65466",
+      "date": "2026.10.08 - 2026.10.16",
+      "first_seen": "2026-10-13"
+    },
+    "S65464": {
+      "title": "국악향유공간활성화지원 소소한호강 소소한취향소모임 (소소한 연대) 모집 재공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65464",
+      "date": "2026.10.08 - 2026.10.16",
+      "first_seen": "2026-10-13"
     }
   },
   "arko_education": {
@@ -6469,6 +6541,54 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95308",
       "date": "2026-10-11",
       "first_seen": "2026-10-12"
+    },
+    "95328": {
+      "title": "[지클레프] 공연기획사 지클레프 직원 채용 공고 (서울 서초구 남부순환로 2433-3 (서초동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95328",
+      "date": "2026-10-13",
+      "first_seen": "2026-10-13"
+    },
+    "95318": {
+      "title": "[국제갤러리] [국제갤러리 리셉션 채용공고] (서울 종로구 삼청로 54 (소격동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95318",
+      "date": "2026-10-12",
+      "first_seen": "2026-10-13"
+    },
+    "95317": {
+      "title": "[국제갤러리] [국제갤러리 리셉션 채용공고] (서울 종로구 삼청로 54 (소격동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95317",
+      "date": "2026-10-12",
+      "first_seen": "2026-10-13"
+    },
+    "95316": {
+      "title": "[국제갤러리] [국제갤러리 리셉션 채용공고] (서울 종로구 삼청로 54 (소격동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95316",
+      "date": "2026-10-12",
+      "first_seen": "2026-10-13"
+    },
+    "95315": {
+      "title": "[국제갤러리] [국제갤러리 리셉션 채용공고] (서울 종로구 삼청로 54 (소격동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95315",
+      "date": "2026-10-12",
+      "first_seen": "2026-10-13"
+    },
+    "95314": {
+      "title": "[(재)양천문화재단] 2026년 제5차 재공고 및 제6차 (재)양천문화재단 직원 채용 공고 (서울 양천구 목동서로 367 (신정동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95314",
+      "date": "2026-10-12",
+      "first_seen": "2026-10-13"
+    },
+    "95313": {
+      "title": "[에스엠피(SMP)] 2026 뮤지컬 무대크루 모집 (서울 종로구 대학로8가길 79 (동숭동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95313",
+      "date": "2026-10-12",
+      "first_seen": "2026-10-13"
+    },
+    "95312": {
+      "title": "[(재)대림문화재단] [대림문화재단] 홍보마케팅파트 인턴 채용공고 (서울 성동구 왕십리로 83-21 (성수동1가, 아크로 서울포레스트))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95312",
+      "date": "2026-10-12",
+      "first_seen": "2026-10-13"
     }
   },
   "wevity": {
@@ -6867,6 +6987,18 @@
       "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111575",
       "date": "D-35 접수예정",
       "first_seen": "2026-10-12"
+    },
+    "111612": {
+      "title": "[건강보험심사평가원] 우리 동네 병원과 가까워지는 한마디 슬로건 공모전SPECIAL",
+      "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111612",
+      "date": "D-20 접수중",
+      "first_seen": "2026-10-13"
+    },
+    "111610": {
+      "title": "(4주) 신춘문예 작가님에게 글쓰기를 배워보세요! 참여자 모집 중SPECIAL",
+      "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111610",
+      "date": "D-14 접수중",
+      "first_seen": "2026-10-13"
     }
   },
   "artspoon": {
@@ -8263,6 +8395,24 @@
       "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202641000000226900021A",
       "date": "2026.10.08 ~ 2026.10.22",
       "first_seen": "2026-10-09"
+    },
+    "202632000000022600010A": {
+      "title": "시흥시어린이·사회복지급식관리지원센터 위탁 운영기관 모집 공고",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000022600010A",
+      "date": "2026.10.13 ~ 2026.10.19",
+      "first_seen": "2026-10-13"
+    },
+    "20260444730": {
+      "title": "2026년 군산항 포트세일 사업",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260444730",
+      "date": "2026.10.12. ~ 2026.10.19.",
+      "first_seen": "2026-10-13"
+    },
+    "202641000000400100028A": {
+      "title": "2026 전북글로벌게임센터 게임콘텐츠 후속지원 ",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202641000000400100028A",
+      "date": "2026.10.08 ~ 2026.10.23",
+      "first_seen": "2026-10-13"
     }
   },
   "gokams": {
@@ -9181,6 +9331,18 @@
       "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111575",
       "date": "D-35 접수예정",
       "first_seen": "2026-10-12"
+    },
+    "111609": {
+      "title": "청년농 탄탄대로 틱톡 크리에이터단 모집",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111609",
+      "date": "D-10 접수중",
+      "first_seen": "2026-10-13"
+    },
+    "111511": {
+      "title": "2026 충청북도 지역균형발전사업 숏폼영상 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111511",
+      "date": "D-28 접수중",
+      "first_seen": "2026-10-13"
     }
   },
   "accf": {

@@ -1,5 +1,75 @@
 [
   {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "CRL3619",
+    "title": "2027년 아르코․대학로예술극장 대관공모",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CRL3619",
+    "date": "2026.11.02 - 2026.11.16",
+    "image": null,
+    "first_seen": "2026-10-13"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S65491",
+    "title": "2027년 사천시문화예술회관 기획공연 공모",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65491",
+    "date": "2026.10.12 - 2026.11.10",
+    "image": null,
+    "first_seen": "2026-10-13"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "SFAC_NOTICE_20261013043400001",
+    "title": "2027년 서울문화예술교육센터 강북 상반기 정기대관 운영 안내",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20261013043400001",
+    "date": "2026.10.12 - 2026.11.15",
+    "image": null,
+    "first_seen": "2026-10-13"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S65477",
+    "title": "2026년 예술인 간담회 안내",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65477",
+    "date": "2026.10.12 - 2026.10.22",
+    "image": null,
+    "first_seen": "2026-10-13"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "CRL3620",
+    "title": "2026년 하반기 문화예술분야 예술 계약 특강",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CRL3620",
+    "date": "2026.09.23 - 2026.10.24",
+    "image": null,
+    "first_seen": "2026-10-13"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "GCTF_NOTICE_20261009095005001",
+    "title": "2026년 원로창작이음지원사업 예술인 추천 및 모집 추가 연장공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GCTF_NOTICE_20261009095005001",
+    "date": "2026.10.08 - 2026.10.20",
+    "image": null,
+    "first_seen": "2026-10-13"
+  },
+  {
+    "site": "wevity",
+    "site_label": "위비티",
+    "id": "111612",
+    "title": "[건강보험심사평가원] 우리 동네 병원과 가까워지는 한마디 슬로건 공모전SPECIAL",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111612",
+    "date": "D-20 접수중",
+    "image": null,
+    "first_seen": "2026-10-13"
+  },
+  {
     "site": "wevity",
     "site_label": "위비티",
     "id": "111575",
@@ -2928,75 +2998,5 @@
     "date": "2026.08.11 - 2026.08.18",
     "image": null,
     "first_seen": "2026-08-13"
-  },
-  {
-    "site": "bojo",
-    "site_label": "e나라도움(보조금통합포털)",
-    "id": "202632000000009800025A",
-    "title": "수산물 물류환경 개선 지원사업",
-    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000009800025A",
-    "date": "2026.08.12 ~ 2026.09.01",
-    "image": null,
-    "first_seen": "2026-08-13"
-  },
-  {
-    "site": "bojo",
-    "site_label": "e나라도움(보조금통합포털)",
-    "id": "202641000000193200017A",
-    "title": "2026년 AI 영상콘텐츠 제작 지원사업(미디어파사드) 추가모집(2차)",
-    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202641000000193200017A",
-    "date": "2026.08.12 ~ 2026.08.26",
-    "image": null,
-    "first_seen": "2026-08-13"
-  },
-  {
-    "site": "bojo",
-    "site_label": "e나라도움(보조금통합포털)",
-    "id": "202641000000309100025A",
-    "title": "「2026년 R&D 기반 혁신 실증스튜디오 운영」 AIDX 스케일업 성장 지원사업",
-    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202641000000309100025A",
-    "date": "2026.08.11 ~ 2026.08.25",
-    "image": null,
-    "first_seen": "2026-08-13"
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "PCFAC_NOTICE_20260811073006001",
-    "title": "2026년 꿈의 스튜디오 포천 예비거점기관 참여 예술가 모집 공고",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=PCFAC_NOTICE_20260811073006001",
-    "date": "2026.08.10 - 2026.08.13",
-    "image": null,
-    "first_seen": "2026-08-12"
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "GOKAMS_NEWS_20260811044503002",
-    "title": "2026년 아트코리아랩 오픈 프롬프트 커뮤니티 콜로키엄 3차 참여자 모집",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_NEWS_20260811044503002",
-    "date": "2026.08.10 - 2026.08.23",
-    "image": null,
-    "first_seen": "2026-08-12"
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "GOKAMS_NEWS_20260811044504001",
-    "title": "2026년 아트코리아랩 오픈 프롬프트 커뮤니티 포스트모템 8월 참여자 모집",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_NEWS_20260811044504001",
-    "date": "2026.08.10 - 2026.08.23",
-    "image": null,
-    "first_seen": "2026-08-12"
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "S64119",
-    "title": "2026년 아트코리아랩 AI+기술융합 오픈이노베이션(2차) 지원사업 공모",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64119",
-    "date": "2026.08.10 - 2026.08.24",
-    "image": null,
-    "first_seen": "2026-08-12"
   }
 ]
