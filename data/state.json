@@ -2005,6 +2005,18 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65464",
       "date": "2026.10.08 - 2026.10.16",
       "first_seen": "2026-10-13"
+    },
+    "JFAC_NOTICE_20261013043451001": {
+      "title": "2026년 제주 예술인 창작준비금 지원사업 2차 공모 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=JFAC_NOTICE_20261013043451001",
+      "date": "2026.10.14 - 2026.10.25",
+      "first_seen": "2026-10-14"
+    },
+    "S65476": {
+      "title": "2027년 상반기 화성시문화관광재단 공연장 정기대관 안내",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65476",
+      "date": "2026.10.14 - 2026.10.30",
+      "first_seen": "2026-10-14"
     }
   },
   "arko_education": {
@@ -2061,6 +2073,12 @@
       "url": "https://arko.or.kr/artcenter/board/view/521?bid=327&cid=717888&category=education",
       "date": "2026.10.17 ~ 2026.10.17",
       "first_seen": "2026-10-08"
+    },
+    "/artcenter/board/view/521?bid=327&cid=717923&category=education": {
+      "title": "2026년 아르코미술관 AI 기반 전시해설 프로그램 〈AI 도슨트랑 전시톡톡〉",
+      "url": "https://arko.or.kr/artcenter/board/view/521?bid=327&cid=717923&category=education",
+      "date": "2026.10.16 ~ 2026.12.06",
+      "first_seen": "2026-10-14"
     }
   },
   "artnuri": {
@@ -6589,6 +6607,60 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95312",
       "date": "2026-10-12",
       "first_seen": "2026-10-13"
+    },
+    "95337": {
+      "title": "[(주)이엘프러스] [(주)이엘프러스] 공연제작/기획 경력자 채용 공고 (서울 서초구 강남대로 545-21 (반포동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95337",
+      "date": "2026-10-14",
+      "first_seen": "2026-10-14"
+    },
+    "95333": {
+      "title": "[(주)케이옥션] [케이옥션] 신입·경력 경매스페셜리스트 양성과정 채용 (10월) (서울 강남구 언주로172길 23 (신사동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95333",
+      "date": "2026-10-13",
+      "first_seen": "2026-10-14"
+    },
+    "95332": {
+      "title": "[영등포구청 영등포아트스퀘어] <2026 영등포 어린이 미술대전> 내 인형탈 알바 구인 (서울 영등포구 선유로 343 (당산동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95332",
+      "date": "2026-10-13",
+      "first_seen": "2026-10-14"
+    },
+    "95331": {
+      "title": "[서울문화재단 연희문학창작촌] 서울문화재단 예술지원사업 및 입주공모 업무 보조 단기인력 구인(연희문학창작촌) (서울 서대문구 증가로2길 6-7 (연희동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95331",
+      "date": "2026-10-13",
+      "first_seen": "2026-10-14"
+    },
+    "95330": {
+      "title": "[용산문화재단] 용산문화재단 용산아트홀 하우스 어셔 모집 (서울 용산구 녹사평대로 150 (이태원동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95330",
+      "date": "2026-10-13",
+      "first_seen": "2026-10-14"
+    },
+    "95329": {
+      "title": "[인사이트컨설팅] (재) 국제학교 학생 대상 미술 파트타임 강사 모집 (서울 강남구 도산대로26길 51 (논현동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95329",
+      "date": "2026-10-13",
+      "first_seen": "2026-10-14"
+    },
+    "95335": {
+      "title": "[권정호 미술관] (추경)예술기반 청년일자리지원 연수단원 채용 [권... (대구광역시 동구 동부로 67)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95335",
+      "date": "2026-10-13",
+      "first_seen": "2026-10-14"
+    },
+    "95336": {
+      "title": "[주식회사 모마베이비] 사진배우면서 스튜디오 일 하실분,경험자우대 (전남광주통합특별시 순천시 용당둑길 113)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95336",
+      "date": "2026-10-13",
+      "first_seen": "2026-10-14"
+    },
+    "95334": {
+      "title": "[수성대학교] 수성대학교 계약직원(사서) 채용 (대구광역시 수성구 달구벌대로528길 15)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95334",
+      "date": "2026-10-13",
+      "first_seen": "2026-10-14"
     }
   },
   "wevity": {
@@ -6999,6 +7071,18 @@
       "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111610",
       "date": "D-14 접수중",
       "first_seen": "2026-10-13"
+    },
+    "111647": {
+      "title": "2026 신한 스퀘어브릿지 대학생 창업 공모전 HERO IRSPECIAL",
+      "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111647",
+      "date": "D-20 접수중",
+      "first_seen": "2026-10-14"
+    },
+    "111644": {
+      "title": "제4회 춘천 한 문장 봄내글판 전국 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111644",
+      "date": "D-10 접수중",
+      "first_seen": "2026-10-14"
     }
   },
   "artspoon": {
@@ -8413,6 +8497,18 @@
       "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202641000000400100028A",
       "date": "2026.10.08 ~ 2026.10.23",
       "first_seen": "2026-10-13"
+    },
+    "202632000000016300008A": {
+      "title": "「안양시 어린이·사회복지 급식관리지원센터」 위탁 운영기관 모집 재공고",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000016300008A",
+      "date": "2026.10.14 ~ 2026.10.28",
+      "first_seen": "2026-10-14"
+    },
+    "202633000000000500099A": {
+      "title": "2026 방송영상콘텐츠후반작업지원 추가공모",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202633000000000500099A",
+      "date": "2026.10.13 ~ 2026.10.29",
+      "first_seen": "2026-10-14"
     }
   },
   "gokams": {
@@ -9343,6 +9439,30 @@
       "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111511",
       "date": "D-28 접수중",
       "first_seen": "2026-10-13"
+    },
+    "111642": {
+      "title": "[한국야쿠르트] 펫쿠르트 왈Rx 환승사료 숏폼 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111642",
+      "date": "D-40 접수중",
+      "first_seen": "2026-10-14"
+    },
+    "111639": {
+      "title": "2026 양양군 영상 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111639",
+      "date": "D-30 접수중",
+      "first_seen": "2026-10-14"
+    },
+    "111615": {
+      "title": "2026 대한민국 과일대전 숏폼 영상 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111615",
+      "date": "D-31 접수중",
+      "first_seen": "2026-10-14"
+    },
+    "111581": {
+      "title": "2026 경상북도 K-U시티 청년 AI영상제",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111581",
+      "date": "D-6 마감임박",
+      "first_seen": "2026-10-14"
     }
   },
   "accf": {
