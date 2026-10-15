@@ -72,6 +72,7 @@
 ### 3. 알림
 - **이메일 발송** (Gmail 앱 비밀번호 방식 사용, mojok2200@gmail.com)
 - 외부 이메일 API(Resend 등)는 사용하지 않기로 함 — Gmail 앱 비밀번호가 더 간단해서 선택
+- **복수 수신자 지원** (2026-10-15 추가): `scraper/email_sender.py`가 `ALERT_TO_EMAIL`을 쉼표로 구분된 여러 주소로 파싱해 전부에게 발송. GitHub 저장소 Secrets(Settings → Secrets and variables → Actions → `ALERT_TO_EMAIL`) 값을 `mojok2200@gmail.com,felix.director@kakao.com` 형태로 직접 수정해야 실제로 반영됨(코드만으로는 자동 반영 안 됨)
 - **이메일 형식**: HTML 메일. 제목/링크/날짜는 항상 표시. 사이트에 포스터·썸네일 이미지가 있으면 함께 표시, 없으면 텍스트만 (사이트별로 혼합 형태가 됨 — 예: 아트스푼/위비티는 이미지 가능성 높음, 아트코리아랩/e나라도움 등은 보통 텍스트만)
 
 ### 4. 웹 대시보드

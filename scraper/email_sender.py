@@ -52,17 +52,19 @@ def send_email(subject: str, html_body: str, to_addr: str = None) -> None:
     from_addr = os.environ["EMAIL_ADDRESS"]
     app_password = os.environ["EMAIL_APP_PASSWORD"]
     to_addr = to_addr or os.environ.get("ALERT_TO_EMAIL") or from_addr
+    # 쉼표로 구분된 여러 수신자 주소 지원 (예: "a@x.com,b@y.com")
+    to_addrs = [addr.strip() for addr in to_addr.split(",") if addr.strip()]
 
     msg = MIMEMultipart("alternative")
     msg["Subject"] = subject
     msg["From"] = from_addr
-    msg["To"] = to_addr
+    msg["To"] = ", ".join(to_addrs)
     msg.attach(MIMEText(html_body, "html", "utf-8"))
 
     with smtplib.SMTP(SMTP_HOST, SMTP_PORT) as server:
         server.starttls()
         server.login(from_addr, app_password)
-        server.sendmail(from_addr, [to_addr], msg.as_string())
+        server.sendmail(from_addr, to_addrs, msg.as_string())
 
 
 def group_by_site(items: list) -> dict:
