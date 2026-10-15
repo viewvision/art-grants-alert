@@ -155,6 +155,18 @@
       "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2609300001",
       "date": "2026-09-30",
       "first_seen": "2026-10-01"
+    },
+    "2610140002": {
+      "title": "2026 아트코리아랩 오픈 프롬프트 커뮤니티 포스트모템 10월 참여자 모집(~10.25(일)까지)",
+      "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2610140002",
+      "date": "2026-10-14",
+      "first_seen": "2026-10-15"
+    },
+    "2610140001": {
+      "title": "2026 아트코리아랩 <AI-예술 공개포럼: AI 시대, 예술 생태계의 현재와 미래> 개최",
+      "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2610140001",
+      "date": "2026-10-14",
+      "first_seen": "2026-10-15"
     }
   },
   "arko_thearts": {
@@ -2017,6 +2029,48 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65476",
       "date": "2026.10.14 - 2026.10.30",
       "first_seen": "2026-10-14"
+    },
+    "CRL3622": {
+      "title": "2027년 아르코장편소설창작지원(첨부파일 수정)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CRL3622",
+      "date": "2026.11.02 - 2026.12.07",
+      "first_seen": "2026-10-15"
+    },
+    "CRL3621": {
+      "title": "2027년 아르코문학펠로우십(첨부파일 수정)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CRL3621",
+      "date": "2026.11.02 - 2026.12.07",
+      "first_seen": "2026-10-15"
+    },
+    "S65522": {
+      "title": "2026년 광주국제아트페어 연계 인문학 강의 참여자 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65522",
+      "date": "2026.10.13 - 2026.10.18",
+      "first_seen": "2026-10-15"
+    },
+    "S65521": {
+      "title": "제17회 광주국제아트페어 자원봉사자 모집 공고문",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65521",
+      "date": "2026.10.13 - 2026.10.16",
+      "first_seen": "2026-10-15"
+    },
+    "S65515": {
+      "title": "2027년도 오산문화예술회관 상반기 정기 대관 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65515",
+      "date": "2026.10.13 - 2026.10.26",
+      "first_seen": "2026-10-15"
+    },
+    "S65508": {
+      "title": "2027년 상반기 군포문화예술회관 공연장 정기대관 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65508",
+      "date": "2026.10.13 - 2026.10.27",
+      "first_seen": "2026-10-15"
+    },
+    "S65507": {
+      "title": "2027년 상반기 군포문화예술회관 연습실A,B 정기대관 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65507",
+      "date": "2026.10.13 - 2026.10.27",
+      "first_seen": "2026-10-15"
     }
   },
   "arko_education": {
@@ -6661,6 +6715,60 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95334",
       "date": "2026-10-13",
       "first_seen": "2026-10-14"
+    },
+    "95355": {
+      "title": "[인사이트컨설팅] (재) 국제학교 학생 대상 미술 파트타임 강사 모집 (서울 강남구 도산대로26길 51 (논현동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95355",
+      "date": "2026-10-15",
+      "first_seen": "2026-10-15"
+    },
+    "95345": {
+      "title": "[코리아나미술관] [채용] 코리아나미술관 예비학예인력 모집 공고 (서울 강남구 언주로 827 (신사동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95345",
+      "date": "2026-10-14",
+      "first_seen": "2026-10-15"
+    },
+    "95344": {
+      "title": "[수성문화재단] 2026 수성문화재단 미술관 전문 학예인력 채용 공고 (대구 수성구 청수로9길 40-31 (중동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95344",
+      "date": "2026-10-14",
+      "first_seen": "2026-10-15"
+    },
+    "95343": {
+      "title": "[(재)대림문화재단] [대림문화재단] 대림미술관 크루 모집(전시/뮤지엄샵) (서울 종로구 자하문로4길 21 (통의동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95343",
+      "date": "2026-10-14",
+      "first_seen": "2026-10-15"
+    },
+    "95342": {
+      "title": "[시간] [10월18일(일)]서울문화재단 문학행사 업무 보조 단기인력 구인(연희문학창작촌) (서울 서대문구 증가로2길 6-7 (연희동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95342",
+      "date": "2026-10-14",
+      "first_seen": "2026-10-15"
+    },
+    "95341": {
+      "title": "[재단법인 세종문화회관] 세종문화회관 꿈의숲아트센터 공연장 안내원 모집 공고 (서울 강북구 월계로 173 (번동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95341",
+      "date": "2026-10-14",
+      "first_seen": "2026-10-15"
+    },
+    "95340": {
+      "title": "[국립정동극장] 2026년 제5차 국립정동극장 직원 채용(청년인턴-하우스운영보조) (서울 중구 정동길 43 (정동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95340",
+      "date": "2026-10-14",
+      "first_seen": "2026-10-15"
+    },
+    "95339": {
+      "title": "[할리퀸크리에이션즈] 서울숲 씨어터 하우스 스태프 모집 공고 (성동구) (서울 성동구 서울숲2길 32-14 (성수동1가, 갤러리아 포레))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95339",
+      "date": "2026-10-14",
+      "first_seen": "2026-10-15"
+    },
+    "95338": {
+      "title": "[서울문화재단] [서울문화재단] 서울무용센터 입주예술가 작업공유회 단기스태프 모집 (서울 서대문구 명지2길 14 (홍은동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95338",
+      "date": "2026-10-14",
+      "first_seen": "2026-10-15"
     }
   },
   "wevity": {
@@ -7083,6 +7191,12 @@
       "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111644",
       "date": "D-10 접수중",
       "first_seen": "2026-10-14"
+    },
+    "111674": {
+      "title": "2026 화성특례시 AI CF 공모전 - 제6회 별별화성 AwardsSPECIAL",
+      "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111674",
+      "date": "D-11 접수중",
+      "first_seen": "2026-10-15"
     }
   },
   "artspoon": {
@@ -8509,6 +8623,24 @@
       "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202633000000000500099A",
       "date": "2026.10.13 ~ 2026.10.29",
       "first_seen": "2026-10-14"
+    },
+    "202632000000002000004A": {
+      "title": "연수구 어린이사회복지급식관리지원센터 위탁운영기관 모집 공고",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000002000004A",
+      "date": "2026.10.15 ~ 2026.10.22",
+      "first_seen": "2026-10-15"
+    },
+    "202632000000016100006A": {
+      "title": "전남광주통합특별시 북구 어린이·사회복지급식관리지원센터 수탁기관 모집 재공고",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000016100006A",
+      "date": "2026.10.15 ~ 2026.10.19",
+      "first_seen": "2026-10-15"
+    },
+    "202632000000026100012A": {
+      "title": "강진군 어린이‧사회복지급식관리지원센터 위탁 운영기관 모집 재공고",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000026100012A",
+      "date": "2026.10.14 ~ 2026.10.28",
+      "first_seen": "2026-10-15"
     }
   },
   "gokams": {
@@ -8841,6 +8973,18 @@
       "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4578&page=1&txtKeyword=&ddlKeyfield=T",
       "date": "2026-10-08",
       "first_seen": "2026-10-09"
+    },
+    "4584": {
+      "title": "2026 아트코리아랩 오픈 프롬프트 커뮤니티 포스트모템 10월 참여자 모집(~10.25(일)까지)",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4584&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-10-14",
+      "first_seen": "2026-10-15"
+    },
+    "4583": {
+      "title": "2026 아트코리아랩 AI-예술 공개포럼: AI 시대, 예술 생태계의 현재와 미래 개최",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4583&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-10-14",
+      "first_seen": "2026-10-15"
     }
   },
   "metaverse_campus_lecture": {
@@ -9463,6 +9607,36 @@
       "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111581",
       "date": "D-6 마감임박",
       "first_seen": "2026-10-14"
+    },
+    "111674": {
+      "title": "2026 화성특례시 AI CF 공모전 - 제6회 별별화성 AwardsSPECIAL",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111674",
+      "date": "D-11 접수중",
+      "first_seen": "2026-10-15"
+    },
+    "111657": {
+      "title": "만휴정에서 행운을 만날지도 방문 인증샷 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111657",
+      "date": "D-25 접수중",
+      "first_seen": "2026-10-15"
+    },
+    "111651": {
+      "title": "제3회 다대는TV 유튜브 영상 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111651",
+      "date": "D-16 접수중",
+      "first_seen": "2026-10-15"
+    },
+    "111602": {
+      "title": "2026 여수세계섬박람회 사진 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111602",
+      "date": "D-2 마감임박",
+      "first_seen": "2026-10-15"
+    },
+    "111599": {
+      "title": "2026 제천시 숏폼 영상 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111599",
+      "date": "D-18 접수중",
+      "first_seen": "2026-10-15"
     }
   },
   "accf": {
