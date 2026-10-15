@@ -1,0 +1,37 @@
+name: Send test email
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  test-email:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Send test email
+        env:
+          EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
+          EMAIL_APP_PASSWORD: ${{ secrets.EMAIL_APP_PASSWORD }}
+          ALERT_TO_EMAIL: ${{ secrets.ALERT_TO_EMAIL }}
+        run: |
+          python -c "
+          import os
+          from scraper.email_sender import send_email
+          to_addr = os.environ.get('ALERT_TO_EMAIL') or os.environ['EMAIL_ADDRESS']
+          print(f'발송 대상: {to_addr}')
+          send_email(
+              '[테스트] 공모/지원사업 알림 시스템 - 수신자 설정 테스트',
+              '<p>이 메일이 보이면 ALERT_TO_EMAIL 수신자 설정이 정상 동작하는 것입니다.</p>',
+          )
+          print('발송 완료')
+          "
