@@ -2071,6 +2071,36 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65507",
       "date": "2026.10.13 - 2026.10.27",
       "first_seen": "2026-10-15"
+    },
+    "S65563": {
+      "title": "2027년 상반기 구로문화재단 공연시설 정기대관 통합 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65563",
+      "date": "2026.10.14 - 2026.11.13",
+      "first_seen": "2026-10-16"
+    },
+    "SFAC_NOTICE_20261015043359001": {
+      "title": "모닝쿼드 '현대예술감상회 - 탄생 100주년 작곡가들(2026)' 참여자 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20261015043359001",
+      "date": "2026.10.12 - 2026.10.19",
+      "first_seen": "2026-10-16"
+    },
+    "GOKAMS_NEWS_20261015043305001": {
+      "title": "2026년 아트코리아랩 AI-예술 공개포럼: AI 시대, 예술 생태계의 현재와 미래 개최",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_NEWS_20261015043305001",
+      "date": "2026.10.14 - 2026.10.19",
+      "first_seen": "2026-10-16"
+    },
+    "GOKAMS_NEWS_20261015043304001": {
+      "title": "2026 아트코리아랩 오픈 프롬프트 커뮤니티 포스트모템 10월 참여자 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_NEWS_20261015043304001",
+      "date": "2026.10.14 - 2026.10.25",
+      "first_seen": "2026-10-16"
+    },
+    "S65539": {
+      "title": "2026 경남콘텐츠코리아랩 콘텐츠 창작스쿨 프로그램 웹소설 마스터클래스 교육생 모집 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65539",
+      "date": "2026.10.15 - 2026.10.22",
+      "first_seen": "2026-10-16"
     }
   },
   "arko_education": {
@@ -2133,6 +2163,36 @@
       "url": "https://arko.or.kr/artcenter/board/view/521?bid=327&cid=717923&category=education",
       "date": "2026.10.16 ~ 2026.12.06",
       "first_seen": "2026-10-14"
+    },
+    "/develop/board/view/594?bid=392&cid=717937&category=education": {
+      "title": "AV네트워크 최적화 및 운영 방법(종사자과정 음향 중·고급)",
+      "url": "https://arko.or.kr/develop/board/view/594?bid=392&cid=717937&category=education",
+      "date": "2026.10.20 ~ 2026.10.20",
+      "first_seen": "2026-10-16"
+    },
+    "/develop/board/view/594?bid=392&cid=717936&category=education": {
+      "title": "2026 아르코무대예술아카데미 공연영상 기획과 창의적 연출(종사자과정 융합미디어 초급)",
+      "url": "https://arko.or.kr/develop/board/view/594?bid=392&cid=717936&category=education",
+      "date": "2026.11.11 ~ 2026.11.11",
+      "first_seen": "2026-10-16"
+    },
+    "/develop/board/view/594?bid=392&cid=717935&category=education": {
+      "title": "2026 아르코무대예술아카데미 능동적 시각 매체로서의 조명 디자인(종사자과정 조명 초급)",
+      "url": "https://arko.or.kr/develop/board/view/594?bid=392&cid=717935&category=education",
+      "date": "2026.11.02 ~ 2026.11.02",
+      "first_seen": "2026-10-16"
+    },
+    "/develop/board/view/594?bid=392&cid=717934&category=education": {
+      "title": "2026 ARKO Stage Arts Academy 크루과정 무대예술 커리어 토크 : 일의 시작과 지금",
+      "url": "https://arko.or.kr/develop/board/view/594?bid=392&cid=717934&category=education",
+      "date": "2026.10.29 ~ 2026.10.29",
+      "first_seen": "2026-10-16"
+    },
+    "/develop/board/view/594?bid=392&cid=717933&category=education": {
+      "title": "2026아르코무대예술아카데미 연극 조명 디자인의 과정과 접근(종사자과정 조명 초급)",
+      "url": "https://arko.or.kr/develop/board/view/594?bid=392&cid=717933&category=education",
+      "date": "2026.10.26 ~ 2026.10.26",
+      "first_seen": "2026-10-16"
     }
   },
   "artnuri": {
@@ -6769,6 +6829,66 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95338",
       "date": "2026-10-14",
       "first_seen": "2026-10-15"
+    },
+    "95366": {
+      "title": "[재단법인중구문화재단] 충무아트센터 하우스어셔 채용공고(~10/26) (서울 중구 퇴계로 387 (흥인동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95366",
+      "date": "2026-10-15",
+      "first_seen": "2026-10-16"
+    },
+    "95365": {
+      "title": "[뉴프로덕션] (주)뉴프로덕션 제작팀 컴퍼니 매니저 구인공고 (서울 종로구 동숭길 68 (동숭동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95365",
+      "date": "2026-10-15",
+      "first_seen": "2026-10-16"
+    },
+    "95364": {
+      "title": "[마스트인터내셔널] 엔터테인먼트 공연사업부 홍보마케팅 경력직 채용 (서울 강남구 삼성로 757 (청담동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95364",
+      "date": "2026-10-15",
+      "first_seen": "2026-10-16"
+    },
+    "95363": {
+      "title": "[사비나미술관] [사비나미술관] 2026 예비학예인력 모집 공고 (서울 은평구 진관1로 93 (진관동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95363",
+      "date": "2026-10-15",
+      "first_seen": "2026-10-16"
+    },
+    "95362": {
+      "title": "[(재)대림문화재단] (복사) [대림문화재단] 대림미술관 크루 모집(전시/뮤지엄샵) (서울 종로구 자하문로4길 21 (통의동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95362",
+      "date": "2026-10-15",
+      "first_seen": "2026-10-16"
+    },
+    "95361": {
+      "title": "[재단법인노원문화재단] 노원문화재단 2026년 제9차 공개채용 공고 (12107)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95361",
+      "date": "2026-10-15",
+      "first_seen": "2026-10-16"
+    },
+    "95360": {
+      "title": "[재단법인노원문화재단] 노원문화재단 2026년 제8차 공개채용 공고 (12107)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95360",
+      "date": "2026-10-15",
+      "first_seen": "2026-10-16"
+    },
+    "95359": {
+      "title": "[재단법인 종로문화재단] 2026년 제8차 종로문화재단 직원 공개모집 공고 (서울 종로구 새문안로 41 (신문로2가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95359",
+      "date": "2026-10-15",
+      "first_seen": "2026-10-16"
+    },
+    "95358": {
+      "title": "[주식회사 제이슨함] [제이슨함 갤러리] Operations & Management (운영 관리팀) 사원 채용 (서울 강남구 언주로174길 16 (신사동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95358",
+      "date": "2026-10-15",
+      "first_seen": "2026-10-16"
+    },
+    "95357": {
+      "title": "[이상남스튜디오] 현대미술작가 LSN 스튜디오 정직원 모집 (경기 안양시 만안구 덕천로 26 (안양동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95357",
+      "date": "2026-10-15",
+      "first_seen": "2026-10-16"
     }
   },
   "wevity": {
@@ -9637,6 +9757,36 @@
       "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111599",
       "date": "D-18 접수중",
       "first_seen": "2026-10-15"
+    },
+    "111700": {
+      "title": "2026년 서부산영상미디어센터 영화관람 에티켓 영상 공모",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111700",
+      "date": "D-38 접수예정",
+      "first_seen": "2026-10-16"
+    },
+    "111683": {
+      "title": "[네이버웹툰] 컷츠 메이크 크리에이터 크루 2기 모집",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111683",
+      "date": "D-13 접수중",
+      "first_seen": "2026-10-16"
+    },
+    "111680": {
+      "title": "[부산대자율상권조합] 내 폰 안의 부산대자율상권 숏폼 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111680",
+      "date": "D-24 접수중",
+      "first_seen": "2026-10-16"
+    },
+    "111679": {
+      "title": "[햇빛가득찬] 내일 사진공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111679",
+      "date": "D-15 접수중",
+      "first_seen": "2026-10-16"
+    },
+    "111622": {
+      "title": "2026년 주남저수지 환경사진 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111622",
+      "date": "D-41 접수예정",
+      "first_seen": "2026-10-16"
     }
   },
   "accf": {
