@@ -7021,6 +7021,36 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95381",
       "date": "2026-10-17",
       "first_seen": "2026-10-17"
+    },
+    "95392": {
+      "title": "[(주)서울옥션] [서울옥션] 브랜드기획팀 전시장 리셉션 및 인포데스크 인턴 상시채용 (인재 Pool 등록) (서울 강남구 언주로 864 (신사동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95392",
+      "date": "2026-10-19",
+      "first_seen": "2026-10-18"
+    },
+    "95390": {
+      "title": "[아트센터인천] 아트센터인천 공연장 안내원 모집 (인천 연수구 아트센터대로 222 (송도동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95390",
+      "date": "2026-10-18",
+      "first_seen": "2026-10-18"
+    },
+    "95388": {
+      "title": "[(주)대성아트센터] (주)대성아트센터(디큐브링크아트센터) 기술팀 무대감독 신입(계약직) 채용 공고 (서울 구로구 경인로 662 (신도림동, 디큐브시티))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95388",
+      "date": "2026-10-18",
+      "first_seen": "2026-10-18"
+    },
+    "95387": {
+      "title": "[해븐프로덕션] [해븐프로덕션] 연극 <스타크로스드> 평일 티켓 매니저 인력 공고 (서울 종로구 대학로12길 83 (동숭동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95387",
+      "date": "2026-10-18",
+      "first_seen": "2026-10-18"
+    },
+    "95386": {
+      "title": "[국제갤러리] [국제갤러리 리셉션 채용공고] (서울 종로구 삼청로 54 (소격동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95386",
+      "date": "2026-10-18",
+      "first_seen": "2026-10-18"
     }
   },
   "wevity": {
@@ -7449,6 +7479,18 @@
       "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111674",
       "date": "D-11 접수중",
       "first_seen": "2026-10-15"
+    },
+    "111739": {
+      "title": "제1회 꿈꾸미닷컴 꿈 수필 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111739",
+      "date": "D-31 접수중",
+      "first_seen": "2026-10-18"
+    },
+    "111737": {
+      "title": "2027년 연희문학창작촌 입주작가 정기공모",
+      "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111737",
+      "date": "D-5 마감임박",
+      "first_seen": "2026-10-18"
     }
   },
   "artspoon": {
@@ -9961,6 +10003,12 @@
       "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111629",
       "date": "D-20 접수예정",
       "first_seen": "2026-10-17"
+    },
+    "111733": {
+      "title": "2026 남이섬 가을 단풍 사진 공모전 - 채록(採錄)",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111733",
+      "date": "D-43 접수중",
+      "first_seen": "2026-10-18"
     }
   },
   "accf": {

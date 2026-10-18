@@ -1,5 +1,25 @@
 [
   {
+    "site": "wevity",
+    "site_label": "위비티",
+    "id": "111739",
+    "title": "제1회 꿈꾸미닷컴 꿈 수필 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111739",
+    "date": "D-31 접수중",
+    "image": null,
+    "first_seen": "2026-10-18"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "111733",
+    "title": "2026 남이섬 가을 단풍 사진 공모전 - 채록(採錄)",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111733",
+    "date": "D-43 접수중",
+    "image": null,
+    "first_seen": "2026-10-18"
+  },
+  {
     "site": "artskorealab",
     "site_label": "아트코리아랩",
     "id": "2610160001",
@@ -2976,26 +2996,6 @@
     "title": "2026년 경기문화예술교육 광역-기초협력형연수_구리",
     "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GURI_MENU_20260822044432001",
     "date": "2026.08.21 - 2026.09.10",
-    "image": null,
-    "first_seen": "2026-08-24"
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "JFAC_NOTICE_20260822044344001",
-    "title": "2026년 생활문화예술활동 지원사업 의견수렴 간담회 참여자 모집 안내",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=JFAC_NOTICE_20260822044344001",
-    "date": "2026.08.21 - 2026.08.26",
-    "image": null,
-    "first_seen": "2026-08-24"
-  },
-  {
-    "site": "artmore",
-    "site_label": "아트모아",
-    "id": "94713",
-    "title": "[(주)이지뮤지컬컴퍼니] (추경)예술기반 청년일자리지원(연수단원)채용 (이... (서울특별시 강남구 역삼로 217)",
-    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94713",
-    "date": "2026-08-24",
     "image": null,
     "first_seen": "2026-08-24"
   }
