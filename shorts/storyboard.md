@@ -18,7 +18,7 @@
 | 에셋 | 파일 | 상태 |
 |---|---|---|
 | 외부 | `bg/A_ext_gpt_1_post.jpg` | 확정 |
-| 실내 | `bg/B6_int_ceiling_post.jpg` | 검토 중 (천장판 한 장 네모나게 탈락) |
+| 실내 | `bg/B7_int_ceiling_post.jpg` | 확정 |
 | 리모델링(상상) | `bg/D2_remodel_post.jpg` | 완료 |
 | 구조보강 | `bg/E2_reinforce_post.jpg`, 강조본 `bg/E2_reinforce_orange_post.jpg` | 완료 |
 
