@@ -18,7 +18,7 @@
 | 에셋 | 파일 | 상태 |
 |---|---|---|
 | 외부 | `bg/A_ext_gpt_1_post.jpg` | 확정 |
-| 실내 | `bg/B4_int_ceiling_post.jpg` | 검토 중 (구멍 위치·판재·처짐) |
+| 실내 | `bg/B5_int_ceiling_post.jpg` | 검토 중 (가운데 큰 구멍, 판재 삭제, 더 낡게) |
 | 리모델링(상상) | `bg/D2_remodel_post.jpg` | 완료 |
 | 구조보강 | `bg/E2_reinforce_post.jpg`, 강조본 `bg/E2_reinforce_orange_post.jpg` | 완료 |
 
