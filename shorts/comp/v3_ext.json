@@ -1,0 +1,5 @@
+{"bg": "../bg/A_ext_gpt_1_post.jpg", "out": "v3_ext.jpg", "char_h": 980, "feet_y": 1840,
+ "bubbles": [
+  {"who": "client", "text": "60년 된 건물인데요.\n리모델링해서 쓰려고요.", "x": 30, "y": 640, "tail_len": 50},
+  {"who": "architect", "text": "한번 보겠습니다.", "x": 600, "y": 700, "tail_len": 50}
+ ]}
