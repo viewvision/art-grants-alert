@@ -9,7 +9,7 @@ FONT = ImageFont.truetype("../fonts/NanumSquareRoundB.ttf", cfg.get("font_size",
 MARK_FONT = ImageFont.truetype("../fonts/NanumSquareRoundB.ttf", 110)
 
 bg = Image.open(cfg["bg"]).convert("RGBA").resize((W, H), Image.LANCZOS)
-chars = Image.open("chars.png")
+chars = Image.open(cfg.get("chars", "chars.png"))
 ch = cfg["char_h"]
 chars = chars.resize((int(chars.width * ch / chars.height), ch), Image.LANCZOS)
 cx = (W - chars.width) // 2
