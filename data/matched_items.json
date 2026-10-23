@@ -1,5 +1,105 @@
 [
   {
+    "site": "artskorealab",
+    "site_label": "아트코리아랩",
+    "id": "2610220002",
+    "title": "문화예술진흥법 개정을 위한 정책 토론회",
+    "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2610220002",
+    "date": "2026-10-22",
+    "image": null,
+    "first_seen": "2026-10-23"
+  },
+  {
+    "site": "artskorealab",
+    "site_label": "아트코리아랩",
+    "id": "2610220001",
+    "title": "2026 아트코리아랩 오픈 프롬프트 커뮤니티 포스트모템 11월 참여자 모집(~11.1.(일)까지)",
+    "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2610220001",
+    "date": "2026-10-22",
+    "image": null,
+    "first_seen": "2026-10-23"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "CRL3624",
+    "title": "2027년 문학상주작가 지원사업 공모",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CRL3624",
+    "date": "2026.10.23 - 2026.11.13",
+    "image": null,
+    "first_seen": "2026-10-23"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S65736",
+    "title": "2026년 아트코리아랩 오픈 프롬프트 커뮤니티 포스트모템 11월 참여자 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65736",
+    "date": "2026.10.21 - 2026.11.01",
+    "image": null,
+    "first_seen": "2026-10-23"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "KCDF_MENU_20261022043323001",
+    "title": "2027 KCDF 공예·디자인 공모전시 모집 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=KCDF_MENU_20261022043323001",
+    "date": "2026.10.21 - 2026.11.20",
+    "image": null,
+    "first_seen": "2026-10-23"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "BCF_BOARD_20261021053022001",
+    "title": "2026년 경기 지역협력형 생활문화 지원사업 <모두의 지도> 모집 안내",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=BCF_BOARD_20261021053022001",
+    "date": "2026.10.20 - 2026.10.30",
+    "image": null,
+    "first_seen": "2026-10-23"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "GOKAMS_NEWS_20261021043305001",
+    "title": "문화예술진흥법 개정을 위한 정책토론회 안내",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_NEWS_20261021043305001",
+    "date": "2026.10.20 - 2026.10.28",
+    "image": null,
+    "first_seen": "2026-10-23"
+  },
+  {
+    "site": "artmore",
+    "site_label": "아트모아",
+    "id": "95447",
+    "title": "[놀유니버스] [놀유니버스] 예술의전당 CS 운영 담당자 (서울 서초구 남부순환로 2406 (서초동))",
+    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95447",
+    "date": "2026-10-22",
+    "image": null,
+    "first_seen": "2026-10-23"
+  },
+  {
+    "site": "artmore",
+    "site_label": "아트모아",
+    "id": "95446",
+    "title": "[놀유니버스] [놀유니버스] 예술의전당 CS 및 매표소 운영 담당자 (서울 서초구 남부순환로 2406 (서초동))",
+    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95446",
+    "date": "2026-10-22",
+    "image": null,
+    "first_seen": "2026-10-23"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "111784",
+    "title": "구리시상권활성화재단 우리동네PICK! 쇼츠 공모전(하반기) 참여자 모집",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111784",
+    "date": "D-8 마감임박",
+    "image": null,
+    "first_seen": "2026-10-23"
+  },
+  {
     "site": "artmore",
     "site_label": "아트모아",
     "id": "95436",
@@ -2898,105 +2998,5 @@
     "date": "2026.09.03 - 2026.10.31",
     "image": null,
     "first_seen": "2026-09-03"
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "CRL3578",
-    "title": "2026년 공연예술대관료지원 2차 공모",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CRL3578",
-    "date": "2026.09.02 - 2026.09.15",
-    "image": null,
-    "first_seen": "2026-09-02"
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "BCF_BOARD_20260902053012001",
-    "title": "2026년 문화예술교육 활성화 사업 <예술 그리고, 전통> - 「단아하고 청아하게, 단청」교육 참여자 모집",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=BCF_BOARD_20260902053012001",
-    "date": "2026.09.01 - 2026.09.17",
-    "image": null,
-    "first_seen": "2026-09-02"
-  },
-  {
-    "site": "artmore",
-    "site_label": "아트모아",
-    "id": "94833",
-    "title": "[평택시문화재단] 2026년 평택시 문화예술회관 제2차 공연장안내원 인력풀 모집 공고 (경기 평택시 중앙로 277 (비전동))",
-    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94833",
-    "date": "2026-09-02",
-    "image": null,
-    "first_seen": "2026-09-02"
-  },
-  {
-    "site": "bojo",
-    "site_label": "e나라도움(보조금통합포털)",
-    "id": "202632000000022200061B",
-    "title": "2026년 스마트 APC 지원사업",
-    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000022200061B",
-    "date": "2026.09.03 ~ 2026.09.09",
-    "image": null,
-    "first_seen": "2026-09-02"
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "JFAC_NOTICE_20260829044239001",
-    "title": "2026년 예술지원사업 개선을 위한 <예술현장 라운드테이블> 2차 그룹 모집",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=JFAC_NOTICE_20260829044239001",
-    "date": "2026.08.31 - 2026.09.08",
-    "image": null,
-    "first_seen": "2026-09-01"
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "SFAC_NOTICE_20260829044157002",
-    "title": "2026 예술인 스터디 커뮤니티 <모닝쿼드> 호스트 모집 공모",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20260829044157002",
-    "date": "2026.08.28 - 2026.09.16",
-    "image": null,
-    "first_seen": "2026-09-01"
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "S64551",
-    "title": "한국문화예술회관연합회-국립심포니오케스트라 2026년 우수 콘텐츠 지역 문예회관 유통 사업 공모",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64551",
-    "date": "2026.08.28 - 2026.09.15",
-    "image": null,
-    "first_seen": "2026-09-01"
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "SFAC_NOTICE_20260828044601001",
-    "title": "서울거리예술창작센터 10월 정기대관 신청 안내",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20260828044601001",
-    "date": "2026.09.01 - 2026.09.05",
-    "image": null,
-    "first_seen": "2026-09-01"
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "GOKAMS_APPLY_20260828044455001",
-    "title": "2026년 예술산업보증 9월(6차) 공모",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_APPLY_20260828044455001",
-    "date": "2026.09.01 - 2026.09.10",
-    "image": null,
-    "first_seen": "2026-09-01"
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "S64541",
-    "title": "2026년 지역특화상품개발유통 및 지원사업 공고",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64541",
-    "date": "2026.08.27 - 2026.09.10",
-    "image": null,
-    "first_seen": "2026-09-01"
   }
 ]
