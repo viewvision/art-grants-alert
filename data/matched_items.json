@@ -1,5 +1,85 @@
 [
   {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "BCF_BOARD_20261023053015001",
+    "title": "2026년 부천문화예술거버넌스 통합포럼 개최 및 신청안내",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=BCF_BOARD_20261023053015001",
+    "date": "2026.10.22 - 2026.11.13",
+    "image": null,
+    "first_seen": "2026-10-24"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "111840",
+    "title": "부안 지방정원 제2회 가을 사진 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111840",
+    "date": "D-13 접수중",
+    "image": null,
+    "first_seen": "2026-10-24"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "111834",
+    "title": "[식품의약품안전처] 식중독 예방 숏폼 영상 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111834",
+    "date": "D-31 접수예정",
+    "image": null,
+    "first_seen": "2026-10-24"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "111833",
+    "title": "중구 관광홍보 콘텐츠 공모전 (중구 하루 여행)",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111833",
+    "date": "D-23 접수중",
+    "image": null,
+    "first_seen": "2026-10-24"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "111829",
+    "title": "수원방문의해 관광 숏폼 영상 하반기 공모전 (수원, 다시보다. 시즌2)",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111829",
+    "date": "D-21 접수중",
+    "image": null,
+    "first_seen": "2026-10-24"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "111819",
+    "title": "2026 한국세라믹기술원 AI 영상 공모전 (세라믹이 사라진 세상)",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111819",
+    "date": "D-31 접수중",
+    "image": null,
+    "first_seen": "2026-10-24"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "111793",
+    "title": "좋은병원들 제4회 좋은병원들 릴스왕 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111793",
+    "date": "D-8 마감임박",
+    "image": null,
+    "first_seen": "2026-10-24"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "111792",
+    "title": "2026 구강보건 작품 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111792",
+    "date": "D-89 접수중",
+    "image": null,
+    "first_seen": "2026-10-24"
+  },
+  {
     "site": "artskorealab",
     "site_label": "아트코리아랩",
     "id": "2610220002",
@@ -2918,85 +2998,5 @@
     "date": "~ 2026-12-05",
     "image": null,
     "first_seen": "2026-09-04"
-  },
-  {
-    "site": "ncas",
-    "site_label": "국가문화예술지원시스템",
-    "id": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3578&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&pageSetting=&sc_seNo=&key=2301170002&sc_orderBy=&recordCountPerPage=10&pageIndex=1&sc_hash=&sc_list=&seNo=001&sw=%EB%8C%80%EA%B4%80%EB%A3%8C&sc_genre=&sc_target=&sc_local=&sc_field=&sc_isDo=",
-    "title": "공연예술대관료지원 공모-2차",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3578&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&pageSetting=&sc_seNo=&key=2301170002&sc_orderBy=&recordCountPerPage=10&pageIndex=1&sc_hash=&sc_list=&seNo=001&sw=%EB%8C%80%EA%B4%80%EB%A3%8C&sc_genre=&sc_target=&sc_local=&sc_field=&sc_isDo=",
-    "date": "2026.09.16 17:59 (D-11)",
-    "image": null,
-    "first_seen": "2026-09-04"
-  },
-  {
-    "site": "ncas",
-    "site_label": "국가문화예술지원시스템",
-    "id": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4552&page=1&txtKeyword=&ddlKeyfield=T",
-    "title": "예술산업보증 9월(6차) 공모",
-    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4552&page=1&txtKeyword=&ddlKeyfield=T",
-    "date": "2026.09.10 16:00 (D-05)",
-    "image": null,
-    "first_seen": "2026-09-04"
-  },
-  {
-    "site": "gokams",
-    "site_label": "예술경영지원센터",
-    "id": "4561",
-    "title": "2026 예술산업아카데미 <예술창업 모닝 살롱 Vol.4> 수강생 모집",
-    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4561&page=1&txtKeyword=&ddlKeyfield=T",
-    "date": "2026-09-04",
-    "image": null,
-    "first_seen": "2026-09-04"
-  },
-  {
-    "site": "gokams",
-    "site_label": "예술경영지원센터",
-    "id": "4560",
-    "title": "2026 예술산업아카데미 예술산업 입직을 위한 진로 및 취업상담(10월) 수강생 모집",
-    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4560&page=1&txtKeyword=&ddlKeyfield=T",
-    "date": "2026-09-04",
-    "image": null,
-    "first_seen": "2026-09-04"
-  },
-  {
-    "site": "gokams",
-    "site_label": "예술경영지원센터",
-    "id": "4559",
-    "title": "2026 예술산업아카데미 <예술산업 HR 커뮤니티 Connect - 4회차> 수강생 모집",
-    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4559&page=1&txtKeyword=&ddlKeyfield=T",
-    "date": "2026-09-04",
-    "image": null,
-    "first_seen": "2026-09-04"
-  },
-  {
-    "site": "gokams",
-    "site_label": "예술경영지원센터",
-    "id": "4558",
-    "title": "2026 예술산업아카데미 <예술기업 자금전략 로드맵> 수강생 모집",
-    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4558&page=1&txtKeyword=&ddlKeyfield=T",
-    "date": "2026-09-04",
-    "image": null,
-    "first_seen": "2026-09-04"
-  },
-  {
-    "site": "gokams",
-    "site_label": "예술경영지원센터",
-    "id": "4557",
-    "title": "2026 아트코리아랩 AI+기술융합 오픈이노베이션(2차) 1차 서류심의 결과",
-    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4557&page=1&txtKeyword=&ddlKeyfield=T",
-    "date": "2026-09-04",
-    "image": null,
-    "first_seen": "2026-09-04"
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "ARTE_INFO_20260903044543001",
-    "title": "2026년 국민문화예술교육조사 실시 안내와 협조 요청",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=ARTE_INFO_20260903044543001",
-    "date": "2026.09.03 - 2026.10.31",
-    "image": null,
-    "first_seen": "2026-09-03"
   }
 ]

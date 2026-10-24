@@ -2311,6 +2311,12 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65696",
       "date": "2026.10.21 - 2026.10.28",
       "first_seen": "2026-10-23"
+    },
+    "BCF_BOARD_20261023053015001": {
+      "title": "2026년 부천문화예술거버넌스 통합포럼 개최 및 신청안내",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=BCF_BOARD_20261023053015001",
+      "date": "2026.10.22 - 2026.11.13",
+      "first_seen": "2026-10-24"
     }
   },
   "arko_education": {
@@ -7471,6 +7477,66 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95449",
       "date": "2026-10-22",
       "first_seen": "2026-10-23"
+    },
+    "95462": {
+      "title": "[가나아트한남] 가나아트 한남 전시기획팀 직원 채용 (서울 용산구 장문로 54 (동빙고동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95462",
+      "date": "2026-10-23",
+      "first_seen": "2026-10-24"
+    },
+    "95460": {
+      "title": "[재단법인마포문화재단] 2026년 제6회 마포문화재단 직원 채용 공고(  ~11.2.(월) 18:00 한)_5급 무대기계, 7급 무대음향 (서울 마포구 대흥로20길 28 (대흥동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95460",
+      "date": "2026-10-23",
+      "first_seen": "2026-10-24"
+    },
+    "95459": {
+      "title": "[(주)로네뜨] [로네뜨] 공연 홍보사 - 마케터 채용 공고 (서울 강남구 도산대로30길 33-7 (논현동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95459",
+      "date": "2026-10-23",
+      "first_seen": "2026-10-24"
+    },
+    "95458": {
+      "title": "[롯데문화재단] 롯데콘서트홀 하우스어텐던트(공연장 안내원) 모집 공고 (서울 송파구 올림픽로 300 (신천동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95458",
+      "date": "2026-10-23",
+      "first_seen": "2026-10-24"
+    },
+    "95457": {
+      "title": "[서대문구청(신촌문화발전소)] 신촌문화발전소 카페바람 카페 매니저(기간제근로자) 바리스타 채용 공고 (서울 서대문구 연세로2나길 57 (창천동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95457",
+      "date": "2026-10-23",
+      "first_seen": "2026-10-24"
+    },
+    "95456": {
+      "title": "[주식회사 더 웨이브] (복사) [하우스] 대학로 뮤지컬 현장 근무 인력을 모집합니다. (서울 종로구 동숭길 101 (동숭동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95456",
+      "date": "2026-10-23",
+      "first_seen": "2026-10-24"
+    },
+    "95455": {
+      "title": "[울산문화관광재단] 2026년 (재)울산문화관광재단 안전관리자(경력직) 채용 공고 (울산 울주군 삼남읍 울산역로 255)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95455",
+      "date": "2026-10-23",
+      "first_seen": "2026-10-24"
+    },
+    "95454": {
+      "title": "[재단법인 포천문화관광재단] (재)포천문화관광재단 2026년 제6회 직원 공개채용 공고 (경기 포천시 군내면 청성로 111)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95454",
+      "date": "2026-10-23",
+      "first_seen": "2026-10-24"
+    },
+    "95453": {
+      "title": "[관악문화재단] (복사) 재단법인 관악문화재단 2026년 제3차 직원 채용공고 (서울 관악구 신림로3길 35 (신림동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95453",
+      "date": "2026-10-23",
+      "first_seen": "2026-10-24"
+    },
+    "95464": {
+      "title": "[마틴스쇼룸 순천] 마틴스쇼룸순천 베이비촬영작가,연출작가 (전남광주통합특별시 순천시 용당둑길 113)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95464",
+      "date": "2026-10-23",
+      "first_seen": "2026-10-24"
     }
   },
   "wevity": {
@@ -7929,6 +7995,12 @@
       "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111812",
       "date": "D-72 접수중",
       "first_seen": "2026-10-21"
+    },
+    "111881": {
+      "title": "한층 업그레이드된 책쓰기 프로젝트 59기 모집｜1인1권 출간보장/6주과정/인세지급SPECIAL",
+      "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111881",
+      "date": "D-14 접수중",
+      "first_seen": "2026-10-24"
     }
   },
   "artspoon": {
@@ -9445,6 +9517,12 @@
       "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000009800031A",
       "date": "2026.10.21 ~ 2026.10.28",
       "first_seen": "2026-10-23"
+    },
+    "202641000000226900022A": {
+      "title": "2026 충북 콘텐츠기업 글로벌 스케일업(Scale-up) 지원사업 재공고",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202641000000226900022A",
+      "date": "2026.10.23 ~ 2026.11.06",
+      "first_seen": "2026-10-24"
     }
   },
   "gokams": {
@@ -9813,6 +9891,12 @@
       "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4588&page=1&txtKeyword=&ddlKeyfield=T",
       "date": "2026-10-22",
       "first_seen": "2026-10-23"
+    },
+    "4589": {
+      "title": "2026 글로벌 뮤지컬 산업 학술대회 사전 참가 신청",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4589&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-10-23",
+      "first_seen": "2026-10-24"
     }
   },
   "metaverse_campus_lecture": {
@@ -10603,6 +10687,54 @@
       "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111784",
       "date": "D-8 마감임박",
       "first_seen": "2026-10-23"
+    },
+    "111875": {
+      "title": "글로컬대학(K-인문) K-헤리티지 단편영화 제작 지원 모집 공고 안내(추가 모집)",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111875",
+      "date": "D-3 마감임박",
+      "first_seen": "2026-10-24"
+    },
+    "111840": {
+      "title": "부안 지방정원 제2회 가을 사진 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111840",
+      "date": "D-13 접수중",
+      "first_seen": "2026-10-24"
+    },
+    "111834": {
+      "title": "[식품의약품안전처] 식중독 예방 숏폼 영상 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111834",
+      "date": "D-31 접수예정",
+      "first_seen": "2026-10-24"
+    },
+    "111833": {
+      "title": "중구 관광홍보 콘텐츠 공모전 (중구 하루 여행)",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111833",
+      "date": "D-23 접수중",
+      "first_seen": "2026-10-24"
+    },
+    "111829": {
+      "title": "수원방문의해 관광 숏폼 영상 하반기 공모전 (수원, 다시보다. 시즌2)",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111829",
+      "date": "D-21 접수중",
+      "first_seen": "2026-10-24"
+    },
+    "111819": {
+      "title": "2026 한국세라믹기술원 AI 영상 공모전 (세라믹이 사라진 세상)",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111819",
+      "date": "D-31 접수중",
+      "first_seen": "2026-10-24"
+    },
+    "111793": {
+      "title": "좋은병원들 제4회 좋은병원들 릴스왕 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111793",
+      "date": "D-8 마감임박",
+      "first_seen": "2026-10-24"
+    },
+    "111792": {
+      "title": "2026 구강보건 작품 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111792",
+      "date": "D-89 접수중",
+      "first_seen": "2026-10-24"
     }
   },
   "accf": {
