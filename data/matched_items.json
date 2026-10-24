@@ -80,6 +80,26 @@
     "first_seen": "2026-10-24"
   },
   {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "202632000000022200097B",
+    "title": "2026년 야생동물에 의한 농작물 피해예방시설 설치비 지원사업(대천동)",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000022200097B",
+    "date": "2026.10.23 ~ 2026.11.06",
+    "image": null,
+    "first_seen": "2026-10-24"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "111891",
+    "title": "DNSFF 다낭국제스마트폰영화제",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111891",
+    "date": "D-15 접수중",
+    "image": null,
+    "first_seen": "2026-10-24"
+  },
+  {
     "site": "artskorealab",
     "site_label": "아트코리아랩",
     "id": "2610220002",
@@ -2978,25 +2998,5 @@
     "date": "2026-09-05",
     "image": null,
     "first_seen": "2026-09-05"
-  },
-  {
-    "site": "artskorealab",
-    "site_label": "아트코리아랩",
-    "id": "2609040001",
-    "title": "2026 아트코리아랩 AI+기술융합 오픈이노베이션(2차) 지원사업 1차 서류심의 결과",
-    "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2609040001",
-    "date": "2026-09-04",
-    "image": null,
-    "first_seen": "2026-09-04"
-  },
-  {
-    "site": "artnuri",
-    "site_label": "아트누리",
-    "id": "2609020003",
-    "title": "2026년 디지털아트 컬처랩｜유스랩 참여자 모집 (교육 수료증 발급, 우수 결과물 쇼케이스 발표!)",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=2609020003&source=광주미디어아트플랫폼(G.MAP)&seNo=002",
-    "date": "~ 2026-12-05",
-    "image": null,
-    "first_seen": "2026-09-04"
   }
 ]
