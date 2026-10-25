@@ -1,5 +1,25 @@
 [
   {
+    "site": "wevity",
+    "site_label": "위비티",
+    "id": "111899",
+    "title": "농업가치 확산을 위한 농심천심 대학(원)생 논문 공모전SPECIAL",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111899",
+    "date": "D-124 접수예정",
+    "image": null,
+    "first_seen": "2026-10-25"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "111898",
+    "title": "2026 제7회 평화통일 사진 & 동영상 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111898",
+    "date": "D-17 접수중",
+    "image": null,
+    "first_seen": "2026-10-25"
+  },
+  {
     "site": "arko_thearts",
     "site_label": "아르코 통합플랫폼",
     "id": "BCF_BOARD_20261023053015001",
@@ -2978,25 +2998,5 @@
     "date": "2026-09-07",
     "image": null,
     "first_seen": "2026-09-07"
-  },
-  {
-    "site": "artmore",
-    "site_label": "아트모아",
-    "id": "94889",
-    "title": "[서울예술고등학교] 서울예술고등학교 계약직(공무직) 채용 공고 (서울 종로구 평창문화로 70 (평창동))",
-    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94889",
-    "date": "2026-09-07",
-    "image": null,
-    "first_seen": "2026-09-07"
-  },
-  {
-    "site": "artmore",
-    "site_label": "아트모아",
-    "id": "94877",
-    "title": "[램프(LAAMP)] 2026 장애예술 비평 포럼 — 코디네이터 모집 (서울 종로구 대학로 112 (동숭동))",
-    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94877",
-    "date": "2026-09-05",
-    "image": null,
-    "first_seen": "2026-09-05"
   }
 ]
