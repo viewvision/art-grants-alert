@@ -2317,6 +2317,42 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=BCF_BOARD_20261023053015001",
       "date": "2026.10.22 - 2026.11.13",
       "first_seen": "2026-10-24"
+    },
+    "NAMDONG_BOARD_20261026043933001": {
+      "title": "2027년 남동소래아트홀 상반기 정기대관 모집 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=NAMDONG_BOARD_20261026043933001",
+      "date": "2026.10.26 - 2026.11.09",
+      "first_seen": "2026-10-27"
+    },
+    "SFAC_NOTICE_20261024043800001": {
+      "title": "2026년 서울국제예술포럼 SAFT 개최 안내",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20261024043800001",
+      "date": "2026.10.23 - 2026.11.10",
+      "first_seen": "2026-10-27"
+    },
+    "GOKAMS_NEWS_20261024043706001": {
+      "title": "2026년 글로벌 뮤지컬 산업 학술대회 사전 참가 신청",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_NEWS_20261024043706001",
+      "date": "2026.10.23 - 2026.11.17",
+      "first_seen": "2026-10-27"
+    },
+    "S65778": {
+      "title": "2026년 새로운 시대, 전남광주 문화포럼 100인 특별시민토론단 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65778",
+      "date": "2026.10.22 - 2026.11.04",
+      "first_seen": "2026-10-27"
+    },
+    "S65747": {
+      "title": "2027년 충북갤러리 서울관 상반기 정기대관 공모 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65747",
+      "date": "2026.10.27 - 2026.11.18",
+      "first_seen": "2026-10-27"
+    },
+    "S65746": {
+      "title": "2027년 충북갤러리 서울관 시·군문화예술기관 협력 초대전 공모 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65746",
+      "date": "2026.10.27 - 2026.11.18",
+      "first_seen": "2026-10-27"
     }
   },
   "arko_education": {
@@ -7585,6 +7621,66 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95471",
       "date": "2026-10-25",
       "first_seen": "2026-10-25"
+    },
+    "95482": {
+      "title": "[웰컴퍼니] [주식회사 웰컴퍼니] 공연 제작팀 신입 및 경력직 채용 (서울 종로구 대학로8가길 52 (동숭동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95482",
+      "date": "2026-10-26",
+      "first_seen": "2026-10-27"
+    },
+    "95481": {
+      "title": "[주식회사 원체] [핸드투홈 서울] 공예 스토어 파트타이머 채용 (서울 영등포구 63로 50 (여의도동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95481",
+      "date": "2026-10-26",
+      "first_seen": "2026-10-27"
+    },
+    "95480": {
+      "title": "[(재)인천서구문화재단] 2026년 제8회 인천서해구문화재단 직원 채용 공고(무대음향) (인천 서해구 서달로 190 (가정동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95480",
+      "date": "2026-10-26",
+      "first_seen": "2026-10-27"
+    },
+    "95479": {
+      "title": "[(재)서초문화재단] 2026-08차 서초문화재단 직원 채용 공고 (서울 서초구 양재천로 33 (양재동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95479",
+      "date": "2026-10-26",
+      "first_seen": "2026-10-27"
+    },
+    "95478": {
+      "title": "[(재)서초문화재단] 2026-08차 서초문화재단 직원 채용 공고 (서울 서초구 양재천로 33 (양재동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95478",
+      "date": "2026-10-26",
+      "first_seen": "2026-10-27"
+    },
+    "95477": {
+      "title": "[(주)인사이트모션] (주)인사이트모션 회계(경력) 직원 채용 (서울 영등포구 양평로22길 21 (양평동5가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95477",
+      "date": "2026-10-26",
+      "first_seen": "2026-10-27"
+    },
+    "95476": {
+      "title": "[(주)에이치알메이트] [두산아트센터] 하우스어셔 모집 (서울 종로구 종로33길 15 (연지동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95476",
+      "date": "2026-10-26",
+      "first_seen": "2026-10-27"
+    },
+    "95475": {
+      "title": "[뮤지엄호두 주식회사] 뮤지엄호두 학예책임자 채용공고 (충남 천안시 동남구 광덕면 광풍로 315)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95475",
+      "date": "2026-10-26",
+      "first_seen": "2026-10-27"
+    },
+    "95474": {
+      "title": "[광림아트센터] [광림아트센터] BBCH홀 / 장천홀 공연장안내원 모집공고 (서울 강남구 논현로163길 33 (신사동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95474",
+      "date": "2026-10-26",
+      "first_seen": "2026-10-27"
+    },
+    "95483": {
+      "title": "[재단법인 서초문화재단] 2026-08차 서초문화재단 직원 채용 공고 (서울특별시 서초구 양재천로 33)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95483",
+      "date": "2026-10-26",
+      "first_seen": "2026-10-27"
     }
   },
   "wevity": {
@@ -9583,6 +9679,18 @@
       "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000022200097B",
       "date": "2026.10.23 ~ 2026.11.06",
       "first_seen": "2026-10-24"
+    },
+    "202632000000021400009A": {
+      "title": "대전광역시 서구 어린이·사회복지급식관리지원센터 민간위탁 운영기관 공개모집 재공고",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000021400009A",
+      "date": "2026.10.26 ~ 2026.11.02",
+      "first_seen": "2026-10-27"
+    },
+    "20250447966": {
+      "title": "2026년 사회적경제기업 시설장비 지원사업",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20250447966",
+      "date": "2026.10.23. ~ 2026.10.28.",
+      "first_seen": "2026-10-27"
     }
   },
   "gokams": {
@@ -9957,6 +10065,24 @@
       "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4589&page=1&txtKeyword=&ddlKeyfield=T",
       "date": "2026-10-23",
       "first_seen": "2026-10-24"
+    },
+    "4593": {
+      "title": "2027년 대표공연 콘텐츠 지역유통 지원사업 공모 안내",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4593&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-10-26",
+      "first_seen": "2026-10-27"
+    },
+    "4592": {
+      "title": "2027년 공연예술 지역유통 지원사업 공모 안내",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4592&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-10-26",
+      "first_seen": "2026-10-27"
+    },
+    "4591": {
+      "title": "2027년 문화예술 전국 유통지원 통합 공모 안내",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4591&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-10-26",
+      "first_seen": "2026-10-27"
     }
   },
   "metaverse_campus_lecture": {
@@ -10807,6 +10933,24 @@
       "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111898",
       "date": "D-17 접수중",
       "first_seen": "2026-10-25"
+    },
+    "111924": {
+      "title": "2026 제주 청소년 AI 리터러시 영상 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111924",
+      "date": "D-25 접수예정",
+      "first_seen": "2026-10-27"
+    },
+    "111920": {
+      "title": "[하나온 청년온] 2026 해방촌 신흥시장 AI 콘텐츠 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111920",
+      "date": "D-7 마감임박",
+      "first_seen": "2026-10-27"
+    },
+    "111842": {
+      "title": "[대전관광공사] 디깅대전 사진공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111842",
+      "date": "D-6 마감임박",
+      "first_seen": "2026-10-27"
     }
   },
   "accf": {
@@ -10845,6 +10989,12 @@
       "url": "https://www.accf.or.kr/main/product/detail/ko/435",
       "date": "2026-11-12 ~ 2026-11-12",
       "first_seen": "2026-09-24"
+    },
+    "443": {
+      "title": "2026 ACC 콘텐츠 라운지",
+      "url": "https://www.accf.or.kr/main/product/detail/ko/443",
+      "date": "2026-11-12 ~ 2026-11-12",
+      "first_seen": "2026-10-27"
     }
   },
   "gmap": {

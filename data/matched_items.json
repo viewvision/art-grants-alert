@@ -1,5 +1,75 @@
 [
   {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "SFAC_NOTICE_20261024043800001",
+    "title": "2026년 서울국제예술포럼 SAFT 개최 안내",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20261024043800001",
+    "date": "2026.10.23 - 2026.11.10",
+    "image": null,
+    "first_seen": "2026-10-27"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S65746",
+    "title": "2027년 충북갤러리 서울관 시·군문화예술기관 협력 초대전 공모 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65746",
+    "date": "2026.10.27 - 2026.11.18",
+    "image": null,
+    "first_seen": "2026-10-27"
+  },
+  {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "20250447966",
+    "title": "2026년 사회적경제기업 시설장비 지원사업",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20250447966",
+    "date": "2026.10.23. ~ 2026.10.28.",
+    "image": null,
+    "first_seen": "2026-10-27"
+  },
+  {
+    "site": "gokams",
+    "site_label": "예술경영지원센터",
+    "id": "4593",
+    "title": "2027년 대표공연 콘텐츠 지역유통 지원사업 공모 안내",
+    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4593&page=1&txtKeyword=&ddlKeyfield=T",
+    "date": "2026-10-26",
+    "image": null,
+    "first_seen": "2026-10-27"
+  },
+  {
+    "site": "gokams",
+    "site_label": "예술경영지원센터",
+    "id": "4592",
+    "title": "2027년 공연예술 지역유통 지원사업 공모 안내",
+    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4592&page=1&txtKeyword=&ddlKeyfield=T",
+    "date": "2026-10-26",
+    "image": null,
+    "first_seen": "2026-10-27"
+  },
+  {
+    "site": "gokams",
+    "site_label": "예술경영지원센터",
+    "id": "4591",
+    "title": "2027년 문화예술 전국 유통지원 통합 공모 안내",
+    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4591&page=1&txtKeyword=&ddlKeyfield=T",
+    "date": "2026-10-26",
+    "image": null,
+    "first_seen": "2026-10-27"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "111920",
+    "title": "[하나온 청년온] 2026 해방촌 신흥시장 AI 콘텐츠 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111920",
+    "date": "D-7 마감임박",
+    "image": null,
+    "first_seen": "2026-10-27"
+  },
+  {
     "site": "wevity",
     "site_label": "위비티",
     "id": "111899",
@@ -2928,75 +2998,5 @@
     "date": "2026.09.04 - 2026.10.01",
     "image": null,
     "first_seen": "2026-09-08"
-  },
-  {
-    "site": "metaverse_campus",
-    "site_label": "가상융합기술 Campus",
-    "id": "BD0000000046",
-    "title": "AI 달인 100 챌린지",
-    "url": "https://www.metaverse-campus.kr/bbs/data/view.do?bbs_mst_idx=BM0000000008&data_idx=BD0000000046",
-    "date": "",
-    "image": null,
-    "first_seen": "2026-09-08"
-  },
-  {
-    "site": "artmore",
-    "site_label": "아트모아",
-    "id": "94911",
-    "title": "[예술의전당] 예술의전당 연극 <유리동물원> 티켓매니저, 숏폼 영상 기획 편집자 모집 (서울 서초구 남부순환로 2406 (서초동))",
-    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94911",
-    "date": "2026-09-08",
-    "image": null,
-    "first_seen": "2026-09-08"
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "S64758",
-    "title": "2026년 수원화성 미디어아트 <수원가게> 참여자 모집 공고",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64758",
-    "date": "2026.09.03 - 2026.09.09",
-    "image": null,
-    "first_seen": "2026-09-07"
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "S64736",
-    "title": "2026년 예술산업아카데미 <예술창업 모닝 살롱 Vol.4> 수강생 모집",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64736",
-    "date": "2026.09.04 - 2026.09.17",
-    "image": null,
-    "first_seen": "2026-09-07"
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "S64735",
-    "title": "2026년 예술산업아카데미 예술산업 입직을 위한 진로 및 취업상담(10월) 수강생 모집",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64735",
-    "date": "2026.09.04 - 2026.09.30",
-    "image": null,
-    "first_seen": "2026-09-07"
-  },
-  {
-    "site": "artmore",
-    "site_label": "아트모아",
-    "id": "94901",
-    "title": "[보보스링크] 부암아트 문화예술 기획, 공연기술 채용 (서울 종로구 자하문로 242 (부암동))",
-    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94901",
-    "date": "2026-09-08",
-    "image": null,
-    "first_seen": "2026-09-07"
-  },
-  {
-    "site": "artmore",
-    "site_label": "아트모아",
-    "id": "94895",
-    "title": "[세화예술문화재단] [세화미술관] 현장 운영 매니저 채용 (서울 종로구 새문안로 68 (신문로1가))",
-    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94895",
-    "date": "2026-09-07",
-    "image": null,
-    "first_seen": "2026-09-07"
   }
 ]
