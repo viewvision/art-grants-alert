@@ -185,6 +185,12 @@
       "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2610220001",
       "date": "2026-10-22",
       "first_seen": "2026-10-23"
+    },
+    "2610270001": {
+      "title": "2026 아트코리아랩 AI-융합 페스티벌(ARTS KOREA LAB FESTIVAL)",
+      "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2610270001",
+      "date": "2026-10-27",
+      "first_seen": "2026-10-28"
     }
   },
   "arko_thearts": {
@@ -2353,6 +2359,78 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65746",
       "date": "2026.10.27 - 2026.11.18",
       "first_seen": "2026-10-27"
+    },
+    "CRL3626": {
+      "title": "[해외레지던시참가지원] 2027년 오스트리아 임펄스탄츠 아틀라스 레지던시 참가 신청안내",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CRL3626",
+      "date": "2026.10.21 - 2026.12.04",
+      "first_seen": "2026-10-28"
+    },
+    "CRL3625": {
+      "title": "[해외레지던시참가지원] 2027년 오스트리아 댄스웹(danceWEB) 레지던시 참가신청 안내 게시 요청",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CRL3625",
+      "date": "2026.10.21 - 2026.12.04",
+      "first_seen": "2026-10-28"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyDxKypodMmnHu2n3XD1oG4XgPBZm1EJpnMlsBwvsh76BM": {
+      "title": "[해외레지던시참가지원] 2027년 오스트리아 댄스웹(danceWEB) 레지던시 참가 신청안내",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyDxKypodMmnHu2n3XD1oG4XgPBZm1EJpnMlsBwvsh76BM",
+      "date": "2026.10.21 - 2026.12.04",
+      "first_seen": "2026-10-28"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyDxfggl%2BQfK4LboAEnelw3QsPBZm1EJpnMlsBwvsh76BM": {
+      "title": "[해외레지던시참가지원] 2027년 오스트리아 임펄스탄츠 아틀라스 레지던시 참가 신청안내",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyDxfggl%2BQfK4LboAEnelw3QsPBZm1EJpnMlsBwvsh76BM",
+      "date": "2026.10.21 - 2026.12.04",
+      "first_seen": "2026-10-28"
+    },
+    "S65805": {
+      "title": "2026 행복전남 문화지소 한일포럼 개최",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65805",
+      "date": "2026.10.26 - 2026.11.04",
+      "first_seen": "2026-10-28"
+    },
+    "NOWON_NOTICE_20261027043543001": {
+      "title": "노원 전문예술인 AI 실무 특강 참여자 모집 N",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=NOWON_NOTICE_20261027043543001",
+      "date": "2026.10.26 - 2026.11.05",
+      "first_seen": "2026-10-28"
+    },
+    "SFAC_NOTICE_20261027043402001": {
+      "title": "무대를 꿈꾸는 예술가들을 위한 6개의 창작 클래스",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20261027043402001",
+      "date": "2026.10.26 - 2026.10.31",
+      "first_seen": "2026-10-28"
+    },
+    "SFAC_NOTICE_20261027043401001": {
+      "title": "2026년 서울의 예술이 세계와 연결될 기회, <서울형 국제 예술 유통 플랫폼: Gather Seoul>",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20261027043401001",
+      "date": "2026.10.26 - 2026.11.17",
+      "first_seen": "2026-10-28"
+    },
+    "GOKAMS_NEWS_20261027043307001": {
+      "title": "2027년 문화예술 전국 유통지원 통합 공모 안내",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_NEWS_20261027043307001",
+      "date": "2026.10.26 - 2027.01.07",
+      "first_seen": "2026-10-28"
+    },
+    "GOKAMS_APPLY_20261027043256001": {
+      "title": "2027년 대표공연 콘텐츠 지역유통 지원사업 공모",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_APPLY_20261027043256001",
+      "date": "2026.10.26 - 2027.01.07",
+      "first_seen": "2026-10-28"
+    },
+    "GOKAMS_APPLY_20261027043257001": {
+      "title": "2027년 공연예술 지역유통 지원사업 공모",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_APPLY_20261027043257001",
+      "date": "2026.10.26 - 2027.01.07",
+      "first_seen": "2026-10-28"
+    },
+    "S65796": {
+      "title": "2026년 대구문화예술지원사업 시민 모니터링단 추가모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65796",
+      "date": "2026.10.26 - 2026.11.02",
+      "first_seen": "2026-10-28"
     }
   },
   "arko_education": {
@@ -7681,6 +7759,66 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95483",
       "date": "2026-10-26",
       "first_seen": "2026-10-27"
+    },
+    "95504": {
+      "title": "[주식회사 원에이치알] 2026년 제3차 (재)생거진천 문화재단 직원채용 (충북 진천군 진천읍 남산10길 31)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95504",
+      "date": "2026-10-28",
+      "first_seen": "2026-10-28"
+    },
+    "95495": {
+      "title": "[온느뮤지엄] 국립고궁박물관 ≪독대 獨對 안중근이 남긴 여덟 글자≫ 운영 매니저, 스태프 모집 (서울 종로구 효자로 12 (세종로))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95495",
+      "date": "2026-10-27",
+      "first_seen": "2026-10-28"
+    },
+    "95494": {
+      "title": "[(주)케이옥션] [10월마감] 케이옥션 신입·경력 경매스페셜리스트 양성과정 채용 (서울 강남구 언주로172길 23 (신사동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95494",
+      "date": "2026-10-27",
+      "first_seen": "2026-10-28"
+    },
+    "95493": {
+      "title": "[(주)아미고스토리] (복사) [아미고발레] 발레 강사 모집(무용 전공자 우대 / 대학생 가능) (서울 강남구 압구정로 113-22 (압구정동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95493",
+      "date": "2026-10-27",
+      "first_seen": "2026-10-28"
+    },
+    "95490": {
+      "title": "[(주)하쿠나마타] <톡톡 라이브쇼> 헬로카봇 티켓매니저/MD판매원/하우스어셔 (주말) 인력 구인 (서울 마포구 양화로 45 (서교동, 메세나폴리스))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95490",
+      "date": "2026-10-27",
+      "first_seen": "2026-10-28"
+    },
+    "95489": {
+      "title": "[아이안피앤케이] [주식회사 아트나] 문화예술 기획팀 경력직 모집 공고 (서울 마포구 성미산로 28-1 (성산동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95489",
+      "date": "2026-10-27",
+      "first_seen": "2026-10-28"
+    },
+    "95488": {
+      "title": "[히어위아(HereWeAre)] [히어위아] 전 세계 공연예술을 연결하는 글로벌 마케터(운영매니저)를 찾습니다. (경기 성남시 분당구 성남대로331번길 8 (정자동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95488",
+      "date": "2026-10-27",
+      "first_seen": "2026-10-28"
+    },
+    "95486": {
+      "title": "[(주)아미고스토리] [아미고발레] 발레 강사 모집(무용 전공자 우대 / 대학생 가능) (서울 강남구 압구정로 113-22 (압구정동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95486",
+      "date": "2026-10-27",
+      "first_seen": "2026-10-28"
+    },
+    "95485": {
+      "title": "[롯데문화재단] 롯데콘서트홀 하우스어텐던트(공연장 안내원) 모집 공고 (서울 송파구 올림픽로 300 (신천동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95485",
+      "date": "2026-10-27",
+      "first_seen": "2026-10-28"
+    },
+    "95501": {
+      "title": "[문화예술 오색락 협동조합] 기획팀장 신규 채용 (전북특별자치도 완주군 소양면 오도길 131)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95501",
+      "date": "2026-10-27",
+      "first_seen": "2026-10-28"
     }
   },
   "wevity": {
@@ -8151,6 +8289,12 @@
       "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111899",
       "date": "D-124 접수예정",
       "first_seen": "2026-10-25"
+    },
+    "111965": {
+      "title": "2026 AI 활용 전국 대학생 창업 해커톤 참가자 모집",
+      "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111965",
+      "date": "D-15 접수중",
+      "first_seen": "2026-10-28"
     }
   },
   "artspoon": {
@@ -10083,6 +10227,12 @@
       "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4591&page=1&txtKeyword=&ddlKeyfield=T",
       "date": "2026-10-26",
       "first_seen": "2026-10-27"
+    },
+    "4594": {
+      "title": "2026 아트코리아랩 AI-융합 페스티벌(ARTS KOREA LAB FESTIVAL)",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4594&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-10-27",
+      "first_seen": "2026-10-28"
     }
   },
   "metaverse_campus_lecture": {
@@ -10951,6 +11101,18 @@
       "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111842",
       "date": "D-6 마감임박",
       "first_seen": "2026-10-27"
+    },
+    "111941": {
+      "title": "한국공학한림원 공학의 가치 숏폼 콘테스트",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111941",
+      "date": "D-24 접수중",
+      "first_seen": "2026-10-28"
+    },
+    "111869": {
+      "title": "2026 춘천MBC AI영상 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111869",
+      "date": "D-44 접수중",
+      "first_seen": "2026-10-28"
     }
   },
   "accf": {
