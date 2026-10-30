@@ -2491,6 +2491,36 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65829",
       "date": "2026.10.27 - 2026.11.21",
       "first_seen": "2026-10-29"
+    },
+    "SFAC_NOTICE_20261029043803001": {
+      "title": "모닝쿼드 '1990년대 이후 동남아시아 비엔날레 읽기 : 연결과 이탈 사이의 번역' 참여 멤버 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20261029043803001",
+      "date": "2026.10.28 - 2026.11.05",
+      "first_seen": "2026-10-30"
+    },
+    "GGCF_ARTICLES_20261029043751001": {
+      "title": "2026년 경기창작캠퍼스 공공갤러리 전시공간 지원 공모",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GGCF_ARTICLES_20261029043751001",
+      "date": "2026.10.28 - 2026.11.15",
+      "first_seen": "2026-10-30"
+    },
+    "S65856": {
+      "title": "2026년 광주예술인복지지원사업 - 예술인 네트워크 지원 「예술인 사랑방」 참여자 모집 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65856",
+      "date": "2026.10.28 - 2026.11.13",
+      "first_seen": "2026-10-30"
+    },
+    "S65855": {
+      "title": "2027년 상반기 (재)화성시문화관광재단 전시실 정기대관 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65855",
+      "date": "2026.10.28 - 2026.11.28",
+      "first_seen": "2026-10-30"
+    },
+    "S65843": {
+      "title": "대구 청년 음악가 인큐베이팅을 위한  <2026 DCH 앙상블 아카데미-금관>  참가자 추가모집 공고(트롬본, 튜바&베이스트롬본)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65843",
+      "date": "2026.10.28 - 2026.11.03",
+      "first_seen": "2026-10-30"
     }
   },
   "arko_education": {
@@ -3431,6 +3461,36 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=S65805&source=전라남도문화재단&seNo=001",
       "date": "~ 2026-11-04",
       "first_seen": "2026-10-29"
+    },
+    "SFAC_NOTICE_20261029043803001": {
+      "title": "모닝쿼드 '1990년대 이후 동남아시아 비엔날레 읽기 : 연결과 이탈 사이의 번역' 참여 멤버 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=SFAC_NOTICE_20261029043803001&source=서울문화재단&seNo=001",
+      "date": "~ 2026-11-05",
+      "first_seen": "2026-10-30"
+    },
+    "GGCF_ARTICLES_20261029043751001": {
+      "title": "2026년 경기창작캠퍼스 공공갤러리 전시공간 지원 공모",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=GGCF_ARTICLES_20261029043751001&source=경기문화재단&seNo=001",
+      "date": "~ 2026-11-15",
+      "first_seen": "2026-10-30"
+    },
+    "S65856": {
+      "title": "2026년 광주예술인복지지원사업 - 예술인 네트워크 지원 「예술인 사랑방」 참여자 모집 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=S65856&source=광주문화재단&seNo=001",
+      "date": "~ 2026-11-13",
+      "first_seen": "2026-10-30"
+    },
+    "S65855": {
+      "title": "2027년 상반기 (재)화성시문화관광재단 전시실 정기대관 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=S65855&source=화성시문화재단&seNo=001",
+      "date": "~ 2026-11-28",
+      "first_seen": "2026-10-30"
+    },
+    "S65843": {
+      "title": "대구 청년 음악가 인큐베이팅을 위한  <2026 DCH 앙상블 아카데미-금관>  참가자 추가모집 공고(트롬본, 튜바&베이스트롬본)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=S65843&source=대구문화재단&seNo=001",
+      "date": "~ 2026-11-03",
+      "first_seen": "2026-10-30"
     }
   },
   "ncas": {
@@ -3745,6 +3805,12 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyDyhT8R%2FrREV1FR1b%2FnOuXSUPBZm1EJpnMlsBwvsh76BM",
       "date": "2026.11.13 15:00 (D-15)",
       "first_seen": "2026-10-29"
+    },
+    "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4595": {
+      "title": "예술산업보증 11월(8차) 공모",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4595",
+      "date": "2026.11.10 16:00 (D-11)",
+      "first_seen": "2026-10-30"
     }
   },
   "nabi": {
@@ -8035,6 +8101,54 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95510",
       "date": "2026-10-28",
       "first_seen": "2026-10-29"
+    },
+    "95529": {
+      "title": "[음악저널] 2026 음악저널 편집기자(인턴) 채용 공고 (서울 서초구 바우뫼로11안길 25 (우면동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95529",
+      "date": "2026-10-30",
+      "first_seen": "2026-10-30"
+    },
+    "95526": {
+      "title": "[주식회사 뷰티풀웨이] 뮤지컬 <얼음나무 숲> 현장 운영 인력 모집합니다. (하우스 스탭) (서울 종로구 동숭길 134 (동숭동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95526",
+      "date": "2026-10-29",
+      "first_seen": "2026-10-30"
+    },
+    "95525": {
+      "title": "[가나아트한남] 가나아트 한남 경영기획팀 직원 채용 (서울 용산구 장문로 54 (동빙고동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95525",
+      "date": "2026-10-29",
+      "first_seen": "2026-10-30"
+    },
+    "95524": {
+      "title": "[프로하비 엔터테인먼트] 국내 최대 (직장인/일반인/아마추어) 극단 프로하비의 성장을 함께 할 (마케팅 전문가)를 모집합니다. (서울 강남구 언주로125길 8 (논현동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95524",
+      "date": "2026-10-29",
+      "first_seen": "2026-10-30"
+    },
+    "95523": {
+      "title": "[주식회사 시점] [국립아시아문화전당] 2026 ACC 크리에이터스 레지던시 전시 운영요원 모집 (전남광주통합특별시 동구 문화전당로 38 (광산동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95523",
+      "date": "2026-10-29",
+      "first_seen": "2026-10-30"
+    },
+    "95522": {
+      "title": "[한국문화예술위원회] 2026년 문화예술연수단원 지원사업 운영 단기 파트타이머 모집(2명) (경기 고양시 일산동구 성현로513번길 10 (사리현동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95522",
+      "date": "2026-10-29",
+      "first_seen": "2026-10-30"
+    },
+    "95521": {
+      "title": "[한국문화예술위원회] 2026년 문화예술연수단원 지원사업 운영 단기 파트타이머 모집(2명) (경기 고양시 일산동구 성현로513번길 10 (사리현동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95521",
+      "date": "2026-10-29",
+      "first_seen": "2026-10-30"
+    },
+    "95528": {
+      "title": "[주식회사 큐비스아트] [파주] 미술품 운송/설치 직원모집 (경기도 파주시 샛봉우재길 137)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95528",
+      "date": "2026-10-29",
+      "first_seen": "2026-10-30"
     }
   },
   "wevity": {
@@ -8517,6 +8631,12 @@
       "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111997",
       "date": "D-12 접수중",
       "first_seen": "2026-10-29"
+    },
+    "112017": {
+      "title": "2026 유성 관광 크리에이터 모집",
+      "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112017",
+      "date": "D-13 접수중",
+      "first_seen": "2026-10-30"
     }
   },
   "artspoon": {
@@ -10075,6 +10195,18 @@
       "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202633000002012300006B",
       "date": "2026.10.28 ~ 2026.11.03",
       "first_seen": "2026-10-29"
+    },
+    "20260449353": {
+      "title": "2026년 공동주택 전기차 충전구역 화재감지 및 경보설비 구축 지원사업",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260449353",
+      "date": "2026.10.29. ~ 2026.11.27.",
+      "first_seen": "2026-10-30"
+    },
+    "202632000000022200100A": {
+      "title": "제주특별자치도 어린이·사회복지급식관리지원센터 위탁 운영기관 모집공고",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000022200100A",
+      "date": "2026.10.29 ~ 2026.11.12",
+      "first_seen": "2026-10-30"
     }
   },
   "gokams": {
@@ -10473,6 +10605,12 @@
       "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4594&page=1&txtKeyword=&ddlKeyfield=T",
       "date": "2026-10-27",
       "first_seen": "2026-10-28"
+    },
+    "4595": {
+      "title": "2026 예술산업보증 11월(8차) 공모 안내(11.1.(일)~11.10.(화) 16:00)",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4595&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-10-29",
+      "first_seen": "2026-10-30"
     }
   },
   "metaverse_campus_lecture": {
@@ -11377,6 +11515,24 @@
       "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111894",
       "date": "D-11 접수중",
       "first_seen": "2026-10-29"
+    },
+    "112008": {
+      "title": "2026 칠곡군청맛길 숏폼 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112008",
+      "date": "D-8 마감임박",
+      "first_seen": "2026-10-30"
+    },
+    "111999": {
+      "title": "2026 자립준비청년 디벨롭 숏폼콘테스트",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111999",
+      "date": "D-22 접수중",
+      "first_seen": "2026-10-30"
+    },
+    "111936": {
+      "title": "환경을 담다 지속가능한 강원 환경 사진 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111936",
+      "date": "D-5 마감임박",
+      "first_seen": "2026-10-30"
     }
   },
   "accf": {
@@ -11543,6 +11699,12 @@
       "url": "https://gmap.gwangju.go.kr/bbs/board.php?bo_table=notice&wr_id=110",
       "date": "10-22",
       "first_seen": "2026-10-22"
+    },
+    "111": {
+      "title": "[전시 관람 후기 이벤트]광주비엔날레 UCCN파빌리온x널위한문화예술xG.MAP 전시 리뷰 크리에이터 모집",
+      "url": "https://gmap.gwangju.go.kr/bbs/board.php?bo_table=notice&wr_id=111",
+      "date": "10-29",
+      "first_seen": "2026-10-30"
     }
   }
 }
