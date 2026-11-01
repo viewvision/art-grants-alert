@@ -1,5 +1,15 @@
 [
   {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "GOKAMS_NEWS_20261030043303001",
+    "title": "2026년 예술산업보증 11월(8차) 공모 안내",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_NEWS_20261030043303001",
+    "date": "2026.11.01 - 2026.11.10",
+    "image": null,
+    "first_seen": "2026-11-01"
+  },
+  {
     "site": "artnuri",
     "site_label": "아트누리",
     "id": "YJCF_NOTICE_20261030091007001",
@@ -2986,16 +2996,6 @@
     "title": "차세대 청년문화 활성화 「금정 AI, 넥스트 웨이브」 참여자 모집 공고",
     "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64900",
     "date": "2026.09.15 - 2026.09.27",
-    "image": null,
-    "first_seen": "2026-09-15"
-  },
-  {
-    "site": "bojo",
-    "site_label": "e나라도움(보조금통합포털)",
-    "id": "20260436584",
-    "title": "2026년 다량배출사업장 음식물류폐기물 감량기 설치 지원사업",
-    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260436584",
-    "date": "2026.09.14. ~ 2026.10.12.",
     "image": null,
     "first_seen": "2026-09-15"
   }

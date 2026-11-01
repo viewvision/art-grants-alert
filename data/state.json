@@ -2527,6 +2527,42 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65375",
       "date": "2026.10.21 - 2026.12.31",
       "first_seen": "2026-10-31"
+    },
+    "YJCF_NOTICE_20261030091007001": {
+      "title": "2026년 지역문화예술 홍보 버스킹 공연자 모집공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=YJCF_NOTICE_20261030091007001",
+      "date": "2026.10.29 - 2026.11.04",
+      "first_seen": "2026-11-01"
+    },
+    "ARTE_INFO_20261030043335001": {
+      "title": "2026년 인문문화축제 <인문지능> 개최 안내",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=ARTE_INFO_20261030043335001",
+      "date": "2026.10.29 - 2026.11.05",
+      "first_seen": "2026-11-01"
+    },
+    "GOKAMS_NEWS_20261030043303001": {
+      "title": "2026년 예술산업보증 11월(8차) 공모 안내",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_NEWS_20261030043303001",
+      "date": "2026.11.01 - 2026.11.10",
+      "first_seen": "2026-11-01"
+    },
+    "BPCF_NOTICE_20261029230007001": {
+      "title": "2027년도 상반기 부평아트센터 정기대관 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=BPCF_NOTICE_20261029230007001",
+      "date": "2026.10.29 - 2026.11.11",
+      "first_seen": "2026-11-01"
+    },
+    "BPCF_NOTICE_20261029230014001": {
+      "title": "2027년 부평아트센터 공연장 및 전시장 대관 지원 사업 공모",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=BPCF_NOTICE_20261029230014001",
+      "date": "2026.10.29 - 2026.11.11",
+      "first_seen": "2026-11-01"
+    },
+    "BPCF_NOTICE_20261029172354001": {
+      "title": "(재)인천광역시부평구문화재단 관객 맞춤형 콘텐츠 공동개발 예술단체 공모",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=BPCF_NOTICE_20261029172354001",
+      "date": "2026.10.23 - 2026.11.18",
+      "first_seen": "2026-11-01"
     }
   },
   "arko_education": {
@@ -8251,6 +8287,30 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95533",
       "date": "2026-10-30",
       "first_seen": "2026-10-31"
+    },
+    "95539": {
+      "title": "[프란츠클래식] [프란츠클래식] 공연·음악공간 홍보 운영 담당자 모집(신입·경력) (대구 남구 중앙대로 243 (대명동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95539",
+      "date": "2026-10-31",
+      "first_seen": "2026-11-01"
+    },
+    "95538": {
+      "title": "[스테이지엠] [스테이지엠] 공연사업 운영 사무직 신입 모집 (대구 남구 중앙대로 243 (대명동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95538",
+      "date": "2026-10-31",
+      "first_seen": "2026-11-01"
+    },
+    "95537": {
+      "title": "[광림아트센터] (복사) [광림아트센터] BBCH홀 / 장천홀 공연장안내원 모집공고 (서울 강남구 논현로163길 33 (신사동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95537",
+      "date": "2026-10-31",
+      "first_seen": "2026-11-01"
+    },
+    "95536": {
+      "title": "[다최정화다] (복사) 아티스트 IP 홍보 팀장 (서울 종로구 종로31길 46-7 (연지동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95536",
+      "date": "2026-10-31",
+      "first_seen": "2026-11-01"
     }
   },
   "wevity": {
