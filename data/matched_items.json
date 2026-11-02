@@ -2,6 +2,66 @@
   {
     "site": "arko_thearts",
     "site_label": "아르코 통합플랫폼",
+    "id": "S65891",
+    "title": "2026년 과천시민회관 예술강좌실·연습실 상시대관 신청 안내(11월)",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65891",
+    "date": "2026.11.02 - 2026.11.30",
+    "image": null,
+    "first_seen": "2026-11-02"
+  },
+  {
+    "site": "wevity",
+    "site_label": "위비티",
+    "id": "112073",
+    "title": "[제3회] 매경 AI 광고 공모전 대한민국 AI 광고대상SPECIAL",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112073",
+    "date": "D-29 접수예정",
+    "image": null,
+    "first_seen": "2026-11-02"
+  },
+  {
+    "site": "wevity",
+    "site_label": "위비티",
+    "id": "112065",
+    "title": "소싱인마켓 급부상 AI광고제",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112065",
+    "date": "D-10 접수중",
+    "image": null,
+    "first_seen": "2026-11-02"
+  },
+  {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "20260448878",
+    "title": "2026년 수출농업단지 모종 지원사업",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260448878",
+    "date": "2026.10.27. ~ 2026.11.06.",
+    "image": null,
+    "first_seen": "2026-11-02"
+  },
+  {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "20260448880",
+    "title": "2026년 수출딸기 생산단지 육성 지원사업",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260448880",
+    "date": "2026.10.27. ~ 2026.11.06.",
+    "image": null,
+    "first_seen": "2026-11-02"
+  },
+  {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "20260448870",
+    "title": "2026년 수출농가 연질강화필름 지원사업",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260448870",
+    "date": "2026.10.27. ~ 2026.11.06.",
+    "image": null,
+    "first_seen": "2026-11-02"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
     "id": "GOKAMS_NEWS_20261030043303001",
     "title": "2026년 예술산업보증 11월(8차) 공모 안내",
     "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_NEWS_20261030043303001",
@@ -2938,65 +2998,5 @@
     "date": "2026.09.15 - 2026.10.01",
     "image": null,
     "first_seen": "2026-09-17"
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "S64948",
-    "title": "2026년 NPAF : 남동공연예술페스타 프린지 공연팀 모집 공고",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64948",
-    "date": "2026.09.15 - 2026.09.21",
-    "image": null,
-    "first_seen": "2026-09-17"
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "S64949",
-    "title": "2026년 예술활동증명 신청 행정지원 서비스 2차 참여자 모집 공고",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64949",
-    "date": "2026.09.15 - 2026.11.30",
-    "image": null,
-    "first_seen": "2026-09-17"
-  },
-  {
-    "site": "gokams",
-    "site_label": "예술경영지원센터",
-    "id": "4571",
-    "title": "2026 대형 뮤지컬 낭독공연 지원사업 2차 공모  서류심의 결과 안내",
-    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4571&page=1&txtKeyword=&ddlKeyfield=T",
-    "date": "2026-09-17",
-    "image": null,
-    "first_seen": "2026-09-17"
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "KCDF_MENU_20260912044523001",
-    "title": "2026년 공예 온라인 유통 및 AI활용 역량 강화 교육 프로그램 교육생 모집 (온라인)",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=KCDF_MENU_20260912044523001",
-    "date": "2026.09.14 - 2026.09.20",
-    "image": null,
-    "first_seen": "2026-09-15"
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "GOKAMS_APPLY_20260912044456001",
-    "title": "2026년 예술산업 금융지원 시범사업(융자) 5차 공모",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GOKAMS_APPLY_20260912044456001",
-    "date": "2026.09.14 - 2026.10.02",
-    "image": null,
-    "first_seen": "2026-09-15"
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "S64900",
-    "title": "차세대 청년문화 활성화 「금정 AI, 넥스트 웨이브」 참여자 모집 공고",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S64900",
-    "date": "2026.09.15 - 2026.09.27",
-    "image": null,
-    "first_seen": "2026-09-15"
   }
 ]
