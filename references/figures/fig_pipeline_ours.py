@@ -26,12 +26,12 @@ STEPS = [
     ('4', '변환',   '4방향 비율 · 밝기 · 강도', '완료'),
     ('5', '판정',   '24개 중 1개 슬롯',        '완료'),
     ('6', '문구',   '비춰주기 + 건네는 질문',  '제작'),
-    ('7', '렌더',   '내 인상 + 축적 화면 합성', '제작'),
+    ('7', '렌더',   '영상 + 소리 실시간 합성', '제작'),
     ('8', '스며들기', '퇴장 시 축적 화면에 더함', '제작'),
     ('9', '기록',   '익명 1행 · 화면 주기 저장', '제작'),
 ]
 
-W, H = 2200, 980
+W, H = 2200, 1020
 img = Image.new('RGB', (W, H), BG)
 d = ImageDraw.Draw(img)
 
@@ -86,8 +86,8 @@ d.line([(cx8, BOX_Y + BOX_H), (cx8, bt - 14)], fill=TEAL, width=4)
 d.polygon([(cx8 - 11, bt - 18), (cx8 + 11, bt - 18), (cx8, bt - 2)], fill=TEAL)
 d.line([(cx7, bt), (cx7, BOX_Y + BOX_H + 14)], fill=TEAL, width=4)
 d.polygon([(cx7 - 11, BOX_Y + BOX_H + 18), (cx7 + 11, BOX_Y + BOX_H + 18), (cx7, BOX_Y + BOX_H + 2)], fill=TEAL)
-d.text((cx8 + 16, BOX_Y + BOX_H + 40), '떠난 사람의 색', font=f(20), fill=TEAL)
-d.text((cx7 - 16, BOX_Y + BOX_H + 40), '다음 사람에게', font=f(20), fill=TEAL, anchor='ra')
+d.text((cx8 + 16, BOX_Y + BOX_H + 98), '떠난 사람의 색', font=f(20), fill=TEAL)
+d.text((cx7 - 16, BOX_Y + BOX_H + 98), '다음 사람에게', font=f(20), fill=TEAL, anchor='ra')
 d.rounded_rectangle([cx7 - 150, bt, cx8 + 150, bt + 100], radius=12, outline=TEAL, width=3, fill=(232, 246, 247))
 center_text(cx7 - 150, cx8 - cx7 + 300, bt + 12, '축적 화면 (110일 누적)', f(28), TEAL)
 center_text(cx7 - 150, cx8 - cx7 + 300, bt + 54, '옵션: 일 단위 리셋 · 날짜별 스냅샷 보존', f(22), SUB)
@@ -98,11 +98,27 @@ d.line([(cx9, BOX_Y + BOX_H), (cx9, ly + 160)], fill=SUB, width=3)
 d.polygon([(cx9 - 10, ly + 152), (cx9 + 10, ly + 152), (cx9, ly + 168)], fill=SUB)
 center_text(xs[8] - 60, BOX_W + 60, ly + 176, '누적 기록 → 보조 모니터', f(24), INK)
 
-# ── 사운드 레인
+# ── 사운드 레인 (영상과 같은 값으로 움직임)
 sy = ly + 30
-d.rounded_rectangle([xs[0], sy, xs[4] + BOX_W, sy + 92], radius=12, outline=(150, 156, 168), width=2)
-d.text((xs[0] + 24, sy + 14), '공간 앰비언스 (상시)', font=f(28), fill=INK)
-d.text((xs[0] + 24, sy + 54), '스피커 2조 · 저음량 공간음 — 축적 화면의 분위기에 맞춰 레이어가 천천히 바뀜(안)', font=f(22), fill=SUB)
+SH = 150
+lx0, lx1 = xs[0], xs[4] + BOX_W
+d.rounded_rectangle([lx0, sy, lx1, sy + SH], radius=12, outline=ACCENT, width=3, fill=(252, 241, 236))
+d.text((lx0 + 24, sy + 14), '공간 사운드 — 화면과 같은 값으로 함께 변한다', font=f(28), fill=INK)
+rows = [
+    '바탕층  축적 화면의 원소 비율 → 4원소 바탕음 믹스 (아무도 없을 때도 흐름)',
+    '개인층  내 상위 두 원소 · 강도 → 소리 밀도·밝기 · 움직임 → 입자음·좌우 위치',
+    '스며듦  떠날 때 내 소리가 잔향으로 풀려 바탕층에 섞임',
+]
+for k, r in enumerate(rows):
+    d.text((lx0 + 24, sy + 58 + k * 30), r, font=f(21), fill=SUB)
+# 7단계 → 사운드 레인 연결
+c7 = xs[6] + 30
+yb = BOX_Y + BOX_H
+d.line([(c7, yb), (c7, yb + 78)], fill=ACCENT, width=3)
+d.line([(c7, yb + 78), (lx1 - 70, yb + 78)], fill=ACCENT, width=3)
+d.line([(lx1 - 70, yb + 78), (lx1 - 70, sy - 12)], fill=ACCENT, width=3)
+d.polygon([(lx1 - 80, sy - 16), (lx1 - 60, sy - 16), (lx1 - 70, sy - 1)], fill=ACCENT)
+d.text((lx1 - 50, yb + 88), '소리', font=f(20), fill=ACCENT)
 
 # ── 범례
 ly2 = H - 100
