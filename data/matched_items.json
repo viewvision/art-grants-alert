@@ -2,6 +2,66 @@
   {
     "site": "arko_thearts",
     "site_label": "아르코 통합플랫폼",
+    "id": "GGCF_BOARDS_20261103043350001",
+    "title": "2027년 경기 예술인의 집 상반기 정기대관 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GGCF_BOARDS_20261103043350001",
+    "date": "2026.11.02 - 2026.11.16",
+    "image": null,
+    "first_seen": "2026-11-04"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "ARTE_INFO_20261103043341001",
+    "title": "2027년 사회문화예술교육 지원사업 예술누림 찾아가는 대학 연계 설명회 참여 대학 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=ARTE_INFO_20261103043341001",
+    "date": "2026.11.04 - 2026.11.10",
+    "image": null,
+    "first_seen": "2026-11-04"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S65949",
+    "title": "2027년 장애예술 활성화 지원사업",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65949",
+    "date": "2026.10.30 - 2026.12.04",
+    "image": null,
+    "first_seen": "2026-11-04"
+  },
+  {
+    "site": "wevity",
+    "site_label": "위비티",
+    "id": "112142",
+    "title": "제1회 CLIIP AI 웹툰 영상화 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112142",
+    "date": "D-27 접수중",
+    "image": null,
+    "first_seen": "2026-11-04"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "112131",
+    "title": "대한민국 수목원·정원 숏폼 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112131",
+    "date": "D-20 접수중",
+    "image": null,
+    "first_seen": "2026-11-04"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "112123",
+    "title": "태안 반려동물 동반 여행 사진 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112123",
+    "date": "D-27 접수중",
+    "image": null,
+    "first_seen": "2026-11-04"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
     "id": "GCFAC_NOTICE_20261031011632001",
     "title": "2027년 1분기 만천명월예술인家 정기대관 공고",
     "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GCFAC_NOTICE_20261031011632001",
@@ -2936,66 +2996,6 @@
     "title": "2026 PBS 숏폼 영상 콘텐츠 공모전",
     "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111236",
     "date": "D-52 접수중",
-    "image": null,
-    "first_seen": "2026-09-22"
-  },
-  {
-    "site": "wevity_video",
-    "site_label": "위비티 (영상/UCC/사진)",
-    "id": "111229",
-    "title": "2026 서울시건축사회 숏폼 영상 공모전",
-    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111229",
-    "date": "D-38 접수중",
-    "image": null,
-    "first_seen": "2026-09-22"
-  },
-  {
-    "site": "wevity_video",
-    "site_label": "위비티 (영상/UCC/사진)",
-    "id": "111223",
-    "title": "2026 AI 활용 숏폼 영상 공모전 (나의 공단, 나의 이야기)",
-    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111223",
-    "date": "D-39 접수예정",
-    "image": null,
-    "first_seen": "2026-09-22"
-  },
-  {
-    "site": "wevity_video",
-    "site_label": "위비티 (영상/UCC/사진)",
-    "id": "111222",
-    "title": "NEXMUSE AI Music Video Contest 2027",
-    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111222",
-    "date": "D-97 접수중",
-    "image": null,
-    "first_seen": "2026-09-22"
-  },
-  {
-    "site": "wevity_video",
-    "site_label": "위비티 (영상/UCC/사진)",
-    "id": "111203",
-    "title": "교육부-EBS 함께학교 100초 숏폼 공모전",
-    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111203",
-    "date": "D-39 접수예정",
-    "image": null,
-    "first_seen": "2026-09-22"
-  },
-  {
-    "site": "wevity_video",
-    "site_label": "위비티 (영상/UCC/사진)",
-    "id": "111191",
-    "title": "제72회 백제문화제 숏폼 공모전",
-    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111191",
-    "date": "D-31 접수예정",
-    "image": null,
-    "first_seen": "2026-09-22"
-  },
-  {
-    "site": "wevity_video",
-    "site_label": "위비티 (영상/UCC/사진)",
-    "id": "111169",
-    "title": "K-아이웨어 숏폼 영상 공모전",
-    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111169",
-    "date": "D-24 접수중",
     "image": null,
     "first_seen": "2026-09-22"
   }

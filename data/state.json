@@ -2629,6 +2629,42 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GCFAC_NOTICE_20261031011632001",
       "date": "2026.11.02 - 2026.11.13",
       "first_seen": "2026-11-03"
+    },
+    "S65954": {
+      "title": "2026년 12월 용인시민무용아카데미 무용창작소 2 연습실 수시대관 공고 안내",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65954",
+      "date": "2026.11.03 - 2026.11.18",
+      "first_seen": "2026-11-04"
+    },
+    "GGCF_BOARDS_20261103043350001": {
+      "title": "2027년 경기 예술인의 집 상반기 정기대관 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=GGCF_BOARDS_20261103043350001",
+      "date": "2026.11.02 - 2026.11.16",
+      "first_seen": "2026-11-04"
+    },
+    "ARTE_INFO_20261103043341001": {
+      "title": "2027년 사회문화예술교육 지원사업 예술누림 찾아가는 대학 연계 설명회 참여 대학 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=ARTE_INFO_20261103043341001",
+      "date": "2026.11.04 - 2026.11.10",
+      "first_seen": "2026-11-04"
+    },
+    "S65949": {
+      "title": "2027년 장애예술 활성화 지원사업",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65949",
+      "date": "2026.10.30 - 2026.12.04",
+      "first_seen": "2026-11-04"
+    },
+    "S65948": {
+      "title": "2027년도 상반기 아르코공연연습센터@화성 정기대관 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65948",
+      "date": "2026.11.02 - 2026.11.13",
+      "first_seen": "2026-11-04"
+    },
+    "S65944": {
+      "title": "2026 제5차 청주도시첨단문화산업단지 입주기업 모집 공고(신규 및 기간연장)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65944",
+      "date": "2026.11.02 - 2026.11.20",
+      "first_seen": "2026-11-04"
     }
   },
   "arko_education": {
@@ -8479,6 +8515,42 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95558",
       "date": "2026-11-02",
       "first_seen": "2026-11-03"
+    },
+    "95580": {
+      "title": "[에스에스파운데이션 주식회사] 문아트그라운드 뮤지엄 학예사 채용 공고 (경기도 용인시 처인구 모현읍 문형동림로101번길 37)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95580",
+      "date": "2026-11-03",
+      "first_seen": "2026-11-04"
+    },
+    "95579": {
+      "title": "[천안어린이꿈누리터] 2027년 천안어린이꿈누리터 문화예술교육 제안사 모집 공고 (충남 천안시 동남구 옛시청길 39 (문화동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95579",
+      "date": "2026-11-03",
+      "first_seen": "2026-11-04"
+    },
+    "95578": {
+      "title": "[(사)캔 파운데이션] (사)캔 파운데이션 큐레이터 채용 공고 (서울 용산구 이태원로27길 101 (한남동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95578",
+      "date": "2026-11-03",
+      "first_seen": "2026-11-04"
+    },
+    "95576": {
+      "title": "[국립극장] 국립극장 안내원(공연, 매표, 고객지원센터) 모집 공고(~11/16) (서울 중구 장충단로 59 (장충동2가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95576",
+      "date": "2026-11-03",
+      "first_seen": "2026-11-04"
+    },
+    "95575": {
+      "title": "[영산아트홀] 2026 영산아트홀 무대스탭 모집 안내 (서울 영등포구 여의공원로 101 (여의도동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95575",
+      "date": "2026-11-03",
+      "first_seen": "2026-11-04"
+    },
+    "95574": {
+      "title": "[(주)대성아트센터] [디큐브 링크아트센터] 하우스 안내원 모집 공고 (서울 구로구 경인로 662 (신도림동, 디큐브시티))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95574",
+      "date": "2026-11-03",
+      "first_seen": "2026-11-04"
     }
   },
   "wevity": {
@@ -9009,6 +9081,12 @@
       "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112110",
       "date": "D-15 접수중",
       "first_seen": "2026-11-03"
+    },
+    "112142": {
+      "title": "제1회 CLIIP AI 웹툰 영상화 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112142",
+      "date": "D-27 접수중",
+      "first_seen": "2026-11-04"
     }
   },
   "artspoon": {
@@ -10609,6 +10687,42 @@
       "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202633000002012300008B",
       "date": "2026.11.02 ~ 2026.11.16",
       "first_seen": "2026-11-03"
+    },
+    "202600000576176600007A": {
+      "title": "2026년 지역특화 스포츠 산업 거점조성",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202600000576176600007A",
+      "date": "2026.11.04 ~ 2026.12.03",
+      "first_seen": "2026-11-04"
+    },
+    "202632000000011800014A": {
+      "title": "진도군어린이사회복지급식관리지원센터 위탁 운영기관 모집 공고",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000011800014A",
+      "date": "2026.11.04 ~ 2026.11.18",
+      "first_seen": "2026-11-04"
+    },
+    "20260448712": {
+      "title": "2026년 읍면지역사회보장협의체 특화사업",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260448712",
+      "date": "2026.11.03. ~ 2026.11.07.",
+      "first_seen": "2026-11-04"
+    },
+    "202632000000003200004A": {
+      "title": "서구 어린이·사회복지급식관리지원센터 운영 민간위탁 수탁기관 모집 공고",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000003200004A",
+      "date": "2026.11.03 ~ 2026.11.18",
+      "first_seen": "2026-11-04"
+    },
+    "202641000000026500015A": {
+      "title": "2026년 수산물 직매장 및 창업지원 플랫폼 구축 보조사업자(사업운영기관) 추가 모집 재공고",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202641000000026500015A",
+      "date": "2026.11.03 ~ 2026.11.17",
+      "first_seen": "2026-11-04"
+    },
+    "202641000000026500013A": {
+      "title": "2026년 수산물 직매장 및 창업지원 플랫폼 구축 보조사업자(사업운영기관) 추가 모집 재공고",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202641000000026500013A",
+      "date": "2026.11.03 ~ 2026.11.17",
+      "first_seen": "2026-11-04"
     }
   },
   "gokams": {
@@ -12013,6 +12127,42 @@
       "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112046",
       "date": "D-4 마감임박",
       "first_seen": "2026-11-03"
+    },
+    "112142": {
+      "title": "제1회 CLIIP AI 웹툰 영상화 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112142",
+      "date": "D-27 접수중",
+      "first_seen": "2026-11-04"
+    },
+    "112131": {
+      "title": "대한민국 수목원·정원 숏폼 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112131",
+      "date": "D-20 접수중",
+      "first_seen": "2026-11-04"
+    },
+    "112128": {
+      "title": "전북에 빠졌쏭 AI 뮤직쇼츠 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112128",
+      "date": "D-16 접수중",
+      "first_seen": "2026-11-04"
+    },
+    "112123": {
+      "title": "태안 반려동물 동반 여행 사진 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112123",
+      "date": "D-27 접수중",
+      "first_seen": "2026-11-04"
+    },
+    "112122": {
+      "title": "부산 동구 AI 숏폼 영상 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112122",
+      "date": "D-19 접수중",
+      "first_seen": "2026-11-04"
+    },
+    "112070": {
+      "title": "2026 세종사이버대학교 아동학과 공모전 (디지털 디톡스 챌린지)",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112070",
+      "date": "D-12 접수중",
+      "first_seen": "2026-11-04"
     }
   },
   "accf": {
