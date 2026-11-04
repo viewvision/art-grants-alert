@@ -1,0 +1,4 @@
+{"photo": "src/f_twoshot.jpg", "crop": [1120, 250, 1760, 960], "photo_w": 700,
+ "label": "신진 건축사 × 박성준 회장 인터뷰", "part": "PART 2",
+ "head": [{"t": "건축엔", "size": 92}, {"t": "건축사가 있습니다", "size": 84, "hl": true}],
+ "sub": "시민 인식 개선부터 회원 홍보 · 지음터까지", "head_y": 240, "out": "thumb_part2.jpg"}
