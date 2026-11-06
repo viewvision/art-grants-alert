@@ -2689,6 +2689,30 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=IFAC_MENU_20261104010805001",
       "date": "2026.11.03 - 2026.11.13",
       "first_seen": "2026-11-05"
+    },
+    "S65989": {
+      "title": "2027년 과천시립예술단 찾아가는 음악회 신청 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65989",
+      "date": "2026.11.02 - 2026.11.27",
+      "first_seen": "2026-11-06"
+    },
+    "S65987": {
+      "title": "2026 대한민국 문화도시 충주 국악 향유 공간 활성화 지원 <ART BRIDGE(아트 브릿지)> 참여자 모집 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65987",
+      "date": "2026.11.04 - 2026.11.11",
+      "first_seen": "2026-11-06"
+    },
+    "JFAC_NOTICE_20261105043449001": {
+      "title": "2027년도 1차 상반기 아르코공연연습센터@제주 정기대관 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=JFAC_NOTICE_20261105043449001",
+      "date": "2026.11.06 - 2026.11.20",
+      "first_seen": "2026-11-06"
+    },
+    "ARTE_INFO_20261105043342001": {
+      "title": "2027 사회문화예술교육 지원사업 설명회 참여 안내",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=ARTE_INFO_20261105043342001",
+      "date": "2026.11.04 - 2026.11.20",
+      "first_seen": "2026-11-06"
     }
   },
   "arko_education": {
@@ -8635,6 +8659,66 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95585",
       "date": "2026-11-04",
       "first_seen": "2026-11-05"
+    },
+    "95623": {
+      "title": "[놀씨어터 코엑스아티움] [NOL 씨어터 대학로] Audience Officer(공연장 안내원) 모집 (서울 종로구 동숭길 100 (동숭동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95623",
+      "date": "2026-11-06",
+      "first_seen": "2026-11-06"
+    },
+    "95622": {
+      "title": "[당진문화재단] [2027 아티스트 오브 당진] 객원기획자(큐레이터) 모집공고 (충남 당진시 무수동2길 25-21 (읍내동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95622",
+      "date": "2026-11-06",
+      "first_seen": "2026-11-06"
+    },
+    "95621": {
+      "title": "[부천아트센터] (복사) (재)부천아트센터 2026년 제3차 공연장 안내원(아르바이트생) 모집 공고(~11/11) (경기 부천시 원미구 소향로 165 (중동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95621",
+      "date": "2026-11-06",
+      "first_seen": "2026-11-06"
+    },
+    "95615": {
+      "title": "[빎스토리 문화예술] [2027 문화예술교육 지원사업 | 미술강사 모집 공고] (서울 도봉구 도봉로126길 5 (창동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95615",
+      "date": "2026-11-05",
+      "first_seen": "2026-11-06"
+    },
+    "95614": {
+      "title": "[브러쉬씨어터 주식회사] [브러쉬씨어터] 컴퍼니 매니저 구인 (서울 성동구 광나루로 130 (성수동1가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95614",
+      "date": "2026-11-05",
+      "first_seen": "2026-11-06"
+    },
+    "95613": {
+      "title": "[놀씨어터] [놀씨어터] 코엑스아티움 하우스 부매니저 (계약직) (서울 강남구 영동대로 513 (삼성동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95613",
+      "date": "2026-11-05",
+      "first_seen": "2026-11-06"
+    },
+    "95612": {
+      "title": "[(주) 루라이트] [루라이트] 공연·콘서트 무대조명 스태프 채용 (신입/경력) (경기 파주시 신촌로 19 (신촌동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95612",
+      "date": "2026-11-05",
+      "first_seen": "2026-11-06"
+    },
+    "95611": {
+      "title": "[국제갤러리] 국제갤러리 전시장 주말 지킴이 모집 공고 (서울 종로구 삼청로 54 (소격동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95611",
+      "date": "2026-11-05",
+      "first_seen": "2026-11-06"
+    },
+    "95610": {
+      "title": "[(재)국립발레단] (재)국립발레단 신입단원(정단원) 채용 공고 (서울 서초구 남부순환로 2406 (서초동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95610",
+      "date": "2026-11-05",
+      "first_seen": "2026-11-06"
+    },
+    "95609": {
+      "title": "[파주시청] 2026년 파주시립예술단 단무장 채용 공고 (경기 파주시 와석순환로 415 (와동동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95609",
+      "date": "2026-11-05",
+      "first_seen": "2026-11-06"
     }
   },
   "wevity": {
@@ -9177,6 +9261,12 @@
       "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112168",
       "date": "D-6 마감임박",
       "first_seen": "2026-11-05"
+    },
+    "112194": {
+      "title": "2026년 K-Petro 대국민 혁신 아이디어 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112194",
+      "date": "D-22 접수예정",
+      "first_seen": "2026-11-06"
     }
   },
   "artspoon": {
@@ -10813,6 +10903,24 @@
       "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202641000000026500013A",
       "date": "2026.11.03 ~ 2026.11.17",
       "first_seen": "2026-11-04"
+    },
+    "202632000000007300034A": {
+      "title": "포항시Ⅰ,Ⅱ 어린이·사회복지급식관리지원센터 위탁운영기관 모집 재공고",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000007300034A",
+      "date": "2026.11.10 ~ 2026.11.13",
+      "first_seen": "2026-11-06"
+    },
+    "20260450609": {
+      "title": "2026년 가축분뇨 처리(퇴비 운송비) 지원사업",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260450609",
+      "date": "2026.11.05. ~ 2026.11.13.",
+      "first_seen": "2026-11-06"
+    },
+    "202633000000033900031A": {
+      "title": "2026년 국가첨단전략산업 소부장 중소·중견기업 투자지원금 사업 3차 공고",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202633000000033900031A",
+      "date": "2026.11.05 ~ 2026.11.19",
+      "first_seen": "2026-11-06"
     }
   },
   "gokams": {
@@ -12277,6 +12385,18 @@
       "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112075",
       "date": "D-4 마감임박",
       "first_seen": "2026-11-05"
+    },
+    "112097": {
+      "title": "2026 진안고원 치유골목 AI 쇼츠영상 콘테스트",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112097",
+      "date": "D-10 접수예정",
+      "first_seen": "2026-11-06"
+    },
+    "112086": {
+      "title": "효성그룹과 함께 기록하는 화포천습지 생물다양성 사진 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112086",
+      "date": "D-29 접수중",
+      "first_seen": "2026-11-06"
     }
   },
   "accf": {
