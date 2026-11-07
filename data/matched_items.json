@@ -1,5 +1,65 @@
 [
   {
+    "site": "wevity",
+    "site_label": "위비티",
+    "id": "112221",
+    "title": "2026 김천 삼색이수 AI 영상·웹툰 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112221",
+    "date": "D-24 접수중",
+    "image": null,
+    "first_seen": "2026-11-07"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "112159",
+    "title": "제1회 순천시 청년정책 숏폼 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112159",
+    "date": "D-12 접수중",
+    "image": null,
+    "first_seen": "2026-11-07"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "112154",
+    "title": "제74회 세계 한센병의 날 한센병 바로 알기 영상 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112154",
+    "date": "D-28 접수예정",
+    "image": null,
+    "first_seen": "2026-11-07"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "112153",
+    "title": "2026 내가 소개하는 서울 숏폼 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112153",
+    "date": "D-21 접수예정",
+    "image": null,
+    "first_seen": "2026-11-07"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "112150",
+    "title": "2026 가을캠핑 사진 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112150",
+    "date": "D-13 접수중",
+    "image": null,
+    "first_seen": "2026-11-07"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "112146",
+    "title": "환경보건 숏츠 공모전 (숏츠로 전하는 환경보건 이야기)",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112146",
+    "date": "D-14 접수중",
+    "image": null,
+    "first_seen": "2026-11-07"
+  },
+  {
     "site": "arko_thearts",
     "site_label": "아르코 통합플랫폼",
     "id": "S65989",
@@ -2938,65 +2998,5 @@
     "date": "D-39 접수중",
     "image": null,
     "first_seen": "2026-09-24"
-  },
-  {
-    "site": "metaverse_campus_lecture",
-    "site_label": "가상융합기술 Campus (제작역량강화 교육)",
-    "id": "279",
-    "title": "생성형 AI 기반 가상융합 디지털 콘텐츠 개발 실무 과정",
-    "url": "https://www.metaverse-campus.kr/lecture/viewAll.do?menu_idx=50&lecIdx=17&proIdx=279",
-    "date": "2026.10.20 ~ 2026.10.22",
-    "image": null,
-    "first_seen": "2026-09-24"
-  },
-  {
-    "site": "wevity_video",
-    "site_label": "위비티 (영상/UCC/사진)",
-    "id": "111270",
-    "title": "2026 한국다지마 회전문 영상 공모전",
-    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111270",
-    "date": "D-26 접수예정",
-    "image": null,
-    "first_seen": "2026-09-24"
-  },
-  {
-    "site": "wevity_video",
-    "site_label": "위비티 (영상/UCC/사진)",
-    "id": "111269",
-    "title": "나만의 텃밭을 보여주세요 영상 공모전",
-    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111269",
-    "date": "D-32 접수중",
-    "image": null,
-    "first_seen": "2026-09-24"
-  },
-  {
-    "site": "wevity_video",
-    "site_label": "위비티 (영상/UCC/사진)",
-    "id": "111257",
-    "title": "제4회 여강전국사진공모전",
-    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111257",
-    "date": "D-63 접수중",
-    "image": null,
-    "first_seen": "2026-09-24"
-  },
-  {
-    "site": "wevity_video",
-    "site_label": "위비티 (영상/UCC/사진)",
-    "id": "111242",
-    "title": "한강버스 운항 1주년 AI 영상 & 사진 공모전",
-    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111242",
-    "date": "D-28 접수중",
-    "image": null,
-    "first_seen": "2026-09-24"
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "ARKO_BOARD_20260922044055001",
-    "title": "2026년 문화예술후원매개전문가 양성과정 아트너스클럽 시즌7",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=ARKO_BOARD_20260922044055001",
-    "date": "2026.09.21 - 2026.10.05",
-    "image": null,
-    "first_seen": "2026-09-22"
   }
 ]

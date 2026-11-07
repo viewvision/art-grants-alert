@@ -2713,6 +2713,12 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=ARTE_INFO_20261105043342001",
       "date": "2026.11.04 - 2026.11.20",
       "first_seen": "2026-11-06"
+    },
+    "S66007": {
+      "title": "2027년도 청주시한국공예관 공예스튜디오 입주작가 모집 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S66007",
+      "date": "2026.11.05 - 2026.11.30",
+      "first_seen": "2026-11-07"
     }
   },
   "arko_education": {
@@ -8719,6 +8725,48 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95609",
       "date": "2026-11-05",
       "first_seen": "2026-11-06"
+    },
+    "95627": {
+      "title": "[프레젠스] 롯데뮤지엄 “사랑을 담아, 미셸 들라크루아 드림” 전시 티켓 스태프/운영 스태프 모집공고 (서울 송파구 올림픽로 300 (신천동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95627",
+      "date": "2026-11-06",
+      "first_seen": "2026-11-07"
+    },
+    "95626": {
+      "title": "[콜럼버스파파야] 2026 제3회 경기 대학생 뮤지컬 페스티벌 무대 감독 프리랜서 모집 (경기 과천시 과천대로7길 65 (갈현동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95626",
+      "date": "2026-11-06",
+      "first_seen": "2026-11-07"
+    },
+    "95625": {
+      "title": "[국립극장] 국립극장 안내원(공연, 매표, 고객지원센터) 모집 공고(~11/16) (서울 중구 장충단로 59 (장충동2가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95625",
+      "date": "2026-11-06",
+      "first_seen": "2026-11-07"
+    },
+    "95624": {
+      "title": "[(재)금호문화재단] 금호아트홀 연세 2026년 공연장 안내원 (하우스어텐던트) 모집공고 (서울 서대문구 연세로 50 (신촌동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95624",
+      "date": "2026-11-06",
+      "first_seen": "2026-11-07"
+    },
+    "95628": {
+      "title": "[행복한상상 주식회사] 점심시간 포함, 시간제 사무보조원 채용 (경기도 구리시 갈매중앙로 190)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95628",
+      "date": "2026-11-06",
+      "first_seen": "2026-11-07"
+    },
+    "95629": {
+      "title": "[주식회사 여수와] [상시]여수시 어촌신활력 연구보조원 구인 (전남광주통합특별시 여수시 송도길 51-19)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95629",
+      "date": "2026-11-06",
+      "first_seen": "2026-11-07"
+    },
+    "95633": {
+      "title": "[（주）케이비에스시큐리티（KBS Security Ltd）] [KBS한국방송] 제작기술국(제작기술3) 기술보조... (서울특별시 영등포구 여의공원로 13)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95633",
+      "date": "2026-11-06",
+      "first_seen": "2026-11-07"
     }
   },
   "wevity": {
@@ -9267,6 +9315,12 @@
       "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112194",
       "date": "D-22 접수예정",
       "first_seen": "2026-11-06"
+    },
+    "112221": {
+      "title": "2026 김천 삼색이수 AI 영상·웹툰 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112221",
+      "date": "D-24 접수중",
+      "first_seen": "2026-11-07"
     }
   },
   "artspoon": {
@@ -10921,6 +10975,18 @@
       "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202633000000033900031A",
       "date": "2026.11.05 ~ 2026.11.19",
       "first_seen": "2026-11-06"
+    },
+    "202632000000012100017A": {
+      "title": "지역아동센터 인천지원단 운영 수탁기관 모집 공고",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000012100017A",
+      "date": "2026.11.10 ~ 2026.11.12",
+      "first_seen": "2026-11-07"
+    },
+    "202632000000022400013A": {
+      "title": "평택시 어린이·사회복지급식관리지원센터 위탁 운영기관 모집 공고",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000022400013A",
+      "date": "2026.11.06 ~ 2026.11.20",
+      "first_seen": "2026-11-07"
     }
   },
   "gokams": {
@@ -12397,6 +12463,42 @@
       "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112086",
       "date": "D-29 접수중",
       "first_seen": "2026-11-06"
+    },
+    "112221": {
+      "title": "2026 김천 삼색이수 AI 영상·웹툰 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112221",
+      "date": "D-24 접수중",
+      "first_seen": "2026-11-07"
+    },
+    "112159": {
+      "title": "제1회 순천시 청년정책 숏폼 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112159",
+      "date": "D-12 접수중",
+      "first_seen": "2026-11-07"
+    },
+    "112154": {
+      "title": "제74회 세계 한센병의 날 한센병 바로 알기 영상 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112154",
+      "date": "D-28 접수예정",
+      "first_seen": "2026-11-07"
+    },
+    "112153": {
+      "title": "2026 내가 소개하는 서울 숏폼 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112153",
+      "date": "D-21 접수예정",
+      "first_seen": "2026-11-07"
+    },
+    "112150": {
+      "title": "2026 가을캠핑 사진 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112150",
+      "date": "D-13 접수중",
+      "first_seen": "2026-11-07"
+    },
+    "112146": {
+      "title": "환경보건 숏츠 공모전 (숏츠로 전하는 환경보건 이야기)",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112146",
+      "date": "D-14 접수중",
+      "first_seen": "2026-11-07"
     }
   },
   "accf": {
