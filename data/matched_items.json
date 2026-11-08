@@ -2,6 +2,16 @@
   {
     "site": "wevity",
     "site_label": "위비티",
+    "id": "112212",
+    "title": "제1회 AI 숏드라마 시나리오 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112212",
+    "date": "D-19 접수중",
+    "image": null,
+    "first_seen": "2026-11-08"
+  },
+  {
+    "site": "wevity",
+    "site_label": "위비티",
     "id": "112221",
     "title": "2026 김천 삼색이수 AI 영상·웹툰 공모전",
     "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112221",
@@ -2986,16 +2996,6 @@
     "title": "2026년 보건복지분야 사회복무요원 SNS 영상 공모전",
     "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111272",
     "date": "D-38 접수예정",
-    "image": null,
-    "first_seen": "2026-09-24"
-  },
-  {
-    "site": "wevity",
-    "site_label": "위비티",
-    "id": "111271",
-    "title": "제 3회 AI·디지털 융합 교육 콘텐츠 개발 경진대회 참가자 모집",
-    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111271",
-    "date": "D-39 접수중",
     "image": null,
     "first_seen": "2026-09-24"
   }
