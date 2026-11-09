@@ -2,6 +2,16 @@
   {
     "site": "wevity",
     "site_label": "위비티",
+    "id": "112240",
+    "title": "제1회 ALONA 웹소설 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112240",
+    "date": "D-63 접수예정",
+    "image": null,
+    "first_seen": "2026-11-09"
+  },
+  {
+    "site": "wevity",
+    "site_label": "위비티",
     "id": "112212",
     "title": "제1회 AI 숏드라마 시나리오 공모전",
     "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112212",
@@ -2986,16 +2996,6 @@
     "title": "「AI를 켜고, 상상을 PLAY!」 참여자 모집 공고",
     "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65100",
     "date": "2026.09.15 - 2026.09.27",
-    "image": null,
-    "first_seen": "2026-09-24"
-  },
-  {
-    "site": "wevity",
-    "site_label": "위비티",
-    "id": "111272",
-    "title": "2026년 보건복지분야 사회복무요원 SNS 영상 공모전",
-    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111272",
-    "date": "D-38 접수예정",
     "image": null,
     "first_seen": "2026-09-24"
   }
