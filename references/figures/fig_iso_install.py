@@ -7,7 +7,7 @@
 """
 import math
 import os
-from PIL import Image, ImageDraw, ImageFont, ImageFilter
+from PIL import Image, ImageDraw, ImageFont
 
 LATIN_BOLD = '/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf'
 ARIAL_BOLD = '/usr/share/fonts/truetype/msttcorefonts/Arial_Bold.ttf'   # 있으면 우선 사용
@@ -126,24 +126,73 @@ poly([(0, 0, 0), (0, ZD, 0), (0, ZD, WH), (0, 0, WH)], fill=(214, 214, 214))
 cx = (DX0 + DX1) / 2
 d.polygon([P(DX0, 0, DZ0), P(DX1, 0, DZ0), P(DX1, 0, DZ1), P(DX0, 0, DZ1)], fill=WHITE)
 
-fig_layer = Image.new('RGBA', (W, H), (0, 0, 0, 0))
-fl = ImageDraw.Draw(fig_layer)
+# ── 러프한 라인 인물 (건축 스케일 인물 스케치 느낌: 외곽선만, 살짝 흔들리는 선)
+import random
+_rng = random.Random(7)
 
-def figure(xc, zb, hgt, gray, alpha):
-    w = hgt * 0.24
-    q = [P(xc - w * 0.55, 0, zb), P(xc + w * 0.55, 0, zb),
-         P(xc + w, 0, zb + hgt * 0.62), P(xc + w * 0.8, 0, zb + hgt * 0.80),
-         P(xc - w * 0.8, 0, zb + hgt * 0.80), P(xc - w, 0, zb + hgt * 0.62)]
-    col = (gray, gray, gray, alpha)
-    fl.polygon(q, fill=col)
-    hx, hy = P(xc, 0, zb + hgt * 0.90)
-    r = hgt * 0.095 * S
-    fl.ellipse([hx - r, hy - r * 1.15, hx + r, hy + r * 1.15], fill=col)
+# 정규화 좌표: u = 좌우(키 대비), v = 높이(0 바닥 ~ 1 머리 끝)
+# 포즈별 몸 외곽선 (머리 제외)
+POSES = {
+    'stand': [(-0.08, 0), (-0.09, 0.30), (-0.11, 0.47), (-0.16, 0.46), (-0.16, 0.66),
+              (-0.12, 0.79), (-0.04, 0.82), (0.04, 0.82), (0.12, 0.79), (0.16, 0.66),
+              (0.16, 0.46), (0.11, 0.47), (0.09, 0.30), (0.08, 0), (0.02, 0), (0.0, 0.40),
+              (-0.02, 0)],
+    'coat':  [(-0.12, 0), (-0.13, 0.35), (-0.15, 0.62), (-0.11, 0.79), (-0.04, 0.82),
+              (0.04, 0.82), (0.11, 0.79), (0.15, 0.62), (0.13, 0.35), (0.12, 0),
+              (0.03, 0), (0.0, 0.12), (-0.03, 0)],
+    'slim':  [(-0.06, 0), (-0.07, 0.40), (-0.10, 0.62), (-0.09, 0.78), (-0.03, 0.82),
+              (0.03, 0.82), (0.09, 0.78), (0.10, 0.62), (0.07, 0.40), (0.06, 0),
+              (0.015, 0), (0.0, 0.42), (-0.015, 0)],
+}
+ARM_NOTCH = {'stand': [((-0.115, 0.66), (-0.11, 0.50)), ((0.115, 0.66), (0.11, 0.50))],
+             'coat': [((-0.10, 0.68), (-0.10, 0.48)), ((0.10, 0.68), (0.10, 0.48))],
+             'slim': []}
 
-for xc, hg in [(0.6, 1.5), (1.0, 1.4), (2.1, 1.5), (2.5, 1.4)]:
-    figure(xc, DZ0 + 0.05, hg, 120, 45)
-figure(cx, DZ0 + 0.05, 1.65, 60, 120)
-img.alpha_composite(fig_layer.filter(ImageFilter.GaussianBlur(9)))
+def _jit(pts, amt):
+    return [(x + _rng.uniform(-amt, amt), y + _rng.uniform(-amt, amt)) for x, y in pts]
+
+def _chaikin(pts, n=3, closed=True):
+    """모서리를 둥글린다 — 손으로 그은 듯한 유기적인 외곽선."""
+    for _ in range(n):
+        out = []
+        m = len(pts) if closed else len(pts) - 1
+        for i in range(m):
+            (x0, y0), (x1, y1) = pts[i], pts[(i + 1) % len(pts)]
+            out += [(0.75 * x0 + 0.25 * x1, 0.75 * y0 + 0.25 * y1),
+                    (0.25 * x0 + 0.75 * x1, 0.25 * y0 + 0.75 * y1)]
+        pts = out
+    return pts
+
+def _stroke(draw, pts, color, w, closed=True):
+    pts = _chaikin(pts, 3, closed)
+    seq = pts + [pts[0]] if closed else pts
+    draw.line(seq, fill=color, width=w, joint='curve')
+
+def sketch_person(to_screen, pose, color, w=2, fill=None, jit=2.2, draw=None):
+    """to_screen(u, v) → 화면 좌표. 몸 외곽선 + 머리 타원 + 팔 구분선을 두 번 겹쳐 그린다."""
+    draw = draw or d
+    body = [to_screen(u, v) for u, v in POSES[pose]]
+    head = [to_screen(0.045 * math.cos(t), 0.905 + 0.058 * math.sin(t))
+            for t in [i * 2 * math.pi / 12 for i in range(12)]]
+    if fill:
+        draw.polygon(_chaikin(body), fill=fill)
+        draw.polygon(_chaikin(head), fill=fill)
+    for k in range(2):                       # 두 번 그어 손그림 느낌
+        a = jit if k == 0 else jit * 0.7
+        c = color if k == 0 else color[:3] + (110,) if len(color) == 4 else color + (110,)
+        _stroke(draw, _jit(body, a), c, w if k == 0 else max(1, w - 1))
+        _stroke(draw, _jit(head, a * 0.6), c, w if k == 0 else max(1, w - 1))
+        for (u0, v0), (u1, v1) in ARM_NOTCH[pose]:
+            if k == 0:
+                draw.line(_jit([to_screen(u0, v0), to_screen(u1, v1)], a), fill=c, width=max(1, w - 1))
+
+def wall_person(xc, zb, hgt, pose, color, w):
+    sketch_person(lambda u, v: P(xc + u * hgt, 0, zb + v * hgt), pose, color, w)
+
+# 앞서 다녀간 사람들(회색) + 지금 선 사람(검정)
+for xc, hg, pose in [(0.62, 1.45, 'coat'), (1.02, 1.35, 'slim'), (2.12, 1.50, 'stand'), (2.52, 1.40, 'coat')]:
+    wall_person(xc, DZ0 + 0.06, hg, pose, (150, 150, 150), 2)
+wall_person(cx, DZ0 + 0.06, 1.62, 'stand', (20, 20, 20), 3)
 poly([(DX0, 0, DZ0), (DX1, 0, DZ0), (DX1, 0, DZ1), (DX0, 0, DZ1)], fill=None, outline=BLACK, width_=2)
 
 # ── 초단초점 프로젝터 (벽 하단 바닥)
@@ -173,13 +222,10 @@ ring = [P(sx + 0.35 * math.cos(t), sy + 0.35 * math.sin(t), 0)
         for t in [i * 2 * math.pi / 64 for i in range(64)]]
 d.line(ring + [ring[0]], fill=BLACK, width=2)
 
-# ── 관람객 (1.65m)
+# ── 관람객 (1.65m) — 라인 인물, 흰 면으로 뒤 선을 가림
 fx, fy = P(sx, sy, 0)
-hgt = 1.65 * S
-body = [(fx - 21, fy), (fx + 21, fy), (fx + 27, fy - hgt * 0.55),
-        (fx + 32, fy - hgt * 0.80), (fx - 32, fy - hgt * 0.80), (fx - 27, fy - hgt * 0.55)]
-d.polygon(body, fill=(45, 45, 45))
-d.ellipse([fx - 21, fy - hgt - 3, fx + 21, fy - hgt * 0.82], fill=(45, 45, 45))
+hpx = 1.65 * S
+sketch_person(lambda u, v: (fx + u * hpx * 1.15, fy - v * hpx), 'stand', (20, 20, 20), 3, fill=WHITE)
 
 # ── 보조 모니터 (선택)
 poly([(0, 1.0, 1.05), (0, 1.9, 1.05), (0, 1.9, 1.6), (0, 1.0, 1.6)], fill=(60, 60, 60), width_=2)
