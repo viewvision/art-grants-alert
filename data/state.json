@@ -2791,6 +2791,30 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S66053",
       "date": "2026.11.09 - 2026.11.19",
       "first_seen": "2026-11-11"
+    },
+    "SFAC_NOTICE_20261111043401002": {
+      "title": "2027년 신당창작아케이드 18기 입주작가 정기공모",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20261111043401002",
+      "date": "2026.11.11 - 2026.11.26",
+      "first_seen": "2026-11-12"
+    },
+    "S66080": {
+      "title": "2027년 한벽전시실 상반기 정기대관 모집 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S66080",
+      "date": "2026.11.10 - 2026.11.25",
+      "first_seen": "2026-11-12"
+    },
+    "S66079": {
+      "title": "2027년 전주한벽문화관 공연장 상반기 정기대관 모집공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S66079",
+      "date": "2026.11.10 - 2026.11.24",
+      "first_seen": "2026-11-12"
+    },
+    "S66075": {
+      "title": "2026년 예술인 역량강화교육 참여 예술인 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S66075",
+      "date": "2026.11.10 - 2026.11.20",
+      "first_seen": "2026-11-12"
     }
   },
   "arko_education": {
@@ -3905,6 +3929,90 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=S65987&source=충주문화관광재단&seNo=001",
       "date": "~ 2026-11-11",
       "first_seen": "2026-11-10"
+    },
+    "CFAC_NOTICE_20261112071005001": {
+      "title": "2026년 천안문화재단 지식공유포럼 <AI시대 문화예술의 내일을 묻다 - 변화,활용,지원> 개최 안내",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=CFAC_NOTICE_20261112071005001&source=천안문화재단&seNo=001",
+      "date": "~ 2026-11-23",
+      "first_seen": "2026-11-12"
+    },
+    "S66099": {
+      "title": "담양 AI×사람 명사 초청 특별 강연회",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=S66099&source=담양군문화재단&seNo=001",
+      "date": "~ 2026-12-10",
+      "first_seen": "2026-11-12"
+    },
+    "ARTE_INFO_20261112043739001": {
+      "title": "2026년 문화예술교육사 자격제도 성과포럼 「사이의 기록 – 문화예술교육사가 목격한 변화의 순간들」 참여자 모집 안내",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=ARTE_INFO_20261112043739001&source=한국문화예술교육진흥원&seNo=001",
+      "date": "~ 2026-11-24",
+      "first_seen": "2026-11-12"
+    },
+    "S66087": {
+      "title": "2027년 상반기 세종공연예술연습공간 정기대관 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=S66087&source=세종시문화관광재단&seNo=001",
+      "date": "~ 2026-11-25",
+      "first_seen": "2026-11-12"
+    },
+    "S66086": {
+      "title": "2026년 예술IP 상품화 계약 특강「내 작품, 굿즈로 팔아도 될까요?」신청 안내",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=S66086&source=한국예술인복지재단&seNo=001",
+      "date": "~ 2026-11-22",
+      "first_seen": "2026-11-12"
+    },
+    "SFAC_NOTICE_20261111043401002": {
+      "title": "2027년 신당창작아케이드 18기 입주작가 정기공모",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=SFAC_NOTICE_20261111043401002&source=서울문화재단&seNo=001",
+      "date": "~ 2026-11-26",
+      "first_seen": "2026-11-12"
+    },
+    "S66080": {
+      "title": "2027년 한벽전시실 상반기 정기대관 모집 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=S66080&source=전주문화재단&seNo=001",
+      "date": "~ 2026-11-25",
+      "first_seen": "2026-11-12"
+    },
+    "S66079": {
+      "title": "2027년 전주한벽문화관 공연장 상반기 정기대관 모집공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=S66079&source=전주문화재단&seNo=001",
+      "date": "~ 2026-11-24",
+      "first_seen": "2026-11-12"
+    },
+    "S66075": {
+      "title": "2026년 예술인 역량강화교육 참여 예술인 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=S66075&source=순천문화재단&seNo=001",
+      "date": "~ 2026-11-20",
+      "first_seen": "2026-11-12"
+    },
+    "2611100001": {
+      "title": "2027년 상반기(3월~7월) 모두예술극장 공연장, 창작공간(모두스튜디오, 연습실) 대관 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=2611100001&source=(재)한국장애인문화예술원&seNo=002",
+      "date": "~ 2026-11-27",
+      "first_seen": "2026-11-12"
+    },
+    "S66068": {
+      "title": "2027년도 안산문화예술의전당 공연장 1분기 수시대관 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=S66068&source=안산문화재단&seNo=001",
+      "date": "~ 2026-11-23",
+      "first_seen": "2026-11-12"
+    },
+    "SFAC_NOTICE_20261110043804001": {
+      "title": "2027년 서울장애예술창작센터 17기 입주작가 정기공모",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=SFAC_NOTICE_20261110043804001&source=서울문화재단&seNo=001",
+      "date": "~ 2026-11-30",
+      "first_seen": "2026-11-12"
+    },
+    "S66061": {
+      "title": "2027년 원주시 문화시설 정기대관 문화예술단체, 일반(시민)단체 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=S66061&source=원주문화재단&seNo=001",
+      "date": "~ 2026-11-23",
+      "first_seen": "2026-11-12"
+    },
+    "S66053": {
+      "title": "2026년 경남콘텐츠코리아랩 콘텐츠 창작스쿨 프로그램 별별창작소 – 생성형 AI와 함께하는 콘텐츠 창작 교육생 모집 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=S66053&source=경남문화예술진흥원&seNo=001",
+      "date": "~ 2026-11-19",
+      "first_seen": "2026-11-12"
     }
   },
   "ncas": {
@@ -4261,6 +4369,18 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyDyvPI6tP3p%2FaL9YbfRJz7w0PBZm1EJpnMlsBwvsh76BM",
       "date": "2026.12.17 15:00 (D-37)",
       "first_seen": "2026-11-10"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?crawlerPageIndex=1&noticePageIndex=1&key=2301170002&docid=CRL3621&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&pstSn=&sw=%ED%8E%A0%EB%A1%9C%EC%9A%B0%EC%8B%AD": {
+      "title": "아르코문학펠로우십(유망)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?crawlerPageIndex=1&noticePageIndex=1&key=2301170002&docid=CRL3621&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&pstSn=&sw=%ED%8E%A0%EB%A1%9C%EC%9A%B0%EC%8B%AD",
+      "date": "2026.12.07 15:00 (D-25)",
+      "first_seen": "2026-11-12"
+    },
+    "https://artnuri.or.kr/crawler/info/view.do?crawlerPageIndex=1&noticePageIndex=1&key=2301170002&docid=CRL3622&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&pstSn=&sw=%EC%9E%A5%ED%8E%B8": {
+      "title": "장편소설창작지원(유형① 일반 장편소설)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?crawlerPageIndex=1&noticePageIndex=1&key=2301170002&docid=CRL3622&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&pstSn=&sw=%EC%9E%A5%ED%8E%B8",
+      "date": "2026.12.07 15:00 (D-25)",
+      "first_seen": "2026-11-12"
     }
   },
   "nabi": {
@@ -9109,6 +9229,66 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95667",
       "date": "2026-11-10",
       "first_seen": "2026-11-11"
+    },
+    "95698": {
+      "title": "[재단법인 칠곡문화관광재단] (재)칠곡문화관광재단 임기직 직원 6급(팀장) 채용 공고 (경북 칠곡군 석적읍 강변대로 1570-1)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95698",
+      "date": "2026-11-12",
+      "first_seen": "2026-11-12"
+    },
+    "95697": {
+      "title": "[(주)오픈갤러리] [오픈갤러리] 미술 작품 물류팀 채용 (서울 송파구 충민로 10 (문정동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95697",
+      "date": "2026-11-12",
+      "first_seen": "2026-11-12"
+    },
+    "95695": {
+      "title": "[국립극장] 국립극장 안내원(공연, 매표, 고객지원센터) 모집 공고(~11/16) (서울 중구 장충단로 59 (장충동2가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95695",
+      "date": "2026-11-12",
+      "first_seen": "2026-11-12"
+    },
+    "95694": {
+      "title": "[스테이지엠] [스테이지엠] 서울·수도권 투어 공연 현장(하우스) 스태프 모집 (서울 관악구 신림로59길 23 (신림동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95694",
+      "date": "2026-11-12",
+      "first_seen": "2026-11-12"
+    },
+    "95693": {
+      "title": "[스테이지엠] [스테이지엠] 대구 및 지방 투어 공연 현장(하우스) 스태프 모집 (대구 남구 중앙대로 243 (대명동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95693",
+      "date": "2026-11-12",
+      "first_seen": "2026-11-12"
+    },
+    "95690": {
+      "title": "[예술의전당] 예술의전당 음악당.오페라하우스  하우스 어텐던트 2026년 11월 모집 (11/10 ~ 11/17) (서울 서초구 남부순환로 2406 (서초동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95690",
+      "date": "2026-11-11",
+      "first_seen": "2026-11-12"
+    },
+    "95689": {
+      "title": "[예술의전당] 예술의전당 리드 하우스 어텐던트 2026년 11월 모집 (11/10 ~ 11/17) (서울 서초구 남부순환로 2406 (서초동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95689",
+      "date": "2026-11-11",
+      "first_seen": "2026-11-12"
+    },
+    "95688": {
+      "title": "[홍익대학교 산학협력단] 홍익대 대학로 아트센터 하우스 안내원 기간제 근무자 모집 (서울 종로구 대학로 57 (연건동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95688",
+      "date": "2026-11-11",
+      "first_seen": "2026-11-12"
+    },
+    "95687": {
+      "title": "[홍익대학교 산학협력단] 홍익대 대학로 아트센터 하우스 부매니저 기간제 근무자 모집 (서울 종로구 대학로 57 (연건동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95687",
+      "date": "2026-11-11",
+      "first_seen": "2026-11-12"
+    },
+    "95686": {
+      "title": "[(주)파커블앤코] [연극 공연] 티켓매니저 모집 (2026.12~2027.02) (서울 종로구 대학로 116 (동숭동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95686",
+      "date": "2026-11-11",
+      "first_seen": "2026-11-12"
     }
   },
   "wevity": {
@@ -9723,6 +9903,18 @@
       "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112295",
       "date": "D-43 접수중",
       "first_seen": "2026-11-11"
+    },
+    "112316": {
+      "title": "포항시 지역사회 문제 해결을 위한 AI 솔루션 아이디어 경진대회",
+      "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112316",
+      "date": "D-14 접수중",
+      "first_seen": "2026-11-12"
+    },
+    "112314": {
+      "title": "26년 하반기 이랜드크루즈 Z세대 서포터즈 모집",
+      "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112314",
+      "date": "D-9 접수중",
+      "first_seen": "2026-11-12"
     }
   },
   "artspoon": {
@@ -11395,6 +11587,18 @@
       "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000016600007A",
       "date": "2026.11.09 ~ 2026.11.23",
       "first_seen": "2026-11-09"
+    },
+    "202600008001472600005A": {
+      "title": "2026년도 재생원료 종량제봉투 제작 지원사업(4차)",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202600008001472600005A",
+      "date": "2026.11.12 ~ 2026.11.26",
+      "first_seen": "2026-11-12"
+    },
+    "202633000000021500008A": {
+      "title": "2027년 공공건축물 그린리모델링 종합사업지원",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202633000000021500008A",
+      "date": "2026.11.11 ~ 2026.11.25",
+      "first_seen": "2026-11-12"
     }
   },
   "gokams": {
@@ -12955,6 +13159,18 @@
       "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112213",
       "date": "D-20 접수중",
       "first_seen": "2026-11-11"
+    },
+    "112307": {
+      "title": "2026 귀뚜라미 AI 숏폼 영상 챌린지",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112307",
+      "date": "D-19 접수중",
+      "first_seen": "2026-11-12"
+    },
+    "112230": {
+      "title": "2026 회기랑길 숏폼 어워즈",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112230",
+      "date": "D-18 접수중",
+      "first_seen": "2026-11-12"
     }
   },
   "accf": {

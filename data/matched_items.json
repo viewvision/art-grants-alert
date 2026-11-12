@@ -2,6 +2,116 @@
   {
     "site": "arko_thearts",
     "site_label": "아르코 통합플랫폼",
+    "id": "S66075",
+    "title": "2026년 예술인 역량강화교육 참여 예술인 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S66075",
+    "date": "2026.11.10 - 2026.11.20",
+    "image": null,
+    "first_seen": "2026-11-12"
+  },
+  {
+    "site": "artnuri",
+    "site_label": "아트누리",
+    "id": "CFAC_NOTICE_20261112071005001",
+    "title": "2026년 천안문화재단 지식공유포럼 <AI시대 문화예술의 내일을 묻다 - 변화,활용,지원> 개최 안내",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=CFAC_NOTICE_20261112071005001&source=천안문화재단&seNo=001",
+    "date": "~ 2026-11-23",
+    "image": null,
+    "first_seen": "2026-11-12"
+  },
+  {
+    "site": "artnuri",
+    "site_label": "아트누리",
+    "id": "S66099",
+    "title": "담양 AI×사람 명사 초청 특별 강연회",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=S66099&source=담양군문화재단&seNo=001",
+    "date": "~ 2026-12-10",
+    "image": null,
+    "first_seen": "2026-11-12"
+  },
+  {
+    "site": "artnuri",
+    "site_label": "아트누리",
+    "id": "ARTE_INFO_20261112043739001",
+    "title": "2026년 문화예술교육사 자격제도 성과포럼 「사이의 기록 – 문화예술교육사가 목격한 변화의 순간들」 참여자 모집 안내",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=ARTE_INFO_20261112043739001&source=한국문화예술교육진흥원&seNo=001",
+    "date": "~ 2026-11-24",
+    "image": null,
+    "first_seen": "2026-11-12"
+  },
+  {
+    "site": "artnuri",
+    "site_label": "아트누리",
+    "id": "S66086",
+    "title": "2026년 예술IP 상품화 계약 특강「내 작품, 굿즈로 팔아도 될까요?」신청 안내",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=S66086&source=한국예술인복지재단&seNo=001",
+    "date": "~ 2026-11-22",
+    "image": null,
+    "first_seen": "2026-11-12"
+  },
+  {
+    "site": "artnuri",
+    "site_label": "아트누리",
+    "id": "2611100001",
+    "title": "2027년 상반기(3월~7월) 모두예술극장 공연장, 창작공간(모두스튜디오, 연습실) 대관 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=2611100001&source=(재)한국장애인문화예술원&seNo=002",
+    "date": "~ 2026-11-27",
+    "image": null,
+    "first_seen": "2026-11-12"
+  },
+  {
+    "site": "artmore",
+    "site_label": "아트모아",
+    "id": "95690",
+    "title": "[예술의전당] 예술의전당 음악당.오페라하우스  하우스 어텐던트 2026년 11월 모집 (11/10 ~ 11/17) (서울 서초구 남부순환로 2406 (서초동))",
+    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95690",
+    "date": "2026-11-11",
+    "image": null,
+    "first_seen": "2026-11-12"
+  },
+  {
+    "site": "artmore",
+    "site_label": "아트모아",
+    "id": "95689",
+    "title": "[예술의전당] 예술의전당 리드 하우스 어텐던트 2026년 11월 모집 (11/10 ~ 11/17) (서울 서초구 남부순환로 2406 (서초동))",
+    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95689",
+    "date": "2026-11-11",
+    "image": null,
+    "first_seen": "2026-11-12"
+  },
+  {
+    "site": "wevity",
+    "site_label": "위비티",
+    "id": "112316",
+    "title": "포항시 지역사회 문제 해결을 위한 AI 솔루션 아이디어 경진대회",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112316",
+    "date": "D-14 접수중",
+    "image": null,
+    "first_seen": "2026-11-12"
+  },
+  {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "202600008001472600005A",
+    "title": "2026년도 재생원료 종량제봉투 제작 지원사업(4차)",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202600008001472600005A",
+    "date": "2026.11.12 ~ 2026.11.26",
+    "image": null,
+    "first_seen": "2026-11-12"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "112307",
+    "title": "2026 귀뚜라미 AI 숏폼 영상 챌린지",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112307",
+    "date": "D-19 접수중",
+    "image": null,
+    "first_seen": "2026-11-12"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
     "id": "S66068",
     "title": "2027년도 안산문화예술의전당 공연장 1분기 수시대관 공고",
     "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S66068",
@@ -2888,115 +2998,5 @@
     "date": "D-11 접수중",
     "image": null,
     "first_seen": "2026-10-01"
-  },
-  {
-    "site": "wevity_video",
-    "site_label": "위비티 (영상/UCC/사진)",
-    "id": "111344",
-    "title": "제1차 중소기업 소상공인 불합리 규제 발굴 공모전",
-    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111344",
-    "date": "D-30 접수중",
-    "image": null,
-    "first_seen": "2026-10-01"
-  },
-  {
-    "site": "wevity_video",
-    "site_label": "위비티 (영상/UCC/사진)",
-    "id": "111341",
-    "title": "제8회 대한민국 사회연대경제박람회 및 국제컨퍼런스 사진 공모전",
-    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111341",
-    "date": "D-11 접수중",
-    "image": null,
-    "first_seen": "2026-10-01"
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "S65174",
-    "title": "제23회 안산거리극축제 거리예술제작지원사업 '안산리서치' 공모",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S65174",
-    "date": "2026.09.28 - 2026.10.31",
-    "image": null,
-    "first_seen": "2026-09-30"
-  },
-  {
-    "site": "artmore",
-    "site_label": "아트모아",
-    "id": "95144",
-    "title": "[예술의전당] 예술의전당 음악당 하우스 어텐던트 2026년 하반기 10월 모집 (9/29 ~ 10/6) (서울 서초구 남부순환로 2406 (서초동))",
-    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95144",
-    "date": "2026-09-29",
-    "image": null,
-    "first_seen": "2026-09-30"
-  },
-  {
-    "site": "artmore",
-    "site_label": "아트모아",
-    "id": "95151",
-    "title": "[사단법인국제아동청소년연극협회한국본부] 문화예술 연수단원 추가채용_(사)국제아동청소년연극... (서울특별시 종로구 동숭길 114)",
-    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95151",
-    "date": "2026-09-29",
-    "image": null,
-    "first_seen": "2026-09-30"
-  },
-  {
-    "site": "wevity",
-    "site_label": "위비티",
-    "id": "111351",
-    "title": "CREPET AWARDS 2026 반려용품 디자인 공모전",
-    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111351",
-    "date": "D-72 접수예정",
-    "image": null,
-    "first_seen": "2026-09-30"
-  },
-  {
-    "site": "gokams",
-    "site_label": "예술경영지원센터",
-    "id": "4574",
-    "title": "2026 예술산업아카데미 <예술창업 모닝 살롱 Vol.5> 수강생 모집",
-    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4574&page=1&txtKeyword=&ddlKeyfield=T",
-    "date": "2026-09-29",
-    "image": null,
-    "first_seen": "2026-09-30"
-  },
-  {
-    "site": "gokams",
-    "site_label": "예술경영지원센터",
-    "id": "4573",
-    "title": "2026 예술산업보증 10월(7차) 공모 안내(10.1.(목)~10.12.(월), 16:00)",
-    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4573&page=1&txtKeyword=&ddlKeyfield=T",
-    "date": "2026-09-29",
-    "image": null,
-    "first_seen": "2026-09-30"
-  },
-  {
-    "site": "wevity_video",
-    "site_label": "위비티 (영상/UCC/사진)",
-    "id": "111348",
-    "title": "고속철도 통합 기념 영상 공모전",
-    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111348",
-    "date": "D-31 접수중",
-    "image": null,
-    "first_seen": "2026-09-30"
-  },
-  {
-    "site": "wevity_video",
-    "site_label": "위비티 (영상/UCC/사진)",
-    "id": "111331",
-    "title": "제5회 청소년창작영상제 숏폼 공모전",
-    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111331",
-    "date": "D-69 접수중",
-    "image": null,
-    "first_seen": "2026-09-30"
-  },
-  {
-    "site": "wevity_video",
-    "site_label": "위비티 (영상/UCC/사진)",
-    "id": "111312",
-    "title": "2026 Insta360 Luna Ultra 필름메이커 공모전 제1기",
-    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111312",
-    "date": "D-9 접수중",
-    "image": null,
-    "first_seen": "2026-09-30"
   }
 ]
