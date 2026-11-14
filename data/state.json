@@ -197,6 +197,12 @@
       "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2611070001",
       "date": "2026-11-07",
       "first_seen": "2026-11-08"
+    },
+    "2611130001": {
+      "title": "11~12월 아트코리아랩 대관 운영 일정 안내",
+      "url": "https://www.artskorealab.kr/bbs/view.do?key=2303300002&pstSn=2611130001",
+      "date": "2026-11-13",
+      "first_seen": "2026-11-14"
     }
   },
   "arko_thearts": {
@@ -4055,6 +4061,18 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=S66053&source=경남문화예술진흥원&seNo=001",
       "date": "~ 2026-11-19",
       "first_seen": "2026-11-12"
+    },
+    "2611120003": {
+      "title": "신진 작가 지원 전시 2027 아티스타트 작가 모집 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=2611120003&source=KT&G 상상마당 부산&seNo=002",
+      "date": "~ 2026-12-20",
+      "first_seen": "2026-11-14"
+    },
+    "SFAC_NOTICE_20261112043804001": {
+      "title": "2026년 서울예술인지원센터 아카데미 'MEET-UP' 아티스트 토크 : 원천의 원천2(조예은 연출)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=SFAC_NOTICE_20261112043804001&source=서울문화재단&seNo=001",
+      "date": "~ 2026-11-25",
+      "first_seen": "2026-11-14"
     }
   },
   "ncas": {
@@ -9379,6 +9397,66 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95699",
       "date": "2026-11-12",
       "first_seen": "2026-11-13"
+    },
+    "95718": {
+      "title": "[홍익대학교 산학협력단] 홍익대 대학로 아트센터 하우스 안내원 기간제 근무자 모집 (서울 종로구 대학로 57 (연건동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95718",
+      "date": "2026-11-13",
+      "first_seen": "2026-11-14"
+    },
+    "95717": {
+      "title": "[홍익대학교 산학협력단] 홍익대 대학로 아트센터 하우스 부매니저 기간제 근무자 모집 (서울 종로구 대학로 57 (연건동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95717",
+      "date": "2026-11-13",
+      "first_seen": "2026-11-14"
+    },
+    "95716": {
+      "title": "[(주)오픈갤러리] [오픈갤러리] 미술 작품 물류팀 채용 (서울 송파구 충민로 10 (문정동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95716",
+      "date": "2026-11-13",
+      "first_seen": "2026-11-14"
+    },
+    "95715": {
+      "title": "[(주)오픈갤러리] [오픈갤러리] 마케팅팀 채용 (서울 성동구 왕십리로 115 (성수동1가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95715",
+      "date": "2026-11-13",
+      "first_seen": "2026-11-14"
+    },
+    "95714": {
+      "title": "[(주)오픈갤러리] [오픈갤러리] 고객관리팀 신입 채용 (미술 작품 추천 및 운영) (서울 성동구 왕십리로 115 (성수동1가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95714",
+      "date": "2026-11-13",
+      "first_seen": "2026-11-14"
+    },
+    "95713": {
+      "title": "[(주)오픈갤러리] [오픈갤러리] 학예팀 신입 채용 (서울 성동구 왕십리로 115 (성수동1가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95713",
+      "date": "2026-11-13",
+      "first_seen": "2026-11-14"
+    },
+    "95712": {
+      "title": "[온느뮤지엄] 퐁피두 한화 ≪샤갈, 너머의 여정≫ 도슨트 프로그램 운영 매니저, 스태프 모집 (서울 영등포구 63로 50 (여의도동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95712",
+      "date": "2026-11-13",
+      "first_seen": "2026-11-14"
+    },
+    "95711": {
+      "title": "[주안영상미디어센터] 2027 꿈의 예술단(스튜디오) ‘미추홀’ 예술가 공개모집 (인천 미추홀구 석바위로 68 (주안동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95711",
+      "date": "2026-11-13",
+      "first_seen": "2026-11-14"
+    },
+    "95710": {
+      "title": "[충남문화관광재단] 2026년 충남문화관광재단 제7차 직원(일반직) 공개경쟁 채용 공고 (충남 예산군 삽교읍 예학로 10-22)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95710",
+      "date": "2026-11-13",
+      "first_seen": "2026-11-14"
+    },
+    "95709": {
+      "title": "[(재)인천광역시부평구문화재단] 2027 꿈의 극단 ‘부평’ 창작인력 모집 공고 (인천 부평구 아트센터로 166 (십정동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95709",
+      "date": "2026-11-13",
+      "first_seen": "2026-11-14"
     }
   },
   "wevity": {
@@ -10023,6 +10101,24 @@
       "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112336",
       "date": "D-17 접수중",
       "first_seen": "2026-11-13"
+    },
+    "112349": {
+      "title": "농민신문 제31회 신춘문예 작품 공모SPECIAL",
+      "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112349",
+      "date": "D-14 접수중",
+      "first_seen": "2026-11-14"
+    },
+    "112365": {
+      "title": "제27회 전국국악동요경연대회",
+      "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112365",
+      "date": "D-402 접수중",
+      "first_seen": "2026-11-14"
+    },
+    "112363": {
+      "title": "2026년 산림복지 국민제안 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112363",
+      "date": "D-17 접수중",
+      "first_seen": "2026-11-14"
     }
   },
   "artspoon": {
@@ -13321,6 +13417,24 @@
       "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112278",
       "date": "D-6 마감임박",
       "first_seen": "2026-11-13"
+    },
+    "112359": {
+      "title": "2026 은평구 청소년 환경숏폼 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112359",
+      "date": "D-14 접수예정",
+      "first_seen": "2026-11-14"
+    },
+    "112354": {
+      "title": "2026 구미 미래교육 가족 콘텐츠 공모전 - 구미 미래 잇다 가족숏폼공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112354",
+      "date": "D-9 접수중",
+      "first_seen": "2026-11-14"
+    },
+    "112292": {
+      "title": "영동군청소년상담복지센터 2026년 제 12회 UCC공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112292",
+      "date": "D-14 접수중",
+      "first_seen": "2026-11-14"
     }
   },
   "accf": {
@@ -13365,6 +13479,12 @@
       "url": "https://www.accf.or.kr/main/product/detail/ko/443",
       "date": "2026-11-12 ~ 2026-11-12",
       "first_seen": "2026-10-27"
+    },
+    "446": {
+      "title": "<2027 국립아시아문화전당재단 미디어아트 협력 전시 기관 공모>",
+      "url": "https://www.accf.or.kr/main/product/detail/ko/446",
+      "date": "2026-11-13 ~ 2026-12-04",
+      "first_seen": "2026-11-14"
     }
   },
   "gmap": {

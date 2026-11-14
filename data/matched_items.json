@@ -1,5 +1,55 @@
 [
   {
+    "site": "wevity",
+    "site_label": "위비티",
+    "id": "112363",
+    "title": "2026년 산림복지 국민제안 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112363",
+    "date": "D-17 접수중",
+    "image": null,
+    "first_seen": "2026-11-14"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "112359",
+    "title": "2026 은평구 청소년 환경숏폼 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112359",
+    "date": "D-14 접수예정",
+    "image": null,
+    "first_seen": "2026-11-14"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "112354",
+    "title": "2026 구미 미래교육 가족 콘텐츠 공모전 - 구미 미래 잇다 가족숏폼공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112354",
+    "date": "D-9 접수중",
+    "image": null,
+    "first_seen": "2026-11-14"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "112292",
+    "title": "영동군청소년상담복지센터 2026년 제 12회 UCC공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112292",
+    "date": "D-14 접수중",
+    "image": null,
+    "first_seen": "2026-11-14"
+  },
+  {
+    "site": "accf",
+    "site_label": "국립아시아문화전당재단 (기획 행사)",
+    "id": "446",
+    "title": "<2027 국립아시아문화전당재단 미디어아트 협력 전시 기관 공모>",
+    "url": "https://www.accf.or.kr/main/product/detail/ko/446",
+    "date": "2026-11-13 ~ 2026-12-04",
+    "image": "https://accf.or.kr/cms/files/ACCF미디어아트협력전시기관공모웹배너445630_202611100248.jpg",
+    "first_seen": "2026-11-14"
+  },
+  {
     "site": "arko_thearts",
     "site_label": "아르코 통합플랫폼",
     "id": "SFAC_NOTICE_20261112043804001",
@@ -2948,55 +2998,5 @@
     "date": "D-30 접수중",
     "image": null,
     "first_seen": "2026-10-02"
-  },
-  {
-    "site": "wevity_video",
-    "site_label": "위비티 (영상/UCC/사진)",
-    "id": "111385",
-    "title": "2026 자선냄비 나눔 AI 영상공모전",
-    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111385",
-    "date": "D-29 접수중",
-    "image": null,
-    "first_seen": "2026-10-02"
-  },
-  {
-    "site": "wevity_video",
-    "site_label": "위비티 (영상/UCC/사진)",
-    "id": "111364",
-    "title": "2026 쇼츠 영상 공모전",
-    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111364",
-    "date": "D-6 마감임박",
-    "image": null,
-    "first_seen": "2026-10-02"
-  },
-  {
-    "site": "wevity_video",
-    "site_label": "위비티 (영상/UCC/사진)",
-    "id": "111353",
-    "title": "[동두천시] 2026 영상공모전 (PLAY 동두천!)",
-    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111353",
-    "date": "D-29 접수중",
-    "image": null,
-    "first_seen": "2026-10-02"
-  },
-  {
-    "site": "arko_thearts",
-    "site_label": "아르코 통합플랫폼",
-    "id": "SFAC_NOTICE_20260924044202001",
-    "title": "서울거리예술창작센터 11월 정기대관 신청 안내",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20260924044202001",
-    "date": "2026.10.01 - 2026.10.05",
-    "image": null,
-    "first_seen": "2026-10-01"
-  },
-  {
-    "site": "artnuri",
-    "site_label": "아트누리",
-    "id": "S65185",
-    "title": "2026년 아트코리아랩 오픈 프롬프트 커뮤니티 예술 해커톤 참여자 모집공고",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=S65185&source=예술경영지원센터&seNo=001",
-    "date": "~ 2026-10-18",
-    "image": null,
-    "first_seen": "2026-10-01"
   }
 ]
