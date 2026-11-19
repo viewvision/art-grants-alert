@@ -2,6 +2,56 @@
   {
     "site": "arko_thearts",
     "site_label": "아르코 통합플랫폼",
+    "id": "SFAC_NOTICE_20261118043400001",
+    "title": "2026년 서울 청년예술창업 페스타 행사 안내 및 참여자 모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20261118043400001",
+    "date": "2026.11.06 - 2026.11.20",
+    "image": null,
+    "first_seen": "2026-11-19"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S66178",
+    "title": "제20주년 2027KoCACA아트페스티벌 예술감독 공개모집 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S66178",
+    "date": "2026.11.17 - 2026.12.01",
+    "image": null,
+    "first_seen": "2026-11-19"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "IFAC_MENU_20261118010806001",
+    "title": "2027년 공연장상주단체 육성지원사업 참여공연장 모집 연장 및 공연단체 공모 일정 사전 안내 공지",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=IFAC_MENU_20261118010806001",
+    "date": "2026.11.17 - 2026.11.20",
+    "image": null,
+    "first_seen": "2026-11-19"
+  },
+  {
+    "site": "gokams",
+    "site_label": "예술경영지원센터",
+    "id": "4603",
+    "title": "2026 예술산업 정책 포럼 개최 및 사전등록 안내(~12.7까지)",
+    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4603&page=1&txtKeyword=&ddlKeyfield=T",
+    "date": "2026-11-19",
+    "image": null,
+    "first_seen": "2026-11-19"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "112408",
+    "title": "국가유산 겨울 계절배너 사진·글귀 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112408",
+    "date": "D-12 접수중",
+    "image": null,
+    "first_seen": "2026-11-19"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
     "id": "CFAC_NOTICE_20261117071005001",
     "title": "2026년 천안 예술인 간담회 천안문화재단 예술인지원팀",
     "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CFAC_NOTICE_20261117071005001",
@@ -2946,56 +2996,6 @@
     "title": "2026년 양산시 노동자 휴게시설 지원사업 추가 공고(2차)",
     "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260443145",
     "date": "2026.10.06. ~ 2026.10.26.",
-    "image": null,
-    "first_seen": "2026-10-07"
-  },
-  {
-    "site": "gokams",
-    "site_label": "예술경영지원센터",
-    "id": "4577",
-    "title": "2026 대형 뮤지컬 낭독공연 지원사업 2차 공모 최종 심의 결과 안내",
-    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4577&page=1&txtKeyword=&ddlKeyfield=T",
-    "date": "2026-10-06",
-    "image": null,
-    "first_seen": "2026-10-07"
-  },
-  {
-    "site": "wevity_video",
-    "site_label": "위비티 (영상/UCC/사진)",
-    "id": "111487",
-    "title": "2026 남원시 영상 공모전",
-    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111487",
-    "date": "D-20 접수중",
-    "image": null,
-    "first_seen": "2026-10-07"
-  },
-  {
-    "site": "wevity_video",
-    "site_label": "위비티 (영상/UCC/사진)",
-    "id": "111483",
-    "title": "2026 제 2회 퓨리얼 AI 영상 콘테스트",
-    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111483",
-    "date": "D-34 접수중",
-    "image": null,
-    "first_seen": "2026-10-07"
-  },
-  {
-    "site": "wevity_video",
-    "site_label": "위비티 (영상/UCC/사진)",
-    "id": "111478",
-    "title": "치악산한우 영상공모전",
-    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111478",
-    "date": "D-2 마감임박",
-    "image": null,
-    "first_seen": "2026-10-07"
-  },
-  {
-    "site": "wevity_video",
-    "site_label": "위비티 (영상/UCC/사진)",
-    "id": "111442",
-    "title": "[파주시] 여성친화도시 홍보 영상 공모전",
-    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=111442",
-    "date": "D-17 접수중",
     "image": null,
     "first_seen": "2026-10-07"
   }

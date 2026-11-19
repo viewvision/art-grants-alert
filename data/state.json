@@ -2989,6 +2989,42 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CWCF_RENTAL_20261114070014001",
       "date": "2026.11.18 - 2026.11.27",
       "first_seen": "2026-11-18"
+    },
+    "MFAC_NOTICE_20261118050014001": {
+      "title": "마포문화재단 문화아카데미 강습수임인 공모_발레분야",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=MFAC_NOTICE_20261118050014001",
+      "date": "2026.11.17 - 2026.11.24",
+      "first_seen": "2026-11-19"
+    },
+    "SFAC_NOTICE_20261118043400001": {
+      "title": "2026년 서울 청년예술창업 페스타 행사 안내 및 참여자 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20261118043400001",
+      "date": "2026.11.06 - 2026.11.20",
+      "first_seen": "2026-11-19"
+    },
+    "S66191": {
+      "title": "2026년 화성특례시 문화자치 페스타」 개최",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S66191",
+      "date": "2026.11.17 - 2026.11.20",
+      "first_seen": "2026-11-19"
+    },
+    "S66180": {
+      "title": "2026년 충남 문화예술교육 포럼 개최 안내 「AI는 빗겨나가는 재미를 알까?」",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S66180",
+      "date": "2026.11.17 - 2026.12.04",
+      "first_seen": "2026-11-19"
+    },
+    "S66178": {
+      "title": "제20주년 2027KoCACA아트페스티벌 예술감독 공개모집 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S66178",
+      "date": "2026.11.17 - 2026.12.01",
+      "first_seen": "2026-11-19"
+    },
+    "IFAC_MENU_20261118010806001": {
+      "title": "2027년 공연장상주단체 육성지원사업 참여공연장 모집 연장 및 공연단체 공모 일정 사전 안내 공지",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=IFAC_MENU_20261118010806001",
+      "date": "2026.11.17 - 2026.11.20",
+      "first_seen": "2026-11-19"
     }
   },
   "arko_education": {
@@ -9817,6 +9853,66 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95746",
       "date": "2026-11-17",
       "first_seen": "2026-11-18"
+    },
+    "95767": {
+      "title": "[국립극단] 국립극단 제4차 직원 채용 공고 (서울 중구 장충단로 59 (장충동2가))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95767",
+      "date": "2026-11-18",
+      "first_seen": "2026-11-19"
+    },
+    "95766": {
+      "title": "[(재)대림문화재단] [대림문화재단] 대림미술관 크루 모집 (서울 종로구 자하문로4길 21 (통의동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95766",
+      "date": "2026-11-18",
+      "first_seen": "2026-11-19"
+    },
+    "95765": {
+      "title": "[여주세종문화재단] 2026년 제4회 (재)여주세종문화관광재단 기간제근로자 채용 공고 (경기 여주시 신륵사길 7-1 (천송동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95765",
+      "date": "2026-11-18",
+      "first_seen": "2026-11-19"
+    },
+    "95764": {
+      "title": "[재단법인성동문화재단] (복사) 성동문화재단(소월아트홀, 성수아트홀) 공연장안내원 모집 공고 (서울 성동구 왕십리로 281 (행당동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95764",
+      "date": "2026-11-18",
+      "first_seen": "2026-11-19"
+    },
+    "95763": {
+      "title": "[쇼노트] ㈜쇼노트 컴퍼니 매니저 채용공고 (서울 용산구 한남대로42길 14 (한남동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95763",
+      "date": "2026-11-18",
+      "first_seen": "2026-11-19"
+    },
+    "95762": {
+      "title": "[(재)한국문화재단] 유니버설발레단 공연사업2팀 단원관리 직원 채용 (서울 강서구 마곡중앙8로1길 81 (마곡동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95762",
+      "date": "2026-11-18",
+      "first_seen": "2026-11-19"
+    },
+    "95761": {
+      "title": "[에이치제이컬쳐] [컬쳐웍스] 공연 티켓 매니저 모집 (서울 종로구 대학로12길 50 (동숭동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95761",
+      "date": "2026-11-18",
+      "first_seen": "2026-11-19"
+    },
+    "95760": {
+      "title": "[(유)플러스씨어터] (복사) 플러스씨어터에서 뮤지컬 <풍월주> 하우스 안내원을 모집합니다. (서울 종로구 대학로12길 73 (동숭동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95760",
+      "date": "2026-11-18",
+      "first_seen": "2026-11-19"
+    },
+    "95759": {
+      "title": "[재단법인 파마리서치문화재단] 파마리서치문화재단 큐레이터(대리급) 채용 (경기 성남시 수정구 금토로40번길 22 (금토동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95759",
+      "date": "2026-11-18",
+      "first_seen": "2026-11-19"
+    },
+    "95758": {
+      "title": "[세종문화회관 꿈의숲] (재)세종문화회관 꿈의숲아트센터 홍보 및 공연장 운영 코디네이터 모집 공고 (서울 강북구 월계로 173 (번동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95758",
+      "date": "2026-11-18",
+      "first_seen": "2026-11-19"
     }
   },
   "wevity": {
@@ -10503,6 +10599,12 @@
       "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112434",
       "date": "D-23 접수예정",
       "first_seen": "2026-11-18"
+    },
+    "112454": {
+      "title": "경기도 청년참여기구 6기 모집 공고",
+      "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112454",
+      "date": "D-16 접수중",
+      "first_seen": "2026-11-19"
     }
   },
   "artspoon": {
@@ -12241,6 +12343,24 @@
       "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000011100006A",
       "date": "2026.11.17 ~ 2026.11.26",
       "first_seen": "2026-11-18"
+    },
+    "202632000000022200102A": {
+      "title": "제주특별자치도 어린이·사회복지급식관리지원센터 위탁 운영기관 모집 재공고",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000022200102A",
+      "date": "2026.11.19 ~ 2026.11.25",
+      "first_seen": "2026-11-19"
+    },
+    "20260452893": {
+      "title": "2027 신년 해맞이 행사",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260452893",
+      "date": "2026.11.18. ~ 2026.12.02.",
+      "first_seen": "2026-11-19"
+    },
+    "202600008001084200005B": {
+      "title": "2027년 수산물 상생할인지원 사업 보조사업자 선정 공고",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202600008001084200005B",
+      "date": "2026.11.16 ~ 2026.11.30",
+      "first_seen": "2026-11-19"
     }
   },
   "gokams": {
@@ -12675,6 +12795,12 @@
       "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4600&page=1&txtKeyword=&ddlKeyfield=T",
       "date": "2026-11-17",
       "first_seen": "2026-11-18"
+    },
+    "4603": {
+      "title": "2026 예술산업 정책 포럼 개최 및 사전등록 안내(~12.7까지)",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4603&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-11-19",
+      "first_seen": "2026-11-19"
     }
   },
   "metaverse_campus_lecture": {
@@ -13915,6 +14041,24 @@
       "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112320",
       "date": "D-20 접수중",
       "first_seen": "2026-11-18"
+    },
+    "112447": {
+      "title": "2026 제5회 충남 전국대학생 영화제 작품 공모",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112447",
+      "date": "D-12 접수중",
+      "first_seen": "2026-11-19"
+    },
+    "112435": {
+      "title": "2026 깨노니 가요제",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112435",
+      "date": "D-20 접수중",
+      "first_seen": "2026-11-19"
+    },
+    "112408": {
+      "title": "국가유산 겨울 계절배너 사진·글귀 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112408",
+      "date": "D-12 접수중",
+      "first_seen": "2026-11-19"
     }
   },
   "accf": {
