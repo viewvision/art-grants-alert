@@ -1,7 +1,8 @@
 # Generate one ElevenLabs take per role (with timestamps) and split it into per-line MP3s
 import base64, json, subprocess, sys, urllib.request, os
 
-KEY = open(sys.argv[1]).read().strip()
+# "-" = key is injected by the environment network secret (header placeholder only)
+KEY = "dummy" if sys.argv[1] == "-" else open(sys.argv[1]).read().strip()
 role = sys.argv[2]
 cfg = json.load(open(sys.argv[3]))[role]
 SEP = "\n\n"
