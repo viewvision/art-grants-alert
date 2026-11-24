@@ -1,5 +1,85 @@
 [
   {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "ARKO_BOARD_20261121044457001",
+    "title": "2026년 아르코예술기록원 학술대회 <나운영 소장자료로 보는 근현대 한국음악사>",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=ARKO_BOARD_20261121044457001",
+    "date": "2026.11.23 - 2026.11.28",
+    "image": null,
+    "first_seen": "2026-11-24"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "SFAC_NOTICE_20261121044608001",
+    "title": "문래예술공장 2027년도 상반기 정기대관 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=SFAC_NOTICE_20261121044608001",
+    "date": "2026.11.23 - 2026.12.07",
+    "image": null,
+    "first_seen": "2026-11-24"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "PHCF_NOTICE_20261121020804001",
+    "title": "2027년 구룡포생활문화센터(아라예술촌) 레지던시 입주작가 6기 모집 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=PHCF_NOTICE_20261121020804001",
+    "date": "2026.11.20 - 2026.12.10",
+    "image": null,
+    "first_seen": "2026-11-24"
+  },
+  {
+    "site": "artnuri",
+    "site_label": "아트누리",
+    "id": "IFAC_MENU_20261124011610001",
+    "title": "2027년 공연장상주단체 육성지원사업 공모 공고 공지",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=IFAC_MENU_20261124011610001&source=인천문화재단&seNo=001",
+    "date": "~ 2026-12-02",
+    "image": null,
+    "first_seen": "2026-11-24"
+  },
+  {
+    "site": "artnuri",
+    "site_label": "아트누리",
+    "id": "S66258",
+    "title": "2027년 (재)경주문화재단 경주예술의전당 하우스어셔 정기모집 공고",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=S66258&source=경주문화재단&seNo=001",
+    "date": "~ 2026-12-13",
+    "image": null,
+    "first_seen": "2026-11-24"
+  },
+  {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "20260453393",
+    "title": "광역단위예술행사지원(도민과 함께하는 송년 작은음악회)",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=20260453393",
+    "date": "2026.11.23. ~ 2026.12.08.",
+    "image": null,
+    "first_seen": "2026-11-24"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "112528",
+    "title": "제1회 AI 영상 공모전 (AI가 상상하는 중국)",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112528",
+    "date": "D-22 접수예정",
+    "image": null,
+    "first_seen": "2026-11-24"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "112511",
+    "title": "농식품 R&D 성과 새롭게 보여줘 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112511",
+    "date": "D-13 접수중",
+    "image": null,
+    "first_seen": "2026-11-24"
+  },
+  {
     "site": "ncas",
     "site_label": "국가문화예술지원시스템",
     "id": "https://hongti.bscf.or.kr/info/notice_view.php?sn=38",
@@ -2916,86 +2996,6 @@
     "title": "문화예술 연수단원(무대기술인턴 포함)지원(민간)",
     "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyD%2Bh6FnnZzl8O1I%2F8xd8eb6UPBZm1EJpnMlsBwvsh76BM",
     "date": "2026.11.05 15:00 (D-27)",
-    "image": null,
-    "first_seen": "2026-10-09"
-  },
-  {
-    "site": "ncas",
-    "site_label": "국가문화예술지원시스템",
-    "id": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3584&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&pageSetting=&sc_seNo=001&key=2301170002&sc_orderBy=&recordCountPerPage=10&pageIndex=3&sc_hash=&sc_list=&seNo=001&sw=&sc_genre=&sc_target=&sc_local=&sc_field=&sc_isDo=",
-    "title": "예술대학의 예비예술인 현장연계지원_단년",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3584&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&pageSetting=&sc_seNo=001&key=2301170002&sc_orderBy=&recordCountPerPage=10&pageIndex=3&sc_hash=&sc_list=&seNo=001&sw=&sc_genre=&sc_target=&sc_local=&sc_field=&sc_isDo=",
-    "date": "2026.11.05 15:00 (D-27)",
-    "image": null,
-    "first_seen": "2026-10-09"
-  },
-  {
-    "site": "artmore",
-    "site_label": "아트모아",
-    "id": "95298",
-    "title": "[장애인문화예술판] 2026 예술기반 청년일자리(연수단원) 채용 (장애인문화예술판) (서울 성북구 보문로34길 15 (삼선동4가))",
-    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95298",
-    "date": "2026-10-08",
-    "image": null,
-    "first_seen": "2026-10-09"
-  },
-  {
-    "site": "artmore",
-    "site_label": "아트모아",
-    "id": "95294",
-    "title": "[할리퀸크리에이션즈] [HQC KIDS] 뮤지컬 'AI세계에서 살아남기' 무대크루 채용 공고 (서울 성동구 서울숲2길 32-14 (성수동1가, 갤러리아 포레))",
-    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95294",
-    "date": "2026-10-08",
-    "image": null,
-    "first_seen": "2026-10-09"
-  },
-  {
-    "site": "artmore",
-    "site_label": "아트모아",
-    "id": "95293",
-    "title": "[서울문화재단] 서울문화재단 예술지원사업 업무 보조 단기인력 구인(서울무용센터) (서울 서대문구 명지2길 14 (홍은동))",
-    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95293",
-    "date": "2026-10-08",
-    "image": null,
-    "first_seen": "2026-10-09"
-  },
-  {
-    "site": "wevity",
-    "site_label": "위비티",
-    "id": "111553",
-    "title": "제7회 하이라이트TV AI 공모전",
-    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111553",
-    "date": "D-19 접수중",
-    "image": null,
-    "first_seen": "2026-10-09"
-  },
-  {
-    "site": "bojo",
-    "site_label": "e나라도움(보조금통합포털)",
-    "id": "202600008001472600004A",
-    "title": "2026년 재생원료 종량제봉투 제작 지원사업(3차)",
-    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202600008001472600004A",
-    "date": "2026.10.08 ~ 2026.10.26",
-    "image": null,
-    "first_seen": "2026-10-09"
-  },
-  {
-    "site": "gokams",
-    "site_label": "예술경영지원센터",
-    "id": "4582",
-    "title": "예술경영지원센터x파리 인터내셔날레 \"NEXT KOREA: GALLERIES\"",
-    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4582&page=1&txtKeyword=&ddlKeyfield=T",
-    "date": "2026-10-08",
-    "image": null,
-    "first_seen": "2026-10-09"
-  },
-  {
-    "site": "gokams",
-    "site_label": "예술경영지원센터",
-    "id": "4581",
-    "title": "2027년 문화예술 전국 유통지원 사업설명회 안내",
-    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4581&page=1&txtKeyword=&ddlKeyfield=T",
-    "date": "2026-10-08",
     "image": null,
     "first_seen": "2026-10-09"
   }
