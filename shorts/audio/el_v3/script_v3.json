@@ -1,18 +1,82 @@
-{"architect": {"voice_id": "5XgfKMHL4qnyg2mabE5t",
-  "settings": {"stability": 0.35, "similarity_boost": 0.9, "speed": 1.04},
-  "lines": [["c1_architect_01", "잠깐만요. 이 건물, 사시면 안 될 것 같은데요."],
-            ["c2_architect_02", "한번 보겠습니다."],
-            ["c3_architect_03", "어… 이상하네요."],
-            ["c3_architect_04", "기둥이 없는데요?"],
-            ["c4_architect_05", "지붕은 있는데 받치는 구조가 안 보입니다…."],
-            ["c5_architect_06", "네. 나가서 이야기하시죠."],
-            ["c6_architect_07", "구조보강부터 해야 하는데, 배보다 배꼽이 더 클 수 있습니다."],
-            ["c7_architect_08", "건물은 겉만 보고 살 수 없으니까요. 속까지 꼼꼼히 살펴야 합니다."]]},
- "client": {"voice_id": "967YaIBn5kirwC9uSefO",
-  "settings": {"stability": 0.5, "similarity_boost": 0.75, "speed": 1.0},
-  "lines": [["c1_client_01", "네?"],
-            ["c2_client_02", "60년 된 건물이라 많이 낡긴 했는데 위치가 좋아서, 조금만 고치면 임대료가 잘 나올 것 같다고 해서 구매하려고요."],
-            ["c3_client_03", "기둥이? 없다고요?"],
-            ["c5_client_04", "위험…한 건가요?"],
-            ["c6_client_05", "음… 아무래도 이 건물은 포기해야겠네요."],
-            ["c6_client_06", "건축사님 없었으면 크게 실수할 뻔했네요! 감사합니다!!"]]}}
+{
+ "architect": {
+  "voice_id": "5XgfKMHL4qnyg2mabE5t",
+  "settings": {
+   "stability": 0.35,
+   "similarity_boost": 0.9,
+   "speed": 1.04
+  },
+  "lines": [
+   [
+    "c1_architect_01",
+    "잠깐만요. 이 건물, 사시면 안 될 것 같은데요."
+   ],
+   [
+    "c2_architect_02",
+    "한번 보겠습니다."
+   ],
+   [
+    "c3_architect_03",
+    "어… 이상하네요."
+   ],
+   [
+    "c3_architect_04",
+    "기둥이 없는데요?"
+   ],
+   [
+    "c4_architect_05",
+    "지붕은 있는데 받치는 구조가 안 보입니다…."
+   ],
+   [
+    "c5_architect_06",
+    "네. 나가서 이야기하시죠."
+   ],
+   [
+    "c6_architect_07",
+    "구조보강부터 해야 하는데, 배보다 배꼽이 더 클 수 있습니다."
+   ],
+   [
+    "c7_architect_08",
+    "건물은 겉만 보고 살 수 없으니까요. 속까지 꼼꼼히 살펴야 합니다."
+   ]
+  ]
+ },
+ "client": {
+  "voice_id": "sf8Bpb1IU97NI9BHSMRf",
+  "settings": {
+   "stability": 0.5,
+   "similarity_boost": 0.75,
+   "speed": 1.0
+  },
+  "lines": [
+   [
+    "c1_client_01",
+    "네?"
+   ],
+   [
+    "c2_client_02a",
+    "60년 된 건물이라 많이 낡긴 했는데, 위치가 좋아서요."
+   ],
+   [
+    "c2_client_02b",
+    "조금만 고치면 임대료가 잘 나올 것 같다고 해서 구매하려고요."
+   ],
+   [
+    "c3_client_03",
+    "기둥이? 없다고요?"
+   ],
+   [
+    "c5_client_04",
+    "위험…한 건가요?"
+   ],
+   [
+    "c6_client_05",
+    "음… 아무래도 이 건물은 포기해야겠네요."
+   ],
+   [
+    "c6_client_06",
+    "건축사님 없었으면 크게 실수할 뻔했네요! 감사합니다!!"
+   ]
+  ]
+ }
+}
