@@ -1,5 +1,65 @@
 [
   {
+    "site": "artnuri",
+    "site_label": "아트누리",
+    "id": "2611240001",
+    "title": "NC문화재단 청년 아티스트 지원사업 <2027 STAGE 100: 음악> 공개모집",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=2611240001&source=인더케이브&seNo=002",
+    "date": "~ 2026-12-20",
+    "image": null,
+    "first_seen": "2026-11-25"
+  },
+  {
+    "site": "ncas",
+    "site_label": "국가문화예술지원시스템",
+    "id": "https://ifac.or.kr/bbs/view.do?key=m2501152808232&bbsSn=236212",
+    "title": "2027 공연장상주단체 육성지원사업",
+    "url": "https://ifac.or.kr/bbs/view.do?key=m2501152808232&bbsSn=236212",
+    "date": "2026.12.23 17:59 (D-28)",
+    "image": null,
+    "first_seen": "2026-11-25"
+  },
+  {
+    "site": "ncas",
+    "site_label": "국가문화예술지원시스템",
+    "id": "https://www.uctf.or.kr/board/notice/view/202411337731#",
+    "title": "예술공장 성남 4기 입주예술인 공모",
+    "url": "https://www.uctf.or.kr/board/notice/view/202411337731#",
+    "date": "2026.12.11 16:00 (D-16)",
+    "image": null,
+    "first_seen": "2026-11-25"
+  },
+  {
+    "site": "gokams",
+    "site_label": "예술경영지원센터",
+    "id": "4607",
+    "title": "2026년 예술경영지원센터 워크숍 안내(11/25, 수)",
+    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4607&page=1&txtKeyword=&ddlKeyfield=T",
+    "date": "2026-11-24",
+    "image": null,
+    "first_seen": "2026-11-25"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "112492",
+    "title": "2026 K리그 팬 사진 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112492",
+    "date": "D-1 마감임박",
+    "image": null,
+    "first_seen": "2026-11-25"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "112491",
+    "title": "2026년 태백시 숏폼 영상 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112491",
+    "date": "D-2 마감임박",
+    "image": null,
+    "first_seen": "2026-11-25"
+  },
+  {
     "site": "arko_thearts",
     "site_label": "아르코 통합플랫폼",
     "id": "ARKO_BOARD_20261121044457001",
@@ -2935,66 +2995,6 @@
     "id": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3593&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&pageSetting=&sc_seNo=001&key=2301170002&sc_orderBy=&recordCountPerPage=10&pageIndex=2&sc_hash=&sc_list=&seNo=001&sw=&sc_genre=&sc_target=&sc_local=&sc_field=&sc_isDo=",
     "title": "시각예술전시행사지원",
     "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3593&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&pageSetting=&sc_seNo=001&key=2301170002&sc_orderBy=&recordCountPerPage=10&pageIndex=2&sc_hash=&sc_list=&seNo=001&sw=&sc_genre=&sc_target=&sc_local=&sc_field=&sc_isDo=",
-    "date": "2026.11.05 15:00 (D-27)",
-    "image": null,
-    "first_seen": "2026-10-09"
-  },
-  {
-    "site": "ncas",
-    "site_label": "국가문화예술지원시스템",
-    "id": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3592&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&pageSetting=&sc_seNo=001&key=2301170002&sc_orderBy=&recordCountPerPage=10&pageIndex=2&sc_hash=&sc_list=&seNo=001&sw=&sc_genre=&sc_target=&sc_local=&sc_field=&sc_isDo=",
-    "title": "시각예술창작공간지원(단년)",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3592&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&pageSetting=&sc_seNo=001&key=2301170002&sc_orderBy=&recordCountPerPage=10&pageIndex=2&sc_hash=&sc_list=&seNo=001&sw=&sc_genre=&sc_target=&sc_local=&sc_field=&sc_isDo=",
-    "date": "2026.11.05 15:00 (D-27)",
-    "image": null,
-    "first_seen": "2026-10-09"
-  },
-  {
-    "site": "ncas",
-    "site_label": "국가문화예술지원시스템",
-    "id": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3605&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002",
-    "title": "어린이청소년을위한공연예술지원(신작제작)",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3605&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002",
-    "date": "2026.11.05 15:00 (D-27)",
-    "image": null,
-    "first_seen": "2026-10-09"
-  },
-  {
-    "site": "ncas",
-    "site_label": "국가문화예술지원시스템",
-    "id": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3599&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002",
-    "title": "공연예술창작산실_2차 제작지원_유형③ 청년예술가지원 후속지원형(창작뮤지컬)",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3599&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002",
-    "date": "2026.11.05 15:00 (D-27)",
-    "image": null,
-    "first_seen": "2026-10-09"
-  },
-  {
-    "site": "ncas",
-    "site_label": "국가문화예술지원시스템",
-    "id": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3598&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002",
-    "title": "공연예술창작산실_올해의신작(창작오페라)",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3598&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002",
-    "date": "2026.11.05 15:00 (D-27)",
-    "image": null,
-    "first_seen": "2026-10-09"
-  },
-  {
-    "site": "ncas",
-    "site_label": "국가문화예술지원시스템",
-    "id": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3596&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002",
-    "title": "공연예술청년예술가지원",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3596&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002",
-    "date": "2026.11.05 15:00 (D-27)",
-    "image": null,
-    "first_seen": "2026-10-09"
-  },
-  {
-    "site": "ncas",
-    "site_label": "국가문화예술지원시스템",
-    "id": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyD%2Bh6FnnZzl8O1I%2F8xd8eb6UPBZm1EJpnMlsBwvsh76BM",
-    "title": "문화예술 연수단원(무대기술인턴 포함)지원(민간)",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyD%2Bh6FnnZzl8O1I%2F8xd8eb6UPBZm1EJpnMlsBwvsh76BM",
     "date": "2026.11.05 15:00 (D-27)",
     "image": null,
     "first_seen": "2026-10-09"
