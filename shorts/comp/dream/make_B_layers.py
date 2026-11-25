@@ -12,19 +12,19 @@ def dreamy(img, glow=0.3):
     a = a * np.array([1.03, 1.0, 0.94])
     return Image.fromarray((np.clip(a, 0, 1) * 255).astype(np.uint8))
 
-# 큼직한 구름: 적은 개수의 큰 원, 크기 교대로
-cx, cy, rx, ry = W / 2, 960, 300, 700
-sizes = [215, 185, 210, 190, 215, 185, 215, 190, 210, 185, 215, 190]
+# 원래(mock_B) 구름 모양: 타원 + 랜덤 크기 원 24개 (seed=5)
+import random
+cx, cy, rx, ry, bump, n = W / 2, 1020, 440, 700, 105, 24
+rnd = random.Random(5)
 SS = 2  # 슈퍼샘플링으로 매끈한 외곽
 m = Image.new('L', (W * SS, H * SS), 0); d = ImageDraw.Draw(m)
 d.ellipse(((cx - rx) * SS, (cy - ry) * SS, (cx + rx) * SS, (cy + ry) * SS), fill=255)
-n = len(sizes)
-for i, r in enumerate(sizes):
-    t = 2 * math.pi * i / n - math.pi / 2
+for i in range(n):
+    t = 2 * math.pi * i / n; r = bump * rnd.uniform(0.8, 1.15)
     x, y = cx + rx * math.cos(t), cy + ry * math.sin(t)
     d.ellipse(((x - r) * SS, (y - r) * SS, (x + r) * SS, (y + r) * SS), fill=255)
 mask_hi = np.asarray(m)
-ring = cv2.morphologyEx(mask_hi, cv2.MORPH_GRADIENT, cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (22, 22)))
+ring = cv2.morphologyEx(mask_hi, cv2.MORPH_GRADIENT, cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (16, 16)))
 mask = Image.fromarray(mask_hi).resize((W, H), Image.LANCZOS)
 line = Image.fromarray(ring).resize((W, H), Image.LANCZOS)
 
@@ -39,8 +39,8 @@ rgba((238, 236, 244), Image.fromarray(255 - np.asarray(mask))).save(OUT + '02_ou
 rgba((20, 20, 20), line).save(OUT + '03_cloud_outline.png')
 # 4 생각 꼬리 동그라미 (왼쪽 아래 → 의뢰인 쪽)
 t = Image.new('RGBA', (W * SS, H * SS)); d = ImageDraw.Draw(t)
-for (x, y, r) in [(60, 1880, 20), (115, 1815, 30), (180, 1730, 42)]:
-    d.ellipse(((x - r) * SS, (y - r) * SS, (x + r) * SS, (y + r) * SS), fill=(255, 255, 255, 255), outline=(20, 20, 20, 255), width=9 * SS)
+for (x, y, r) in [(110, 1830, 22), (170, 1760, 32), (250, 1680, 44)]:
+    d.ellipse(((x - r) * SS, (y - r) * SS, (x + r) * SS, (y + r) * SS), fill=(255, 255, 255, 255), outline=(20, 20, 20, 255), width=8 * SS)
 t.resize((W, H), Image.LANCZOS).save(OUT + '04_thought_tail.png')
 # 5 몽환 보정된 배경 (전체 프레임) – 01을 매트로 사용
 bg = dreamy(Image.open('comp/dream/bg_cafe_1080.jpg').convert('RGB'))
