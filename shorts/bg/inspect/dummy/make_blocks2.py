@@ -37,7 +37,9 @@ def s1():
     limb(d, hx - 200, 1300, 220, 175, 85)                 # arm going up into the hole
     # hide anything above the hole edge (upper body is inside the ceiling)
     lay.paste((0, 0, 0, 0), (1150, 0, 1620, hole_bottom))
-    bg.alpha_composite(lay); label(bg, '① 천장 속: 사다리 위, 가슴 위로 천장 안에 넣고 봄'); return bg
+    bg.alpha_composite(lay)
+    W = 1300; H = int(W * 16 / 9); x0, y0 = 1370 - W // 2, 330          # 9:16 close-up crop around the ceiling hole
+    bg = bg.crop((x0, y0, x0 + W, y0 + H)); label(bg, '① 천장 속 (클로즈업): 사다리 위, 가슴 위로 천장 안'); return bg
 
 def s2():
     bg = Image.open('bg/inspect/insp2_floor_wide.jpg').convert('RGBA')
