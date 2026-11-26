@@ -1,5 +1,65 @@
 [
   {
+    "site": "ncas",
+    "site_label": "국가문화예술지원시스템",
+    "id": "https://ifac.or.kr/bbs/view.do?bbsSn=236214&key=m2501152808232&pageIndex=1&bbsCtgrySn=78&sw=",
+    "title": "2027 예술창작일반지원",
+    "url": "https://ifac.or.kr/bbs/view.do?bbsSn=236214&key=m2501152808232&pageIndex=1&bbsCtgrySn=78&sw=",
+    "date": "2026.12.23 17:59 (D-27)",
+    "image": null,
+    "first_seen": "2026-11-26"
+  },
+  {
+    "site": "nabi",
+    "site_label": "아트센터 나비미술관",
+    "id": "1456",
+    "title": "2026 방학중 방과후 프로그램  <닥터 퓨처 스튜디오> 문화예술교육 전문인력 연수",
+    "url": "https://www.nabi.or.kr/page/board_view.php?brd_idx=1456&brd_id=academy",
+    "date": "2026.12.02 ~ 2026.12.10",
+    "image": "https://www.nabi.or.kr/upload_file/board/1795595372_NsENUm.png",
+    "first_seen": "2026-11-26"
+  },
+  {
+    "site": "bojo",
+    "site_label": "e나라도움(보조금통합포털)",
+    "id": "202600000571532600001A",
+    "title": "사육곰 보호관리 지원사업",
+    "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202600000571532600001A",
+    "date": "2026.11.25 ~ 2026.12.09",
+    "image": null,
+    "first_seen": "2026-11-26"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "112572",
+    "title": "2026 삼색이수 브랜드 홍보 AI 숏폼 영상 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112572",
+    "date": "D-12 접수중",
+    "image": null,
+    "first_seen": "2026-11-26"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "112557",
+    "title": "화이트샌즈 12주년 숏폼 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112557",
+    "date": "D-19 접수중",
+    "image": null,
+    "first_seen": "2026-11-26"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "112505",
+    "title": "AI x Seoul 혁신 콘텐츠 공모전 작품 공모",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112505",
+    "date": "D-17 접수중",
+    "image": null,
+    "first_seen": "2026-11-26"
+  },
+  {
     "site": "artnuri",
     "site_label": "아트누리",
     "id": "2611240001",
@@ -2935,66 +2995,6 @@
     "id": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3603&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002",
     "title": "공연예술비평활동활성화지원(단체)",
     "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3603&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002",
-    "date": "2026.11.05 15:00 (D-27)",
-    "image": null,
-    "first_seen": "2026-10-09"
-  },
-  {
-    "site": "ncas",
-    "site_label": "국가문화예술지원시스템",
-    "id": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3601&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002",
-    "title": "공연예술창작주체(중장기단체도약지원_수도권)",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3601&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002",
-    "date": "2026.11.05 15:00 (D-27)",
-    "image": null,
-    "first_seen": "2026-10-09"
-  },
-  {
-    "site": "ncas",
-    "site_label": "국가문화예술지원시스템",
-    "id": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3602&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002",
-    "title": "공연예술창작주체(공연장기획제작지원)",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3602&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002",
-    "date": "2026.11.05 15:00 (D-27)",
-    "image": null,
-    "first_seen": "2026-10-09"
-  },
-  {
-    "site": "ncas",
-    "site_label": "국가문화예술지원시스템",
-    "id": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyD9%2Bshv6mz81FOpqfUJPBGeYPBZm1EJpnMlsBwvsh76BM",
-    "title": "다원예술창작기반지원",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyD9%2Bshv6mz81FOpqfUJPBGeYPBZm1EJpnMlsBwvsh76BM",
-    "date": "2026.11.05 15:00 (D-27)",
-    "image": null,
-    "first_seen": "2026-10-09"
-  },
-  {
-    "site": "ncas",
-    "site_label": "국가문화예술지원시스템",
-    "id": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyD8d%2Fs6ZEUeVXrwgPizPcecIPBZm1EJpnMlsBwvsh76BM",
-    "title": "다원예술창작발표지원(진입)",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&encData=sUiBAI0l4sHqoD%2B2npmyD8d%2Fs6ZEUeVXrwgPizPcecIPBZm1EJpnMlsBwvsh76BM",
-    "date": "2026.11.05 15:00 (D-27)",
-    "image": null,
-    "first_seen": "2026-10-09"
-  },
-  {
-    "site": "ncas",
-    "site_label": "국가문화예술지원시스템",
-    "id": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3604&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002",
-    "title": "대한민국공연예술제",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3604&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002",
-    "date": "2026.11.05 15:00 (D-27)",
-    "image": null,
-    "first_seen": "2026-10-09"
-  },
-  {
-    "site": "ncas",
-    "site_label": "국가문화예술지원시스템",
-    "id": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3593&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&pageSetting=&sc_seNo=001&key=2301170002&sc_orderBy=&recordCountPerPage=10&pageIndex=2&sc_hash=&sc_list=&seNo=001&sw=&sc_genre=&sc_target=&sc_local=&sc_field=&sc_isDo=",
-    "title": "시각예술전시행사지원",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3593&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&pageSetting=&sc_seNo=001&key=2301170002&sc_orderBy=&recordCountPerPage=10&pageIndex=2&sc_hash=&sc_list=&seNo=001&sw=&sc_genre=&sc_target=&sc_local=&sc_field=&sc_isDo=",
     "date": "2026.11.05 15:00 (D-27)",
     "image": null,
     "first_seen": "2026-10-09"
