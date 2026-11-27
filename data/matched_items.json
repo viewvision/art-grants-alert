@@ -1,5 +1,75 @@
 [
   {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "CRL3634",
+    "title": "2027년 지역대표예술단체 지원사업 이천시 참여단체 공모",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CRL3634",
+    "date": "2026.11.26 - 2026.12.01",
+    "image": null,
+    "first_seen": "2026-11-27"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "S66331",
+    "title": "2026 공연예술 데이터 포럼 개최",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S66331",
+    "date": "2026.11.25 - 2026.12.15",
+    "image": null,
+    "first_seen": "2026-11-27"
+  },
+  {
+    "site": "arko_thearts",
+    "site_label": "아르코 통합플랫폼",
+    "id": "NOWON_NOTICE_20261126044355001",
+    "title": "2027년 상반기 노원문화재단 공연장 [노원문화예술회관/노원어린이극장] 정기대관 공고 N",
+    "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=NOWON_NOTICE_20261126044355001",
+    "date": "2026.11.25 - 2026.12.13",
+    "image": null,
+    "first_seen": "2026-11-27"
+  },
+  {
+    "site": "wevity",
+    "site_label": "위비티",
+    "id": "112589",
+    "title": "뉴테이크 AI 영상 공모전 - NEW TAKE ON AISPECIAL",
+    "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112589",
+    "date": "D-39 접수예정",
+    "image": null,
+    "first_seen": "2026-11-27"
+  },
+  {
+    "site": "gokams",
+    "site_label": "예술경영지원센터",
+    "id": "4599",
+    "title": "2026 공연예술 데이터 포럼 개최(12.15(화) 14:00)",
+    "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4599&page=1&txtKeyword=&ddlKeyfield=T",
+    "date": "2026-11-17",
+    "image": null,
+    "first_seen": "2026-11-27"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "112552",
+    "title": "나만의 순간, 나만의 시선 사진 공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112552",
+    "date": "D-34 접수중",
+    "image": null,
+    "first_seen": "2026-11-27"
+  },
+  {
+    "site": "wevity_video",
+    "site_label": "위비티 (영상/UCC/사진)",
+    "id": "112551",
+    "title": "2026 미디어아트(빛의읍성ㆍ빛의분수대) 영상공모전",
+    "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112551",
+    "date": "D-21 접수중",
+    "image": null,
+    "first_seen": "2026-11-27"
+  },
+  {
     "site": "ncas",
     "site_label": "국가문화예술지원시스템",
     "id": "https://ifac.or.kr/bbs/view.do?bbsSn=236214&key=m2501152808232&pageIndex=1&bbsCtgrySn=78&sw=",
@@ -2926,76 +2996,6 @@
     "title": "2027년 대한민국공연예술제",
     "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=CRL3604&source=한국문화예술위원회&seNo=001",
     "date": "~ 2026-11-05",
-    "image": null,
-    "first_seen": "2026-10-09"
-  },
-  {
-    "site": "artnuri",
-    "site_label": "아트누리",
-    "id": "CRL3603",
-    "title": "2027년 공연예술비평활동활성화지원",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=CRL3603&source=한국문화예술위원회&seNo=001",
-    "date": "~ 2026-11-05",
-    "image": null,
-    "first_seen": "2026-10-09"
-  },
-  {
-    "site": "artnuri",
-    "site_label": "아트누리",
-    "id": "CRL3602",
-    "title": "2027년 공연예술창작주체(공연장기획제작지원)",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=CRL3602&source=한국문화예술위원회&seNo=001",
-    "date": "~ 2026-11-05",
-    "image": null,
-    "first_seen": "2026-10-09"
-  },
-  {
-    "site": "artnuri",
-    "site_label": "아트누리",
-    "id": "CRL3601",
-    "title": "2027년 공연예술창작주체(중장기단체도약지원)",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=CRL3601&source=한국문화예술위원회&seNo=001",
-    "date": "~ 2026-11-05",
-    "image": null,
-    "first_seen": "2026-10-09"
-  },
-  {
-    "site": "artnuri",
-    "site_label": "아트누리",
-    "id": "CRL3599",
-    "title": "2027년 공연예술창작산실(2차 제작지원)",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?key=2301170002&docid=CRL3599&source=한국문화예술위원회&seNo=001",
-    "date": "~ 2026-11-05",
-    "image": null,
-    "first_seen": "2026-10-09"
-  },
-  {
-    "site": "ncas",
-    "site_label": "국가문화예술지원시스템",
-    "id": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3591&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&pageSetting=&sc_seNo=001&key=2301170002&sc_orderBy=&recordCountPerPage=10&pageIndex=2&sc_hash=&sc_list=&seNo=001&sw=&sc_genre=&sc_target=&sc_local=&sc_field=&sc_isDo=",
-    "title": "시각예술비평연구지원(단년)",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3591&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&pageSetting=&sc_seNo=001&key=2301170002&sc_orderBy=&recordCountPerPage=10&pageIndex=2&sc_hash=&sc_list=&seNo=001&sw=&sc_genre=&sc_target=&sc_local=&sc_field=&sc_isDo=",
-    "date": "2026.11.05 15:00 (D-27)",
-    "image": null,
-    "first_seen": "2026-10-09"
-  },
-  {
-    "site": "ncas",
-    "site_label": "국가문화예술지원시스템",
-    "id": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3590&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&pageSetting=&sc_seNo=001&key=2301170002&sc_orderBy=&recordCountPerPage=10&pageIndex=2&sc_hash=&sc_list=&seNo=001&sw=&sc_genre=&sc_target=&sc_local=&sc_field=&sc_isDo=",
-    "title": "시각예술우수작가창작지원(유망_단년)",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3590&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&pageSetting=&sc_seNo=001&key=2301170002&sc_orderBy=&recordCountPerPage=10&pageIndex=2&sc_hash=&sc_list=&seNo=001&sw=&sc_genre=&sc_target=&sc_local=&sc_field=&sc_isDo=",
-    "date": "2026.11.05 15:00 (D-27)",
-    "image": null,
-    "first_seen": "2026-10-09"
-  },
-  {
-    "site": "ncas",
-    "site_label": "국가문화예술지원시스템",
-    "id": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3603&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002",
-    "title": "공연예술비평활동활성화지원(단체)",
-    "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3603&source=%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%9C%84%EC%9B%90%ED%9A%8C&seNo=001&key=2301170002",
-    "date": "2026.11.05 15:00 (D-27)",
     "image": null,
     "first_seen": "2026-10-09"
   }

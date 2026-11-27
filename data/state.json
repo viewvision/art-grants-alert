@@ -3235,6 +3235,66 @@
       "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S66291",
       "date": "2026.11.20 - 2026.11.27",
       "first_seen": "2026-11-26"
+    },
+    "CRL3634": {
+      "title": "2027년 지역대표예술단체 지원사업 이천시 참여단체 공모",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=CRL3634",
+      "date": "2026.11.26 - 2026.12.01",
+      "first_seen": "2026-11-27"
+    },
+    "S66332": {
+      "title": "APEC 성공도시 경주 2026 제야의 종 타종식 시민합창단 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S66332",
+      "date": "2026.11.26 - 2026.12.16",
+      "first_seen": "2026-11-27"
+    },
+    "S66331": {
+      "title": "2026 공연예술 데이터 포럼 개최",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=S66331",
+      "date": "2026.11.25 - 2026.12.15",
+      "first_seen": "2026-11-27"
+    },
+    "NSART_NOTICE_20261126082004001": {
+      "title": "2027년 꿈의 무용단 '광주시' 주강사 모집 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=NSART_NOTICE_20261126082004001",
+      "date": "2026.11.25 - 2026.12.09",
+      "first_seen": "2026-11-27"
+    },
+    "KOFICE_NOTICE_20261126080005001": {
+      "title": "제16차 한류NOW 정기 세미나 개최(12.8.)",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=KOFICE_NOTICE_20261126080005001",
+      "date": "2026.11.25 - 2026.12.08",
+      "first_seen": "2026-11-27"
+    },
+    "YDPCF_BOARD_20261126062004001": {
+      "title": "2026년 기획공연 연계 후원 프로그램 <뮤지컬 뒷담화> 참여자 모집",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=YDPCF_BOARD_20261126062004001",
+      "date": "2026.11.25 - 2026.12.08",
+      "first_seen": "2026-11-27"
+    },
+    "NOWON_NOTICE_20261126044355001": {
+      "title": "2027년 상반기 노원문화재단 공연장 [노원문화예술회관/노원어린이극장] 정기대관 공고 N",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=NOWON_NOTICE_20261126044355001",
+      "date": "2026.11.25 - 2026.12.13",
+      "first_seen": "2026-11-27"
+    },
+    "UCTF_NOTICE_20261126044227002": {
+      "title": "2027년도 아르코공연연습센터@울산 1차 정기대관 공고",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=UCTF_NOTICE_20261126044227002",
+      "date": "2026.11.25 - 2026.12.09",
+      "first_seen": "2026-11-27"
+    },
+    "UCTF_NOTICE_20261126044227001": {
+      "title": "문화도시 울산 조성사업 - 「예술공장 성남」4기 입주 예술인 모집 공모",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=UCTF_NOTICE_20261126044227001",
+      "date": "2026.11.25 - 2026.12.11",
+      "first_seen": "2026-11-27"
+    },
+    "ARTE_INFO_20261126044142001": {
+      "title": "2026년 EIDF 아트앤컬처섹션 특별상영회 및 연계 연수(다큐토크) 참여 안내",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?seNo=001&key=2301170002&docid=ARTE_INFO_20261126044142001",
+      "date": "2026.11.25 - 2026.12.04",
+      "first_seen": "2026-11-27"
     }
   },
   "arko_education": {
@@ -10681,6 +10741,36 @@
       "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95840",
       "date": "2026-11-25",
       "first_seen": "2026-11-26"
+    },
+    "95864": {
+      "title": "[(재)용인문화재단] 2027 꿈의 무용단 '용인' 주강사(교육개발 참여) 모집 (경기 용인시 처인구 동백죽전대로 61 (삼가동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95864",
+      "date": "2026-11-27",
+      "first_seen": "2026-11-27"
+    },
+    "95863": {
+      "title": "[(주)케이옥션] [11월마감] 케이옥션 신입·경력 경매스페셜리스트 양성과정 채용 (서울 강남구 언주로172길 23 (신사동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95863",
+      "date": "2026-11-27",
+      "first_seen": "2026-11-27"
+    },
+    "95859": {
+      "title": "[남양주문화재단] 남양주문화재단 기간제 직원 채용 모집 공고 (경기 남양주시 진접읍 해밀예당1로 96)",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95859",
+      "date": "2026-11-26",
+      "first_seen": "2026-11-27"
+    },
+    "95858": {
+      "title": "[로데아트센터] (복사) <로데아트센터 2026년 12월 공연 하우스어셔 및 평가회 인력 모집> (서울 서초구 남부순환로317길 79 (서초동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95858",
+      "date": "2026-11-26",
+      "first_seen": "2026-11-27"
+    },
+    "95857": {
+      "title": "[재단법인 씨앗] 스토리랩 파트타이머 채용 (~12/9) (서울 종로구 대학로10길 8 (동숭동))",
+      "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95857",
+      "date": "2026-11-26",
+      "first_seen": "2026-11-27"
     }
   },
   "wevity": {
@@ -11409,6 +11499,12 @@
       "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112580",
       "date": "D-14 접수중",
       "first_seen": "2026-11-26"
+    },
+    "112589": {
+      "title": "뉴테이크 AI 영상 공모전 - NEW TAKE ON AISPECIAL",
+      "url": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112589",
+      "date": "D-39 접수예정",
+      "first_seen": "2026-11-27"
     }
   },
   "artspoon": {
@@ -13213,6 +13309,12 @@
       "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202600000571532600001A",
       "date": "2026.11.25 ~ 2026.12.09",
       "first_seen": "2026-11-26"
+    },
+    "202632000000015500033B": {
+      "title": "2026년 전략작물 산업화(두류)사업",
+      "url": "https://www.bojo.go.kr/ia/getIA005100Popup.do?nttId=202632000000015500033B",
+      "date": "2026.11.27 ~ 2026.11.27",
+      "first_seen": "2026-11-27"
     }
   },
   "gokams": {
@@ -13677,6 +13779,18 @@
       "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4607&page=1&txtKeyword=&ddlKeyfield=T",
       "date": "2026-11-24",
       "first_seen": "2026-11-25"
+    },
+    "4608": {
+      "title": "2026 미술 유통업 해외진출 결과공유회 개최(2026.12.11, 금 @ 아트코리아랩 6층 아고라)",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4608&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-11-27",
+      "first_seen": "2026-11-27"
+    },
+    "4599": {
+      "title": "2026 공연예술 데이터 포럼 개최(12.15(화) 14:00)",
+      "url": "https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=4599&page=1&txtKeyword=&ddlKeyfield=T",
+      "date": "2026-11-17",
+      "first_seen": "2026-11-27"
     }
   },
   "metaverse_campus_lecture": {
@@ -15007,6 +15121,18 @@
       "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112505",
       "date": "D-17 접수중",
       "first_seen": "2026-11-26"
+    },
+    "112552": {
+      "title": "나만의 순간, 나만의 시선 사진 공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112552",
+      "date": "D-34 접수중",
+      "first_seen": "2026-11-27"
+    },
+    "112551": {
+      "title": "2026 미디어아트(빛의읍성ㆍ빛의분수대) 영상공모전",
+      "url": "https://www.wevity.com/?c=find&s=1&gub=1&cidx=10&gbn=view&gp=1&ix=112551",
+      "date": "D-21 접수중",
+      "first_seen": "2026-11-27"
     }
   },
   "accf": {
